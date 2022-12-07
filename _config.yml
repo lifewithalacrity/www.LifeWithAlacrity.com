@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Life With Alacrity"
 email:
-description: ""
+description: "A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen."
 twitter_username: ChristopherA
 github_username: ChristopherA
 minimal_mistakes_skin: air
@@ -57,11 +57,11 @@ plugins:
 
 author:
   avatar : "/assets/images/rwot-logo.png"
-  bio    : "Empowering individuals to co-create decentralized systems for lasting mutual benefit."
+  bio    : "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://www.weboftrust.info/"
+      url: "https://www.LifeWithAlacrity.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/WebOfTrustInfo"
