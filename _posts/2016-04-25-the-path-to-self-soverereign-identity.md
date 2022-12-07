@@ -8,7 +8,7 @@ date: "2016-04-25T17:00:23-07:00"
 ---
 # The Path to Self-Sovereign Identity
 
-<img width="250" align="right" src="/assets/images/i-am-identity-510866-john-hain-pixabay-cc0.jpg.jpg" alt="I Am Identity, by John Hain"/> Today I head out to a month-long series of events associated with identity: I’m starting with the 22st (!) [Internet Identity Workshop](http://www.internetidentityworkshop.com/) next week; then I’m speaking at the blockchain conference [Consensus](http://www.coindesk.com/events/consensus-2016/) about identity; next I am part of the team putting together the first [ID2020 Summit](http://id2020summit.org/) on Digital Identity at the United Nations; and finally I'm hosting the second [#RebootingWebOfTrust](http://www.weboftrust.info/) design workshop on decentralized identity.
+<img width="250" align="right" src="/assets/images/i-am-identity-510866-john-hain-pixabay-cc0.jpg" alt="I Am Identity, by John Hain"/> Today I head out to a month-long series of events associated with identity: I’m starting with the 22st (!) [Internet Identity Workshop](http://www.internetidentityworkshop.com/) next week; then I’m speaking at the blockchain conference [Consensus](http://www.coindesk.com/events/consensus-2016/) about identity; next I am part of the team putting together the first [ID2020 Summit](http://id2020summit.org/) on Digital Identity at the United Nations; and finally I'm hosting the second [#RebootingWebOfTrust](http://www.weboftrust.info/) design workshop on decentralized identity.
 
 At all of these events I want to share a vision for how we can enhance the ability of digital identity to enable trust while preserving individual privacy. This vision is what I call “Self-Sovereign Identity”. 
 
