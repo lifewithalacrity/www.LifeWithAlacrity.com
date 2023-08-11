@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
-date:   2016-04-05 08:23:07 +0300
-image:  Participatory.jpeg
-# tags:   Home
+title:  "Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!"
+slug: "Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!"
+redirect_from:
+  - /2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html
+date:   2016-04-05 08:06:00 +0300
+
 ---
 
 

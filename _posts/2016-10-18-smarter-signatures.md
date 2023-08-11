@@ -9,7 +9,7 @@ date:   2016-10-18 08:06:00 +0300
 
 By Christopher Allen & Shannon Appelcline
 
-ABSTRACT
+# ABSTRACT
 Technologies like the Web of Trust and PKI lay the foundation for identity on the internet: they map a human persona to a cryptographic construct that is represented by a public key and protected by a private key. Digital signatures are fundamental to these digital identities and have been widely used in a variety of applications. They’re the heart of SSH, the foundation of certificates, and the core of newer technologies like blockchain.
 
 However, today’s simplistic signatures are just the start; they can be improved, to create more powerful and more complex signatures that can truly be better and smarter.
@@ -145,7 +145,8 @@ Hierarchical Deterministic Keys. Some use cases, such as short-term delegation, 
 
 Oracles. A third-party oracle can help with the evaluation of certain conditions such as proof-of-existence and perhaps even proof-of-non-revocation. However, oracles may also be what separates smart signatures from more complex smart contracts. Does a simple subset of oracles have any place in the world of smart signatures? If so, what’s the actual dividing line between a smart signature and a smart contract?
 
-6. Conclusion
+# 6. Conclusion
+
 This paper is meant to be an icebreaker. Though it offers some suggested smart signature use cases and requirements, they’re evolutionary. They were incorporated in part from the Rebooting the Web of Trust I “Smart Signatures” (2015) paper and in part from Peter Todd’s “Dex: Deterministic Predicate Expressions for Smarter Signatures” (2016) paper, then they were expanded and reorganized for this paper. In other words, they’re works in progress that could still benefit from additional input. Similarly, the experiments summarily reviewed in this paper are just four of many. More possibilities and more discussions are welcome!
 
 Smart signatures are an important tool that could change the way business is done on the internet; they could revamp how we live and even play in electronic communities. As a result, it’s critical that we get them right, that we not repeat the mistakes of The DAO and other sophisticated computer systems that went before us, but which didn’t live up to the rigors of actual usage.
@@ -191,7 +192,8 @@ Footnotes
 
 [18] Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf.
 
-Major References
+# Major References
+
 Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf
 
 Edström, Robert and Jack Pettersson. 2016. “Safer Smart Contracts through Type-Driven Development”. Chalmers University of Technology. http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf.
