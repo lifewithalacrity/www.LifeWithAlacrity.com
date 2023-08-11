@@ -4,6 +4,9 @@ title:  Smarter Signatures:Experiments in Verifications
 date:   2016-10-18 08:06:00 +0300
 # image:  self-soverreign.jpeg
 # tags:   signatures
+redirect_from:
+  - /2016/10/smarter-signatures-experiments-in-verifications/
+  - /2016/10/smarter-signatures-experiments-in-verifications/index.html
 ---
 
 By Christopher Allen & Shannon Appelcline
