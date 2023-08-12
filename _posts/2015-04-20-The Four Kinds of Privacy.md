@@ -1,10 +1,14 @@
 ---
-layout: post
-title:  The Four Kinds of Privacy
+title:  "The Four Kinds of Privacy"
+slug:  "The Four Kinds of Privacy"
+redirect_from:
+  - /2015/04/the-four-kinds-of-privacy/
+  - /2015/04/the-four-kinds-of-privacy.html
 date:   2015-04-19 18:30-07 +0300
-image:  privacy.jpeg
+# image:  privacy.jpeg
 # tags:   Home
 ---
+<img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/privacy.jpeg" alt="The Four Kinds of Privacy"/> 
 
 Privacy is hitting the headlines more than ever. As computer users are asked to change their passwords again and again in the wake of exploits like Heartbleed and Shellshock, they&amp;#39;re becoming aware of the vulnerability of their online data — a susceptibility that was recently verified by scores of celebrities who had their most intimate photographs stolen.
 Any of us could have our privacy violated at any time… but what does that mean exactly

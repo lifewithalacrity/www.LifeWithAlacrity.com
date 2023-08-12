@@ -11,8 +11,6 @@ date:   2015-09-09 09:28-07 +0300
 
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/spectrum.png" alt="A Spectrum of Consent"/> 
 
-<br>
-
 # **Life With Alacrity**
 
 A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
