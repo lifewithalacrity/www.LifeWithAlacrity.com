@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  A Revised “Ostrom’s Design Principles for Collective Governance of the Commons
 date:   2015-11-05 08:15:23 +0300
 image:  Ostrom’s.png
