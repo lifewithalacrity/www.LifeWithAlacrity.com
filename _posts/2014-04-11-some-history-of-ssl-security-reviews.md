@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Some History of SSL Security Reviews
+title: "Some History of SSL Security Reviews"
+slug: "Some History of SSL Security Reviews"
+redirect_from:
+  - /2014/04/some-history-of-ssl-security-reviews/
+  - /2014/04/some-history-of-ssl-security-reviews.html
 date:   2014-04-11 12:01:00 +0300
 # image:  02.jpg
 # tags:   Home
@@ -17,3 +20,5 @@ It may be time for CAs to require vendors to pay for implementation security rev
 The amazing Tim Dierks , author of SSLRef, the reference implementation of SSL 3.0, co-author IETF TLS 1.0 standard and subsequent updates, and later creator of Google Wallet, did all of these reviews for us back then. Any memories, comments, or suggestion to add?
 
 original layout
+
+[Security](https://www.lifewithalacrity.com/tags/security/), [Heartbleed](https://www.lifewithalacrity.com/tags/heartbleed/), [SSL](https://www.lifewithalacrity.com/tags/ssl/), [TLS](https://www.lifewithalacrity.com/tags/tls/), [security](https://www.lifewithalacrity.com/tags/security/), [review](https://www.lifewithalacrity.com/tags/review/)

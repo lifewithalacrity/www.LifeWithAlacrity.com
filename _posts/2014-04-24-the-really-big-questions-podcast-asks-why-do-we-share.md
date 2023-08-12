@@ -8,7 +8,7 @@ date:   2014-04-24 10:39:49 +0300
 # image:  02.jpg
 # tags:   Software
 ---
-<img width="500" height="300" src="{{ site.url }}{{ site.baseurl }}/assets/images/SHARE_spot2_soup-300x300.jpg" alt="Playshop 5/10:Introduction to Group Works and the Group Pattern Language"/> 
+<img width="500" height="300" src="{{ site.url }}{{ site.baseurl }}/assets/images/SHARE_spot2_soup-300x300.jpg" alt="“The Really Big Questions” Podcast Asks “Why Do We Share?”"/> 
 
 **Life With Alacrity**
 

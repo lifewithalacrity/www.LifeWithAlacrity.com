@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  “Harmonic” on Pantheon Steel XXD Halo Hand Pan at BGIedu Intensive
+title:  "“Harmonic” on Pantheon Steel XXD Halo Hand Pan at BGIedu Intensive"
+slug:  "“Harmonic” on Pantheon Steel XXD Halo Hand Pan at BGIedu Intensive"
+redirect_from:
+  - /2014/04/harmonic-on-pantheon-steel-xxd-halo-hand-pan/
+  - /2014/04/harmonic-on-pantheon-steel-xxd-halo-hand-pan.html
 date:   2014-04-21 12:01:00 +0300
 # image:  02.jpg
 # tags:   Home
@@ -14,9 +17,10 @@ This particular piece is a structured improv in 6 taking advantage of the multip
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/qlNV22sSiw0" frameborder="0" allowfullscreen></iframe>
 
-
 If you like hand pans, I have an extensive playlist of good quality hand pan performances on YouTube. 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLJ0DUQTMYEC7dBN1mjI9X1L_iS20kMUoo" frameborder="0" allowfullscreen></iframe>
 
 original layout
+
+[music](https://www.lifewithalacrity.com/tags/music/)
