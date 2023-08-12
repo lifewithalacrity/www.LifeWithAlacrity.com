@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "A Spectrum of Consent"
 slug: "A Spectrum of Consent"
 redirect_from:
