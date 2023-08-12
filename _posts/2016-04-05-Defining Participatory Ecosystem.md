@@ -11,7 +11,7 @@ date:   2016-04-05 08:06:00 +0300
 
 **Life With Alacrity**
 <br>
-<img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Participatory.jpg" alt="Participatory"/>
+<img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Participatory.jpeg" alt="Participatory"/>
 A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
 Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
 April 5 2016 - 600 Words
