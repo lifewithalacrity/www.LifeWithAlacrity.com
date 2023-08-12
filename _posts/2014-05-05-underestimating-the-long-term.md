@@ -2,8 +2,8 @@
 title:  "Underestimating the Long Term"
 slug:  "Underestimating the Long Term"
 redirect_from:
-  - /2014/05/look-up-your-strong-ties-connect-to-your-weak-ties/
-  - /2014/05/look-up-your-strong-ties-connect-to-your-weak-ties.html
+  - /2014/05/underestimating-the-long-term/
+  - /2014/05/underestimating-the-long-term.html
 date:   2014-05-05 12:01:00 +0300
 # image:  04.jpg
 # tags:   Home
