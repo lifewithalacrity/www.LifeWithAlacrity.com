@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  The Dunbar Number as a Limit to Group Sizes
+title:  "The Dunbar Number as a Limit to Group Sizes"
+slug: "The Dunbar Number as a Limit to Group Sizes"
+redirect_from:
+  - /2004/03/the_dunbar_numb/
+  - /2004/03/the_dunbar_numb.html
 date:   2004-03-10 14:17:52 -0700
-# image:  02.jpg
-# tags:   Web/Tech
 ---
 
 Lately I've been noticing the spread of a meme regarding "Dunbar's Number" of 150 that I believe is misunderstanding of his ideas.
