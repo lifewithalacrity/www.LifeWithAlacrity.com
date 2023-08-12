@@ -1,12 +1,15 @@
 ---
-layout: post
-title:  Mini Resume Card for Conference Season
+title:  "Mini Resume Card for Conference Season"
+slug:  "Mini Resume Card for Conference Season"
+redirect_from:
+  - /2015/03/mini-resume-card-for-conference-season/
+  - /2015/03/mini-resume-card-for-conference-season.html
 date:   2015-03-22 08:23:55 +0300
-image:  mini-resume.png
+# image:  mini-resume.png
 # tags:   Home
 ---
 
-
+<img width="250"  align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/mini-resume.png" alt="Mini Resume Card for Conference Season"/> 
 
 Between the business of the March/April conference season and leaving Blackphone, I&#39;ve run out of business cards. Rather than rush to print a bunch of new ones, I&#39;m created this mini-resume for digital sharing and a two-sided Avery business card version that I am printing on my laser printer and sharing.
 Not as pretty as my old Life With Alacrity cards, but effective in getting across the diversity of my professional experience and interests.
