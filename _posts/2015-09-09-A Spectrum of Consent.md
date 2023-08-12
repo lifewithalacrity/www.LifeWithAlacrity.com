@@ -1,14 +1,20 @@
 ---
 layout: post
-title:  A Spectrum of Consent
+title:  "A Spectrum of Consent"
+slug: "A Spectrum of Consent"
+redirect_from:
+  - /2015/09/a-spectrum-of-consent/
+  - /2015/09/a-spectrum-of-consent.html
 date:   2015-09-09 09:28-07 +0300
-image:  spectrum.png
-# tags:   Home
+# image:  spectrum.png
 ---
 
 
+<img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/spectrum.png" alt="A Spectrum of Consent"/> 
 
-**Life With Alacrity**
+<br>
+
+# **Life With Alacrity**
 
 A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
 
