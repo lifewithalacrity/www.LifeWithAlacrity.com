@@ -10,7 +10,8 @@ date:   2016-04-05 08:06:00 +0300
 
 
 **Life With Alacrity**
-<img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/i-am-identity-510866-john-hain-pixabay-cc0.jpg" alt="I Am Identity, by John Hain"/>
+<br>
+<img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Participatory.jpg" alt="Participatory"/>
 A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
 Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!
 April 5 2016 - 600 Words
