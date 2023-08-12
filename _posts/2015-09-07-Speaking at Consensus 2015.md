@@ -1,12 +1,14 @@
 ---
-layout: post
-title:  Speaking at Consensus 2015
+
+title:  "Speaking at Consensus 2015"
+slug: "Speaking at Consensus 2015"
+redirect_from:
+  - /2015/09/speaking-at-consensus-2015/
+  - /2015/09/speaking-at-consensus-2015.html
 date:   2015-09-06 23:54-07 +0300
-image:  consensus.png
-# tags:   Home
 ---
 
-
+<img width="500px" height="300px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/consensus.png" alt="Speaking at Consensus 2015"/>
 
 
 **Life With Alacrity**
