@@ -1,9 +1,8 @@
 ---
-title:  "Smarter Signatures : Experiments in Verifications"
-slug: "Smarter Signatures:Experiments in Verifications"
+title:  "Smarter Signatures: Experiments in Verifications"
+slug: "Smarter Signatures: Experiments in Verifications"
 redirect_from:
-  - https://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html
-  - 
+  - https://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity/
 date:   2016-10-18 08:06:00 +0300
 ---
 
