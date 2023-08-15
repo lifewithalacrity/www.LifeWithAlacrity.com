@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  World Backup Day
+layout: posts
+title:  "World Backup Day"
+slug:  "World Backup Day"
+redirect_from:
+  - /2014/04/world-backup-day/
 date:   2014-04-07 09:20:24 -0700
 # image:  02.jpg
 # tags:   Home
@@ -21,7 +24,7 @@ by Christopher Allen
 
 original layout
 
-Security Web/Tech
+[Security](http://www.lifewithalacrity.com/tags/security/) [Web/Tech](http://www.lifewithalacrity.com/tags/web/tech/)
 
 **Life With Alacrity**
 

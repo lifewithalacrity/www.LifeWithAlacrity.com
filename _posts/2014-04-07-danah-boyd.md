@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  danah boyd asks “Is Oculis Rift Sexist”?
+layout: posts
+title:  "Danah Boyd asks “Is Oculis Rift Sexist”?"
+slug:  "Danah boyd asks “Is Oculis Rift Sexist”?"
+redirect_from:
+  - /2014/04/danah-boyd-asks-is-oculis-rift-sexist/
 date:   2014-04-07 12:00:00 -0700
 # image:  02.jpg
 # tags:   Home

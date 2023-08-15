@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Advice to SysAdmins & Managers about Heartbleed Bug in SSL
+layout: posts
+title:  "Advice to SysAdmins & Managers about Heartbleed Bug in SSL"
+slug:  "Advice to SysAdmins & Managers about Heartbleed Bug in SSL"
+redirect_from:
+  - /2014/04/advice-to-sysadmins-managers-about-heartbleed-bug-in-ssl/
 date:   2014-04-09 11:15:24 -0700
 # image:  02.jpg
 # tags:   Home

@@ -2,7 +2,7 @@
 layout: posts
 title:  "General Advice about the Heartbleed Bug in SSL"
 redirect_from:
-  - /2014/04/advice-to-sysadmins-managers-about-heartbleed-bug-in-ssl/
+  - /2014/04/general-advice-about-the-heartbleed-bug-in-ssl/
 date:   2014-04-09 11:15:24 -0700
 # image:  02.jpg
 # tags:   Home

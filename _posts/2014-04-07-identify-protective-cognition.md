@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  To be persuasive, you need to understand “Identity Protective Cognition”
+layout: posts
+title:  "To be persuasive, you need to understand “Identity Protective Cognition”"
+slug:  "To be persuasive, you need to understand “Identity Protective Cognition”"
+redirect_from:
+  - /2014/04/to-be-persuasive-you-need-to-understand-identity-protective-cognition/
 date:   2014-04-07 11:15:24 -0700
 # image:  02.jpg
 # tags:   Home
