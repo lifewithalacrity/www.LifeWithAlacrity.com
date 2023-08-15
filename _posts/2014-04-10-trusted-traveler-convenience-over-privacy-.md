@@ -9,3 +9,5 @@ date:   2014-04-10 12:00:00 +0300
 # tags:   Security
 ---
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/self-soverreign.jpeg" alt="self-soverreign"/> 
+
+<br>
