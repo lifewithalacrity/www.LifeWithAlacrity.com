@@ -1,4 +1,5 @@
 ---
+layout: posts
 title:  "Smarter Signatures: Experiments in Verifications"
 slug: "Smarter Signatures: Experiments in Verifications"
 redirect_from:
