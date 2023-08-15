@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Justine Musk says “If you don’t tell your story, someone else will tell it for you.”
+layout: posts
+title:  "Justine Musk says “If you don’t tell your story, someone else will tell it for you.”"
+slug:  "Justine Musk says “If you don’t tell your story, someone else will tell it for you.”"
+redirect_from:
+  - /2014/04/justine-musk-says-if-you-dont-tell-your-story-someone-else-will-tell-it-for-you/
 date:   2014-04-04 12:00:00 -0700
 # image:  02.jpg
 # tags:   Home

@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  How to Hold an Unpopular Opinion
+layout: posts
+title:  "How to Hold an Unpopular Opinion"
+slug:  "How to Hold an Unpopular Opinion"
+redirect_from:
+  - /2014/04/how-to-hold-an-unpopular-opinion/
 date:   2014-04-05 12:00:00 -0700
 # image:  02.jpg
 # tags:   Home

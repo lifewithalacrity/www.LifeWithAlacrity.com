@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  A Story of a Great Teacher
+layout: posts
+title:  "A Story of a Great Teacher"
+slug:  "A Story of a Great Teacher"
+redirect_from:
+  - /2014/03/a-story-of-a-great-teacher/
 date:   2014-03-22 12:00:00 -0700
 # image:  02.jpg
 # tags:   Home

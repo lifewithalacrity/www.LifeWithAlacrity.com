@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Seattle's Reaction to Sharing Economy Should Be Better
+layout: posts
+title:  "Seattle's Reaction to Sharing Economy Should Be Better"
+slug:  "Seattle's Reaction to Sharing Economy Should Be Better"
+redirect_from:
+  - /2014/03/seattles-reaction-to-sharing-economy-should-be-better/
 date:   2014-03-23 12:00:00 -0700
 # image:  02.jpg
 # tags:   Home

@@ -1,12 +1,17 @@
 ---
-layout: post
-title:  Dyads & Triads — The Smallest Teams
+layout: posts
+title:  "Dyads & Triads — The Smallest Teams"
+slug:  "Dyads & Triads — The Smallest Teams"
+redirect_from:
+  - /2013/04/dyads-triads-the-smallest-teams/
 date:   2013-04-04 14:16:52 -0700
 # image:  02.jpg
 # tags:   Home
 ---
 
 (by Christopher Allen with Elyn Andersson and Shannon Appelcline)
+
+<img width="100%" src="{{ site.url }}{{ site.baseurl }}/assets/images/BGIedu.png" alt="BGIedu"/>
 
 BGIedu LogoTwo years ago, the Bainbridge Graduate Institute (www.BGI.edu) faculty gathered to radically reinvent their sustainable business curriculum for the next decade. Our goal was not only to update course content, but also to significantly update how the material was taught. We wished to make our teaching process (our pedagogy) more interactive and also more effective for students graduating into a 21st-century work environment, where people increasingly work in teams-both online and offline.
 
@@ -18,7 +23,9 @@ My first inclination when considering BGIedu's request was to say that triads wo
 
 I decided to dig deeper into this question by engaging my teaching assistant Elyn Andersson and my writing partner Shannon Appelcline to help me investigate further. This post is the fruit of our research and our discussions about dyads and triads. We hope it might help you decide whether a dyad or a triad is the better team size for groups that you are working in.
 
-Choosing between Dyads and Triads
+# Choosing between Dyads and Triads 
+
+<img width="120" align="right" src="../assets/images/01.jpg" alt="01"/>
 Pythagorian Dyad - Public DomainBefore I share with you the details of our investigation, I want to be clear that dyads, triads, and small 'working team' groups can all be effective. Any challenge faced by groups of these sizes can be overcome by a good process, teamwork, training, or just positive energy. However, my thesis is that certain sizes of groups are better for certain purposes-and when a group size is selected appropriately it will require less energy and thus be more likely to be productive when the inevitable group challenges occur. When choosing among a dyad, a triad, or a working team, the important thing to focus on is thus the intent in forming the group.
 
 For the groups being considered by BGIedu, the faculty felt that the students taking the new curriculum needed three things:
@@ -33,11 +40,17 @@ The last requirement - that members of these study teams would be accountable to
 
 Clearly, working teams of 4-9 people were too large for our purposes. Teams this size are rarely intimate enough to support the needs of individuals. In addition, research shows that they are poor at supporting accountability. That's because working teams of 4-9 are very vulnerable to social loafing (i.e., slackers)-except when the tasks assigned to these working teams are highly independent (i.e. an entrepreneurial team that has different members focused on different topics, such as management, development, operations, marketing and sales) or when they require high diversity. An upcoming blog will cover this topic in more depth.
 
-Pythagorian Triad - Public DomainRemoving working teams left the question of dyad vs. triad - which our research would show were both very different from working teams. Triads ultimately fit BGIedu's particular need better. That was primarily due to advantages of accountability and cohesion, combined with some emotional support. However, some simple numerical properties of triads also prove useful: they have elemental diversity because they're up to 50% more diverse than dyads; and if someone misses a team meeting the other two-thirds of the team can still benefit. For all of these reasons, my recommendation to the BGIedu faculty was that these formal study teams be formed in triads.
+## Pythagorian Triad - Public Domain
+
+<img width="120" align="right" src="../assets/images/02.jpg" alt="02"/>
+Removing working teams left the question of dyad vs. triad - which our research would show were both very different from working teams. Triads ultimately fit BGIedu's particular need better. That was primarily due to advantages of accountability and cohesion, combined with some emotional support. However, some simple numerical properties of triads also prove useful: they have elemental diversity because they're up to 50% more diverse than dyads; and if someone misses a team meeting the other two-thirds of the team can still benefit. For all of these reasons, my recommendation to the BGIedu faculty was that these formal study teams be formed in triads.
 
 Dyads, however, are quite appropriate for a variety of other purposes, and should not be dismissed. I'll be talking of some of their advantages before proceeding on to the lessons learned about triads themselves.
 
-The Dyad
+# The Dyad
+
+<img width="100%" align="" src="../assets/images/683866337_4dd654b650_n.jpg" alt="01"/>
+
 Everyone has had experience with dyads. The first social experience of anyone's life is a dyadic relationship - that between a mother and her unborn child. This parent-child relationship continues once the child is born. Overall, dyads are the most common social group; they are seen everywhere, in personal, academic and business relationships.
 
 Great Guitar Duo — Photo by Tom706 CC-BY-NC-NDTo decide if a dyad is the best group size for your needs, it is again important to focus on the purpose of the group. A number of interesting characteristics of dyads - some benefits and some limitations - make them unique from triads and other larger group sizes, among them:

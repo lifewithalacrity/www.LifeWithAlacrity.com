@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Countries Learning to Manipulate Social Media
+layout: posts
+title:  "Countries Learning to Manipulate Social Media"
+slug:  "Countries Learning to Manipulate Social Media"
+redirect_from:
+  - /2014/04/countries-learning-to-manipulate-social-media/
 date:   2014-04-04 12:00:00 -0700
 # image:  02.jpg
 # tags:   Home

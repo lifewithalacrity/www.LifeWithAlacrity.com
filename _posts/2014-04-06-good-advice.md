@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Good Advice from “A Modern Designer's Canvas”
+layout: posts
+title:  "Good Advice from “A Modern Designer's Canvas”"
+slug:  "Good Advice from “A Modern Designer's Canvas”"
+redirect_from:
+  - /2014/04/good-advice-from-a-modern-designers-canvas/
 date:   2014-04-06 12:00:00 -0700
 # image:  02.jpg
 # tags:   Home

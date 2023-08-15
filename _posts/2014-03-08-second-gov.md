@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Second Gov & The Consensus Project
+layout: posts
+title:  "Second Gov & The Consensus Project"
+slug:  "Second Gov & The Consensus Project"
+redirect_from:
+  - /2014/03/second-gov-the-consensus-project/
 date:   2014-03-08 12:00:00 -0700
 # image:  02.jpg
 # tags:   Home
