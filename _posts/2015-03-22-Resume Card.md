@@ -1,9 +1,9 @@
 ---
+layout: posts
 title:  "Mini Resume Card for Conference Season"
 slug:  "Mini Resume Card for Conference Season"
 redirect_from:
   - /2015/03/mini-resume-card-for-conference-season/
-  - /2015/03/mini-resume-card-for-conference-season.html
 date:   2015-03-22 08:23:55 +0300
 # image:  mini-resume.png
 # tags:   Home

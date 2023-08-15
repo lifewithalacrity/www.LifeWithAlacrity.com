@@ -1,9 +1,9 @@
 ---
+layout: posts
 title:  "Underestimating the Long Term"
 slug:  "Underestimating the Long Term"
 redirect_from:
   - /2014/05/underestimating-the-long-term/
-  - /2014/05/underestimating-the-long-term.html
 date:   2014-05-05 12:01:00 +0300
 # image:  04.jpg
 # tags:   Home

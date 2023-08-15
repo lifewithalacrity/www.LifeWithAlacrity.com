@@ -1,10 +1,9 @@
 ---
+layout: posts
 title:  "Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend”"
 slug:  "Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend”"
 redirect_from:
   - /2014/06/freedom-to-fail-freakonomics-podcast-failure-is-your-friend/
-  - /2014/06/freedom-to-fail-freakonomics-podcast-failure-is-your-friend.html
-
 date: 2014-06-05 12:35-07 +0300
 # image:  04.jpg
 # tags:   Home

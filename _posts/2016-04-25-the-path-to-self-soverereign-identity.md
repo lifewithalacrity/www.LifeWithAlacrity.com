@@ -1,9 +1,9 @@
 ---
+layout: posts
 title: "The Path to Self-Sovereign Identity"
-slug: "the-path-to-self-soverereign-identity"
+slug: "The path to self soverereign Identity"
 redirect_from:
   - /2016/04/the-path-to-self-soverereign-identity/
-  - /2016/04/the-path-to-self-soverereign-identity.html
 date: "2016-04-25T17:00:23-07:00"
 ---
 

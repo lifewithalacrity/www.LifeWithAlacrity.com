@@ -1,9 +1,9 @@
 ---
+layout: posts
 title:  "“The Really Big Questions” Podcast Asks “Why Do We Share?”"
 slug:  "“The Really Big Questions” Podcast Asks “Why Do We Share?”"
 redirect_from:
   - /2014/04/the-really-big-questions-podcast-asks-why-do-we-share/
-  - /2014/04/the-really-big-questions-podcast-asks-why-do-we-share.html
 date:   2014-04-24 10:39:49 +0300
 # image:  02.jpg
 # tags:   Software

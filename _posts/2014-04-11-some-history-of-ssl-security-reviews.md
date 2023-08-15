@@ -1,9 +1,9 @@
 ---
+layout: posts
 title: "Some History of SSL Security Reviews"
 slug: "Some History of SSL Security Reviews"
 redirect_from:
   - /2014/04/some-history-of-ssl-security-reviews/
-  - /2014/04/some-history-of-ssl-security-reviews.html
 date:   2014-04-11 12:01:00 +0300
 # image:  02.jpg
 # tags:   Home

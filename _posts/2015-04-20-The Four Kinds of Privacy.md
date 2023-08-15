@@ -1,9 +1,9 @@
 ---
+layout: posts
 title:  "The Four Kinds of Privacy"
 slug:  "The Four Kinds of Privacy"
 redirect_from:
   - /2015/04/the-four-kinds-of-privacy/
-  - /2015/04/the-four-kinds-of-privacy.html
 date:   2015-04-19 18:30-07 +0300
 # image:  privacy.jpeg
 # tags:   Home

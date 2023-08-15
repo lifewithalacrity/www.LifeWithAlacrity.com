@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  10 Design Principles for Governing the Commons
 date:   2015-03-24 14:51:07 +0300
 image:  principlas.png

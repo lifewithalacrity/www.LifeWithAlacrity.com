@@ -1,8 +1,9 @@
 ---
+layout: posts
 title:  "Deep Context Shared Languages"
+slug:  "Deep Context Shared Languages"
 redirect_from:
   - /2014/06/deep-context-shared-languages/
-  - /2014/06/deep-context-shared-languages.html
 date:   2014-06-18 08:20:58 +0300
 # image:  context.jpeg
 # # tags:   Home

@@ -1,9 +1,9 @@
 ---
+layout: posts
 title:  "Is the Sharing Economy Changing Our Culture of Trust?"
 slug:  "Is the Sharing Economy Changing Our Culture of Trust?"
 redirect_from:
   - /2014/04/is-the-sharing-economy-changing-our-culture-of-trust/
-  - /2014/04/is-the-sharing-economy-changing-our-culture-of-trust.html
 date:   2014-04-23 12:01:00 +0300
 # image:  02.jpg
 # tags:   Web/Tech
