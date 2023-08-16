@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  Managing your Social Graph with Google+ [Google Plus]
+layout: posts
+title:  ""Managing your Social Graph with Google+ [Google Plus]""
+slug:  ""Managing your Social Graph with Google+ [Google Plus]""
+
 date:   2011-07-14 16:29:13 -0700
 image:  managing.jpg
 tags:   Social
 ---
-
+<img width="250px" align="right"  src="../assets/images/061.jpg" alt="cyberpunkstack"/>
 Trust CircleWith Google+ almost two weeks into its test phase, conversation about this new social network service seems to be going in circles.
 
 Literally.
@@ -20,7 +22,7 @@ Pete Pachal, news director of @PCMag comments:
 
 Circles are lists that you’ve created by grouping people together and giving them a name. They’re important in Google+ because when you post you must explicitly say which “Circles” you wish to share with. Posting to a limited list of people is a big change from existing social networks such as Facebook, where posts are sent to all mutual friends by default, or Twitter, where posts are public. This change forces you to think more deeply about your social graph and who should see each item you post.
 
-<iframe frameborder="0" height="349" src="http://www.youtube.com/embed/BwvygI2xKGM" width="560"></iframe>
+<iframe frameborder="0" height="349" src="https://www.youtube.com/embed/BwvygI2xKGM" width="560"></iframe>
 
 ## Your Initial Set of Circles
 
