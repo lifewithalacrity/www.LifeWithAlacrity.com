@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  ""Managing your Social Graph with Google+ [Google Plus]""
-slug:  ""Managing your Social Graph with Google+ [Google Plus]""
+title:  "Managing your Social Graph with Google+ [Google Plus]"
+slug:  "Managing your Social Graph with Google+ [Google Plus]"
 redirect_from:
   - /2014/03/a-story-of-a-great-teacher/
 date:   2011-07-14 16:29:13 -0700
