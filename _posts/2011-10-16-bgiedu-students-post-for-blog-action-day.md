@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  BGIedu Students Post for Blog Action Day on Food
+title:  "BGIedu Students Post for Blog Action Day on Food"
+slug:  "BGIedu Students Post for Blog Action Day on Food"
+redirect_from:
+  - /2011/10/bgiedu-students-post-for-blog-action-day/
 date:   2011-10-16 17:35:27 -0700
 image:  BGIedu.png
 # tags:   Home
 ---
-
+<img width="280px" align="right"   src="../assets/images/04.jpg" alt="Let's talk about food"/>
 Blog-action-day-food-500x250Today is Blog Action Day, where each year a topic is chosen and bloggers and activists worldwide write about that topic in their blogs or post about it on Twitter and Facebook using the tags #FOOD and #BAD11.
 
 This year's topic is Food, and this year many of my students of my BGIedu class Using the Social Web for Social Change are using the day to help kick off their "Beat Blog" assignments. The goal of Beat Blogs is for each student to choose a topic they are passionate about and blog about it at least weekly for two and a half months. Many students decide to keep their blogs going afterwards, am I'm always tickled when that happens.
@@ -35,5 +38,6 @@ All of these bloggers are new to the blogosphere, but if you appreciate what the
 
 BGI-Logo-Print Small_0
 
+<img width="90%"  src="../assets/images/05.jpg" alt="Bainbridge Graduate Institute"/>
 
 original layout

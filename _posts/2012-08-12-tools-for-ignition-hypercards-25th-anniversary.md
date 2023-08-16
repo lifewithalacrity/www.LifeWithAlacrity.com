@@ -59,7 +59,7 @@ HyperCard empowered a whole generation of passionate, creative people who otherw
 
 HyperCard had a profound impact beyond those who discovered and used it on the Mac. Many do not know that Tim Berners-Lee, the creator of the World Wide Web, was inspired by HyperCard. Ward Cunningham, investor of the first Wiki also credits it for inspiration.
 
-HyperCard's 25th Anniversary
+# HyperCard's 25th Anniversary
 In celebration of Hypercard's 25th anniversary, we asked Bill Atkinson to come to the Hillside Club in Berkeley to speak. In advance of this, I asked my colleagues and friends to share what inspired them about HyperCard by posting to blogs and twitter using the hashtag #HyperCard25th. Here are some of my favorite appreciations:
 
 Lion Kimbro ‏@LionKimbro HyperCard showed me that writing code can be like molding clay into a sculpture, forever changing my idea of programming.
@@ -112,7 +112,7 @@ Clark Quinn ‏@Quinnovator HyperCard played big part in my work and thinking: l
 
 Scott Draves ‏@spot Blew my mind and absorbed many hours, yes we had it back in the 80s. Now remember the man who made it
 
-Infinite Canvas (2012)
+# Infinite Canvas (2012)
 It is the mindset expressed in three more quotes from #HyperCard25th neatly sum up what inspired me to create a new tool for ignition — Infinite Canvas.
 
 Mike Sugarbaker ‏@misuba It's HyperCard's 25th birthday. We still haven't seen its equal as far as I'm concerned. I hope we do.
@@ -125,11 +125,13 @@ Since 2007 I have been running a participatory event, originally called iPhoneDe
 
 iOSDevCamp appeals to me because it is creative ignition in action — it was founded on twitter, organized as an online community, supports the ideals of collaboration and nutures passionate creative people. In recent years I've been quite proud of the diversity of the conference, with designers, artists, women, young adults and even children participating.
 
+<img width="90%"  src="../assets/images/DSC8398-S.jpg" alt="DSC8398-S"/>
 
 
 However, today the barriers between being a spectator and becoming a creator are huge. It is increasingly hard for a new user to create a good-looking web page. The skills required to create an iPhone or iPad app are quite intimidating. I have had many designers show up at iOSDevCamp whom I was unable to match with a coder because they lacked the most basic understanding of the principles of interactivity. Sadly, I was unable to facilitate their full participation.
 
 So at iOSDevCamp 2010 I started Infinite Canvas, based on the principles of what inspired me about HyperCard. This tool needed to allow artists, designers, photographers, children to easily experience creating interactive stories and experiences. It needed to not only be easy to use, but also easy to share — no gatekeepers saying "This isn't good enough". It needed to support discoverability, where those new to the language of interactivity could learn and advance their skills to ultimately create quite sophisticated experiences. And it needed to take advantage of the new computing experiences that the iPad offers — portability, touchability — advantages that even the lightest laptop was never quite able to match.
+<img width="120" align="right"  src="../assets/images/6a00d8341d8bc053ef01774417971b970d-120wi.png" alt="6a00d8341d8bc053ef01774417971b970d-120wi"/>
 
 The first version of Infinite Canvas iPad app, initially a viewer-only version, was approved and released Friday in the Apple App Store, the day before HyperCard's anniversary. There is a library of example canvases available which can be downloaded for free using the app. Users will be able to create their own canvases in the near future when the Infinite Canvas authoring tool makes its debut.
 
