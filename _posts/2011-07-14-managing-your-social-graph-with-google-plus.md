@@ -292,9 +292,11 @@ Some quality recent public Google+ posts regarding Google+ or managing your Circ
 
 My bookmarks to various papers and websites on related to this topic are available at delicious.com/ChristopherA under some of the following tags:
 
-personal circles - everything I have on the of personal limits.
-familiar strangers - those people you recognize by face.
-Illustration by Nancy Margulies, Many thanks to +Elyn Andersson and Shannon Appecline for their assistance with this post.
+* Personal circles - everything I have on the of personal limits.
+
+* Familiar strangers - those people you recognize by face.
+
+**Illustration by Nancy Margulies, Many thanks to +Elyn Andersson and Shannon Appecline for their assistance with this post.**
 
 ### Comments
 I really like the idea of using circles for social time management. One big problem I have with networks is that I feel committed (obligated?) to a certain, indistinct, level of communication - particularly with those people that social media has now kept me in 'contact' with, and whom in the old days I would have lost touch with. The end result is always a big time defecit and multiple layers of guilt. The idea of being able to apply some kind of equitable rationing/priority to circles may be a bit geeky... but it's preferable to non-specific angst ;0)
