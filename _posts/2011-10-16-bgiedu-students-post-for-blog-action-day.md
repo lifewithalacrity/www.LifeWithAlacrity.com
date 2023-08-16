@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: posts
 title:  "BGIedu Students Post for Blog Action Day on Food"
 slug:  "BGIedu Students Post for Blog Action Day on Food"
 redirect_from:
-  - /2011/10/bgiedu-students-post-for-blog-action-day/
+  - /2011/07/managing-your-social-graph-with-google-plus/
 date:   2011-10-16 17:35:27 -0700
-image:  BGIedu.png
+# image:  BGIedu.png
 # tags:   Home
 ---
 <img width="280px" align="right"   src="../assets/images/04.jpg" alt="Let's talk about food"/>

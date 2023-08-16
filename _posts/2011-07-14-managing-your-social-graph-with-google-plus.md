@@ -2,10 +2,11 @@
 layout: posts
 title:  ""Managing your Social Graph with Google+ [Google Plus]""
 slug:  ""Managing your Social Graph with Google+ [Google Plus]""
-
+redirect_from:
+  - /2014/03/a-story-of-a-great-teacher/
 date:   2011-07-14 16:29:13 -0700
-image:  managing.jpg
-tags:   Social
+# image:  managing.jpg
+# tags:   Social
 ---
 <img width="250px" align="right"  src="../assets/images/061.jpg" alt="cyberpunkstack"/>
 Trust CircleWith Google+ almost two weeks into its test phase, conversation about this new social network service seems to be going in circles.
@@ -28,7 +29,10 @@ Circles are lists that you’ve created by grouping people together and giving t
 
 Google+ will present you with 4 suggested set of Circles: Friends, Family, Acquaintances, and Following.
 
-Default-google+-circles
+<img width="100%"   src="../assets/images/07.jpg" alt="cyberpunkstack"/>
+
+### Default-google+-circles
+
 Google+ also defines five special Circles: Two are only for reading: "Stream" which is everyone in any of your Circles; and "Incoming" which is are posts that are shared to you by people not in your Circles. Then are three special Circles managed by Google only for posting: "Your Circles" which is everyone in any of your Circles; “Extended” which is everyone in your Circles plus the people in their Circles; and “Public” which is anyone.
 
 Few find this default set to be sufficient. As a result, most Google+ users are soon creating new Circles, moving people around, renaming Circles, etc.
