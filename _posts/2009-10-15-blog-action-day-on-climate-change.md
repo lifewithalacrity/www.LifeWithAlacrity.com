@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Blog Action Day on Climate Change
+layout: posts
+title:  "Blog Action Day on Climate Change"
+slug:  "Blog Action Day on Climate Change"
+redirect_from:
+  - /2009/10/blog-action-day-on-climate-change/
 date:   2009-10-15 23:59:37 -0700
 # image:  02.jpg
 # tags:   Home

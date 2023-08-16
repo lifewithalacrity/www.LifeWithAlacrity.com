@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  Paying for Favors
+layout: posts
+title:  "Paying for Favors"
+slug:  "Paying for Favors"
+redirect_from:
+  - /2009/11/paying-for-favors.html
 date:   2009-11-22 00:59:46 -0700
-image:  paying.jpg
+# image:  paying.jpg
 # tags:   Business
 ---
 
@@ -10,25 +13,27 @@ One of the common practices in the independent movie industry is to share favors
 
 The real value of participating in this exchange is in the reciprocity and the social capital, but if the indie project is financially successful some ill will can arise about who really owes whom. One way that some creative producers deal with this is to have in effect two budgets, the real budget, and the virtual budget. Joss Whedon (creator and producer of Buffy the Vampire Slayer, Serenity, Firefly, Dollhouse, etc.) describes how he did this for his recent successful internet project Dr. Horrible's Sing-Along Blog in a recent interview at the Wharton business school:
 
-Joss Whedon photoWhedon: We got so much of this done through people doing us favors — department heads and people who have access to things. But you've got to pay your day-to-day crew. The actors all did it for nothing. And we all did it for nothing. So, the production costs alone — the basic costs of filming the thing, and getting the locations, props and everything — ran a little over $200,000.
 
-We had a secondary budget drawn up in case of a profit, wherein we were trying to find rates for Internet materials. In some cases they didn't exist. We used models that had been created by the guild for repurposed, or reused, material that we used for original [content], because this had never come up before.
+> Joss Whedon photoWhedon: We got so much of this done through people doing us favors — department heads and
+<img width="250px" align="right"  src="../assets/images/08.jpg" alt="cyberpunkstack"/> people who have access to things. But you've got to pay your day-to-day crew. The actors all did it for nothing. And we all did it for nothing. So, the production costs alone — the basic costs of filming the thing, and getting the locations, props and everything — ran a little over $200,000.
 
-We didn't want to leave a sour taste and say, "Well, we made some money off of you guys being kind." It was like: No, everybody has to benefit from what they've done, obviously not enormously — it's Internet money we're talking about — but as soon as we got in the black, we paid everybody off.
+> We had a secondary budget drawn up in case of a profit, wherein we were trying to find rates for Internet materials. In some cases they didn't exist. We used models that had been created by the guild for repurposed, or reused, material that we used for original [content], because this had never come up before.
 
-So that budget was probably about twice what the original budget was.
+> We didn't want to leave a sour taste and say, "Well, we made some money off of you guys being kind." It was like: No, everybody has to benefit from what they've done, obviously not enormously — it's Internet money we're talking about — but as soon as we got in the black, we paid everybody off.
 
-Knowledge@Wharton: You've now earned more than twice the original cost?
+> So that budget was probably about twice what the original budget was.
 
-Whedon: Yes.
+> Knowledge@Wharton: You've now earned more than twice the original cost?
 
-Knowledge@Wharton: Which members of the production shared in the profits on the backend?
+> Whedon: Yes.
 
-Whedon: The crew that got paid, got paid. [Those] who didn't get paid [included people like] department heads who had jobs and could afford to do this as a lark.
+> Knowledge@Wharton: Which members of the production shared in the profits on the backend?
 
-As we go forward into profit, there are also residual schedules and payment schedules for all of the creative people. We're trying to figure out how that works.
+> Whedon: The crew that got paid, got paid. [Those] who didn't get paid [included people like] department heads who had jobs and could afford to do this as a lark.
 
-From the start I also laid down a gross participation scheme for my three key actors and the other three writers. While the guild was negotiating for one-tenth of a yen, I said, "How about we just get into some percentages." It was an opportunity to say to the guilds, "Guess how much better we can do" — which, in the case of the Internet, is the only way for the guilds to survive.
+> As we go forward into profit, there are also residual schedules and payment schedules for all of the creative people. We're trying to figure out how that works.
+
+> From the start I also laid down a gross participation scheme for my three key actors and the other three writers. While the guild was negotiating for one-tenth of a yen, I said, "How about we just get into some percentages." It was an opportunity to say to the guilds, "Guess how much better we can do" — which, in the case of the Internet, is the only way for the guilds to survive.
 
 I've used a similar technique for internet startups, where the favors and the free time often fly wild and cause the entrepreneurs problems later.
 
