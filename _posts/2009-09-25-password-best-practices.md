@@ -34,6 +34,7 @@ So you've learned a lot about what makes a bad password. What makes a good passw
 
 ### Password Meter
 
+<img width="250px" align="right"  src="../assets/images/011.jpg" alt="cyberpunkstack"/>
 1. Pick a short phrase, or an obscure but memorable long word. For example “amber waves” or “perspicacious”.
 
 2. Shorten it to 7 characters, such as “ambrwvs” or “prspccus”.
