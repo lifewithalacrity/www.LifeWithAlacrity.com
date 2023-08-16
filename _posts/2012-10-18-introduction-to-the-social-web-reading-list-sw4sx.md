@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Introduction to the Social Web (Reading List#SW4SX)
+layout: posts
+title:  "Introduction to the Social Web (Reading List#SW4SX)"
+slug:  "Introduction to the Social Web (Reading List#SW4SX)"
+redirect_from:
+  - /2012/10/introduction-to-the-social-web-reading-list-sw4sx/
 date:   2013-04-04 14:16:52 -0700
 # image:  02.jpg
 # tags:   Weblogs

@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Using the Social Web for Social Change (Syllabus#SW4SX)
+layout: posts
+title:  "Using the Social Web for Social Change (Syllabus#SW4SX)"
+slug:  "Using the Social Web for Social Change (Syllabus#SW4SX)"
+redirect_from:
+  - /2012/10/introduction-to-the-social-web-reading-list-sw4sx/
 date:   2012-10-14 08:44:31 -0700
 # image:  02.jpg
 # tags:   Web/Tech
@@ -112,6 +115,7 @@ Pre-Virtual Session Deliverables: Comments on pre-virtual session advance readin
 Weekly Deliverables: Selected readings from Heath & Heath “Made to Stick: Why Some Ideas Survive and Others Die.” (Kindle book), comments on weekly readings;  sixth beat blog post; participate in class Facebook site, social media & collaborative discovery
 
 Week 7 — Change: Tactics of Influence & Persuasion
+
 (Nov 12th - 18th — Virtual Session: Wed Nov 14th, Intensive: Sat Nov 17th)
 Topics: Tactics of influence & persuasion; barriers to change; ethics — values, power, propaganda;
 Pre-Virtual Session Deliverables: Comments on pre-virtual session advance readings; pre-session learning journal entry
@@ -153,10 +157,17 @@ Weekly Deliverables: Delivery of draft student personal brand portfolio, deliver
 Assessment Criteria and Methods of Evaluating Students
 
 Weekly Reading Commentary 10% 
+
 BGI Guide 20% 
+
 Social Media 20% 
+
 Social Change Project 20% 
+
 Class Participation 20% 
+
 Post-mortem 10%
+
 Total: 100%
+
 original layout
