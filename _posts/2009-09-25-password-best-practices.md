@@ -1,6 +1,9 @@
 ---
-layout: post
+layout: posts
 title: "Password Best Practices"
+slug: "Password Best Practices"
+redirect_from:
+  - /2009/09/password-best-practices.html
 date:  2009-09-25 01:29:32 -0700
 # image:  02.jpg
 # tags:  Home

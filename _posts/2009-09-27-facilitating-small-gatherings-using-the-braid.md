@@ -1,11 +1,14 @@
 ---
-layout: post
-title: Facilitating Small Gatherings Using “The Braid”
+layout: posts
+title: "Facilitating Small Gatherings Using “The Braid”"
+slug: "Facilitating Small Gatherings Using “The Braid”"
+redirect_from:
+  - /2009/09/facilitating-small-gatherings-using-the-braid/
 date:   2009-10-15 23:59:37 -0700
 image:  small.png
 # tags:   Home
 ---
-<img width="200px" height="300px" align="right"  src="../assets/images/small.png" alt="cyberpunkstack"/>
+<img width="200px" height="300px" align="right"  src="../assets/images/small.png" alt="The Power of conservation"/>
 Power of Conversation I was musing as I was preparing for next week's Intensive at BGI that I have 21 students in my class, an uncomfortable size. That's because it lies between a smaller size where good conversations naturally occur, and a larger size where you can take full advantage of different activities that work well for larger groups.
 
 I talk about this a bit in my Group Threshold and Dunbar Number posts, where I call the group threshold size of between 10 and 24 people the “Judas Number” nadir, or low point. These group threshold nadirs exist when groups are too large for some processes to function effectively, but too small for others to work.
