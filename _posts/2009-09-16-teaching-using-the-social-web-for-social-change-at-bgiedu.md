@@ -9,7 +9,7 @@ date:   2009-09-16 22:36:27 -0700
 # tags:   Web/Tech
 ---
 
-<img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/teaching.jpg" alt="Teaching"/>
+<img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/Teaching.jpg" alt="Teaching"/>
 
  Starting next week I will be teaching a course at the Bainbridge Graduate Institute on the topic of "Using the Social Web for Social Change".
 
