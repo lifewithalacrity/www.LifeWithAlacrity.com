@@ -1,18 +1,21 @@
 ---
-layout: post
-title:  In Seoul for the Social Web
+layout: posts
+title:  "In Seoul for the Social Web"
+slug:  "In Seoul for the Social Web"
+redirect_from:
+  - /2008/06/in-seoul-for-th/
 date:   2008-06-25 01:18:39 -0700
 image:  seoul.jpg
 # tags:   Home
 ---
-
-Downtown Seoul, South Korea, from Hotel WindowI'm in Seoul, South Korea this week for the 13th Global Forum on Business Driven Action Learning and Executive Development, where I'm presenting on the topic of the how to get involved with the Social Web.
+<a href="http://www.flickr.com/photos/christophera/2610236112/"><img width="230px" style=" margin-left:15px" align="right"  src="../assets/images/seoul.jpg" alt="Seoul"/></a>
+Downtown Seoul, South Korea, from Hotel WindowI'm in Seoul, South Korea this week for the [13th Global Forum on Business Driven Action Learning and Executive Development](http://www.globalforumactionlearning.com/), where I'm presenting on the topic of the how to get involved with the Social Web.
 
 My presentation is an offshoot of an odd sideline of mine, executive blog and social web coaching. Basically, many times over the last couple of years I've been asked by colleagues and friends to help them with the social web. I've always been honored to spend the time to teach them how to blog, better manage the noise of the web by using a feed reader, how to participate in social networks, and how to improve their personal brand.
 
 Increasingly, the social network of their peers is now asking me to help them to do the same for them. So I've been doing this more and more over the last year on a consulting basis as their social networks appear to be saying saying that I have a lot to offer.
 
-I've twice now been out to Cincinnati where I've been working with Drew Boyd at Johnson & Johnson, where I've been coaching him on his blog and personal brand. He has been blogging now for almost six months at Innovation in Practice with some success. Now he is referring me to other executives at Johnson & Johnson who need similar coaching, or need strategic advice on how to deal with specific social web initiatives within Johnson & Johnson.
+I've twice now been out to Cincinnati where I've been working with [Drew Boyd](http://www.linkedin.com/pub/5/3a9/480) at Johnson & Johnson, where I've been coaching him on his blog and personal brand. He has been blogging now for almost six months at [Innovation in Practice](http://www.innovationinpractice.com/) with some success. Now he is referring me to other executives at Johnson & Johnson who need similar coaching, or need strategic advice on how to deal with specific social web initiatives within Johnson & Johnson.
 
 Most recently, Drew has asked me to join him in Seoul to speak at the Global Forum, which is a worldwide gathering of executive trainers. There I am presenting a synopsis of what I teach, and how they can begin to learn how to teach their staff how to do the same. My trip has been sponsored by Johnson & Johnson, so it has been a lot of fun to be here. I get to both dive into deep discussions of methodologies for teaching inside business, as well as learn about the Korean and other international business cultures and how they are different from the United States.
 
