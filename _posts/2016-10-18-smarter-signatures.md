@@ -46,7 +46,7 @@ A smart signature system that supports the use cases described above, that meets
 
 ## 4. Experimenting with Smart Signatures
 
-Fulfilling these uses and meeting these requirements for smart signatures necessitates the creation of better languages and better tools. However, the creation of a new foundation for smart signatures (and eventually smarter contracts) can be tricky and full of pitfalls, as shown by the recent problems plaguing The DAO on Ethereum, where flaws in a contract’s code led to the theft of tens of millions of dollars^[1].
+Fulfilling these uses and meeting these requirements for smart signatures necessitates the creation of better languages and better tools. However, the creation of a new foundation for smart signatures (and eventually smarter contracts) can be tricky and full of pitfalls, as shown by the recent problems plaguing The DAO on Ethereum, where flaws in a contract’s code led to the theft of tens of millions of dollars[^1].
 
 The Ethereum crisis clearly shows that the design of new languages for smart signature systems must be thorough and comprehensive. Architects must experiment with many options, to ultimately produce something that is stable and trustworthy.
 
@@ -60,7 +60,7 @@ There are a few options for functional languages. Lambda calculus languages are 
 
 ### 4.2 Experiment #1: Bitcoin Script
 
-One option for building a new smart signature system is to start with something that already exists and that is already being used to safeguard millions of dollars worth of transactions: Bitcoin Script^[2].
+One option for building a new smart signature system is to start with something that already exists and that is already being used to safeguard millions of dollars worth of transactions: Bitcoin Script[^2].
 
 Bitcoin Script currently authorizes the spending of Bitcoins. Typically, each Script is linked to either a single signature or else to a M-of-N multi-sig. However, it’s also possible to encode more complex redemption conditions into a Bitcoin Script, and even to keep them secret — allowing a recipient to prove that he met the signing conditions by matching a hash of those conditions.
 
@@ -78,14 +78,14 @@ It’s also well-trusted. Bitcoin Script is the heart of the Bitcoin system, mak
 
 Finally, it’s constrained. Though Bitcoin Script contains an extensive menu of operations (opcodes), they’ve been curated: some opcodes were disabled in Bitcoin’s early days to prevent mischief. Because of these constraints, the individual elements of a Bitcoin Script can be examined in isolation, making it easy to see any problems. That’s much of what’s maintained the trust in Bitcoin Script and ensured that there were no DAO-style crises.
 
-Disadvantages: The advantageous constraints of Bitcoin Script may also create one of its biggest disadvantages: it’s limited. In fact, Bitcoin Script may be too limited to offer the full menu of options required for smart signatures. However, there are already Bitcoin Improvement Proposals in place to increase the set of Bitcoin Script opcodes^[3] ^[4], while Bitcoin’s new segregated witness (segwit) support will make future changes to Bitcoin Script even easier^[5]. Blockstream’s sidechains^[6] offer an alternative: incorporating new operations without changing the original Bitcoin blockchain.
+Disadvantages: The advantageous constraints of Bitcoin Script may also create one of its biggest disadvantages: it’s limited. In fact, Bitcoin Script may be too limited to offer the full menu of options required for smart signatures. However, there are already Bitcoin Improvement Proposals in place to increase the set of Bitcoin Script opcodes[^3] [^4], while Bitcoin’s new segregated witness (segwit) support will make future changes to Bitcoin Script even easier[^5]. Blockstream’s sidechains[^6] offer an alternative: incorporating new operations without changing the original Bitcoin blockchain.
 
 Removing Bitcoin Script entirely from the blockchain offers another way to enable language updates, but it also raises another issue: Bitcoin Script is currently locked to blockchains. Though it may be possible to use it independently, this has not been tested and may raise future issues of compatibility.
 
 Finally, Bitcoin Script is a Forth-derived language, which means that it is stack-oriented. This requires a particular type of logic that may make it harder for some people to parse or understand — though this may also be the case for fully functional languages like lambda calculuses or more outré languages like those based on sequent calculus.
 
 4.3 Experiment #2: Dex
-Peter Todd is working on another possible system for smart signatures, one that he calls Dex, a system of deterministic predicate expressions^[7]. Much like Bitcoin Script, Dex’s predicate expressions evaluate simply to either true or false results. However, the other part of Dex’s name is just as important: it’s deterministic, guaranteed to always return the same result for a specific signature and environment.
+Peter Todd is working on another possible system for smart signatures, one that he calls Dex, a system of deterministic predicate expressions[^7]. Much like Bitcoin Script, Dex’s predicate expressions evaluate simply to either true or false results. However, the other part of Dex’s name is just as important: it’s deterministic, guaranteed to always return the same result for a specific signature and environment.
 
 Dex also more fully embraces functional programming: it’s built using lambda calculus. As with Lisp, atoms of numbers, strings, symbols, and cells are recursively built up into s-expressions. (In other words, Dex contains parenthesized lists that regularize and order the evaluation of functions.) These s-expressions are then merkelized (hashed), producing unique digests.
 
@@ -107,14 +107,14 @@ Advantages. One of the biggest advantages of Dex is one of its core features, it
 
 Dex also has excellent properties of efficiency. The use of a Merkle tree helps Dex to enable pruning: unneeded data in an expression can be cut out and replaced with hash digests, making it easier to use lite clients.
 
-Finally, Dex is upwardly mobile. Smart signatures can be building blocks for creating full smart contract systems, and this is an option that Todd has considering from the start. He even calls Dex one of the “Building Blocks of the State Machine Approach to Consensus”, with its deterministic expressions being states in the state machine^[8].
+Finally, Dex is upwardly mobile. Smart signatures can be building blocks for creating full smart contract systems, and this is an option that Todd has considering from the start. He even calls Dex one of the “Building Blocks of the State Machine Approach to Consensus”, with its deterministic expressions being states in the state machine[^8].
 
 Disadvantages. Lambda Calculus is generally an unusual sort of programming language. It doesn’t have the same coding styles or the same programming patterns as more common, imperative languages. This is what enables many of its desired features, but it can also prove a disadvantage to some programmers. Further, languages like Common Lisp and Scheme have long been used in entry-level college computer classes, which may create cognitive biases in students who were confused about the unusual though processes required.
 
 Compared to a well-tested language like Bitcoin Script, Dex is quite novel. It’s not just untested, it’s truly experimental. Though there’s great potential for its expansion, it will have to be thoroughly examined before it can reach that potential.
 
 4.4 Experiment #3: Crypto Conditions
-Crypto-conditions^[9] were developed by Stefan Thomas as part of the Interledger[^10] project, based on a requirement for a smart signature data type in the Interledger Protocol's core data model. The protocol relies on one or more ledgers that are involved in an end-to-end transfer being able to put funds on hold pending the fulfillment of a predefined condition. This condition is, in effect, the definition of a smart signature and the fulfillment of that condition is the signature itself. More information is available from Crypto-condition workshops presented at Interledger[^11] and at IETF[^12]. In adition, Crypto-Conditions (draft-thomas-crypto-conditions-00) has been submitted as an Internet Draft for candidacy as a standards track RFC[^13].
+Crypto-conditions[^9] were developed by Stefan Thomas as part of the Interledger[^10] project, based on a requirement for a smart signature data type in the Interledger Protocol's core data model. The protocol relies on one or more ledgers that are involved in an end-to-end transfer being able to put funds on hold pending the fulfillment of a predefined condition. This condition is, in effect, the definition of a smart signature and the fulfillment of that condition is the signature itself. More information is available from Crypto-condition workshops presented at Interledger[^11] and at IETF[^12]. In adition, Crypto-Conditions (draft-thomas-crypto-conditions-00) has been submitted as an Internet Draft for candidacy as a standards track RFC[^13].
 
 An essential requirement of crypto-conditions is that any implementation must be able to evaluate if it will be able to validate the signature later (fulfillment) just by looking at the signature definition (condition). This allows a ledger to reject a transfer that is using a condition the ledger doesn't support before the end-to-end transfer is fully prepared, avoiding a case where the ledger fails to release the funds upon receipt of the signature (fulfillment) because they are unable to validate it. It also meets the core purpose of the provability requirement for smart signatures, even if it does so by a slightly different manner.
 
@@ -162,23 +162,23 @@ So we offer this paper as the beginning of a conversation about how to create sm
 What do you suggest?
 
 Footnotes
-^[1] Del Castillo, Michael. 2016. “The DAO Attacked: Code Issue Leads to $60 Million Ether Theft”. Coin Desk. http://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/.
+[^1] Del Castillo, Michael. 2016. “The DAO Attacked: Code Issue Leads to $60 Million Ether Theft”. Coin Desk. http://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/.
 
-^[2] Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf.
+[^2] Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf.
 
-^[3] Torpey, Kyle. 2016. “New BIP Would Enable Better Privacy, CrossBlockChain Exchange, TrustFree Betting, and More for Bitcoin”. CoinJournal. http://coinjournal.net/new-bip-enable-better-privacy-crossblockchain-exchange-trustfree-betting-bitcoin/.
+[^3] Torpey, Kyle. 2016. “New BIP Would Enable Better Privacy, CrossBlockChain Exchange, TrustFree Betting, and More for Bitcoin”. CoinJournal. http://coinjournal.net/new-bip-enable-better-privacy-crossblockchain-exchange-trustfree-betting-bitcoin/.
 
-^[4] Lau, Johnson. 2016. “BIP 114. Merkelized Abstract Syntax Tree”. GitHub. https://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki.
+[^4] Lau, Johnson. 2016. “BIP 114. Merkelized Abstract Syntax Tree”. GitHub. https://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki.
 
-^[5] Bitcoin Core. 2016. “Segregated Witness: The Next Steps”. Bitcoin Core. https://bitcoincore.org/en/2016/06/24/segwit-next-steps/.
+[^5] Bitcoin Core. 2016. “Segregated Witness: The Next Steps”. Bitcoin Core. https://bitcoincore.org/en/2016/06/24/segwit-next-steps/.
 
-^[6] Maxwell, Gregory. 2015. “Extending Bitcoin with Sidechains”. Blockstream. https://blockstream.com/developers/.
+[^6] Maxwell, Gregory. 2015. “Extending Bitcoin with Sidechains”. Blockstream. https://blockstream.com/developers/.
 
-^[7] Todd, Peter. 2016. “Dex: Deterministic Predicate Expressions for Smarter Signatures”. Rebooting the Web of Trust II: ID2020 Workshop. https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md.
+[^7] Todd, Peter. 2016. “Dex: Deterministic Predicate Expressions for Smarter Signatures”. Rebooting the Web of Trust II: ID2020 Workshop. https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md.
 
-^[8] Todd, Peter. 2016. “Building Blocks of the State Machine Approach to Consensus”. Peter Todd. https://petertodd.org/2016/state-machine-consensus-building-blocks.
+[^8] Todd, Peter. 2016. “Building Blocks of the State Machine Approach to Consensus”. Peter Todd. https://petertodd.org/2016/state-machine-consensus-building-blocks.
 
-[9] Thomas, Stefan. "Crypto Conditions". GitHub. https://github.com/interledger/rfcs/tree/master/0002-crypto-conditions.
+[^9] Thomas, Stefan. "Crypto Conditions". GitHub. https://github.com/interledger/rfcs/tree/master/0002-crypto-conditions.
 
 [^10] Interledger web site. https://interledger.org.
 
