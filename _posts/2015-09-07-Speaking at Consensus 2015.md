@@ -9,16 +9,6 @@ date:   2015-09-06 23:54-07 +0300
 
 <img width="500px" height="300px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/consensus.png" alt="Speaking at Consensus 2015"/>
 
-
-**Life With Alacrity**
-
-A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
-
-**Speaking at Consensus 2015**
-
-September 7 2015 - 1500 Words
-by Christopher Allen
-
 Christopher Allen Internet Security Pioneer Speaking at [Consensus 10 Sep NYC](https://consensus.coindesk.com/){:target="_blank"}
 
 I'm heading out today to New York City to speak at [Consensus 2015](http://www.coindesk.com/events/consensus-2015/), where I am speaking on the panel *‘Bitcoin and its Antecedents: A Look at the History and Evolution of Digital Cash’:*

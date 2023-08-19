@@ -11,15 +11,6 @@ date:   2015-09-09 09:28-07 +0300
 
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/spectrum.png" alt="A Spectrum of Consent"/> 
 
-# **Life With Alacrity**
-
-A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
-
-**A Spectrum of Consent**
-
-September 9 2015 - 1500 Words
-<br>
-by Christopher Allen
 
 **Consensus-flowchart**
 
