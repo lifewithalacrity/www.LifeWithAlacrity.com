@@ -51,7 +51,7 @@ or
 
 **3B. ADAPT LOCALLY:** Members of the community adapt the rules and culture for the commons to local needs, resource qualities and environmental conditions.
 
-4A. SHARE KNOWLEDGE: All members are actively engaged in observing and sharing knowledge about the conditions of the system.
+**4A. SHARE KNOWLEDGE:** All members are actively engaged in observing and sharing knowledge about the conditions of the system.
 
 **4B. MONITOR EFFECTIVELY:** Monitors who are members of (or supported by and accountable to) the community view and report on the use and maintenance of the commons by community members and others.
 
