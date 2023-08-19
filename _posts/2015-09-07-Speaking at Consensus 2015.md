@@ -47,7 +47,7 @@ As to your question of when the community first started using the word consensus
 
 **original layout**
 
-[Business](http://www.lifewithalacrity.com/tags/business/) [Security](http://www.lifewithalacrity.com/tags/security/) [Web/Tech](http://www.lifewithalacrity.com/tags/web/tech/)
+[Business](/tags/business/), [Security](/tags/security/) [Web/Tech](/tags/web/tech/)
 
 Life With Alacrity
 

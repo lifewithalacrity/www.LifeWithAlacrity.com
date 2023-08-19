@@ -12,7 +12,7 @@ date:   2015-04-19 18:30-07 +0300
 
 Ssh by Katie Tegtmeyer CC-BY (crop2)
 
-<img width="300" height="350" align="right" src="../assets/images/privacy.jpeg" alt="The Four Kinds of Privacy"/> 
+<img width="370" height="350" align="right" src="../assets/images/privacy.jpeg" alt="The Four Kinds of Privacy"/> 
 
 Privacy is hitting the headlines more than ever. As computer users are asked to change their passwords again and again in the wake of exploits like [Heartbleed](http://heartbleed.com/) and [Shellshock](http://www.apple.com/), they're becoming aware of the vulnerability of their online data — a susceptibility that was recently verified by scores of celebrities who had their most intimate photographs stolen.
 
@@ -28,7 +28,7 @@ What privacy means varies between Europe and the US, between libertarians and pu
 
 ## Prelude: Defining Public
 
-<a href="#"><img width="300px" style=" margin-left:15px" align="right"  src="../assets/images/001.jpg" alt="Cayucos Parade (Cropped, original by Mike Baird licensed CC-BY)"/></a>
+<a href="#"><img width="370px" style=" margin-left:15px" align="right"  src="../assets/images/001.jpg" alt="Cayucos Parade (Cropped, original by Mike Baird licensed CC-BY)"/></a>
 
 However, before you can define privacy, you first have to define its opposite number: what's public. [Meriam-Webster.com's](http://meriam-webster.com/) first definition of "public" includes two different descriptions that are somewhat contradictory. The first is _"exposed to general view: open"_ and the second is _"well-known; prominent"._
 
@@ -53,7 +53,7 @@ We have a deep need for the public world: both to be a part of it and to share o
 That's why it's important that each individual define their own privacy needs — so that they can fight for the kinds of privacy that are important to them.
 
 ## The First Kind: Defensive Privacy
-<a href="#"><img width="270px" style=" margin-right:15px" align="right"  src="../assets/images/002.jpg" alt="Hacker (Cropped, original by Christophe Verdier licensed CC-BY-NC)"/></a>
+<a href="#"><img width="370px" style=" margin-right:15px" align="right"  src="../assets/images/002.jpg" alt="Hacker (Cropped, original by Christophe Verdier licensed CC-BY-NC)"/></a>
 
 The first type of privacy is _**defensive privacy**_, which protects against transient financial loss resulting from information collection or theft. This is the territory of phishers, conmen, blackmailers, identity thieves, and organized crime. It could also be the purview of governments that seize assets from people or businesses.
 
@@ -69,7 +69,7 @@ In other words, defensive privacy is more important than ever — which is u
 
 ## The Second Kind: Human Rights Privacy
 
-<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/003.jpg" alt="Human Rights Privacy (Anne Frank Photo 1942)"/></a>
+<a href="#"><img width="370px" style=" margin-right:15px" align="right"  src="../assets/images/003.jpg" alt="Human Rights Privacy (Anne Frank Photo 1942)"/></a>
 
 The second type of privacy is **_human rights privacy_**, which protects against existential threats resulting from information collection or theft. This is the territory of stalkers and other felonious criminals as well as authoritarian governments and other persons intent on doing damage to someone for personal for his or her beliefs or political views.
 
@@ -101,7 +101,7 @@ Individuals taking part in the democratic process can also come under a personal
 
 ## The Third Kind: Personal Privacy
 
-<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/004.jpg" alt=""/></a>
+<a href="#"><img width="370px" style=" margin-right:15px" align="right"  src="../assets/images/004.jpg" alt=""/></a>
 
 The third type of privacy is **_personal privacy_**, which protects persons against observation and intrusion; it's what Judge Thomas Cooley called _"the right to be let alone"_, as cited by future Supreme Court Justice Louis Brandeis in ["The Right to Privacy"](http://www.jstor.org/stable/1321160), which he wrote for the _Harvard Law Review_ of December 15, 1890. Brandeis' championing of this sort of privacy would result in a new, uniquely American right that has at times been attributed to the First Amendment (giving freedom of speech within one's house), the Fourth Amendment (protecting one's house from search & seizure by the government), and the Fifth Amendment (protecting one's private house from public use). This right can also be found in state Constitutions, such as the [_Constitution of California_](http://www.leginfo.ca.gov/.const/.article_1), which promises _"safety, happiness, and privacy"_.
 
@@ -118,7 +118,7 @@ Though personal privacy has grown in power in America since the 1960s, it's stil
 ## **The Fourth Kind: Contextual Privacy**
 
 
-<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/005.jpg" alt="Contextual Privacy (Post Secret #2 by Meg Wilis, licensed CC-BY)"/></a>
+<a href="#"><img width="370px" style=" margin-right:15px" align="right"  src="../assets/images/005.jpg" alt="Contextual Privacy (Post Secret #2 by Meg Wilis, licensed CC-BY)"/></a>
 
 The fourth type of privacy is **_contextual privacy_**, which protects persons against unwanted intimacy. This is what danah boyd calls [_"The Ickiness Factor"_](http://many.corante.com/archives/2004/04/16/the_ickiness_factor.php%29):
 
@@ -145,7 +145,7 @@ Studies of current events offer more examples.
 
 ## **The First Case: Celebrity Hacking**
 
-<a href="#"><img width="280px" style=" margin-right:15px" align="right"  src="../assets/images/006.jpg" alt="Jennifer Lawrence SDCC 2013 X-Men (by Gage Skidmore. licensed CC-BY"/></a>
+<a href="#"><img width="370px" style=" margin-right:15px" align="right"  src="../assets/images/006.jpg" alt="Jennifer Lawrence SDCC 2013 X-Men (by Gage Skidmore. licensed CC-BY"/></a>
 The recent unauthorized release of nude pictures of Jennifer Lawrence and others demonstrates the complex permutations of privacy.
 
 To start with, it highlighted the problematic divide between public and private. There's no doubt that the pictures were intended to be private, and unlike some of the more troublesome uses of recording devices, these private situations _weren't_ made public through the uncomfortable use of surveillance technology. Instead, the photos were publicized following theft. Unfortunately, now that they're in the public eye, they're unlikely to go away, ever. In other words, the genie's out of the bottle. All that the celebrities can do is make the photos less accessible by asserting their copyright (if they can to get search engines to de-link the information).
@@ -160,7 +160,7 @@ Kevin Sullivan offered some of the most adroit commentary on the theft when he [
 
 ## **The Second Case: #GamerGate**
 
-<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/007.jpg" alt="Circle of Hands"/></a>
+<a href="#"><img width="370px" style=" margin-right:15px" align="right"  src="../assets/images/007.jpg" alt="Circle of Hands"/></a>
 
 The widespread and ongoing harassment of game designer Zoe Quinn is a somewhat frightening example for its intense focus on the repeated privacy violations of a single person.
 
@@ -174,7 +174,7 @@ Twenty years ago, it was difficult for groups of individuals to work together to
 
 ## **The Third Case: The NSA**
 
-<a href="#"><img width="280px" style=" margin-right:15px" align="right"  src="../assets/images/nsa.jpg" alt="National_Security_Agency"/></a>
+<a href="#"><img width="370px" style=" margin-right:15px" align="right"  src="../assets/images/nsa.jpg" alt="National_Security_Agency"/></a>
 
 Though it's become very easy for individuals to violate the privacy of celebrities like Jennifer Lawrence or individuals like Zoe Quinn, the government has also been stepping up its act in the 21st century, especially since 9/11. In the United States, it's the NSA who's been at the heart of the privacy controversies (with a little help from their friends in the FBI).
 
@@ -196,7 +196,7 @@ The issue of compelled silence arises from the National Security Letters authori
 
 ## **The Fourth Case: Americans in Afghanistan**
 
-<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/americans_in_afghanistan.jpg" alt="Afgan Social Media Summit (cropped, original by Luisa Whalmsey, licensed CC-BY"/></a>
+<a href="#"><img width="370px" style=" margin-right:15px" align="right"  src="../assets/images/americans_in_afghanistan.jpg" alt="Afgan Social Media Summit (cropped, original by Luisa Whalmsey, licensed CC-BY"/></a>
 
 My final case study is a personal one. I've regularly taught "Digital Influence" and "Using the Social Web for Social Change" classes in the Bainbridge Graduate Institute's [MBA in Sustainable Systems](http://bgi.pinchot.edu/) program at Pinchot University. One of my students there was Luisa Walmsley.
 

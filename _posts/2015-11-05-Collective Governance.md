@@ -12,14 +12,8 @@ date:   2015-11-05 08:15:23 +0300
 
 <img width="250" height="300" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Ostrom’s.png" alt="TA Revised “Ostrom’s Design Principles for Collective Governance of the Commons"/> 
 
-**Life With Alacrity**
-
-A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen. 
-
 **A Revised “Ostrom’s Design Principles for Collective Governance of the Commons”**
 
-November 5 2015 - 800
-<br>Words by Christopher Allen
 
 The traditional economic definition of [_**“the commons”**_](https://en.wikipedia.org/wiki/Commons){:target="_blank"} are those resources that are held in common and not privately owned. This is closely related to economic concept of [public goods](https://en.wikipedia.org/wiki/Public_good){:target="_blank"}, which are goods that are both [non-excludable](https://en.wikipedia.org/wiki/Excludability){:target="_blank"} (in that individuals cannot be effectively excluded from use) and [non-rivalrous](https://en.wikipedia.org/wiki/Rivalry_(economics)){:target="_blank"} (where use by one individual does not reduce availability to others).
 
@@ -67,7 +61,7 @@ or
 
 **original layout**
 
-[Security](https://www.lifewithalacrity.com/tags/security/), [Social Software](https://www.lifewithalacrity.com/tags/social-software/), [Social Web for Social Change #SW4SX](https://www.lifewithalacrity.com/tags/social-web-for-social-change-%23sw4sx/), [Web/Tech](https://www.lifewithalacrity.com/tags/web/tech/)
+[Security](/tags/security/), [Social Software](/tags/social-software/), [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/), [Web/Tech](/tags/web/tech/)
 
 Life With Alacrity
 

@@ -85,7 +85,7 @@ There is clearly some conflation and orthogonality in my list below of types of 
 **original layout**
 
 
-[Security](https://www.lifewithalacrity.com/tags/security/), [Social Software](https://www.lifewithalacrity.com/tags/social-software/), [Social Web for Social Change #SW4SX](https://www.lifewithalacrity.com/tags/social-web-for-social-change-%23sw4sx/), [Web/Tech](https://www.lifewithalacrity.com/tags/web/tech/)
+[Security](/tags/security/), [Social Software](/tags/social-software/), [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/), [Web/Tech](/tags/web/tech/)
 
 Life With Alacrity
 
