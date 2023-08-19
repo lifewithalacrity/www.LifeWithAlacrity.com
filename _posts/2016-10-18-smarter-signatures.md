@@ -169,8 +169,7 @@ What do you suggest?
 
 # Footnotes
 
-[^1]: Del Castillo, Michael. 2016. “The DAO Attacked: Code Issue Leads to $60 Million Ether Theft”. Coin Desk 
-http://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/.
+[^1]: Del Castillo, Michael. 2016. “The DAO Attacked: Code Issue Leads to $60 Million Ether Theft”. Coin Desk http://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/.
 
 [^2]: Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf.
 
