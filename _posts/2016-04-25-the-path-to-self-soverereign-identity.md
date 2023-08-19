@@ -179,7 +179,7 @@ The opinions in this article are my own, not my employer's nor necessarily the o
 
 [^11]: Loffreto, Devon. 2012. “What is ‘Sovereign Source Authority’?” The Moxie Tongue. http://www.moxytongue.com/2012/02/what-is-sovereign-source-authority.html
 
-[^12]: Open Mustard Seed. 2013. “Open Mustard Seed (OMS) Framework). ID3. https://idcubed.org/open-platform/platform/
+[^12]: Open Mustard Seed. 2013. “Open Mustard Seed ((OMS) Framework). ID3. https://idcubed.org/open-platform/platform/
 
 [^13]: Loffreto, Devon. 2016. “Self-Sovereign Identity”. The Moxie Tongue. http://www.moxytongue.com/2016/02/self-sovereign-identity.html
 

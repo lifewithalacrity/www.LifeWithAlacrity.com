@@ -69,7 +69,8 @@ Though Bitcoin Script is currently used on the blockchain, this is not a require
 Though Bitcoin Script is constrained, the following example shows that it’s nonetheless a robust functional language:
 
 > OP_DUP OP_HASH160 <pubKeyHash>
-OP_EQUALVERIFY OP_CHECKSIG
+
+> OP_EQUALVERIFY OP_CHECKSIG
 
 This simple script checks a signature against a public key in order to verify the signature. Much more complexity is possible.
 
@@ -168,41 +169,42 @@ What do you suggest?
 
 # Footnotes
 
-[^1] Del Castillo, Michael. 2016. “The DAO Attacked: Code Issue Leads to $60 Million Ether Theft”. Coin Desk. http://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/.
+[^1]: Del Castillo, Michael. 2016. “The DAO Attacked: Code Issue Leads to $60 Million Ether Theft”. Coin Desk. 
+http://www.coindesk.com/dao-attacked-code-issue-leads-60-million-ether-theft/.
 
-[^2] Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf.
+[^2]: Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf.
 
-[^3] Torpey, Kyle. 2016. “New BIP Would Enable Better Privacy, CrossBlockChain Exchange, TrustFree Betting, and More for Bitcoin”. CoinJournal. http://coinjournal.net/new-bip-enable-better-privacy-crossblockchain-exchange-trustfree-betting-bitcoin/.
+[^3]: Torpey, Kyle. 2016. “New BIP Would Enable Better Privacy, CrossBlockChain Exchange, TrustFree Betting, and More for Bitcoin”. CoinJournal. http://coinjournal.net/new-bip-enable-better-privacy-crossblockchain-exchange-trustfree-betting-bitcoin/.
 
-[^4] Lau, Johnson. 2016. “BIP 114. Merkelized Abstract Syntax Tree”. GitHub. https://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki.
+[^4]: Lau, Johnson. 2016. “BIP 114. Merkelized Abstract Syntax Tree”. GitHub. https://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki.
 
-[^5] Bitcoin Core. 2016. “Segregated Witness: The Next Steps”. Bitcoin Core. https://bitcoincore.org/en/2016/06/24/segwit-next-steps/.
+[^5]: Bitcoin Core. 2016. “Segregated Witness: The Next Steps”. Bitcoin Core. https://bitcoincore.org/en/2016/06/24/segwit-next-steps/.
 
-[^6] Maxwell, Gregory. 2015. “Extending Bitcoin with Sidechains”. Blockstream. https://blockstream.com/developers/.
+[^6]: Maxwell, Gregory. 2015. “Extending Bitcoin with Sidechains”. Blockstream. https://blockstream.com/developers/.
 
-[^7] Todd, Peter. 2016. “Dex: Deterministic Predicate Expressions for Smarter Signatures”. Rebooting the Web of Trust II: ID2020 Workshop. https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md.
+[^7]: Todd, Peter. 2016. “Dex: Deterministic Predicate Expressions for Smarter Signatures”. Rebooting the Web of Trust II: ID2020 Workshop. https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md.
 
-[^8] Todd, Peter. 2016. “Building Blocks of the State Machine Approach to Consensus”. Peter Todd. https://petertodd.org/2016/state-machine-consensus-building-blocks.
+[^8]: Todd, Peter. 2016. “Building Blocks of the State Machine Approach to Consensus”. Peter Todd. https://petertodd.org/2016/state-machine-consensus-building-blocks.
 
-[^9] Thomas, Stefan. "Crypto Conditions". GitHub. https://github.com/interledger/rfcs/tree/master/0002-crypto-conditions.
+[^9]: Thomas, Stefan. "Crypto Conditions". GitHub. https://github.com/interledger/rfcs/tree/master/0002-crypto-conditions.
 
-[^10] Interledger web site. https://interledger.org.
+[^10]: Interledger web site. https://interledger.org.
 
-[^11] Thomas, Stefan. 2016. "Crypto-conditions". ILP Workshop. https://www.youtube.com/watch?v=YfBDDWp58po&list=PLIR1FI1vEGeGvladEm-YZIvokXyH4bbIL&index=7.
+[^11]: Thomas, Stefan. 2016. "Crypto-conditions". ILP Workshop. https://www.youtube.com/watch?v=YfBDDWp58po&list=PLIR1FI1vEGeGvladEm-YZIvokXyH4bbIL&index=7.
 
-[^12] Thomas, Stefan. 2016. "Crypto-conditions: A Standard for Composable Signatures". IETF96 Ledger. https://youtu.be/uPXXfClTqSY?t=49m8s
+[^12]: Thomas, Stefan. 2016. "Crypto-conditions: A Standard for Composable Signatures". IETF96 Ledger. https://youtu.be/uPXXfClTqSY?t=49m8s
 
-[^13] Thomas, Stefan. 2016. "Crypto-Conditions: draft-thomas-crypto-conditions-00". IETF Datatracker. https://datatracker.ietf.org/doc/draft-thomas-crypto-conditions/
+[^13]: Thomas, Stefan. 2016. "Crypto-Conditions: draft-thomas-crypto-conditions-00". IETF Datatracker. https://datatracker.ietf.org/doc/draft-thomas-crypto-conditions/
 
-[^14] Ariola, Zenn M., Aaron Bohannon, and Amr Sabry. 2009. "Sequent Calculi and Abstract Machines". ACM Transactions on Programming Languages and Systems. http://www.cs.indiana.edu/~sabry/papers/sequent.pdf.
+[^14]: Ariola, Zenn M., Aaron Bohannon, and Amr Sabry. 2009. "Sequent Calculi and Abstract Machines". ACM Transactions on Programming Languages and Systems. http://www.cs.indiana.edu/~sabry/papers/sequent.pdf.
 
-[^15] Guenot, Nicolas and Daniel Gustafsson. 2015. "Sequent Calculus and Equational Programming". IT University of Copenhagen. http://arxiv.org/pdf/1507.08056.pdf.
+[^15]: Guenot, Nicolas and Daniel Gustafsson. 2015. "Sequent Calculus and Equational Programming". IT University of Copenhagen. http://arxiv.org/pdf/1507.08056.pdf.
 
-[^16] Edström, Robert and Jack Pettersson. 2016. “Safer Smart Contracts through Type-Driven Development”. Chalmers University of Technology. http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf.
+[^16]: Edström, Robert and Jack Pettersson. 2016. “Safer Smart Contracts through Type-Driven Development”. Chalmers University of Technology. http://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf.
 
-[^17] SecLang Taskforce. 2016. “Security: Programming Languages”. DistriNet. https://distrinet.cs.kuleuven.be/research/taskforces/showTaskforce.do?taskforceID=seclang.
+[^17]: SecLang Taskforce. 2016. “Security: Programming Languages”. DistriNet. https://distrinet.cs.kuleuven.be/research/taskforces/showTaskforce.do?taskforceID=seclang.
 
-[^18] Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf.
+[^18]: Allen, Christopher, Greg Maxwell, Peter Todd, Ryan Shea, Pieter Wuille, Joseph Bonneau, Joseph Poon, and Tyler Close. 2015. “Smart Signatures”. Rebooting the Web of Trust I. https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/smart-signatures.pdf.
 
 # Major References
 
