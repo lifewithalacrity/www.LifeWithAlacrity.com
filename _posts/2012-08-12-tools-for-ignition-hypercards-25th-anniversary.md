@@ -61,30 +61,6 @@ I was already programming in a variety of programming languages, but like MacPai
 
 HyperCard empowered a whole generation of passionate, creative people who otherwise never would have had the chance to share their ideas and visions with the world. I saw thinkers I admired begin to express their thoughts through software. Artists and designers loved that they could bring their language of imagery to life. Children who never had programmed before would start by drawing on some "cards", add buttons, show their friends, get excited and ultimately start on the path to learn how to express oneself through software. Amazing stories were told: some of my favorites were "If Monks Had Macs", "Spaceship Warlock", "Beyond Cyperpunk" and ultimately [Myst](http://en.wikipedia.org/wiki/Myst).
 
-<img width="90%"  src="../assets/images/MacPaint-by-Bill-Atkinson.jpg" alt="MacPaint-by-Bill-Atkinson"/>
-
-
-By this point, I was making my living doing software development. I wasn't an artist myself, but I dropped everything to hire some artist friends to start drawing on the Mac. I would start a clip-art company, I thought, not knowing that too many other people had the same idea. So I considered how I could build on my prior experience with computers and take advantage of this new platform. I wrote a bootstrap app (in BASIC!) to take advantage of the Mac’s serial port and enable the user to download a more serious terminal app. Later I published the first Macintosh BBS Mouse Exchange BBS, and the first graphical interface to a BBS.
-
-Open Standards (1985)
----------------------
-
-Later in 1985 I experienced my next tool for ignition — though “tool” may seem an odd term to describe something so abstract — open standards. I had recently parlayed my facilitation skills into a paid position as a CompuServe sysop, and because of my bootstrap app, the Mac BBS that I published, I participated in my first open standard, called [MacBinary](http://en.wikipedia.org/wiki/MacBinary), a way of encoding early Mac applications so that they could be transferred online.
-
-This was my first experience working with other engineers to facilitate the creation of something quite ephemeral and hard to describe to non-programmers. Not quite software, but a language between software, enabling them to share information and work together despite being written by different people in different programming languages.
-
-In the open standards community I learned the value of some principles that I use daily: "Ship early and often", "Fail fast", "Perfection is the enemy of the good", "Be conservative in what you send, liberal in what you accept", etc.
-
-My experience with MacBinary motivated me to continue participating in open standards efforts over the years, leading to what I consider my biggest success as a facilitator and co-author of the [SSL Standard](http://www.ietf.org/rfc/rfc2246.txt), the world's most widely deployed security standard. What drew me to SSL (as opposed to competitive security standards offered by others) was that it could be used for much more than just internet transactions. It could be used to secure a variety of conversations between people. Using the power of the RFC editor, I [reserved ports](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers) for secure SMTP, IMAP, POP, IRC, FTP and more. I got some flack for this as internet ports are considered a limited resource, but it turned out well when SSL and these ports were used twenty years later during the Arab Spring to help ensure freedom of communication between protesters.
-
-HyperCard (1987)
-----------------
-
-Twenty-five years ago this month — August 11,1987 at MacWorld — I encountered [Bill Atkinson's](http://en.wikipedia.org/wiki/Bill_Atkinson) [Hypercard](http://en.wikipedia.org/wiki/HyperCard). Hard to describe but truly a tool for ignition if there ever was one, Hypercard has been variously called a "stack of virtual cards, "hypermedia system", "programming for the masses". Bill Atkinson described it as "a construction kit that lets normal people make their own software".
-
-I was already programming in a variety of programming languages, but like MacPaint before it, HyperCard drew me in because of its elegance and its ability to allow non-programmers to participate in the creation of software. You can see the most complex HyperCard stack I ever wrote, running a TV studio at Apple Computer, in the first 40 seconds of this [1990 video feature](http://archive.org/details/hypercard_2) on HyperCard.
-
-HyperCard empowered a whole generation of passionate, creative people who otherwise never would have had the chance to share their ideas and visions with the world. I saw thinkers I admired begin to express their thoughts through software. Artists and designers loved that they could bring their language of imagery to life. Children who never had programmed before would start by drawing on some "cards", add buttons, show their friends, get excited and ultimately start on the path to learn how to express oneself through software. Amazing stories were told: some of my favorites were "If Monks Had Macs", "Spaceship Warlock", "Beyond Cyperpunk" and ultimately [Myst](http://en.wikipedia.org/wiki/Myst).
 
 <img width="90%"  src="../assets/images/cyberpunkstack.jpg" alt="cyberpunkstack"/>
 
