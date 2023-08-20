@@ -23,4 +23,4 @@ If you like hand pans, I have an extensive playlist of good quality hand pan per
 
 original layout
 
-[music](https://www.lifewithalacrity.com/tags/music/)
+[music](/tags/music/)

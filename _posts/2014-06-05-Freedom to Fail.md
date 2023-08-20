@@ -9,13 +9,6 @@ date: 2014-06-05 12:35-07 +0300
 # tags:   Home
 ---
 
-Post by Christopher Allen. original layout
-
-
-**Life With Alacrity**
-
-A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
-
 I often speak about "Freedom to Fail" as an essential element of success for all sizes of systems and processes such as a hackathons, ecosystems, corporate cultures, and art. Freedom to fail isn't just about innovation and creativity, it is also about resilience — small failures teach you about what to be careful about in the future to avoid big failures.
 
 If you look at the success of Twitter, at its root was a failure. Many other big "successes" started with a failure. When my first business went bankrupt, a long-time entrepreneurial friend told "NOW, you are truly an entrepreneur.". He was right — I can still fear failure, but I also know I minimize its danger, and I can survive & learn to thrive from it.
@@ -27,15 +20,14 @@ My biggest success, SSL, came from studying the failure of my previous groupware
 The always good Freakonomics Radio podcast discusses Freedom to Fail in their latest podcast "Failure is Your Friend". it suggests techniques such as a pre-mortem, where you gather team members to image a failure in the future, and learn from this imagineering. With this "Prospective-Hindsight" then you can design to avoid many that failure. It works because everyone is asked to "fail" and the fear of failure or talking about failure is socially more acceptable.
 Closely related, I also recommend last week's repeat podcast on the topic of "The Upside of Quitting".
 
-ABSTRACT: "In which we argue that failure should not only be tolerated but celebrated."
+**ABSTRACT:** "In which we argue that failure should not only be tolerated but celebrated."
 
 **Freedom to Fail & Freakonomics podcast “Failure is Your Friend”**
 
-June 5 2014 - 100 Words
-by Christopher Allen
 
 original layout
-[Business](https://www.lifewithalacrity.com/tags/business/) [Commentary](https://www.lifewithalacrity.com/tags/commentary/) [Security](https://www.lifewithalacrity.com/tags/security/) [Social Web for Social Change #SW4SX](https://www.lifewithalacrity.com/tags/social-web-for-social-change-%23sw4sx/) [Web/Tech](https://www.lifewithalacrity.com/tags/web/tech/)
+
+[Business](/tags/business/) [Commentary](/tags/commentary/) [Security](/tags/security/) [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/) [Web/Tech](/tags/web/tech/)
 
 Life With Alacrity
 

@@ -21,4 +21,4 @@ The amazing Tim Dierks , author of SSLRef, the reference implementation of SSL 3
 
 original layout
 
-[Security](https://www.lifewithalacrity.com/tags/security/), [Heartbleed](https://www.lifewithalacrity.com/tags/heartbleed/), [SSL](https://www.lifewithalacrity.com/tags/ssl/), [TLS](https://www.lifewithalacrity.com/tags/tls/), [security](https://www.lifewithalacrity.com/tags/security/), [review](https://www.lifewithalacrity.com/tags/review/)
+[Security](/tags/security/), [Heartbleed](/tags/heartbleed/), [SSL](/tags/ssl/), [TLS](/tags/tls/), [security](/tags/security/), [review](/tags/review/)
