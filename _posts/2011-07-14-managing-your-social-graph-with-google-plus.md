@@ -24,7 +24,7 @@ Pete Pachal, news director of [@PCMag](http://www.pcmag.com/article2/0,2817,2387
 
 Circles are lists that you’ve created by grouping people together and giving them a name. They’re important in Google+ because when you post you must explicitly say which “Circles” you wish to share with. Posting to a limited list of people is a big change from existing social networks such as Facebook, where posts are sent to all mutual friends by default, or Twitter, where posts are public. This change forces you to think more deeply about your social graph and who should see each item you post.
 
-<iframe width="100%" height="250" src="https://www.youtube.com/embed/BwvygI2xKGM?si=ug7XOiXcR5VcukHD" title="YouTube video player" frameborder="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="250px" src="https://www.youtube.com/embed/BwvygI2xKGM?si=ug7XOiXcR5VcukHD" title="YouTube video player" frameborder="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Your Initial Set of Circles
 ---------------------------
@@ -76,51 +76,51 @@ I now have over 600 people in my Google Plus+ social graph. All together my Circ
 **0.0 Read Later  
 0.1 Drafts  
 0.2 Book Project  
-0.3 iPad Project  
-  
-1.0 ALL KIN  
+0.3 iPad Project**  
+
+**1.0 ALL KIN  
 1.1 Immediate Family  
-1.2 Extended Family  
+1.2 Extended Family**  
   
-2.0 ALL KITH  
+**2.0 ALL KITH  
 2.1 Close Friends  
 2.2 Old But Distant Friends  
-2.3 Distant Family  
+2.3 Distant Family**  
   
-3.0 ALL PEERS  
+**3.0 ALL PEERS  
 3.2 Collaborators  
 3.3 Current Professional Colleagues  
-3.4 Former Professional Colleagues  
+3.4 Former Professional Colleagues**
   
-4.0 ALL LOCAL  
+**4.0 ALL LOCAL  
 4.1 Local Kith, Kin & Peers  
 4.2 Local Berkeley  
 4.3 Non-Local Seattle  
-4.3 Non-Local Portland  
+4.3 Non-Local Portland**
   
-5.0 ALL GROUPS & INTERESTS  
+**5.0 ALL GROUPS & INTERESTS  
 5.1 Entrepreneurs  
 5.2 Apple & iOS  
 5.3 - iOSDevCamp  
 5.4 Green & Sustainability  
 5.5 - BGIedu  
 5.6 Social Web  
-5.7 - Jerry’s Kids  
+5.7 - Jerry’s Kids**
   
-6.0 ACQUAINTANCES  
+**6.0 ACQUAINTANCES  
 6.1 Familiar Strangers  
-6.2 Friendly Strangers  
+6.2 Friendly Strangers** 
   
-7.0 FOLLOWS ME  
+**7.0 FOLLOWS ME  
 7.1 Core Audience  
-7.2 Commented or Shared My Posts  
+7.2 Commented or Shared My Posts** 
   
-8.0 WATCHING  
+**8.0 WATCHING  
 8.2 Pundits  
 8.3 Celebrities  
-8.4 Noisy  
-  
-9.0 ALL  
+8.4 Noisy** 
+ 
+**9.0 ALL  
 9.1 Everyone But Pundits, Celebrities & Noisy  
 9.2 Read Daily  
 9.3 Read Weekly**
