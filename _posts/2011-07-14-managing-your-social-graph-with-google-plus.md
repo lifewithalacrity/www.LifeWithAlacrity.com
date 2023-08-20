@@ -24,7 +24,7 @@ Pete Pachal, news director of [@PCMag](http://www.pcmag.com/article2/0,2817,2387
 
 Circles are lists that you’ve created by grouping people together and giving them a name. They’re important in Google+ because when you post you must explicitly say which “Circles” you wish to share with. Posting to a limited list of people is a big change from existing social networks such as Facebook, where posts are sent to all mutual friends by default, or Twitter, where posts are public. This change forces you to think more deeply about your social graph and who should see each item you post.
 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/BwvygI2xKGM?si=ug7XOiXcR5VcukHD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="250" src="https://www.youtube.com/embed/BwvygI2xKGM?si=ug7XOiXcR5VcukHD" title="YouTube video player" frameborder="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Your Initial Set of Circles
 ---------------------------

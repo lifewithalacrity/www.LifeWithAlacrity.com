@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: posts
 title:  Persuasion, Influence, Bias, Intuitive Errors
 date:   2010-10-13 11:28:12 -0700
 # image:  02.jpg
 # tags:   Social
 ---
 
-motivated reasoning
+Motivated reasoning
 
 social influence: simplicity, perceived self-interest, incongruity, confidence, empathy
 
