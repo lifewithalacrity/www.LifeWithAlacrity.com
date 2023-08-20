@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  A Relationship With Work
 date:   2011-12-27 20:28:37 -0700
 # image:  02.jpg
