@@ -55,9 +55,13 @@ After Shannon and I wrote our Rating Systems article, I examined the ratings in 
 
 So over the last few months I've completely revamped my iTunes ratings. Since I can't change the user interface, I've changed my behavior. I'm also taking advantage of two other fields: "checked" which I use to give more distinctiveness to my ratings, and "play count" which shows whether or not I've listened to something through to the end.
 
+![Alt text](image-2.png)
+
+![Alt text](image-3.png)
+
 Here are the criteria I used:
 
-**Rated 5 - Exemplars** ![Myrating_5_checked](https://web.archive.org/web/20080219224023im_/http://lifewithalacrity.blogs.com/photos/uncategorized/myrating_5_checked.png): Only my most favorite songs are rated 5. They have to meet the following criteria: they make me feel good or excite me no matter how often I listen to them, I can typically listen to them often without getting tired of them, and they are the best of their particular genre.
+**Rated 5 - Exemplars** ![Myrating_5_checked](image-2.png): Only my most favorite songs are rated 5. They have to meet the following criteria: they make me feel good or excite me no matter how often I listen to them, I can typically listen to them often without getting tired of them, and they are the best of their particular genre.
 
 **Rated 4 - Great ![Myrating_4_checked](https://web.archive.org/web/20080219224023im_/http://lifewithalacrity.blogs.com/photos/uncategorized/myrating_4_checked.png):** There is only a small difference between a song that is rated 4 and 5 in my ratings -- typically it doesn't excite me or make me smile quite as much, or it isn't necessarily an exemplar of its genre. However, I still can typically listen to them often without getting tired of them. Items that are rated 4 and 5 are ones that I carry on my iPod Shuffle.
 
