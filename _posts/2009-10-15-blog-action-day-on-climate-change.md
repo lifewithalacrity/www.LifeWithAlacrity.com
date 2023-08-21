@@ -8,8 +8,6 @@ date:   2009-10-15 23:59:37 -0700
 # image:  02.jpg
 # tags:   Home
 ---
-[![](http://www.blogactionday.org/imgs/badges/bad-180-150.jpg)](http://www.blogactionday.org)
-
 Late this evening while catching up on my feeds, I saw for the first time that this year's [Blog Action Day](http://site.blogactionday.org/) is on the topic of [Climate Change](http://site.blogactionday.org/general/8-great-climate-change-resources-for-your-blog-action-day-post/). This event is sponsored yearly by [Change.org](http://www.change.org/). I wish I had known earlier as this would have been a great exercise for my sustainable MBA students at BGI.edu, as they are all creating their blogs this week for my [class](/2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu.html) "Using the Social Web for Social Change".
 
 This is now the second time this week that a significant event on this topic has slipped by me. Apparently on Monday the 19th there will be a [Social Media for Sustainability Conference](http://www.socialmediacsr.com/) in San Francisco, that seems to have a really good [list of speakers](http://www.socialmediacsr.com/speakers.html). But I only heard about it yesterday.
