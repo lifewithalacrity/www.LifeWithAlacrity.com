@@ -98,17 +98,23 @@ Modifying my rating system in this way has caused my average rating for music to
 Obviously rating a large music collection can become a chore -- you don't want to spend your limited music listening time always fine tuning your ratings. So I have some approaches that make it easier for me to rate my music with less effort:
 
 * First, I sorted my catalog by my old ratings, and modified everything down by 1, Starting with everything rated 2 becoming 1, 3 becoming 2, etc. This gave me a good base to start with
-    
+
+<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/exemplar_smart_playlist.png"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/exemplar_smart_playlist.png" alt="Exemplar_smart_playlist"/></a>
+
 *  Next I created Smart Playlists for each rating, i.e. "Rating 5 - Exemplar" with "Match only checked songs" and "Live updating" checked. I then added "Play Count" as a column to my view, and sorted by it. This gave me the songs that I played the most and least, and I adjusted some songs up and down accordingly.
-[![Exemplar_smart_playlist](../assets/images/exemplar_smart_playlist.png)](http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/exemplar_smart_playlist.png)
-    
+
+
+ <a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/plays_well_with_others_smart_playlist.png"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/plays_well_with_others_smart_playlist.png" alt="Plays_well_with_others_smart_playlist"/></a>
+
 *  Then I created a new Smart Playlist that simply plays songs rated 3 to 5, limiting the list to the first 100 GB selected by random (i.e. everything random), and saved this Smart Playlist as "Plays Well With Others". I play this on occasion in the background, and when I hear something that jars me I know something isn't rated right. Thus without a lot of effort I can change ratings for songs that no longer fit their rating, or uncheck items where the rating was appropriate but it "didn't play well with others".
-[![Plays_well_with_others_smart_playlist](../assets/images/plays_well_with_others_smart_playlist.png)](http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/plays_well_with_others_smart_playlist.png)
+
     
 * I try to be aware when I'm using my iPod of what a songs rating is, and change it if it seems wrong. The next time I sync the iPod my ratings will be adjusted in my iTunes catalog.
     
+<img width="300px" height="auto" style=" margin-right:15px" align="right"  src="../assets/images/play_count.png" alt="Play Count"/>
+
 * I also try to be aware of Play Count -- this number only goes up if you play a song to the end. So even if I'm not able to take a look at the rating (for instance when I'm in a car), I can at least forward to the next song. Periodically I review the play counts for songs that I've rated and consider moving them up and down accordingly. Of course, this means that I have to be careful and not let the iPod keep running when I'm not listening.
-![Play_count](../assets/images/play_count.png)
+
     
 
 A tip for those of you that do put a lot of effort into your iTunes ratings: I've learned the hard way that unlike most song information, the rating is **NOT** stored in the song itself, so if your iTunes database gets corrupted, or you move your music to another server, you'll lose all your ratings. One way to avoid this is to periodically backup your ratings into a field that is stored in the song itself. I personally use the "Grouping" field as it is rarely used, select all songs with the same rating and click on "Get Info", and change the Grouping field to "My Rating: 5 Stars".
@@ -121,8 +127,9 @@ Amazon also uses a 5-Star rating system, and your ratings can be used by Amazon 
 
 Amazon has a number of different tools to assist you in your ratings. If you are an Amazon customer, you can go to [Improve Your Recommendations: Edit Items You Own](http://www.amazon.com/gp/yourstore/iyr/?ie=UTF8&collection=owned) and see all the books that you've purchased and quickly rate them with a nice AJAX interface. You can also review items that you've already rated, whether or not you own them, at [Improve Your Recommendations: Edit Items You've Rated](http://www.amazon.com/gp/yourstore/iyr/?ie=UTF8&collection=rated).
 
+<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/amazon_your_media_library.png"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/amazon_your_media_library.png" alt="Amazon_your_media_library"/></a>
  Amazon has also recently added a very nice web service called [Your Media Library](http://www.amazon.com/gp/library/) that can be used to help manage your media library of books, music, and dvds. I personally only have used it to manage my books and dvds, as I find rating albums useless -- it is songs that I prefer to rate.
- [![Amazon_your_media_library](../assets/images/amazon_your_media_library.png)](http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/amazon_your_media_library.png)
+
 
 After browsing through my ratings to date, I discovered the same flaws I found iTunes -- my ratings typically were too high; most were a 4. This is particularly encouraged by the popup when your cursor is over the Stars "1 - I hate it, 2 - I don't like it, 3 - It's Ok, 4 - I like it, and 5 - I love it". I suspect if I use the same trick that I use for iTunes of making a rating of 2 Stars mean "Ok" I could potentially cause the recommendation engine to be less effective (though it could possibly make it better, I don't know). So I am being much more brutal with my ratings and pushing many more down to 3, so that my ratings of 4 and 5 have more meaning.
 
