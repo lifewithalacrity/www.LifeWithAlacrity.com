@@ -29,9 +29,12 @@ In this article we're going to step through the data we've collected from this e
 
 ### The RPGnet Reviews System
 
-[![Rpgnetlogo_1](/previous/photos/uncategorized/rpgnetlogo_1.gif "Rpgnetlogo_1")](http://www.rpg.net) RPGnet is our gaming site for tabletop roleplaying—games like _Dungeons & Dragons_ and _Vampire: The Masquerade_. We purchased it in 2001 from the original owners. One of the benefits of RPGnet was that it had a very large community. As of today it sports one of the top-100 forums on the Internet, with over 1000 simultaneous users regularly logging in. However, because of its maturity, we also inherited many existing systems.
+<a href="http://www.rpg.net/"><img width="150px" style=" margin-right:15px" align="left"  src="../assets/images/rpgnetlogo_1.gif" alt="RPGnet"/></a>
 
-[![Rpgnet_review_summary_1](/previous/photos/uncategorized/rpgnet_review_summary_1.jpg "Rpgnet_review_summary_1")](http://www.rpg.net/reviews/archive/9/9971.phtml) One of these was the [RPGnet Reviews System](http://www.rpg.net/reviews/) which gave individual users the ability to review gaming products—mostly role-playing games, but also board games, books, DVDs, and a smattering of related products.
+RPGnet is our gaming site for tabletop roleplaying—games like _Dungeons & Dragons_ and _Vampire: The Masquerade_. We purchased it in 2001 from the original owners. One of the benefits of RPGnet was that it had a very large community. As of today it sports one of the top-100 forums on the Internet, with over 1000 simultaneous users regularly logging in. However, because of its maturity, we also inherited many existing systems.
+
+<a href="http://www.rpg.net/reviews/archive/9/9971.phtml"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/catan5-1.jpg" alt="Circle of Hands"/></a>
+ One of these was the [RPGnet Reviews System](http://www.rpg.net/reviews/) which gave individual users the ability to review gaming products—mostly role-playing games, but also board games, books, DVDs, and a smattering of related products.
 
 Most of these reviews are submitted by average readers who just want to talk about a product that they like (or don't), though a fair percentage are instead submitted by staff reviewers. (Overall at least 26% of our reviews are based on publisher "comp" copies, and thus may be considered largely professional, while the other 74% may or may not be.) The large community size of RPGnet applies to the Reviews System as well: currently it features 8,505 published reviews.
 
@@ -248,6 +251,10 @@ URL: 0-10 scale is too large for most relevant human ratings systems. maybe i sh
 
 [Grumpy](#) 2007-12-18T10:24:24-07:00
 
-[original layout](/previous/2007/01/collective_choi.html)
+original layout
 
 [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [rating](/tags/rating/) [review](/tags/review/) [ratings](/tags/ratings/) [collective choice](/tags/collective-choice/) [selection system](/tags/selection-system/) [statistics](/tags/statistics/) [bayesian](/tags/bayesian/) [rpg](/tags/rpg/) [gaming index](/tags/gaming-index/) [user content](/tags/user-content/)
+
+Life With Alacrity
+
+© Christopher Allen
