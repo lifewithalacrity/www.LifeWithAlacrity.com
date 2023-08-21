@@ -33,7 +33,7 @@ In this article we're going to step through the data we've collected from this e
 
 RPGnet is our gaming site for tabletop roleplaying—games like _Dungeons & Dragons_ and _Vampire: The Masquerade_. We purchased it in 2001 from the original owners. One of the benefits of RPGnet was that it had a very large community. As of today it sports one of the top-100 forums on the Internet, with over 1000 simultaneous users regularly logging in. However, because of its maturity, we also inherited many existing systems.
 
-<a href="http://www.rpg.net/reviews/archive/9/9971.phtml"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/catan5-1.jpg" alt="Circle of Hands"/></a>
+<a href="http://www.rpg.net/reviews/archive/9/9971.phtml"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/rpgnet_review_summary_1.jpg" alt="Circle of Hands"/></a>
  One of these was the [RPGnet Reviews System](http://www.rpg.net/reviews/) which gave individual users the ability to review gaming products—mostly role-playing games, but also board games, books, DVDs, and a smattering of related products.
 
 Most of these reviews are submitted by average readers who just want to talk about a product that they like (or don't), though a fair percentage are instead submitted by staff reviewers. (Overall at least 26% of our reviews are based on publisher "comp" copies, and thus may be considered largely professional, while the other 74% may or may not be.) The large community size of RPGnet applies to the Reviews System as well: currently it features 8,505 published reviews.
@@ -169,8 +169,18 @@ Here's what the categories in the above chart represent:
 Our average rating—which is our criteria for success—decreased somewhat from the Reviews System to the Gaming Index and it decreased much more dramatically when we introduced our trust systems.
 
 The following chart shows the a typical example of how review and index ratings differ, using the venerable _Dungeons & Dragons Player's Handbook_ as an example:
+<style>
+.photos{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px
+}
+</style>
+<div class="photos">
+<a href="https://web.archive.org/web/20080219224023/http://index.rpg.net/display-entry-ratings.phtml?mainid=72"><img width="300px" style=" margin-right:15px"   src="../assets/images/dd_players_handbook_rpgnet_reviews_only.jpg" alt="Circle of Hands"/></a>
 
-[![Dd_players_handbook_rpgnet_reviews_only](/previous/photos/uncategorized/dd_players_handbook_rpgnet_reviews_only.jpg "Dd_players_handbook_rpgnet_reviews_only")![Dd_players_handbook_index_ratings_only](/previous/photos/uncategorized/dd_players_handbook_index_ratings_only.jpg "Dd_players_handbook_index_ratings_only")](http://index.rpg.net/display-entry-ratings.phtml?mainid=72)
+<a href="https://web.archive.org/web/20080219224023/http://index.rpg.net/display-entry-ratings.phtml?mainid=72"><img width="300px" style=" margin-right:15px"  src="../assets/images/dd_players_handbook_index_ratings_only.jpg" alt="Circle of Hands"/></a>
+</div>
 
 For this book the median ratings from reviews-only is 8, and the median from index-only is 7. A one-to-two point drop in median rating from reviews to index was consistent in all of our most-rated games other than those which were a rated a "10" in both places.
 
