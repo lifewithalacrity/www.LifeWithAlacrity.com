@@ -8,6 +8,11 @@ date:   2006-08-31 11:52:49 -0700
 image:  stars_1.gif
 # tags:   Social Software rating system
 ---
+
+August 11 2006 \- 4000 Words
+
+by [Christopher Allen](/about)
+
 In [Collective Choice: Rating Systems](/2005/12/collective_choi.html) I discuss ratings scales of various sorts, from eBay's 3-point scale to RPGnet's double 5-point scale, and BoardGame Geek's 10-point scale.
 
 <a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/stars_1.gif" alt="Circle of Hands"/></a>
