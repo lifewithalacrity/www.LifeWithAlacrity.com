@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "Collective Choice:Experimenting with "Ratings"
-slug:  "Collective Choice:Experimenting with "Ratings"
+title:  "Collective Choice:Experimenting with Ratings"
+slug:  "Collective Choice:Experimenting with Ratings"
 redirect_from:
   - /2007/01/collective_choi/
 date:   2007-01-01 22:38:15 -0700

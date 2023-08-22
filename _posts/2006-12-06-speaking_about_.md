@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Speaking about SynchroEdit at WikiWednesday"
-slug: title:  "Speaking about SynchroEdit at WikiWednesday"
+slug:   "Speaking about SynchroEdit at WikiWednesday"
 redirect_from:
   - /2006/12/speaking_about_/
 date:   2006-12-06 14:34:38 -0700
