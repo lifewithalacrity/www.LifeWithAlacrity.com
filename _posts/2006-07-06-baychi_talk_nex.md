@@ -19,9 +19,11 @@ The synopsis of my topic is:
 
 Michael H. Goldhaber will be speaking on:
 
-><a href="https://web.archive.org/web/20080219224023/http://www.parc.com/about/directions.html"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/maptoparc.gif" alt="Circle of Hands"/></a> 
+<a href="https://web.archive.org/web/20080219224023/http://www.parc.com/about/directions.html"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/maptoparc.gif" alt="maptoparc"/></a>
 
-**The Real Nature of the Emerging Attention Economy: Seen As a New Level in the Massively Multiplayer Game Known as Western Culture:**  
+
+>**The Real Nature of the Emerging Attention Economy: Seen As a New Level in the Massively Multiplayer Game Known as Western Culture:**  
+>
 > Think of the human world as a Massively Multiple Interactive Game (which it is). As interactions change and increase, we are passing to a new level, something that hasn’t really happened to the same depth for centuries. The rules, fundamental values, and just about everything else are diverging from what was familiar in the level characterized by the exchange of Money, the prevalence of Markets and the dominance of Industrial production of standardized goods (call this MMI). The new level also depends on human abilities and desires, but now what matters most is our strictly limited abilities to pay attention and our much greater (on average) desires to receive it. The full passage will take many decades, but we are already well along.
 
 The location is at PARC's [George E. Pake Auditorium](http://www.baychi.org/program/directions/) in Palo Alto, and the talk starts at 7:30. There also an optional [dinner](http://www.baychi.org/calendar/20060711/dinner/) beforehand [nearby](http://www.californiacafe.com/palo_alto.php) at 5:30.
