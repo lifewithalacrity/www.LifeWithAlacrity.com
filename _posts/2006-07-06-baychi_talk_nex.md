@@ -6,7 +6,6 @@ image:  baychi_1.gif
 # tags:   Home
 ---
 
- July 6 2006 \- 400 Words
 
 by [Christopher Allen](/about)
 

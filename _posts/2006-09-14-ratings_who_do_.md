@@ -9,7 +9,7 @@ image:  shannon_appelcline.jpg
 # tags:   Software
 ---
 
-by [Christopher Allen](lwa/about)
+By [Christopher Allen](lwa/about)
 
 My colleague, [Shannon Appelcline](http://www.skotos.net/about/staff/shannon_appelcline.php), has been working on a game rating system for [RPGnet](http://www.rpg.net). This has resulted in real-world application of the principles for designing rating systems which we've previously discussed in our [Collective Choice](/2005/12/collective_choi.html) articles. Shannon's newest article, [Ratings, Who Do You Trust?](http://www.skotos.net/articles/TTnT_/TTnT_196.phtml) offers a look at weighting ratings based on reliability.
 
