@@ -6,6 +6,7 @@ date:   2006-01-31 18:17:47 -0700
 # tags:   Business
 ---
 
+By [Christopher Allen](lwa/about)
 
 In the last month or so I've received a number of links to Life With Alacrity as a venture capital blog, and to myself as a venture capitalist.
 

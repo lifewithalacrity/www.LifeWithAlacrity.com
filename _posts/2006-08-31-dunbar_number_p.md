@@ -9,6 +9,8 @@ image:  christopher_allen_sketch_at_meshforum_20.jpg
 # tags:   Home
 ---
 
+By [Christopher Allen](lwa/about)
+
 <a href="http://www.flickr.com/photos/davegray/147934089/"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/christopher_allen_sketch_at_meshforum_20.jpg" alt="Sketch by Dave Gray"/></a>
 
  Last May I did an abbreviated version of my [Dunbar Number](/2004/03/the_dunbar_numb.html) talk at MeshForum 2006. A MP3 podcast of that talk is now available at [IT Conversations](http://www.itconversations.com/shows/detail1072.html)[](http://www.itconversations.com/shows/detail1072.html) or can be [downloaded here (10mb)](http://www.itconversations.com/audio/download/itconversations-1072.mp3).

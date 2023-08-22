@@ -6,6 +6,8 @@ image:  cycle_of_flames.jpg
 # tags:   Home
 ---
 
+By [Christopher Allen](lwa/about)
+
 Cycle_of_flames I've been a moderator/host/forum leader for various bulletin boards and other online communities since the early 1980s; first on CompuServe, later on GEnie and AOL, and then professionally in the early days of Consensus Development. One of the behaviors that happens in online communities and that I rarely see elsewhere is flaming -- where one member writes an extremely inappropriate, typically passionately worded attack on another. Flaming behavior can hurt an online community.
 
 It is commonly thought that flames occur because "there is very little proper policing done on the Internet" but I believe this to be false. Instead, I believe that it is the consequence of the medium primarily existing as text.

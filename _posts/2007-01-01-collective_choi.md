@@ -1,7 +1,7 @@
 ---
 layout: posts
-title:  "Collective Choice:Experimenting with Ratings"
-slug:  "Collective Choice:Experimenting with Ratings"
+title:  "Collective Choice: Experimenting with Ratings"
+slug:  "Collective Choice: Experimenting with Ratings"
 redirect_from:
   - /2007/01/collective_choi/
 date:   2007-01-01 22:38:15 -0700
@@ -9,7 +9,7 @@ date:   2007-01-01 22:38:15 -0700
 # tags:   Home
 ---
 
-_**By Christopher Allen & Shannon Appelcline**_
+By [Christopher Allen & Shannon Appelcline](lwa/about)
 
 _\[This is the fourth in a series of articles on [collective choice](/2005/12/systems_for_col.html), co-written by my collegue [Shannon Appelcline](http://www.skotos.net/about/staff/shannon_appelcline). It will be [jointly posted](http://www.skotos.net/articles/TTnT_179.phtml) in Shannon's [Trials, Triumphs & Trivialities](http://www.skotos.net/articles/TTnT.shtml) online games column at [Skotos](http://www.skotos.net/).\]_
 
