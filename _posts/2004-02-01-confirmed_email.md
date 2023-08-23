@@ -2,7 +2,6 @@
 title: "Confirmed Email Privacy Hole at Orkut"
 slug: "Confirmed Email Privacy Hole at Orkut"
 redirect_from:
-  - redirect_from:
   - /2004/02/confirmed_email/
 date: 2004-02-01 17:12:22 -0700
 # image: 02.jpg
