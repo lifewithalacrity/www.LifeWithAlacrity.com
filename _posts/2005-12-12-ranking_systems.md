@@ -2,6 +2,8 @@
 layout: posts
 title:  "Collective Choice: Competitive Ranking Systems"
 slug:  "Collective Choice: Competitive Ranking Systems"
+redirect_from:
+  - /2006/01/ranking_systems/
 date:   2006-01-03 23:37:09 -0700
 image:  bcs_1.png
 # tags:   Web/Tech
@@ -21,7 +23,7 @@ This time we're going to dig more into _comparison ranking systems_, by focusing
 In our original article we discussed [rating systems](/2005/12/collective_choi.html) as being largely subjective and ranking systems as being objective, but the situation isn't nearly as simple as that. In truth, there's a clear spectrum of ratings and rankings with varying amounts of subjectivity and objectivity in each collective choice system.
 
 <a href="https://web.archive.org/web/20080219224023/http://www.bcsfootball.org/"><img width="150px" style=" margin-right:15px" align="left"  src="../assets/images/bcs_1.png" alt="bcs_1"/></a> (BCS) for college football is a good example of a ranking system that explicitly allows a subjective component. It involves a complex mathematical formula that includes things like win/loss ratios, but also sportswriters' and coaches' ratings.
-<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/golfrankings_1.png" alt="golfrankings"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://www.officialworldgolfranking.com/"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/golfrankings_1.png" alt="golfrankings"/></a>
 
 However, public opinion continues to show that people don't necessarily like seeing true ranking systems having subjective components, because they expect them to be "fair". The BCS formula has come under attack several times in the last few years precisely due to its subjective basis. Cal Berkeley was one of several teams denied a bowl position in 2004 when many felt that they were worthy.
 
