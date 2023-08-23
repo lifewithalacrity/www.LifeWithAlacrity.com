@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Confirmed Email Privacy Hole at Orkut"
 slug: "Confirmed Email Privacy Hole at Orkut"
 redirect_from:
