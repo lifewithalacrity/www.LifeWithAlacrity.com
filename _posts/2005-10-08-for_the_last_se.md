@@ -44,7 +44,7 @@ URL: I'm curious about what ways you think this could be useful as a teaching ai
 
 [yardi](#) 2005-11-16T11:00:54-07:00
 
-[original layout](/previous/2005/10/for_the_last_se.html)
+original layout
 
 [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [Wiki](/tags/wiki/) [synchroedit](/tags/synchroedit/) [simultaneous editor](/tags/simultaneous-editor/) [web editor](/tags/web-editor/) [collaboration](/tags/collaboration/) [same-time](/tags/same-time/) [open source](/tags/open-source/) [alpha](/tags/alpha/) [demo](/tags/demo/) [mozilla](/tags/mozilla/) [firefox](/tags/firefox/) [subethaedit](/tags/subethaedit/) [moonedit](/tags/moonedit/) [gobby](/tags/gobby/) [web2point1](/tags/web2point1/) [for comment](/tags/for-comment/) [jotlive](/tags/jotlive/) [socialtext](/tags/socialtext/) [joichi ito](/tags/joichi-ito/) [kalle alm](/tags/kalle-alm/)
 

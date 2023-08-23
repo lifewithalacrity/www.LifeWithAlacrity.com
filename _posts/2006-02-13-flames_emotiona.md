@@ -89,6 +89,6 @@ At http://brudnopis.blogspot.com/2006/04/one-email-per-day-moderation-scheme.htm
 
 [Zbigniew Lukasiak](http://brudnopis.blogspot.com/) 2006-05-19T01:50:42-07:00
 
-[original layout](/previous/2006/02/flames_emotiona.html)
+original layout
 
 [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [social software](/tags/social-software/) [moderation](/tags/moderation/) [flame](/tags/flame/) [flames](/tags/flames/) [flaming](/tags/flaming/) [behavior](/tags/behavior/) [psychology](/tags/psychology/) [sociology](/tags/sociology/) [online community](/tags/online-community/) [emotion](/tags/emotion/) [overinterpretation](/tags/overinterpretation/) [amplification](/tags/amplification/) [text](/tags/text/).

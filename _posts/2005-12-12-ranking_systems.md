@@ -249,7 +249,7 @@ This article is a great survey of the subject! I'm working on the PvP ranking sy
 
 [Matthew Weigel](http://ncanson.livejournal.com/) 2008-01-31T09:55:58-07:00
 
-[original layout](/previous/2006/01/ranking_systems.html)
+original layout
 
 [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [ranking](/tags/ranking/) [competition](/tags/competition/) [collective choice](/tags/collective-choice/) [algorithmic ranking](/tags/algorithmic-ranking/) [elo](/tags/elo/) [days of wonder](/tags/days-of-wonder/) [ticket to ride](/tags/ticket-to-ride/) [xbox 360](/tags/xbox-360/) [xbox live](/tags/xbox-live/) [trueskill](/tags/trueskill/) [statistics](/tags/statistics/) [uncertainty](/tags/uncertainty/) [a tale in the desert](/tags/a-tale-in-the-desert/) [egenesis](/tags/egenesis/) [egenesis ranking system](/tags/egenesis-ranking-system/) [social network](/tags/social-network/) [ranking goals](/tags/ranking-goals/) [heirarchy](/tags/heirarchy/) [matching](/tags/matching/) [handicap](/tags/handicap/) [handicapping](/tags/handicapping/) [tourney](/tags/tourney/) [tournament](/tags/tournament/) [threshold](/tags/threshold/) [single-elimination](/tags/single-elimination/) [double-elimination](/tags/double-elimination/) [psuedo-double-elimination](/tags/psuedo-double-elimination/) [face-off](/tags/face-off/) [round-robin](/tags/round-robin/) [go](/tags/go/) [chess](/tags/chess/) [bridge](/tags/bridge/) [football](/tags/football/) [golf](/tags/golf/) [grand master](/tags/grand-master/) [grandmaster](/tags/grandmaster/) [life master](/tags/life-master/)
 

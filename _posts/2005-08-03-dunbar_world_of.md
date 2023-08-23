@@ -89,7 +89,7 @@ URL: hi!can you help me with sth?? i want to make faster lvl can you help me plz
 
 [oday](#) 2006-11-09T06:13:06-07:00
 
-[original layout](/previous/2005/08/dunbar_world_of.html)
+original layout
 
 [Games](/tags/games/) [Recreation](/tags/recreation/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [group sizes](/tags/group-sizes/) [ultima online](/tags/ultima-online/) [worlds of warcraft](/tags/worlds-of-warcraft/) [nick yee](/tags/nick-yee/) [online games](/tags/online-games/) [guilds](/tags/guilds/) [band](/tags/band/) [tribe](/tags/tribe/)
 

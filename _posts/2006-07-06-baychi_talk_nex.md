@@ -35,6 +35,6 @@ Great talk at PARC Chris! I thoroughly enjoyed it and it's related to some of my
 
 [GadgetMan](http://www.the-gadgetman.com/blog) 2006-07-11T21:27:45-07:00
 
-[original layout](/previous/2006/07/baychi_talk_nex.html)
+original layout
 
 [Social Software](/tags/social-software/) [talk](/tags/talk/) [baychi](/tags/baychi/) [acm](/tags/acm/) [sigchi](/tags/sigchi/) [dunbar number](/tags/dunbar-number/) [group size](/tags/group-size/) [unstructured trust](/tags/unstructured-trust/) [scale](/tags/scale/) [michael h. goldhaber](/tags/michael-h.-goldhaber/) [attention economy](/tags/attention-economy/)

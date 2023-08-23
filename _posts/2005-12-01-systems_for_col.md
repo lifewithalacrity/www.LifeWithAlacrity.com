@@ -201,7 +201,7 @@ Will you cover, in a future post the forced choice vote? I'd welcome learning ab
 
 [Kare](http://profile.typekey.com/kareanderson/) 2008-12-30T13:37:36-07:00
 
-[original layout](/previous/2005/12/systems_for_col.html)
+original layout
 
 [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [collective choice](/tags/collective-choice/) [social choice](/tags/social-choice/) [selection](/tags/selection/) [opinion](/tags/opinion/) [comparison](/tags/comparison/) [voting](/tags/voting/) [rules](/tags/rules/) [representation](/tags/representation/) [deliberation](/tags/deliberation/) [polling](/tags/polling/) [tactical voting](/tags/tactical-voting/) [democracy](/tags/democracy/) [robert's rules of order](/tags/roberts-rules-of-order/) [rating](/tags/rating/) [ranking](/tags/ranking/) [delphic poll](/tags/delphic-poll/) [exit poll](/tags/exit-poll/) [voting systems](/tags/voting-systems/) [voting system attacks](/tags/voting-system-attacks/) [voting system criteria](/tags/voting-system-criteria/)
 

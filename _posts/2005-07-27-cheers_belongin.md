@@ -70,7 +70,7 @@ What about characters in books? Should I stop reading the Diskworld series?
 
 [Ford](http://blog.lib.umn.edu/denis036/thisweekinevolution/) 2008-02-01T10:20:18-07:00
 
-[original layout](/previous/2005/07/cheers_belongin.html)
+original layout
 
 [Community by the Numbers](/tags/community-by-the-numbers/) [Recreation](/tags/recreation/) [Social Software](/tags/social-software/) [Television](/tags/television/) [para-social](/tags/para-social/) [relationships](/tags/relationships/) [belongingness](/tags/belongingness/) [needs](/tags/needs/) [jun relationships](/tags/jun-relationships/) [social software](/tags/social-software/) [social emotions](/tags/social-emotions/) [connections](/tags/connections/) [television](/tags/television/) [movies](/tags/movies/) [viewing](/tags/viewing/) [dunbar number](/tags/dunbar-number/) [limits](/tags/limits/) [cheers](/tags/cheers/) [jake halpern](/tags/jake-halpern/) [npr](/tags/npr/) [all things considered](/tags/all-things-considered/) [baumeister & leary](/tags/baumeister-leary/) [horton & wohl](/tags/horton-wohl/)
 
