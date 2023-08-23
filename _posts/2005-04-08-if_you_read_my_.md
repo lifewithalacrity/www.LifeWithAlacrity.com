@@ -36,7 +36,7 @@ I was delighted to see that your first del.icio.us posting linked to W. Ross Ash
 
 [woccam](http://www.woccam.com/) 2005-08-04T16:53:14-07:00
 
-[original layout](/previous/2005/04/if_you_read_my_.html)
+original layout
 
 [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [bookmark annotate blog aggregator del.icio.us web service sidebar javascript rss digest feed](/tags/bookmark-annotate-blog-aggregator-del.icio.us-web-service-sidebar-javascript-rss-digest-feed/)
 
