@@ -80,12 +80,12 @@ EIES was the first major implementation of collaborative software. In a [paper](
 
 > _"Basically the Delphi Conference appears to have utility when one or more of the following conditions were met:_
 > 
-> > * _the group cannot meet often enough in committee to give adequate timely consideration to the topic because of time or distance constraints_
-> > * _there is a specific reason to preserve the anonymity of the conferees (e.g., refereeing of position papers or a free exchange among different levels in an organizational structure)_
-> > * _the group is too large for an effective conference telephone call or committee exchange_
-> > * _the group is interdisciplinary to the extent that a structured or refereed communication mode as opposed to a committee or panel approach is more desirable in promoting an efficient exchange of information_
-> > * _telephone and letter communications, on a one-to-one basis, are insufficient or too cumbersome to augment the particular committee activity_
-> > * _disagreement among members of the group are too severe for a meaningful committee of face-to-face process for the exchange of views and information._
+>  * _the group cannot meet often enough in committee to give adequate timely consideration to the topic because of time or distance constraints_
+>  * _there is a specific reason to preserve the anonymity of the conferees (e.g., refereeing of position papers or a free exchange among different levels in an organizational structure)_
+>  * _the group is too large for an effective conference telephone call or committee exchange_
+>  * _the group is interdisciplinary to the extent that a structured or refereed communication mode as opposed to a committee or panel approach is more desirable in promoting an efficient exchange of information_
+>  * _telephone and letter communications, on a one-to-one basis, are insufficient or too cumbersome to augment the particular committee activity_
+>  * _disagreement among members of the group are too severe for a meaningful committee of face-to-face process for the exchange of views and information._
 
 You can see from this list that EIES pioneered many of the concepts of BBS- style community software that we see today. Ultimately EIES featured threaded-replies, anonymous messages, polling, etc. Also, note the early importance of trying to understand groups so that you can optimize for the best group process.
 

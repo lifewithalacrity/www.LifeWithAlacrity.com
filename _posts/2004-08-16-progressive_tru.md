@@ -1,11 +1,15 @@
 ---
-layout: post
-title: Progressive Trust
+layout: posts
+title: "Progressive Trust"
+slug: "Progressive Trust"
+redirect_from:
+  - /2004/08/progressive_tru/
 date:   2004-08-16 23:42:15 -0700
 # image:  02.jpg
 # tags:   Home
 ---
 
+By [Christopher Allen](/about)
 
 I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.
 
@@ -43,13 +47,22 @@ But SSL starts out very simple--first it just connects two parties, then it esta
 
 Thus progressive trust is a useful conceptual model for understanding how trust might be built using online tools. Look at the tools that you are using now -- do they support various levels of trust, and a natural path between them? Or is trust more binary -- someone is only trusted, or not trusted. Are there implicit levels of progressive trust that are part of the culture of your group that might not embodied in the software itself?
 
-Progressive trust also maps well to an user-interface design technique called Progressive Disclosure. It sequences information and actions across several different windows in order not overwhelm the user. You disclose basic information and choices first, then revealing progressively more complex information and choices. Thus you help the user manage the complexity of the application. Navigating group interactions and culture is also complex, thus progressive trust allows you to hide some of initial complexity of the trust model behind your tools, and thus lower barriers of entry to your software.
+Progressive trust also maps well to an user-interface design technique called [Progressive Disclosure](http://c2.com/cgi/wiki?ProgressiveDisclosure). It sequences information and actions across several different windows in order not overwhelm the user. You disclose basic information and choices first, then revealing progressively more complex information and choices. Thus you help the user manage the complexity of the application. Navigating group interactions and culture is also complex, thus progressive trust allows you to hide some of initial complexity of the trust model behind your tools, and thus lower barriers of entry to your software.
 
-Comments
-Ash Maurya's thought provoking Venn diagram in "Beyond Social Networking" (see [wiredjournal](http://www.wiredjournal.com/archives/000008.html){:target="_blank"} lists a number of modes or contexts that enable trust buildig in a relationship.
+### Comments
 
-Sean Murphy 2004-08-20T00:42:48-07:00
-Very cogent post, Christopher. I think you've hit upon what makes blogs so useful and novel in the computing world. I wrote a response in my own [blog](http://frassle.rura.org/christopherAllenGets){:target="_blank"}
+Ash Maurya's thought provoking Venn diagram in "Beyond Social Networking" (see http://www.wiredjournal.com/archives/000008.html) lists a number of modes or contexts that enable trust buildig in a relationship.
 
-Shimon Rura 2004-08-26T08:39:54-07:00
+[Sean Murphy](http://www.skmurphy.com/) 2004-08-20T00:42:48-07:00
+
+Very cogent post, Christopher. I think you've hit upon what makes blogs so useful and novel in the computing world. I wrote a response in my own blog: http://frassle.rura.org/christopherAllenGets
+
+[Shimon Rura](http://frassle.rura.org/Directory/index?feed=1) 2004-08-26T08:39:54-07:00
+
 original layout
+
+[Business](/tags/business/) [Security](/tags/security/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [progressive trust](/tags/progressive-trust/) [groups](/tags/groups/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [behavior](/tags/behavior/) [confidentiality](/tags/confidentiality/) [credentials](/tags/credentials/) [authentications](/tags/authentications/) [SET](/tags/set/) [HTTPS](/tags/https/) [SSL](/tags/ssl/) [progressive disclosure](/tags/progressive-disclosure/)
+
+Life With Alacrity
+
+© Christopher Allen
