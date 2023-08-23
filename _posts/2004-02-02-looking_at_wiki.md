@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: posts
 title:  Looking at Wiki
+slug:  Looking at Wiki
 date:   2004-02-19 16:25:05 -0700
 # image:  02.jpg
 # tags:   Social

@@ -1,4 +1,5 @@
 ---
+layout: archieve
 title:  "The Dunbar Number as a Limit to Group Sizes"
 slug: "The Dunbar Number as a Limit to Group Sizes"
 redirect_from:
