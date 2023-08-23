@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Underestimating the Long Term"
 slug:  "Underestimating the Long Term"
 redirect_from:

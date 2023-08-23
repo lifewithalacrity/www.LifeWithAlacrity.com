@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "The Four Kinds of Privacy"
 slug:  "The Four Kinds of Privacy"
 redirect_from:

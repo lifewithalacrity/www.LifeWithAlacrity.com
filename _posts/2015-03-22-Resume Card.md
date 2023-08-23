@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Mini Resume Card for Conference Season"
 slug:  "Mini Resume Card for Conference Season"
 redirect_from:

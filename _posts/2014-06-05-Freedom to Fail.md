@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend”"
 slug:  "Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend”"
 redirect_from:

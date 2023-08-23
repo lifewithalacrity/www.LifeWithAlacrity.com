@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Trusted Traveler: Convenience over Privacy"
 slug:  "Trusted Traveler: Convenience over Privacy"
 redirect_from:

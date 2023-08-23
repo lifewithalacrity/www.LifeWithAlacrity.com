@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Some History of SSL Security Reviews"
 slug: "Some History of SSL Security Reviews"
 redirect_from:

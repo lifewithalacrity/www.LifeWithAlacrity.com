@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "10 Design Principles for Governing the Commons"
 slug:  "10 Design Principles for Governing the Commons"
 redirect_from:

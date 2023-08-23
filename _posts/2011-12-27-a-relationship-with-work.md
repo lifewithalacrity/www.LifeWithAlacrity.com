@@ -1,6 +1,9 @@
 ---
-layout: posts
-title:  A Relationship With Work
+layout: single
+title:  "A Relationship With Work"
+slug:  "A Relationship With Work"
+redirect_from:
+  - 
 date:   2011-12-27 20:28:37 -0700
 # image:  02.jpg
 # tags:   Home

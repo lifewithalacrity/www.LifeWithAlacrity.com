@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Speaking at Consensus 2015"
 slug: "Speaking at Consensus 2015"
 redirect_from:

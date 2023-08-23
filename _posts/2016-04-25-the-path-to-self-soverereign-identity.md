@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "The Path to Self-Sovereign Identity"
 slug: "The path to self soverereign Identity"
 redirect_from:

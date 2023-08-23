@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "General Advice about the Heartbleed Bug in SSL"
 redirect_from:
   - /2014/04/general-advice-about-the-heartbleed-bug-in-ssl/

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Introduction to the Social Web (Reading List#SW4SX)"
 slug:  "Introduction to the Social Web (Reading List#SW4SX)"
 redirect_from:

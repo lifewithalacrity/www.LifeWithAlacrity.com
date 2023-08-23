@@ -1,6 +1,9 @@
 ---
-layout: posts
-title:  Manage the Environment, Not the People
+layout: single
+title:  "Manage the Environment, Not the People"
+slug:  "Manage the Environment, Not the People"
+redirect_from:
+  - 
 date:   2011-12-27 20:21:08 -0700
 # image:  02.jpg
 # tags:   Weblogs

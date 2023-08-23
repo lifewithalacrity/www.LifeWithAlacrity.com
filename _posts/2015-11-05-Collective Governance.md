@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "A Revised “Ostrom’s Design Principles for Collective Governance of the Commons"
 slug:  "A Revised “Ostrom’s Design Principles for Collective Governance of the Commons"
 redirect_from:

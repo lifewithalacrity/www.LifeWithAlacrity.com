@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Deep Context Shared Languages"
 slug:  "Deep Context Shared Languages"
 redirect_from:

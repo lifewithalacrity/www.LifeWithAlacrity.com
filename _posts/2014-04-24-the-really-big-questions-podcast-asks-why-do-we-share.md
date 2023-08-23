@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "“The Really Big Questions” Podcast Asks “Why Do We Share?”"
 slug:  "“The Really Big Questions” Podcast Asks “Why Do We Share?”"
 redirect_from:

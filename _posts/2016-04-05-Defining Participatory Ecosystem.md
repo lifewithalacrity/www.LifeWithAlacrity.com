@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!"
 slug: "Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!"
 redirect_from:

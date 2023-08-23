@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Is the Sharing Economy Changing Our Culture of Trust?"
 slug:  "Is the Sharing Economy Changing Our Culture of Trust?"
 redirect_from:

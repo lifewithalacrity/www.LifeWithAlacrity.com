@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Tools for Ignition & HyperCard’s 25th Anniversary"
 slug:  "Tools for Ignition & HyperCard’s 25th Anniversary"
 redirect_from:

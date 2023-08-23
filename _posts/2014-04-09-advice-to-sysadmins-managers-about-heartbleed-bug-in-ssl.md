@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Advice to SysAdmins & Managers about Heartbleed Bug in SSL"
 slug:  "Advice to SysAdmins & Managers about Heartbleed Bug in SSL"
 redirect_from:

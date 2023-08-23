@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "“Harmonic” on Pantheon Steel XXD Halo Hand Pan at BGIedu Intensive"
 slug:  "“Harmonic” on Pantheon Steel XXD Halo Hand Pan at BGIedu Intensive"
 redirect_from:
