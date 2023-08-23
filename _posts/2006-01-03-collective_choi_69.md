@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  Collective Choice:Rating Systems
 date:   2005-07-27 16:35:17 -0700
 image:  bcs_1.png
