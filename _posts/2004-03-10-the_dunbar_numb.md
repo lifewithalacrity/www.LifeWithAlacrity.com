@@ -1,5 +1,4 @@
 ---
-layout: home
 title:  "The Dunbar Number as a Limit to Group Sizes"
 slug: "The Dunbar Number as a Limit to Group Sizes"
 redirect_from:
@@ -256,3 +255,14 @@ URL: What a nice collection of reflections on the Dunbar Number. I would like to
 Life With Alacrity
 
 © Christopher Allen
+<style>
+  .page__title{
+      text-decoration: underline !important;
+  }
+  a.reversefootnote{
+    color: black !important;
+  }
+  .footnotes ol, .footnotes li, .footnotes p{
+    color: #0092CA;
+  }
+</style>

@@ -1,6 +1,9 @@
 ---
-layout: post
-title:  Followup on Orkut
+layout: posts
+title:  "Followup on Orkut"
+slug:  "Followup on Orkut"
+redirect_from:
+  - /2004/02/followup_on_ork/
 date:   2004-02-01 13:21:13 -0700
 # image:  02.jpg
 # tags:   Home
