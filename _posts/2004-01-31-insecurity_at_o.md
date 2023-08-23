@@ -1,6 +1,9 @@
 ---
-layout: post
-title: Insecurity at Orkut
+layout: posts
+title: "Insecurity at Orkut"
+slug: "Insecurity at Orkut"
+redirect_from:
+  - /2014/03/a-story-of-a-great-teacher/
 date: 2004-01-31 13:58:38 -0700
 # image: 02.jpg
 # tags: Home
