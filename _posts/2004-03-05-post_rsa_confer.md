@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Post RSA Conference Wrapup"
 slug:  "Post RSA Conference Wrapup"
 redirect_from:

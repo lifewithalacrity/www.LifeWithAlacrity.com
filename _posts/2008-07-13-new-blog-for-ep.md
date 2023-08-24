@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "New Blog for Ephemera"
 slug: "New Blog for Ephemera"
 redirect_from:

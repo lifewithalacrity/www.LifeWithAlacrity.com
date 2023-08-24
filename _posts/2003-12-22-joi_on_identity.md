@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Joi on Identity and Size of Networks
 date: 2003-12-22 17:52:48 -0700
 # image: 02.jpg

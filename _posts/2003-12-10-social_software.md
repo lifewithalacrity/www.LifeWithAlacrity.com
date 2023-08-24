@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Social Software -- Problems & the Definition of “Friends”
 date:   2003-12-10 12:35:38 -0700
 # image:  02.jpg

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Countries Learning to Manipulate Social Media"
 slug:  "Countries Learning to Manipulate Social Media"
 redirect_from:

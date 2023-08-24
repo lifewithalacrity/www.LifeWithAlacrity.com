@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Facilitating Small Gatherings Using “The Braid”"
 slug: "Facilitating Small Gatherings Using “The Braid”"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  eVentor -- an eBay for Events
 date:   2003-12-11 15:45:48 -0700
 # image:  02.jpg

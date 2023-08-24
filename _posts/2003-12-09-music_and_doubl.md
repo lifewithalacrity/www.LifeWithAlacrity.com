@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Music and Double Moral Hazard
 date:   2003-12-09 15:13:22 -0700
 # image:  02.jpg

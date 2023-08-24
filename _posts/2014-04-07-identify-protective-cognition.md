@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "To be persuasive, you need to understand “Identity Protective Cognition”"
 slug:  "To be persuasive, you need to understand “Identity Protective Cognition”"
 redirect_from:

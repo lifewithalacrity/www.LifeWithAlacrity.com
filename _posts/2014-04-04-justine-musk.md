@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Justine Musk says “If you don’t tell your story, someone else will tell it for you.”"
 slug:  "Justine Musk says “If you don’t tell your story, someone else will tell it for you.”"
 redirect_from:

@@ -1,7 +1,7 @@
 ---
-layout: posts
-title: "Community by the Numbers, Part II:Personal Circles"
-slug: "Community by the Numbers, Part II:Personal Circles"
+layout: single
+title: "Community by the Numbers, Part II: Personal Circles"
+slug: "Community by the Numbers, Part II: Personal Circles"
 redirect_from:
   - /2008/11/personal-circle/
 date: 2009-09-14 13:55:42 -0700

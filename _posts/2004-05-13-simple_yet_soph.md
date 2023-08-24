@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Simple Yet Sophisticated Group Page Editing"
 slug:  "Simple Yet Sophisticated Group Page Editing"
 redirect_from:

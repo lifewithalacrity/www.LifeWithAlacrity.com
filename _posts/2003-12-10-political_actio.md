@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Political Action and Visual Media
 date:   2003-12-10 11:42:47 -0700
 # image:  02.jpg

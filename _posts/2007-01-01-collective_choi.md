@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Collective Choice: Experimenting with Ratings"
 slug:  "Collective Choice: Experimenting with Ratings"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "SynchroEdit: Simultaneous Editing for the Web"
 slug:  "SynchroEdit: Simultaneous Editing for the Web"
 redirect_from:

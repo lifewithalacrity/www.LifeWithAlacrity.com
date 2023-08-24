@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Hand-Crafting My FOAF"
 slug:  "Hand-Crafting My FOAF"
 redirect_from:

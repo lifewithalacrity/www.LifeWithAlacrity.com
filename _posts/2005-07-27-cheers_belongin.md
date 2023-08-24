@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Cheers: Belongingness and Para-Social Relationships"
 slug:  "Cheers: Belongingness and Para-Social Relationships"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "A Story of a Great Teacher"
 slug:  "A Story of a Great Teacher"
 redirect_from:

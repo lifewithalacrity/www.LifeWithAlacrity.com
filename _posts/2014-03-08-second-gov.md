@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Second Gov & The Consensus Project"
 slug:  "Second Gov & The Consensus Project"
 redirect_from:

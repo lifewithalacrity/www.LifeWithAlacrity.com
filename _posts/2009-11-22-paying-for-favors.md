@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Paying for Favors"
 slug:  "Paying for Favors"
 redirect_from:

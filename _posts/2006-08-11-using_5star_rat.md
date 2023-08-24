@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Using 5-Star Rating Systems"
 slug:  "Using 5-Star Rating Systems"
 redirect_from:

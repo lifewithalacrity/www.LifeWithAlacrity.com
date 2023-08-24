@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Looking at Wiki"
 slug:  "Looking at Wiki"
 redirect_from:

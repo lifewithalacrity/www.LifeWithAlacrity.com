@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Committing to Vonage
 date:   2003-12-10 14:39:21 -0700
 # image:  02.jpg

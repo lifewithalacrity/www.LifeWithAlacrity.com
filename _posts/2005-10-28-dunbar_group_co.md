@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Dunbar Number & Group Cohesion"
 slug:  "Dunbar Number & Group Cohesion"
 redirect_from:

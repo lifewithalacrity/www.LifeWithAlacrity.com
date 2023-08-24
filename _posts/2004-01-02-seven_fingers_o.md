@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Seven Fingers of the Hand
 date: 2004-01-02 12:15:31 -0700
 # image: 02.jpg

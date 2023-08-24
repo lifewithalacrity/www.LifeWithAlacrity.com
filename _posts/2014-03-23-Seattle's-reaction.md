@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Seattle's Reaction to Sharing Economy Should Be Better"
 slug:  "Seattle's Reaction to Sharing Economy Should Be Better"
 redirect_from:

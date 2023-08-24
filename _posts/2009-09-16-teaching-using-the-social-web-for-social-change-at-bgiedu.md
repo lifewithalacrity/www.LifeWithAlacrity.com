@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Teaching “Using the Social Web for Social Change” at BGI.edu"
 slug:  "Teaching “Using the Social Web for Social Change” at BGI.edu"
 redirect_from:

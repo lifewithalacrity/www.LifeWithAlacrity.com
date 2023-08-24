@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Systems for Collective Choice"
 slug:  "Systems for Collective Choice"
 redirect_from:

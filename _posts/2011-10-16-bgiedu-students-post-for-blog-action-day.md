@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "BGIedu Students Post for Blog Action Day on Food"
 slug:  "BGIedu Students Post for Blog Action Day on Food"
 redirect_from:

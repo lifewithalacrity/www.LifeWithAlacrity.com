@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Creative Commons Posts “Defining Noncommercial” Report"
 slug: "Creative Commons Posts “Defining Noncommercial” Report"
 redirect_from:

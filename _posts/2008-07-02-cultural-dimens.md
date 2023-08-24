@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Cultural Dimensions
 date:   2008-07-02 09:56:08 -0700
 # image:  02.jpg

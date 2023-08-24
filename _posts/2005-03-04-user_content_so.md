@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "User Content, Social Software & Online Games"
 slug:  "User Content, Social Software & Online Games"
 redirect_from:

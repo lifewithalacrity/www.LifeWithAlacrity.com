@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  Persuasion, Influence, Bias, Intuitive Errors
 date:   2010-10-13 11:28:12 -0700
 # image:  02.jpg

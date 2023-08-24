@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  RSS & Blogger
 date:   2003-12-08 12:45:19 -0700
 # image:  02.jpg

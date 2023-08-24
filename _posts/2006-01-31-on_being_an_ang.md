@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "On Being an Angel"
 slug:  "On Being an Angel"
 redirect_from:

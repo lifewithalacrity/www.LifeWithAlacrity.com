@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Using the Social Web for Social Change (Syllabus#SW4SX)"
 slug:  "Using the Social Web for Social Change (Syllabus#SW4SX)"
 redirect_from:

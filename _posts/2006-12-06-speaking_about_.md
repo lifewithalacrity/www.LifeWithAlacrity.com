@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Speaking about Synchro Edit at Wiki Wednesday"
 slug:   "Speaking about Synchro Edit at Wiki Wednesday"
 redirect_from:

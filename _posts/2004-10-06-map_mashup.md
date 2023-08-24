@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Map Mashup"
 slug: "Map Mashup"
 redirect_from:

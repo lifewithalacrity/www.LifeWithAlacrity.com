@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Socialization in Online Games
 date: 2003-12-20 04:32:03 -0700
 # image: 02.jpg

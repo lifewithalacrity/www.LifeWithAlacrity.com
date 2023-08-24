@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Future Topics"
 slug:  "Future Topics"
 redirect_from:

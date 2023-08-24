@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  eLance Success
 date:   2003-12-09 13:13:50 -0700
 # image:  02.jpg

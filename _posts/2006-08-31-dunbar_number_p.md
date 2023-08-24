@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Dunbar Number Presentation at MeshForum 2006"
 slug:  "Dunbar Number Presentation at MeshForum 2006"
 redirect_from:

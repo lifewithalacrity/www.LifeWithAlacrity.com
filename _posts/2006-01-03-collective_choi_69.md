@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Collective Choice: Rating Systems"
 slug:  "Collective Choice: Rating Systems"
 redirect_from:

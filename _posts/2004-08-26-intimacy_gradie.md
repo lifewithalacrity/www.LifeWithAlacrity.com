@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Intimacy Gradient and Other Lessons from Architecture"
 slug: "Intimacy Gradient and Other Lessons from Architecture"
 redirect_from:

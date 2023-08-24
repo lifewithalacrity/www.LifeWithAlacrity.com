@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Danah Boyd asks “Is Oculis Rift Sexist”?"
 slug:  "Danah boyd asks “Is Oculis Rift Sexist”?"
 redirect_from:

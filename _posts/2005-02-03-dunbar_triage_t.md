@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Dunbar Triage: Too Many Connections"
 slug: "Dunbar Triage: Too Many Connections"
 redirect_from:

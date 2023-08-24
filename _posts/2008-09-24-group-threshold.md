@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: "Community by the Numbers, Part One:Group Thresholds"
-slug: "Community by the Numbers, Part One:Group Thresholds"
+title: "Community by the Numbers, Part One: Group Thresholds"
+slug: "Community by the Numbers, Part One: Group Thresholds"
 redirect_from:
   - /2008/09/group-threshold/
 date: 2009-09-14 13:55:42 -0700

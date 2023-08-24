@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Dunbar & World of Warcraft"
 slug: "Dunbar & World of Warcraft"
 redirect_from:

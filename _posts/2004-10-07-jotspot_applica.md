@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "JotSpot: Application Wiki"
 slug: "JotSpot: Application Wiki"
 redirect_from:

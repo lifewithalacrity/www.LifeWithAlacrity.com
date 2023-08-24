@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Too High a Standard"
 slug:  "Too High a Standard"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Reinventing Email
 date:   2003-12-09 16:00:56 -0700
 # image:  02.jpg

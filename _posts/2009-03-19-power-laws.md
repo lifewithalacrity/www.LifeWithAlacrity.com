@@ -1,7 +1,7 @@
 ---
-layout: posts
-title: "Community by the Numbers, Part III:Power Laws"
-slug: "Community by the Numbers, Part III:Power Laws"
+layout: single
+title: "Community by the Numbers, Part III: Power Laws"
+slug: "Community by the Numbers, Part III: Power Laws"
 redirect_from:
   - /2009/03/power-laws/
 date: 2009-09-14 13:55:42 -0700

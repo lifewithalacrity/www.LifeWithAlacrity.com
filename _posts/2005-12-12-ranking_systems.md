@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Collective Choice: Competitive Ranking Systems"
 slug:  "Collective Choice: Competitive Ranking Systems"
 redirect_from:

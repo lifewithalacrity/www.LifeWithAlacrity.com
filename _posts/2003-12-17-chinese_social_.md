@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Chinese Social Network
 date:   2003-12-17 12:58:00 -0700
 # image:  02.jpg

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Apple, AirVideo, and Immersive vs Ambient Media"
 slug:  "Apple, AirVideo, and Immersive vs Ambient Media"
 redirect_from:

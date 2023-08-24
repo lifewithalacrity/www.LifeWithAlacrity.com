@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Sexism, Social Software & the Blogospher"
 slug:  "Sexism, Social Software & the Blogospher"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Ratings: Who Do You Trust?"
 slug:  "Ratings: Who Do You Trust?"
 redirect_from:

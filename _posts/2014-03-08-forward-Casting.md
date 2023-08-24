@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "“Forward Casting” Trust Services from 1988"
 slug:  "“Forward Casting” Trust Services from 1988"
 redirect_from:

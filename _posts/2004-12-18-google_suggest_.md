@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Google Suggest Dissected"
 slug: "Google Suggest Dissected"
 redirect_from:

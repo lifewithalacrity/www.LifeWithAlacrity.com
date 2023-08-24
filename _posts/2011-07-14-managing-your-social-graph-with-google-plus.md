@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Managing your Social Graph with Google+ [Google Plus]"
 slug:  "Managing your Social Graph with Google+ [Google Plus]"
 redirect_from:

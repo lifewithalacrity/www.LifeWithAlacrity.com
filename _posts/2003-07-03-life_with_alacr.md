@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  “Life With Alacrity” Blog, using Blogger
 date:   2003-07-03 12:49:02 -0700
 # image:  02.jpg

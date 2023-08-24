@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "How to Hold an Unpopular Opinion"
 slug:  "How to Hold an Unpopular Opinion"
 redirect_from:

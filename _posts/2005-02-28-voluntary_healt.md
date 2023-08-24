@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Voluntary Health Associations & Social Software"
 slug: "Voluntary Health Associations & Social Software"
 redirect_from:

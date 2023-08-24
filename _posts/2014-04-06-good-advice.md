@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Good Advice from “A Modern Designer's Canvas”"
 slug:  "Good Advice from “A Modern Designer's Canvas”"
 redirect_from:

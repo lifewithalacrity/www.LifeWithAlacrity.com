@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Security & Cryptography:The Bad Business of Fear"
 slug:  "Security & Cryptography:The Bad Business of Fear"
 redirect_from:

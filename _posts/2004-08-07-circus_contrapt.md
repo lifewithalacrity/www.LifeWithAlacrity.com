@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Circus Contraption in SF during August"
 slug:  "Circus Contraption in SF during August"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Washington Post says US tried to create a “Cuban Twitter”"
 slug:  "Washington Post says US tried to create a “Cuban Twitter”"
 redirect_from:

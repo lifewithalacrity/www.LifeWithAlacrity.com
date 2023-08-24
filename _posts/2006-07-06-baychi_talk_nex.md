@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Apple, AirVideo, and Immersive vs Ambient Media
 date:   2006-07-06 13:58:20 -0700
 image:  baychi_1.gif

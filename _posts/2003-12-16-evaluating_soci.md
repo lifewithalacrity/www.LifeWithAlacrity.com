@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Evaluating Social Network Services
 date:   2003-12-16 15:11:56 -0700
 # image:  02.jpg

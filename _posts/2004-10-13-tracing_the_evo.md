@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Tracing the Evolution of Social Software"
 slug: "Tracing the Evolution of Social Software"
 redirect_from:

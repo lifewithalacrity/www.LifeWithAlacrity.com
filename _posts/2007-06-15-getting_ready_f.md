@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Getting Ready for the iPhone"
 slug:  "Getting Ready for the iPhone"
 redirect_from:

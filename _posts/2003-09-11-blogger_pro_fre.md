@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Blogger Pro Free, but Where is RSS Syndication?
 date:   2003-09-11 13:29:53 -0700
 # image:  02.jpg

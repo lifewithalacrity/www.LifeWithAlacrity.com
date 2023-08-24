@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Holiday Over
 date: 2004-01-30 12:30:00 -0700
 # image: 02.jpg

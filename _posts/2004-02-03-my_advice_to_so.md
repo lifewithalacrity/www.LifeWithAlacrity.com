@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "My Advice to Social Networking Services"
 slug:  "My Advice to Social Networking Services"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Creating Shared Language and Shared Artifacts"
 slug:  "Creating Shared Language and Shared Artifacts"
 redirect_from:

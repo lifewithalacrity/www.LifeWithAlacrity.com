@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Working on Wiki Design Patterns
 date: 2003-12-30 16:40:52 -0700
 # image: 02.jpg

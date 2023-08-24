@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Progressive Trust"
 slug: "Progressive Trust"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Politics with Respect"
 slug: "Politics with Respect"
 redirect_from:

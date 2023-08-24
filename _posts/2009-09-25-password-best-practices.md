@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "Password Best Practices"
 slug: "Password Best Practices"
 redirect_from:

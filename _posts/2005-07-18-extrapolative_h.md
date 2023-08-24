@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Extrapolative Hostility in the Online Medium"
 slug:  "Extrapolative Hostility in the Online Medium"
 redirect_from:

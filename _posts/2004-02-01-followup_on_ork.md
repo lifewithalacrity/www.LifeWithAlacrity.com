@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "Followup on Orkut"
 slug:  "Followup on Orkut"
 redirect_from:

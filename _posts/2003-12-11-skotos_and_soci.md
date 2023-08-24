@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Skotos and Social Software
 date:   2003-12-11 15:53:52 -0700
 # image:  02.jpg

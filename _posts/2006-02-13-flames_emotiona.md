@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Flames: Emotional Amplification of Text"
 slug:  "Flames: Emotional Amplification of Text"
 redirect_from:

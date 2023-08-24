@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "New Sidebar: Recent Bookmarks"
 slug:  "New Sidebar: Recent Bookmarks"
 redirect_from:

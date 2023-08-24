@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Annoyed by Zero Degrees"
 slug:  "Annoyed by Zero Degrees"
 redirect_from:

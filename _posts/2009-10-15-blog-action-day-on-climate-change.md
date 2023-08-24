@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Blog Action Day on Climate Change"
 slug:  "Blog Action Day on Climate Change"
 redirect_from:

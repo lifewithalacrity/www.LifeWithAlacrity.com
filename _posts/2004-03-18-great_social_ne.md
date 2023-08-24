@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Great Social Networking Posts"
 slug:  "Great Social Networking Posts"
 redirect_from:

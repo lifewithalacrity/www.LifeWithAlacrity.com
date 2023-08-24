@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "Dunbar, Altruistic Punishment, and Meta-Moderation"
 slug:  "Dunbar, Altruistic Punishment, and Meta-Moderation"
 redirect_from:

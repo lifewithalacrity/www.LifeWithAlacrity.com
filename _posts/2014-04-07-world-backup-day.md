@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "World Backup Day"
 slug:  "World Backup Day"
 redirect_from:

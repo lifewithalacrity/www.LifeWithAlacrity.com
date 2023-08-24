@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "iPhoneDevCamp and Hack-a-Thon"
 slug:  "iPhoneDevCamp and Hack-a-Thon"
 redirect_from:

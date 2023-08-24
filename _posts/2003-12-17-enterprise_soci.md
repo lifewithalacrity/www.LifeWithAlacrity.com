@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Enterprise Social Networking
 date: 2003-12-17 15:24:59 -0700
 # image: 02.jpg

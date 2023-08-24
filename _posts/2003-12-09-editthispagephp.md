@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  EditThisPagePHP -- Lightweight Experimental Wiki
 date:   2003-12-09 13:12:26 -0700
 # image:  02.jpg

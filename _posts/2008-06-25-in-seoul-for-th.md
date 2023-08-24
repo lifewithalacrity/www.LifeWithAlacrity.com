@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title:  "In Seoul for the Social Web"
 slug:  "In Seoul for the Social Web"
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: "TiddlyWiki"
 slug: "TiddlyWiki"
 redirect_from:
