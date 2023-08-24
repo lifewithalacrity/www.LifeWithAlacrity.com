@@ -21,7 +21,7 @@ When someone reads the message in their email software, the "From:" line will be
 
 I had reported what I thought was a security flaw when you emailed to "friends of friends" a couple of days ago, but I was mistaken, as I reported in my blog [Insecurity at Orkut](/2004/01/insecurity_at_o.html). However, as I didn't want risk "crying wolf" this time, so my friend and I triple checked this and have confirmed this privacy flaw.
 
-~They only way that I know of to avoid this is in your prefences to set that all of your messages should be sent to you via the web, not email.~ \[Updated: I was wrong, there is no way currently to avoid this other then not using an email address you care about.\]
+<s>They only way that I know of to avoid this is in your prefences to set that all of your messages should be sent to you via the web, not email.</s> \[Updated: I was wrong, there is no way currently to avoid this other then not using an email address you care about.\]
 
 There are some that will say that this is a feature, i.e. when using email "what good is communicating with someone if there is no chance of a response" -- my answer to this is that an expectation has been set that email addresses can remain private, and if this is to be a feature, then users should be warned before sending an email "Your email address user@domain will be revealed when you send this." More ideally, like other social networking services, the "Reply-to:" should be to a special email address at Orkut that will do the lookup and forward appropriately.
 

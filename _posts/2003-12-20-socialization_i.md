@@ -1,29 +1,39 @@
 ---
 layout: single
-title: Socialization in Online Games
+title: "Socialization in Online Games"
+slug: "Socialization in Online Games"
+redirect_from:
+  - /2003/12/socialization_i/
 date: 2003-12-20 04:32:03 -0700
 # image: 02.jpg
 # tags: Web/Tech
 ---
 
-Shannon Appelcline's "Trials, Triumphs & Trivialities" column in the Skotos Articles section recently featured a trilogy of articles about stretching the bounds of socialization in online games:
+By [Christopher Allen](/about)
 
-Social Gaming Interactions, Part One: A History of Form
+I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.
 
-The first article outlines the problem by looking out how social interaction has traditionally been handled in online games, and by considering how limiting these interactions typically have been. It also outlines how to expand traditional social interactions by describing three main categories of social interaction: competition, cooperation, and freeform.
+I'm currently on [Ryze](http://new.ryze.com/view.php?who=ChristopherA) with supposedly 13 'Friends' and 414 in 'Network', and [Tribe.net](http://cluster.tribe.net/tribe/servlet/template/pub%2Cpcard%2CBasics.vm?personid=ce34093a-3c72-4954-b52f-3d6bc51884af) with 20 'Friends' and 17,677 in my 'Network'. I've registered for a few others, but wasn't able to get them going much beyond registering. However, I have not registered for Friendster yet, as it was originally a dating site but I understand now that it is more then that.
 
-That the majority of MMORPGs, MUDs, and other multiplayer games ultimately support achiever players over socializers, or even killers, I think begins to outline how poorly we understand--and support--true social interactions in today's multiplayer games.
-Social Gaming, Part Two: Competition
-The second article expands upon the competitive category of social interaction. Besides touching upon traditional direct competition, it also considers resource competition, economic competition, and the role of bluffing in competition. A number of examples are drawn from tabletop board games.
+These Social Networking sites have been interesting, but so far none have been a really useful to me.
 
-In looking at competitive interaction I intend to first consider some forms of competitive interaction that we've sort of covered--direct competition and resource competition--but will show how even in these "well known" interactions we've just scratched the surface. Afterward we'll get into some less explored possibilities: economic competition and bluffing. The end result? More variability in competition, more viability and for the players, ultimately, more fun.
-Social Gaming Interactions, Part Three: Cooperation & Freeform
-The third and final article expands upon the other two categories of social interaction: cooperation and freeform. Within cooperative interaction we find a spectrum of possibilities varied by the immediacy of the cooperators. Freeform interaction is given a more generalized overview, covering some of the reasons it appears and how to encourage it.
+I've identified a few problems:
 
-In Richard Bartle's categorization of multiplayer gamers, he very broadly touches upon "socializers"--players who are there because they want to interact not just with the game system, but also with other people. I actually believe there's a lot more granularity to the category of socializers than just its simple name. The biggest subset of socializers is, I believe, the cooperative players--those who are working together within the game system toward a specific goal. A few different MMORPGs have tried to appeal to this group, but as with competitive gamers there's also more we can learn from the word of tabletop games.
-My personal belief is that the so-called "socializer MMPORGs" -- Sims Online, There, Second Life, etc. -- have missed the boat by not really understanding the socializer, or treating them like they are achievers. If someone can figure out how to break out of that trap, there may be a new hugely successful MMPORG game opportunity available.
-Comments
-I've always enjoyed playing online games but I haven't ever thought of what I get from it except fun. Thanks for pointing out to me its other benefits.
+* Getting started can be difficult -- you have to either invite a bunch of your own friends (which can be tacky) or you have to find an acquaintance who is has already collected a number of people as their friends and join with them.
+    
+* You also have to be faithful to updating your local home page, and I for one have too many home pages.
+    
+* There seems to be some cache to have lots of network 'Friends', however, I'm really uncomfortable with that. There is often a 'tit-for-tat' that goes on that is "I'll add you as a friend if you'll add me". But I'd rather name them something different then a friend. In fact, a number of people that I have as 'Friends' are people that I'd rather name as 'Aquaintances', as maybe I've met them once or twice in person, typically at an event where we didn't have any in-depth interaction.
+    
+* Last, but probably most important -- I'm not getting enough value from them for the effort. I do have a friend that say that she has gotten good business from it, but I think that is more because she is a single woman and because she attended some live events sponsored by the social network. Maybe my problem is that I'm a decent networker by myself, and don't need the extra help of the service?
+    
+    All that I've joined feel just a bit off -- but yet I still believe there is something useful in Social Software to learn that I just have to puzzle out.
+    
+    [original layout](/previous/2003/12/social_software.html)
+    
 
-RPG 2004-03-19T12:59:11-07:00
-original layout
+[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+
+Life With Alacrity
+
+© Christopher Allen

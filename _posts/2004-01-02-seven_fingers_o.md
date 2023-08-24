@@ -1,12 +1,17 @@
 ---
 layout: single
-title: Seven Fingers of the Hand
+title: "Seven Fingers of the Hand"
+slug: "Seven Fingers of the Hand"
+redirect_from:
+  - /2004/01/seven_fingers_o/
 date: 2004-01-02 12:15:31 -0700
 # image: 02.jpg
 # tags: Web/Tech
 ---
 
-Yesterday I watched the amazing Seven Fingers of the Hand Circus. There were parts of it that were so beautiful and meaningful that I cried.
+By [Christopher Allen](/about)
+
+Yesterday I watched the amazing [Seven Fingers of the Hand Circus](http://www.les7doigtsdelamain.com/menu.html). There were parts of it that were so beautiful and meaningful that I cried.
 
 I decided to go because 2 of the 7 members have a history with the Bay Area "Pickle's Family Circus" which was a fabulous intimate circus that disbanded about 10 years ago. I loved the Pickles Family Circus because it was "human" -- I found Cirque de Soleil to be too cold and almost unhuman. What do I mean by this? Cirque de Soleil's acts have a tendency to try to be high art -- to divorce themselves from real people and become unemotional pure images of beauty -- even the clown acts seem a bit 'alien' to me. Every act of Pickle's, in contrast, was more human, with smiles and grunts and real emotions.
 
@@ -20,7 +25,7 @@ The audience arrives over 30 minutes and the 7 players act as if we are guests o
 
 Then as everyone is seated, a fabulous DJ (who besides being able to scratch can also sing and play various instruments) is introduced, and the show begins.
 
-It is really difficult for me to describe the show itself -- there were over a dozen "acts" but they were all integrated together in such a way as to introduce the personalities and humanness of the players. I'll instead point you to these reviews which describe it better then I can.
+It is really difficult for me to describe the show itself -- there were over a dozen "acts" but they were all integrated together in such a way as to introduce the personalities and humanness of the players. I'll instead point you to these [reviews](http://www.circuscenter.org/7Fingers/Reviews.htm) which describe it better then I can.
 
 However, I can talk about what moved me -- first off, there was of course the beauty and athleticism of the players. In particular, there was the double 'tissu' act, a solo by the contortionist Isabele Chasse, hanging from two red silk curtain 20 feet above the stage, while the DJ played music on the theme of temptation.
 
@@ -30,8 +35,16 @@ Finally, there was a subtle theme, not at all obvious, of the 'teamness' of the 
 
 I'm disappointed that they are leaving the Bay Area in a few days so that I can get all my friends to go, but I hope to see them the next time they return to the Bay Area and will drag all of my friends along.
 
-Comments
+### Comments
+
 While looking for show tickets for a present I accidentally found out this troupe is actually from Montreal and doing shows home these days. Went to see the show yesterday. They're indeed excellent! I think two of the original creators are no longer in the show, though. A number of people came in late and entered together about 10min into the show through the fridge door as Patrick (the short, comic guy) was standing on top of it. Coming in on the stage is already disorienting, but seeing them being welcomed by cast members mid-act under the spotlights with everyone else sitting was delightful.
 
-Seb 2005-12-29T05:42:28-07:00
+[Seb](http://seb.notlong.com) 2005-12-29T05:42:28-07:00
+
 original layout
+
+[Recreation](/tags/recreation/)
+
+Life With Alacrity
+
+© Christopher Allen
