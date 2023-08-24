@@ -1,21 +1,37 @@
 ---
 layout: single
-title:  Music and Double Moral Hazard
+title:  "Music and Double Moral Hazard"
+slug:  "Music and Double Moral Hazard"
+redirect_from:
+  - /2003/12/music_and_doubl/
 date:   2003-12-09 15:13:22 -0700
 # image:  02.jpg
 # tags:   Home
 ---
 
 
-A very interesting article that has a different take on why the tussle of people who file share vs. the Music Industry. What I like is that it is taking a "behavioral economics" approach to understanding the problem.
+By [Christopher Allen](/about)
 
-The New Economics of Music: File-Sharing and Double Moral Hazard
-Every major label 's setting up an iTunes these days. They're all, in the immortal words of Johnny Cash, 'born to lose, and destined to fail'. Why? The music industry doesn't understand the microeconomics of it's own business. If it did, it would see that it's business model is not just misguided, but broken--because, DRM or not, the implicit contract it signs with listeners is being broken in both directions.
+A very interesting [article](http://www.bubblegeneration.com/level2.cfm?resource=musicrisk1) that has a different take on why the tussle of people who file share vs. the Music Industry. What I like is that it is taking a "behavioral economics" approach to understanding the problem.  
+**[The New Economics of Music: File-Sharing and Double Moral Hazard](http://www.bubblegeneration.com/level2.cfm?resource=musicrisk1)**  
 
+> Every major label 's setting up an iTunes these days. They're all, in the immortal words of Johnny Cash, 'born to lose, and destined to fail'. Why? The music industry doesn't understand the microeconomics of it's own business. If it did, it would see that it's business model is not just misguided, but broken--because, DRM or not, the implicit contract it signs with listeners is being broken in both directions.
+
+  
 The key paragraph in this article is:
-The point is this: the net offers listeners insurance against the music industry itself. File-sharing isn't simply theft. Rather, file-sharing is risk-sharing - against an industry with the freedom to undertake hidden action in the extreme, and not live up to the contract it has written. Remember, the contract said that labels would assume the risk in exchange for dollars from listeners - so when moral hazard lets labels try and push risk to listeners, is it any surprise that listeners try and minimize it by parceling it out? In fact, we could go even further - saying that file-sharing is a way for principals to punish agents operating under extreme moral hazard, with the hope of bringing the agents incentives into line.
-Comments
+
+> The point is this: the net offers listeners insurance against the music industry itself. File-sharing isn't simply theft. Rather, file-sharing is risk-sharing - against an industry with the freedom to undertake hidden action in the extreme, and not live up to the contract it has written. Remember, the contract said that labels would assume the risk in exchange for dollars from listeners - so when moral hazard lets labels try and push risk to listeners, is it any surprise that listeners try and minimize it by parceling it out? In fact, we could go even further - saying that file-sharing is a way for principals to punish agents operating under extreme moral hazard, with the hope of bringing the agents incentives into line.
+
+### Comments
+
 URL: The gist of the article is that file-sharing is a form of risk-sharing by music consumers. While that's an interesting argument could it be that the writer has "over thought" this issue? It seems to me that it is more likely that file-sharing has become so prevelant for no other reason than it can be done. I suspect we all know people who spend several hours a day on-line downloading everything they can get their hands on. This type of indiscriminate acquisition of copyrighted material has nothing to do with risk-sharing. These people wouldn't be buying everything they download in the first place. We live in a "something-for-nothing" society and large-scale file-sharing is simply an outgrowth of that. If one wants to argue the implicit contract between the music industry and the consumer it is important to remember that consumers have always, and will always, have the opportunity to vote with their wallets. If laying out $18 for a new release CD is too much to risk on an unknown performer, stealing the material is not a reasonable or acceptable remedy. Perhaps it would be if the thief regarded it as a "purchase on approval" and would pay if the quality was up to the listener's standards. But that's not the case. It's my guess that very few CDs are purchased because the consumer stole it and liked it. After all, what would motivate anyone to pay for something that had already been obtained free of charge? There is an argument that runs contrary to the writer's which says that consumers have plenty of opportunity to mitigate their purchase risk ahead of time. Brief "preview" versions of many, if not most, of the songs on new CDs are readily available from on-line sellers. It certainly doesn't require any more investment of time or resources to listen to those previews than it takes to download the album. The only real risk-sharing going on here is the hope that if enough people file-share often enough it will be too difficult to police and no one will have to face any consequences.
 
-Larry Bister 2005-12-29T14:34:32-07:00
-original layout
+[Larry Bister](#) 2005-12-29T14:34:32-07:00
+
+[original layout](/previous/2003/12/music_and_doubl.html)
+
+[Music](/tags/music/) [Web/Tech](/tags/web/tech/)
+
+Life With Alacrity
+
+© Christopher Allen

@@ -1,26 +1,22 @@
 ---
 layout: single
-title:  RSS & Blogger
+title:  "RSS & Blogger"
+redirect_from:
+  - /2003/12/rss_blogger/
 date:   2003-12-08 12:45:19 -0700
 # image:  02.jpg
 # tags:   Web/Tech 
 ---
 
-## Life With Alacrity
+By [Christopher Allen](/about)
 
-A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
+RSS is **finally** available to Blogger members, so as soon as I've figured it out I'll be adding it here.
 
-## RSS & Blogger
+[original layout](/previous/2003/12/rss_blogger.html)
 
-December 8 2003 - 100 Words
+[Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/)
 
-by Christopher Allen
 
-RSS is finally available to Blogger members, so as soon as I've figured it out I'll be adding it here.
-
-original layout
-
-Web/Tech Weblogs
 Life With Alacrity
 
 © Christopher Allen
