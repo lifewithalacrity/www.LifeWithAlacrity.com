@@ -9,7 +9,7 @@ date:   2003-07-03 12:49:02 -0700
 # tags:   Web/Tech
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I decided after years of reading blogs that it was time to start blogging.
 
