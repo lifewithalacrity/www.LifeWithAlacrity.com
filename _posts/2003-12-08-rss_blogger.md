@@ -5,7 +5,7 @@ redirect_from:
   - /2003/12/rss_blogger/
 date:   2003-12-08 12:45:19 -0700
 # image:  02.jpg
-# tags:   Web/Tech 
+tags:   Web/Tech 
 ---
 
 By [Christopher Allen](/about)
