@@ -6,10 +6,10 @@ redirect_from:
   - /2003/10/perspective_on_/
 date:   2003-10-28 15:26:19 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 Game Designer and Pundit [Greg Costikyan](http://www.costik.com/): wrote in his blog a thought I can't believe that I've not heard of before, it makes so much sense. But it is new to me:
 
@@ -17,9 +17,8 @@ Game Designer and Pundit [Greg Costikyan](http://www.costik.com/): wrote in his 
 > 
 > And whoever figures out how to market effectively online is going to be worth.... well, more money than I shall ever see in one place."  
 
-[original layout](/previous/2003/10/perspective_on_.html)
+[original layout]
 
-[Web/Tech](/tags/web/tech/)
 
 Life With Alacrity
 

@@ -6,11 +6,11 @@ redirect_from:
   - /2003/09/blogger_pro_fre/
 date:   2003-09-11 13:29:53 -0700
 # image:  02.jpg
-# tags:   Home
+ tags:   Home
 ---
 
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I have been hesitating on committing to [Blogger](http://www.blogger.com) because ever time I check into availability of Blogger Pro, it was not available. Apparently now [Blogger Pro is Free](http://new.blogger.com/feature_giveaway/pro_email.pyra).
 
@@ -18,9 +18,8 @@ My remaining concern is that the [new feature list](http://new.blogger.com/featu
 
 If RSS syndication is not available soon, I will likely switch to some other software, in spite of the ease of Blogger Pro.
 
-[original layout](/previous/2003/09/blogger_pro_fre.html)
+[original layout]
 
-[Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/)
 
 Life With Alacrity
 

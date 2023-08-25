@@ -6,7 +6,7 @@ redirect_from:
   - /2003/07/life_with_alacr/
 date:   2003-07-03 12:49:02 -0700
 # image:  02.jpg
-# tags:   Web/Tech
+ tags:   Web/Tech
 ---
 
 By [Christopher Allen](/lwa/about)
@@ -19,9 +19,8 @@ But the clincher was the new [Google Toolbar](http://toolbar.google.com/).
 
 My only SNAFU so far is that I've got my new [Kitchen TWiki](http://twiki.alacritymanagement.com/bin/view/Kitchen) working to send and receive RSS, however, the signup for [Blogger Pro](http://pro.blogger.com/) has the note "Blogger Pro ordering is currently offline while we retool. Sorry for the inconvenience. Please check back next week."
 
-[original layout](/previous/2003/07/life_with_alacr.html)
+[original layout]
 
-[Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/)
 
 Life With Alacrity
 
