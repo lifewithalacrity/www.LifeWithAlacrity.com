@@ -56,7 +56,7 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  avatar : "/assets/images/christophera.jpg"
+  avatar : "/assets/images/1516163297842.jpeg"
   bio    : "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
   links:
     - label: "Website"
