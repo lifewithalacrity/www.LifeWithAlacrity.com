@@ -6,10 +6,7 @@ redirect_from:
   - /2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-/
 date:   2015-11-05 08:15:23 +0300
 # image:  Ostrom’s.png
- categories: 
-  - Jekyll
-tags:
-  - home
+tags: home
 ---
 
 
