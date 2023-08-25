@@ -56,7 +56,7 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  avatar : "/assets/images/rwot-logo.png"
+  avatar : "/assets/images/christophera.jpg"
   bio    : "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
   links:
     - label: "Website"
