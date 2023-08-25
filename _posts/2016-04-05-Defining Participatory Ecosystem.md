@@ -5,6 +5,10 @@ slug: "Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!"
 redirect_from:
   - /2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it/
 date:   2016-04-05 08:06:00 +0300
+categories: 
+  - Jekyll
+tags:
+  - define
 ---
 
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Participatory.jpeg" alt="Participatory"/>
