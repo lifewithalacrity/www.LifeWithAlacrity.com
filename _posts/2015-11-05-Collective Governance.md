@@ -5,8 +5,8 @@ slug:  "A Revised “Ostrom’s Design Principles for Collective Governance of t
 redirect_from:
   - /2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-/
 date:   2015-11-05 08:15:23 +0300
-# image:  Ostrom’s.png
-tags: home
+image:  Ostrom’s.png
+tags: Home
 ---
 
 
