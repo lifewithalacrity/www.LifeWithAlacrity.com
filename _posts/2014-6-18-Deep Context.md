@@ -6,7 +6,7 @@ redirect_from:
   - /2014/06/deep-context-shared-languages/
 date:   2014-06-18 08:20:58 +0300
 # image:  context.jpeg
-# # tags:   Home
+tags:   Home
 ---
 
 
@@ -43,6 +43,9 @@ _**Another post about Shared Language:**_
 
 * [2000-09: Creating Shared Language and Shared Artifacts](/2009/09/creating-shared-language-and-shared-artiifacts.html)
 
-original layout
+[original layout]
 
-[Business](/tags/business/), [Commentary](/tags/commentary/), [Social Software](/tags/social-software/), [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/).
+Life With Alacrity
+
+© Christopher Allen
+

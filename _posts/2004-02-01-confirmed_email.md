@@ -6,7 +6,7 @@ redirect_from:
   - /2004/02/confirmed_email/
 date: 2004-02-01 17:12:22 -0700
 # image: 02.jpg
-# tags: Home
+tags: Home
 ---
 By [Christopher Allen](/about)
 
@@ -78,23 +78,10 @@ URL: i don't know much more about orkut i just want to know what this side about
 
 [nawin](#) 2004-10-12T00:51:10-07:00
 
-[original layout](/previous/2004/02/confirmed_email.html)
-
-[Security](/tags/security/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [orkut](/tags/orkut/) [social software](/tags/social-software/) [social networking](/tags/social-networking/) [privacy](/tags/privacy/) [email](/tags/email/) [hole](/tags/hole/) [feedback](/tags/feedback/) [beta](/tags/beta/)
+[original layout]
 
 
 Life With Alacrity
 
 © Christopher Allen
 
-<style>
-  .page__title{
-      text-decoration: underline !important;
-  }
-  a.reversefootnote{
-    color: black !important;
-  }
-  .footnotes ol, .footnotes li, .footnotes p{
-    color: #0092CA;
-  }
-</style>

@@ -6,7 +6,7 @@ redirect_from:
   - /2014/04/the-really-big-questions-podcast-asks-why-do-we-share/
 date:   2014-04-24 10:39:49 +0300
 # image:  02.jpg
-# tags:   Software
+tags:   Software
 ---
 <img width="300" height="auto" align="right" src="../assets/images/SHARE_spot2_soup-300x300.jpg" alt="“The Really Big Questions” Podcast Asks “Why Do We Share?”"/> 
 
@@ -23,6 +23,8 @@ A blog on social software, collaboration, trust, security, privacy, and internet
 
 **“The Really Big Questions” Podcast Asks “Why Do We Share?”**
 
-original layout
+[original layout]
 
-[Security](/tags/security/)[Social Software](/tags/social-software/) [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/) [Web/Tech](/tags/web/tech/)
+Life With Alacrity
+
+© Christopher Allen

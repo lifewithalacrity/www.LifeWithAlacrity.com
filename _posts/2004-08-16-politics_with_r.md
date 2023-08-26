@@ -6,9 +6,9 @@ redirect_from:
   - /2004/08/politics_with_r/
 date:   2004-08-26 16:56:26 -0700
 # image:  02.jpg
-# tags:   politics
+tags:   politics
 ---
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 This is not a political blog, but like most bloggers I've been indundated with various discussions about the Bush Administration, Michael Moore, Red vs. Blue, etc. So much so that on some professional email lists we've had to ask the participants to use the text "\[POLITICS\]" in their subject lines so that we can filter out the overt political content.
 
@@ -20,9 +20,7 @@ Thus in general I've been reluctantly participating in the current political dia
 
 Not quite as respectful, but done with conviction is a song by UK artist [Jont](http://www.waragainstsleep.com/) that I like called [World Gone Blind (MP3 format)](http://www.yi-tan.com/mp3s/Jont-WorldGoneBlind.mp3), and is freely distributable under a Creative Commons' Attribution-NonCommercial-NoDerivitives License. I first heard him play at one of Jerry's Retreats. The song is very hip and elegant.
 
-original layout
-
-[politics](/tags/politics/) [jont](/tags/jont/) [dialogue](/tags/dialogue/) [persuasion](/tags/persuasion/) [polemic](/tags/polemic/) [t-shirt](/tags/t-shirt/)
+[original layout]
 
 Life With Alacrity
 

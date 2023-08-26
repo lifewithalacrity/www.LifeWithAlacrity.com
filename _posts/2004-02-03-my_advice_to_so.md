@@ -6,10 +6,10 @@ redirect_from:
   - /2004/02/my_advice_to_so/
 date:   2004-02-03 11:39:47 -0700
 # image:  02.jpg
-# tags:   Software
+tags:   Software
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I've not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my [recent experiences with Orkut.com](/2004/01/insecurity_at_o.html), and my [evaluation](/2003/12/evaluating_soci.html) and [followup](/2003/12/followup_to_eva.html) on various social networking services in December.
 
@@ -194,9 +194,7 @@ Thanks for posting this your section about privacy is very useful. There are som
 
 [Vince](http://scribblesheet.co.uk/article/can_i_have_my_life_back_please) 2008-02-27T14:15:18-07:00
 
-[original layout](/previous/2004/02/my_advice_to_so.html)
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [advice](/tags/advice/) [development](/tags/development/) [software](/tags/software/) [social software](/tags/social-software/) [orkut](/tags/orkut/) [tribe](/tags/tribe/) [linkedin](/tags/linkedin/) [privacy](/tags/privacy/) [friends](/tags/friends/) [connections](/tags/connections/) [invites](/tags/invites/) [profiles](/tags/profiles/) [reputation](/tags/reputation/) [endorsement](/tags/endorsement/) [launch](/tags/launch/) [beta](/tags/beta/) [support](/tags/support/) [business models](/tags/business-models/)
+[original layout]
 
 
 Life With Alacrity

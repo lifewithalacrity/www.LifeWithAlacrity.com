@@ -6,9 +6,12 @@ redirect_from:
   - /2004/10/tracing_the_evo/
 date:   2004-10-13 23:40:10 -0700
 image:  evolution.jpg
-# tags:   Social Software Web/Tech
+tags:   
+  - Social
+  - Software
+  - Web/Tech
 ---
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 <a href="https://www.lifewithalacrity.com/previous/photos/uncategorized/evolution.jpg"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/evolution.jpg" alt="Evolution"/></a>
 
@@ -387,9 +390,9 @@ In a way, any sort of computer-mediated communication can be called social softw
 
 [dorkey](http://www.treatmentcenters.org/michigan) 2008-08-05T05:14:35-07:00
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [social software](/tags/social-software/) [evolution](/tags/evolution/) [history](/tags/history/) [memex](/tags/memex/) [vannevar bush](/tags/vannevar-bush/) [arpa. licklider](/tags/arpa.-licklider/) [engelbart](/tags/engelbart/) [augmentation](/tags/augmentation/) [augmented](/tags/augmented/) [NLS](/tags/nls/) [office automation](/tags/office-automation/) [EIES](/tags/eies/) [groupware](/tags/groupware/) [johnson-lenz](/tags/johnson-lenz/) [CSCW](/tags/cscw/) [greif](/tags/greif/) [cash](/tags/cash/) [drexer](/tags/drexer/) [nanotechnology](/tags/nanotechnology/) [social computing](/tags/social-computing/)
+<!-- [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [social software](/tags/social-software/) [evolution](/tags/evolution/) [history](/tags/history/) [memex](/tags/memex/) [vannevar bush](/tags/vannevar-bush/) [arpa. licklider](/tags/arpa.-licklider/) [engelbart](/tags/engelbart/) [augmentation](/tags/augmentation/) [augmented](/tags/augmented/) [NLS](/tags/nls/) [office automation](/tags/office-automation/) [EIES](/tags/eies/) [groupware](/tags/groupware/) [johnson-lenz](/tags/johnson-lenz/) [CSCW](/tags/cscw/) [greif](/tags/greif/) [cash](/tags/cash/) [drexer](/tags/drexer/) [nanotechnology](/tags/nanotechnology/) [social computing](/tags/social-computing/) -->
 
 Life With Alacrity
 

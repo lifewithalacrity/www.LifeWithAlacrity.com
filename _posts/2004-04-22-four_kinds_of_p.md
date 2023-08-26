@@ -6,10 +6,10 @@ redirect_from:
   - /2004/04/four_kinds_of_p/
 date:   2004-04-22 02:00:51 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I've been thinking about the nature of privacy a lot lately.
 
@@ -49,9 +49,7 @@ I came across this post looking for an information taxonomy in general and a tax
 
 [ebhdoc](http://drhassen.blogspot.com) 2006-06-01T10:20:36-07:00
 
-original layout
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [privacy](/tags/privacy/) [defense privacy](/tags/defense-privacy/) [human rights privacy](/tags/human-rights-privacy/) [personal privacy](/tags/personal-privacy/) [contextual privacy](/tags/contextual-privacy/) [CFP](/tags/cfp/) [EFF](/tags/eff/) [EPIC](/tags/epic/) [social software](/tags/social-software/) [orkut](/tags/orkut/) [discomfort](/tags/discomfort/) [icky](/tags/icky/)
+[original layout]
 
 Life With Alacrity
 

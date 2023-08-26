@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/evaluating_soci/
 date:   2003-12-16 15:11:56 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 After a week where I met a number of bloggers and social network / social software people, I decided to try to update my various networks at [Ryze](http://www.ryze.com/), [Tribe.Net](http://www.tribe.net/), [LinkedIn](http://www.linkedin.com/), and [Friendster](http://www.friendster.com/).
 
@@ -130,10 +130,7 @@ URL: I need a company that can build me a social networking platform. Can anyone
 
 [dan](#) 2008-01-28T23:52:45-07:00
 
-[original layout](/previous/2003/12/evaluating_soci.html)
-    
-
-[Security](/tags/security/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

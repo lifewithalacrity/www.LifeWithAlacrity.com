@@ -6,10 +6,10 @@ redirect_from:
   - /2004/07/too_high_a_stan/
 date:   2004-08-07 14:03:41 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I have for some time told people that one way that my blog was different was because I was focused on offering a [high signal-to-noise ratio](http://en.wikipedia.org/wiki/Signal-to-noise_ratio). I told them that they could subscribe to my blog safely, as I'd not inundate them with anything but the highest quality posts.
 
@@ -55,9 +55,7 @@ When I first started paying serious attention to blogs I thought they were blogg
 
 [Sherri](http://shreela.f2o.org/blog/) 2004-08-09T04:19:16-07:00
 
-original layout
-
-[Weblogs](/tags/weblogs/) [blog quality signal noise standards posting](/tags/blog-quality-signal-noise-standards-posting/)
+[original layout]
 
 
 Life With Alacrity

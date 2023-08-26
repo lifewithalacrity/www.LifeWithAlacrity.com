@@ -6,7 +6,7 @@ redirect_from:
   - /2015/03/mini-resume-card-for-conference-season/
 date:   2015-03-22 08:23:55 +0300
 # image:  mini-resume.png
-# tags:   Home
+tags:   Home
 ---
 
 <img width="370"  align="right" src="../assets/images/mini-resume.png" alt="Mini Resume Card for Conference Season"/> 
@@ -19,6 +19,8 @@ Not as pretty as my old Life With Alacrity cards, but effective in getting acros
 
 As someone who teaches Personal Branding in my courses at BGI@Pinchot.edu, I always find it hard to practice as I preach to ask for advice and suggestions. In this case I'm trying to tame my three-headed Cerebus of a profession with Privacy/Crypto/Developer Community, an Innovative Business Educator/Instructional Designer head, and my Collaborative Tools, Processes, Games and Play head. All come tied together in my body as ultimately being about collaboration, but it is hard to explain some of the correspondences.
 
-[original layout](/previous/2015/03/mini-resume-card-for-conference-season.html)
+[original layout]
 
-[Business](/tags/business/) [Entrepreneuring](/tags/entrepreneuring/), [Social Software](/tags/social-software/), [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/), [User Interface](/tags/user-interface/), [Web/Tech](/tags/web/tech/) [mini](/tags/mini/), [resume](/tags/resume/), [personal branding](/tags/personal-branding/), [advice](/tags/advice/)
+Life With Alacrity
+
+© Christopher Allen

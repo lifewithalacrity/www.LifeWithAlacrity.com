@@ -6,7 +6,7 @@ redirect_from:
   - /2015/03/10-design-principles-for-governing-the-commons/
 date:   2015-03-24 14:51:07 +0300
 image:  principlas.png
-# tags:   Home
+tags:   Home
 ---
 <a href="#"><img width="350px" style=" margin-right:15px" align="right"  src="../assets/images/resource_sharing.jpg" alt="Resource Sharing"/></a>
 
@@ -51,6 +51,8 @@ Excellent version. I think a critical adaptation is the active voice, as you've 
 
 [Howard Silverman](http://www.solvingforpattern.org/) 2015-04-11T11:34:38-07:00
 
-[original layout](/previous/2015/03/10-design-principles-for-governing-the-commons.html)
+[original layout]
 
-[Business](/tags/business/) [Security](/tags/security/) [Social Software](/tags/social-software/) [commons](/tags/commons/) [tragedy](/tags/tragedy/) [ostrom](/tags/ostrom/) [design](/tags/design/) [principles](/tags/principles/)
+Life With Alacrity
+
+© Christopher Allen

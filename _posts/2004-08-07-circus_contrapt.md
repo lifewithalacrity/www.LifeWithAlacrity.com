@@ -6,10 +6,10 @@ redirect_from:
   - /2004/08/circus_contrapt/
 date:   2004-08-07 14:03:41 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 In my [review](/2004/01/seven_fingers_o.html) last January of the amazing [Seven Fingers of the Hand Circus](http://www.les7doigtsdelamain.com/menu.html) I talk about why I like circuses that are more raw and intimate, i.e. more "human" then the pretentious and distancing style of [Cirque du Soleil](http://www.cirquedusoleil.com/CirqueDuSoleil/en/default.htm). However, I was disappointed that I saw the near-to-last show, so could not send my friends out to go see one of the great performances of the year.
 
@@ -41,9 +41,7 @@ Sounds like fun. Hmmm, I wonder what they do with all the clueless parents who s
 
 [steveb](http://begleyconsulting.com/mediatraininginsights/weblog.php) 2004-08-27T13:29:23-07:00
 
-original layout
-
-[Recreation](/tags/recreation/) [review circus contraption burlesque risque san francisco performance](/tags/review-circus-contraption-burlesque-risque-san-francisco-performance/)
+[original layout]
 
 Life With Alacrity
 

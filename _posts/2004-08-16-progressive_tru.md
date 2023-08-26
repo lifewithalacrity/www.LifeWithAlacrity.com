@@ -6,10 +6,10 @@ redirect_from:
   - /2004/08/progressive_tru/
 date:   2004-08-16 23:42:15 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.
 
@@ -59,9 +59,9 @@ Very cogent post, Christopher. I think you've hit upon what makes blogs so usefu
 
 [Shimon Rura](http://frassle.rura.org/Directory/index?feed=1) 2004-08-26T08:39:54-07:00
 
-original layout
+[original layout]
 
-[Business](/tags/business/) [Security](/tags/security/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [progressive trust](/tags/progressive-trust/) [groups](/tags/groups/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [behavior](/tags/behavior/) [confidentiality](/tags/confidentiality/) [credentials](/tags/credentials/) [authentications](/tags/authentications/) [SET](/tags/set/) [HTTPS](/tags/https/) [SSL](/tags/ssl/) [progressive disclosure](/tags/progressive-disclosure/)
+<!-- [Business](/tags/business/) [Security](/tags/security/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [progressive trust](/tags/progressive-trust/) [groups](/tags/groups/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [behavior](/tags/behavior/) [confidentiality](/tags/confidentiality/) [credentials](/tags/credentials/) [authentications](/tags/authentications/) [SET](/tags/set/) [HTTPS](/tags/https/) [SSL](/tags/ssl/) [progressive disclosure](/tags/progressive-disclosure/) -->
 
 Life With Alacrity
 

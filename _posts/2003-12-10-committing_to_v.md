@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/committing_to_v/
 date:   2003-12-10 14:39:21 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 In September I signed up for [Vonage](http://www.vonage.com), a VoIP (Voice-over-IP) service that using SIP (Session Initiation Protocol) that allows you to connect using the net to the analog POTS (Plain Old Telephone System) quite economically.
 
@@ -41,9 +41,7 @@ We have experimented with VoIP software since 1992 -- and, of course, nothing wo
 
 [Cliff Allen](http://www.allen.com) 2004-07-18T09:55:40-07:00
 
-[original layout](/previous/2003/12/committing_to_v.html)
-
-[Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

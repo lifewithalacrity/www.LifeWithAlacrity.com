@@ -6,7 +6,7 @@ redirect_from:
   - /2004/02/sexism_social_s/
 date:   2004-02-05 14:37:38 -0700
 # image:  02.jpg
-# tags:   society  
+tags:   society  
 ---
 
 By [Christopher Allen](/about)
@@ -46,9 +46,7 @@ Also, how differently would it come across if women started a "cute geek guy" ra
 
 [Adina Levin](http://www.alevin.com/weblog) 2004-02-07T10:18:33-07:00
 
-[original layout](/previous/2004/02/sexism_social_s.html)
-
-[Social Software](/tags/social-software/) [Weblogs](/tags/weblogs/) [society](/tags/society/) [feminism](/tags/feminism/) [sexim](/tags/sexim/) [sexist](/tags/sexist/) [blog](/tags/blog/) [medium](/tags/medium/) [misunderstanding](/tags/misunderstanding/)
+[original layout]
 
 Life With Alacrity
 

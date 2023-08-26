@@ -6,10 +6,10 @@ redirect_from:
   - /2004/03/post_rsa_confer/
 date:   2004-03-05 03:50:41 -0700
 # image:  02.jpg
-# tags:   Business
+tags:   Business
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I spent most of last week at the RSA Conference in San Francisco.
 
@@ -89,9 +89,7 @@ Sorry Yakov! I've corrected the attribution above.
 
 [Christopher Allen](http://www.lifewithalacrity.com/) 2004-03-05T23:19:47-07:00
 
-[original layout](/previous/2004/03/post_rsa_confer.html)
-
-[Business](/tags/business/) [Security](/tags/security/) [Web/Tech](/tags/web/tech/) [security](/tags/security/) [rsa conference](/tags/rsa-conference/) [privacy](/tags/privacy/) [spam prevention](/tags/spam-prevention/) [caller-id](/tags/caller-id/) [spf](/tags/spf/) [domain keys](/tags/domain-keys/) [sessions](/tags/sessions/) [exhibits](/tags/exhibits/) [cryptographers](/tags/cryptographers/) [cryptography](/tags/cryptography/) [biometric hard drives](/tags/biometric-hard-drives/) [SecureID](/tags/secureid/) [RFID](/tags/rfid/) [quantum cryptography](/tags/quantum-cryptography/)
+[original layout]
 
 
 Life With Alacrity

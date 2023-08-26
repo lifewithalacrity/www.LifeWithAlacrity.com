@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/skotos_and_soci/
 date:   2003-12-11 15:53:52 -0700
 # image:  02.jpg
-# tags:   Web/Tech
+tags:   Web/Tech
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I've been interested for several years in the ability of "player-generated content" to create niche or small multiplayer online games, at a company I've invested in called [Skotos](http://www.skotos.net) . At this point its oldest game Castle Marrach is completely run by the players, and 7 more games are being developed by their customers. The company is at break-even, but is not yet a 'commercial success'. There are some learnings from the world of massively multiplayer online games that apply to other kinds of social networks.
 
@@ -23,10 +23,7 @@ I'm also interested in what I call "social games" for online games. I don't beli
     
 * Part three isn't available until next Thursday, but is on non-competitive social interactions.
     
-[original layout](/previous/2003/12/skotos_and_soci.html)
-    
-
-[Games](/tags/games/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

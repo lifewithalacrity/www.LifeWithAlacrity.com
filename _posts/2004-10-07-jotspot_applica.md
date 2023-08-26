@@ -6,11 +6,11 @@ redirect_from:
   - /2004/10/jotspot_applica/
 date:   2004-10-07 00:39:29 -0700
 # image:  02.jpg
-# tags:   Social
+tags:   Social
 ---
 
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 
 <img width="320px" align="right"  src="../assets/images/slide09.jpg" alt="slide09"/>
@@ -67,9 +67,9 @@ JotSpot is way behind other open source 'wikis'like TWiki and ZWiki already well
 
 [Sunir](http://usemod.com/cgi-bin/mb.plSunirShah) 2004-10-14T00:42:30-07:00
 
-original layout
+[original layout]
     
-[Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [JotSpot](/tags/jotspot/) [Joe Kraus](/tags/joe-kraus/) [wiki](/tags/wiki/) [jon udell](/tags/jon-udell/) [demo](/tags/demo/) [application development](/tags/application-development/) [Javascript](/tags/javascript/) [SOAP](/tags/soap/)
+<!-- [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [JotSpot](/tags/jotspot/) [Joe Kraus](/tags/joe-kraus/) [wiki](/tags/wiki/) [jon udell](/tags/jon-udell/) [demo](/tags/demo/) [application development](/tags/application-development/) [Javascript](/tags/javascript/) [SOAP](/tags/soap/) -->
 
 Life With Alacrity
 

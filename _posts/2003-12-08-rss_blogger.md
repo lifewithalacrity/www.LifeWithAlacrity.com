@@ -12,10 +12,7 @@ By [Christopher Allen](/about)
 
 RSS is **finally** available to Blogger members, so as soon as I've figured it out I'll be adding it here.
 
-[original layout](/previous/2003/12/rss_blogger.html)
-
-[Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/)
-
+[original layout]
 
 Life With Alacrity
 

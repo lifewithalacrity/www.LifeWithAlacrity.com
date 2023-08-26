@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/reinventing_ema/
 date:   2003-12-09 16:00:56 -0700
 # image:  02.jpg
-# tags:   Web/Tech
+tags:   Web/Tech
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 As a user-interface designer in the 80's for companies like Apple Computer, and as old 'groupware' professional in the early 90's, I've been quite disappointed with how design of collaborative apps appears to have practically ceased since the introduction of the web.
 
@@ -19,9 +19,7 @@ However, I saw in in Slashdot today that IBM has some web pages demonstrating a 
 
 I hope some people like the [Evolution](http://www.gnome.org/projects/evolution/) team, or the [Mozilla Thunderbird](http://www.mozilla.org/products/thunderbird/) team, or some new entrepreneur make available.
 
-[original layout](/previous/2003/12/reinventing_ema.html)
-
-[User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

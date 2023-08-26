@@ -5,7 +5,7 @@ slug:  "A Revised “Ostrom’s Design Principles for Collective Governance of t
 redirect_from:
   - /2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-/
 date:   2015-11-05 08:15:23 +0300
-image:  Ostrom’s.png
+# image:  Ostrom’s.png
 tags: Home
 ---
 
@@ -59,9 +59,7 @@ or
 
 **ALT 8. COORDINATE WITH RELATED SYSTEMS:** For groups that are part of larger social systems, there must be appropriate coordination among relevant groups. Every sphere of activity has an optimal scale. Large scale governance requires finding the optimal scale for each sphere of activity and appropriately coordinating the activities, a concept called polycentric governance. A related concept is subsidiarity, which assigns governance tasks by default to the lowest jurisdiction, unless this is explicitly determined to be ineffective.
 
-**original layout**
-
-[Security](/tags/security/), [Social Software](/tags/social-software/), [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/), [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/fascinated_by_m/
 date:   2003-12-09 15:32:24 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I'm fascinated by the melding of various ethic music styles with contemporary music, in particular, when the mix includes some middle-eastern or central-european infuences.
 
@@ -32,11 +32,8 @@ For instance, listen to these:
 * Not quite sure how to categorize it -- a real ethnic mongrel: [Ethnosphere](http://he1.magnatune.com/all/11%20-%20Ethnosphere%20-%20Shiva%20In%20Exile.mp3) by [Shiva in Exile](http://www.magnatune.com/artists/shiva_in_exile) on their album [Ethnic](http://www.magnatune.com/artists/music/World/Shiva%20in%20Exile/Ethnic/).  
     (stream complements of by the "We are not Evil" [MagnaTune](http://www.magnatune.com)).
     
-[original layout](/previous/2003/12/fascinated_by_m.html)
+[original layout]
     
-
-[Music](/tags/music/) [Web/Tech](/tags/web/tech/)
-
 Life With Alacrity
 
 © Christopher Allen

@@ -6,9 +6,9 @@ redirect_from:
   - /2004/05/simple_yet_soph/
 date:   2004-05-13 14:58:39 -0700
 # image:  02.jpg
-# tags:   Web/Tech
+tags:   Web/Tech
 ---
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I have been leading the design of a new Open Source collaboration tool called [EditThisPagePHP](http://editthispagephp.sourceforge.net/home/index.php), which started [six months ago](/2003/12/editthispagephp.html) and now is in beta.
 
@@ -40,9 +40,7 @@ URL: I'm amused at the talk of prior art and 1999 visions, the very first web cl
 
 [alex](#) 2005-12-06T10:59:45-07:00
 
-original layout
-
-[Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [edit this page](/tags/edit-this-page/) [php](/tags/php/) [collaboration](/tags/collaboration/) [group](/tags/group/) [social software](/tags/social-software/) [editing](/tags/editing/) [html](/tags/html/) [page](/tags/page/)
+[original layout]
 
 
 Life With Alacrity

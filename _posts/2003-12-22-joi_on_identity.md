@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/joi_on_identity/
 date: 2003-12-22 17:52:48 -0700
 # image: 02.jpg
-# tags: Web/Tech
+tags: Web/Tech
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 [Joi Ito's Web: Blogger's block, collapsing facets and the number 150](http://joi.ito.com/archives/2003/12/23/bloggers_block_collapsing_facets_and_the_number_150.html) offers some insights on two different topics:
 
@@ -25,9 +25,7 @@ Joi attributes this collapse of context due to the size of groups:
 
 I'm also convinced that the nature of the size of groups affects the group dynamics of those groups, and your relationship with others in those groups. I may disagree on the exact ranges of sizes (my observations map the creative team/family/committee 5-9, tribe/clan 25-81, association 125-300 (note the gaps)) but the I agree with the basic principle.
 
-[original layout](/previous/2003/12/joi_on_identity.html)
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

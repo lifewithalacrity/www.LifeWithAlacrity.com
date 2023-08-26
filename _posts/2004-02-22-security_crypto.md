@@ -6,10 +6,10 @@ redirect_from:
   - /2014/03/a-story-of-a-great-teacher/
 date:   2004-02-22 14:12:29 -0700
 # image:  02.jpg
-# tags:   Social
+tags:   Social
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 As I head out next week to the [RSA Conference](http://2004.rsaconference.com/) I realized that it has been 13 years since I attended the first one. I remember fondly the potential and power of cryptography technology in 1991 -- public keys, digital certificates, new possibilities for privacy, digital cash, etc.
 
@@ -147,9 +147,7 @@ URL: So then one day this guy discovers the answer to the Reimann Conjecture and
 
 [Joe](#) 2004-09-07T06:23:57-07:00
 
-[original layout](/previous/2004/02/security_crypto.html)
-
-[Business](/tags/business/) [Security](/tags/security/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [security](/tags/security/) [cryptography](/tags/cryptography/) [privacy](/tags/privacy/) [security industry](/tags/security-industry/) [software](/tags/software/) [fear](/tags/fear/) [certificates](/tags/certificates/) [verisign](/tags/verisign/) [public key](/tags/public-key/) [smart contracts](/tags/smart-contracts/) [insurance](/tags/insurance/) [reliability](/tags/reliability/) [shared secrets](/tags/shared-secrets/) [IEFT](/tags/ieft/) [RSA](/tags/rsa/) [SSL](/tags/ssl/) [TLS](/tags/tls/) [iSCSI](/tags/iscsi/) [SDSI](/tags/sdsi/) [SAML](/tags/saml/)
+[original layout]
 
 Life With Alacrity
 

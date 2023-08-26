@@ -6,7 +6,7 @@ redirect_from:
   - /2014/05/underestimating-the-long-term/
 date:   2014-05-05 12:01:00 +0300
 # image:  04.jpg
-# tags:   Home
+tags:   Home
 ---
 
 I recently ran into a quote that rang true to me. It is from Bill Gates in "The Road Ahead", but is wise enough that it may have older origins than that:
@@ -26,9 +26,7 @@ Impatience is part of human nature, especially the younger you are and the newer
 A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
 
 
-original layout
-
-[Commentary](/tags/commentary/), [Entrepreneuring](/tags/entrepreneuring/)
+[original layout]
 
 Life With Alacrity
 

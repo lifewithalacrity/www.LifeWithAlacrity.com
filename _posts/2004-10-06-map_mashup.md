@@ -6,10 +6,10 @@ redirect_from:
   - /2004/10/map_mashup/
 date:   2004-10-07 00:39:29 -0700
 image:  mapmashup_1.gif
-# tags:   UserInterface
+tags:   UserInterface
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 <a href="https://web.archive.org/web/20050117010708/http://lifewithalacrity.blogs.com/photos/uncategorized/mapmashup_1.gif"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/mapmashup_1.gif" alt="Mapmashup_1"/></a>I'm a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
 
@@ -31,9 +31,9 @@ The Javascript in http://www.multimap.com/static/global.js only sets the clippin
 
 [Jeffery To](http://www.thingsthemselves.com/) 2004-10-10T11:31:41-07:00
 
-original layout
+[original layout]
 
-[User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [user interface](/tags/user-interface/) [web](/tags/web/) [map](/tags/map/) [graphic](/tags/graphic/) [overlay](/tags/overlay/) [transparency](/tags/transparency/) [cursor](/tags/cursor/)
+<!-- [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [user interface](/tags/user-interface/) [web](/tags/web/) [map](/tags/map/) [graphic](/tags/graphic/) [overlay](/tags/overlay/) [transparency](/tags/transparency/) [cursor](/tags/cursor/) -->
 
 Life With Alacrity
 

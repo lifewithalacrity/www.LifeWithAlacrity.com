@@ -6,11 +6,11 @@ redirect_from:
   - /2003/12/music_and_doubl/
 date:   2003-12-09 15:13:22 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 A very interesting [article](http://www.bubblegeneration.com/level2.cfm?resource=musicrisk1) that has a different take on why the tussle of people who file share vs. the Music Industry. What I like is that it is taking a "behavioral economics" approach to understanding the problem.  
 **[The New Economics of Music: File-Sharing and Double Moral Hazard](http://www.bubblegeneration.com/level2.cfm?resource=musicrisk1)**  

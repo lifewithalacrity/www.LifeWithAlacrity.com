@@ -5,9 +5,10 @@ slug: "The Dunbar Number as a Limit to Group Sizes"
 redirect_from:
   - /2004/03/the_dunbar_numb/
 date:   2004-03-10 14:17:52 -0700
+tags: untagged
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 Lately I've been noticing the spread of a meme regarding "Dunbar's Number" of 150 that I believe is misunderstanding of his ideas.
 
@@ -249,9 +250,7 @@ URL: What a nice collection of reflections on the Dunbar Number. I would like to
 
 [Mike Robinson](#) 2010-02-24T12:55:43-07:00
 
-[original layout](/previous/2004/03/the_dunbar_numb.html)
-
-[Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [robin dunbar](/tags/robin-dunbar/) [dunbar's number](/tags/dunbars-number/) [150](/tags/150/) [size of groups](/tags/size-of-groups/) [social software](/tags/social-software/) [social networks](/tags/social-networks/) [group satisfaction](/tags/group-satisfaction/) [neocortex](/tags/neocortex/) [anthropology](/tags/anthropology/) [online games](/tags/online-games/) [ultima online](/tags/ultima-online/) [asheron's call](/tags/asherons-call/) [skotos](/tags/skotos/) [castle marrach](/tags/castle-marrach/) [raph coster](/tags/raph-coster/) [jessica mulligan](/tags/jessica-mulligan/)
+[original layout]
 
 Life With Alacrity
 

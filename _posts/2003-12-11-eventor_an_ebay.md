@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/eventor_an_ebay/
 date:   2003-12-11 15:45:48 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I have been working the last couple of weeks on a business plan idea for a company tenatively called eVentor:
 
@@ -21,9 +21,7 @@ What eVentor wants to do is similar -- lower the barriers of entry for small eve
 
 At this point the idea has just myself behind it -- call it an "entrepreneur-in-residence exercise". I will be running this business plan by a few possible contributors and/or partners in the next few weeks, as well as investigating partnerships with some of the new social software companies that don't have a business model. Ultimatately I plan to present this business plan to a couple of Angel Investors and VCs in January.
 
-[original layout](/previous/2003/12/eventor_an_ebay.html)
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

@@ -5,6 +5,7 @@ slug: "Speaking at Consensus 2015"
 redirect_from:
   - /2015/09/speaking-at-consensus-2015/
 date:   2015-09-06 23:54-07 +0300
+tags: untagged
 ---
 
 <img width="500px" height="300px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/consensus.png" alt="Speaking at Consensus 2015"/>
@@ -45,9 +46,7 @@ To support this separation for your article, I have one more quote to offer you 
 
 As to your question of when the community first started using the word consensus, I am not sure. The cryptographic company I founded in 1988 that eventually created the reference implementation of SSL 3.0 and offered the first TLS 1.0 toolkits was named “Consensus Development” so my memory is distorted. To me, the essential problem has always been how to solve consensus. I may have first read it about it in “The Ecology of Computation” published in 1988 which predicted many distributed computational approaches that are only becoming possible today, which mentions among other things such concepts as Distributed Scheduling Protocols, Byzantine Fault-Tolerance, Computational Auctions, etc. But I also heard it from various science fiction books of the period, so that is why I named my company after it.
 
-**original layout**
-
-[Business](/tags/business/), [Security](/tags/security/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

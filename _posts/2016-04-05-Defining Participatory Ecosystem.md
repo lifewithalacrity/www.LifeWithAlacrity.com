@@ -37,9 +37,7 @@ I've posted this definition to [Github](http://www.participatoryecosystem.com/){
 
  
 
-[original layout](http://www.lifewithalacrity.com/previous/2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html){:target="_blank"}.
-
-[Entrepreneuring](/tags/entrepreneuring/), [Security](/tags/security/), [Social Software](/tags/social-software/), [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/), [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

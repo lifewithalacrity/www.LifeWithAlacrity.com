@@ -6,9 +6,9 @@ redirect_from:
   - /2004/08/intimacy_gradie/
 date:   2004-08-26 16:56:26 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 A number of my posts have been about integrating different domains of knowledge in order to better understand how human behavior should be incorporated in the design of social software. I found [The Dunbar Number](/2004/03/the_dunbar_numb.html) in sociology, and both [Four Kinds of Privacy](/2004/04/four_kinds_of_p.html) and [Progressive Trust](/2004/08/progressive_tru.html) come from my work in the cryptography field. The topic of this post comes from the field of architecture.
 
@@ -129,9 +129,9 @@ Thanks for the great summary and roundup of key concepts, theories and technique
 
 [Sean Savage](http://www.cheesebikini.com) 2006-07-05T22:04:01-07:00
 
-original layout
+[original layout]
 
-[Security](/tags/security/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [intimacy gradient](/tags/intimacy-gradient/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [wiki](/tags/wiki/) [socialtext](/tags/socialtext/) [interface design](/tags/interface-design/) [sociology](/tags/sociology/) [architecture](/tags/architecture/) [design](/tags/design/)
+<!-- [Security](/tags/security/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [intimacy gradient](/tags/intimacy-gradient/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [wiki](/tags/wiki/) [socialtext](/tags/socialtext/) [interface design](/tags/interface-design/) [sociology](/tags/sociology/) [architecture](/tags/architecture/) [design](/tags/design/) -->
 
 Life With Alacrity
 

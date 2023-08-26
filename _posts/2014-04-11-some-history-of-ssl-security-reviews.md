@@ -6,7 +6,7 @@ redirect_from:
   - /2014/04/some-history-of-ssl-security-reviews/
 date:   2014-04-11 12:01:00 +0300
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
 Regarding the Heartbleed bug, SSL and TLS vendors used to require code security reviews before CAs would accept certificate requests from that implementation.
@@ -19,6 +19,8 @@ It may be time for CAs to require vendors to pay for implementation security rev
 
 The amazing Tim Dierks , author of SSLRef, the reference implementation of SSL 3.0, co-author IETF TLS 1.0 standard and subsequent updates, and later creator of Google Wallet, did all of these reviews for us back then. Any memories, comments, or suggestion to add?
 
-original layout
+[original layout]
 
-[Security](/tags/security/), [Heartbleed](/tags/heartbleed/), [SSL](/tags/ssl/), [TLS](/tags/tls/), [security](/tags/security/), [review](/tags/review/)
+Life With Alacrity
+
+© Christopher Allen

@@ -9,7 +9,7 @@ date:   2003-12-10 12:35:38 -0700
 # tags:   Web/Tech
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.
 
@@ -29,10 +29,7 @@ I've identified a few problems:
     
     All that I've joined feel just a bit off -- but yet I still believe there is something useful in Social Software to learn that I just have to puzzle out.
     
-[original layout](/previous/2003/12/social_software.html)
-    
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

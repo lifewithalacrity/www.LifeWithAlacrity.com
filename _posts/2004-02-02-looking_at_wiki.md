@@ -6,10 +6,10 @@ redirect_from:
   - /2004/02/looking_at_wiki/
 date:   2004-02-19 16:25:05 -0700
 # image:  02.jpg
-# tags:   Social
+tags:   Social
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I've not just been spending time looking at social networking services, I've also been digging deeper into wiki. I've still got more to go, but some of these will be of interest to you if you are considering implementing a wiki for your community, or if you are a wiki developer.
 
@@ -75,9 +75,8 @@ The canonical list of wikis is at: [http://www.c2.com/cgi/wiki?WikiEngines](http
 
 [Zbigniew Lukasiak](http://zby.aster.net.pl/kwiki) 2004-03-14T06:58:16-07:00
 
-[original layout](/previous/2004/02/looking_at_wiki.html)
+[original layout]
 
-[Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [social software](/tags/social-software/) [wiki](/tags/wiki/) [features](/tags/features/) [Zwiki](/tags/zwiki/) [FlexWiki](/tags/flexwiki/) [ProjectForum](/tags/projectforum/) [CourseForum](/tags/courseforum/) [WikidPad](/tags/wikidpad/) [SocialText](/tags/socialtext/) [SeedWiki](/tags/seedwiki/) [TWiki](/tags/twiki/) [Meatball Wiki](/tags/meatball-wiki/)
 
 Life With Alacrity
 

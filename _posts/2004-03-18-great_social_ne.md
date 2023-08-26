@@ -6,10 +6,10 @@ redirect_from:
   - /2004/03/great_social_ne/
 date:   2004-03-18 08:05:31 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 While I've been out attending the [SXSW Music, Movie and Interactive Conference](http://www.sxsw.com) there has been a flurry of high-quality postings about Social Networking.
 
@@ -125,9 +125,7 @@ Great Post, Chris. I linked to it and added a comment. [http://eureksterblog.blo
 
 [Peter](http://www.whizspark.com/pete) 2004-03-18T08:21:26-07:00
 
-original layout
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [sxsw](/tags/sxsw/) [austin](/tags/austin/) [social software](/tags/social-software/) [aesthetics](/tags/aesthetics/) [group forming](/tags/group-forming/) [johnathan abrams](/tags/johnathan-abrams/) [ethan watters](/tags/ethan-watters/) [relationships](/tags/relationships/) [usefullness](/tags/usefullness/) [noise](/tags/noise/)
+[original layout]
 
 Life With Alacrity
 

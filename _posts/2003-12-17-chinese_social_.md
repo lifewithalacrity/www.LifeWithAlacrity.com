@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/chinese_social/
 date:   2003-12-17 12:58:00 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 [The Social Software Weblog](http://socialsoftware.weblogsinc.com/entry/6674682935746669/) discusses [DragonVenture Invests in Social Networking Platform in China](http://www.marketwire.com/mw/release_html_b1?release_id=61083):
 
@@ -21,9 +21,7 @@ This reminds of a quote I heard this last weekend from Tom Melcher, former CNET 
 
 I wonder how well explicit social networks will take off in China, given a history of repression and recent censoring of the Internet. I could see it easily becoming a tool that could be abused by their government.
 
-[original layout](/previous/2003/12/chinese_social_.html)
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

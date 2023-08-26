@@ -205,3 +205,7 @@ The opinions in this article are my own, not my employer's nor necessarily the o
 [^22​]: Verifiable Claims Task Force. 2006. “[Editor Draft] Verifiable Claims Working Group Frequently Asked Questions”. W3C Technology and Society Domain. http://w3c.github.io/webpayments-ig/VCTF/charter/faq.html
 
 [^23]: "Definition of Credential". Dictionary.com. http://www.dictionary.com/browse/credential?s=t
+
+Life With Alacrity
+
+© Christopher Allen

@@ -6,10 +6,10 @@ redirect_from:
   - /2004/01/seven_fingers_o/
 date: 2004-01-02 12:15:31 -0700
 # image: 02.jpg
-# tags: Web/Tech
+tags: Web/Tech
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 Yesterday I watched the amazing [Seven Fingers of the Hand Circus](http://www.les7doigtsdelamain.com/menu.html). There were parts of it that were so beautiful and meaningful that I cried.
 
@@ -41,9 +41,7 @@ While looking for show tickets for a present I accidentally found out this troup
 
 [Seb](http://seb.notlong.com) 2005-12-29T05:42:28-07:00
 
-original layout
-
-[Recreation](/tags/recreation/)
+[original layout]
 
 Life With Alacrity
 

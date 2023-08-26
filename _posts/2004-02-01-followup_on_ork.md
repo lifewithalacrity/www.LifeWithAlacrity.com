@@ -6,9 +6,9 @@ redirect_from:
   - /2004/02/followup_on_ork/
 date:   2004-02-01 13:21:13 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I've read of emails, Orkut messages, and blog postings since my [post yesterday](/2004/01/insecurity_at_o.html), so I thought I would share some with you.
 
@@ -133,21 +133,8 @@ URL: Well,from my first impressions of orkut,what i gather is that,u have to be 
 
 [Kiran](#) 2006-07-12T06:46:11-07:00
 
-[original layout](/previous/2004/02/followup_on_ork.html)
-
-[orkut](/tags/orkut/) [social sofware](/tags/social-sofware/) [social networking](/tags/social-networking/) [beta](/tags/beta/) [feedback](/tags/feedback/) [google](/tags/google/) [dana boyd](/tags/dana-boyd/) [relationships](/tags/relationships/) [privacy](/tags/privacy/) [cookie](/tags/cookie/) [friends of friends](/tags/friends-of-friends/)
+[original layout]
 
 Life With Alacrity
 
 © Christopher Allen
-<style>
-  .page__title{
-      text-decoration: underline !important;
-  }
-  a.reversefootnote{
-    color: black !important;
-  }
-  .footnotes ol, .footnotes li, .footnotes p{
-    color: #0092CA;
-  }
-</style>

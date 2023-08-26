@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/conserving_soci/
 date:   2003-12-11 01:17:16 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 A followup to my post yesterday [Social Software -- Problems & the Definition of "Friends"](#107108853847658748), I saw in [Scott Lofteness' blog](http://www.sjl.us/main/2003/12/social_networki.html) a reference to David Hornick's [VentureBlog: Conserving Social Capital](http://www.ventureblog.com/articles/indiv/2003/000214.html):
 
@@ -24,9 +24,7 @@ Scott also mentions his own experience with Social Software:
 
 Yet it is interesting that all of us are giving it a real try. There may still be a 'there' there, but if it is, it is currently being obscured.
 
-[original layout](/previous/2003/12/conserving_soci.html)
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

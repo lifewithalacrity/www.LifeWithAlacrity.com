@@ -6,10 +6,10 @@ redirect_from:
   - /2003/12/followup_to_eva/
 date: 2003-12-18 00:19:52 -0700
 # image: 02.jpg
-# tags: Home
+tags: Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I've received a number of replies and pointers after posting my [Evaluating Social Network Services](/2003/12/evaluating_soci.html) here last Tuesday. Here are a few:
 
@@ -123,9 +123,7 @@ Scott Loftesness wrote me back after my [evaluation](/2003/12/evaluating_soci.ht
 
 There are quite a few other services that I haven't explored yet, like Spoke Software and Zero Degrees, and there are other software or services like Contact Network, InterAction, Plaxo, Skype, Eurekster, Tickle, MeetUp. I hope to take a look at a few of them and report back soon. I don't think that I'll be looking at the dating sites such as Match.com, American Singles, Yahoo Personals, etc.
 
-[original layout](/previous/2003/12/followup_to_eva.html)
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

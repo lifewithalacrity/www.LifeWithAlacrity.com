@@ -6,10 +6,10 @@ redirect_from:
   - /2004/01/robots_dancing_/
 date: 2004-01-13 15:21:07 -0700
 # image: 02.jpg
-# tags: Web/Tech
+tags: Web/Tech
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 At a recent unofficial gathering of [Future Salon'ers](http://finnern.com/future/), there was a discussion about a [demonstration of four robots doing a japanese fan dance to music](http://pc.watch.impress.co.jp/docs/2003/1218/sony_06.wmv) (I think it was seen at CES in Las Vegas last week). The remark was that it was vaguely disturbing because your intellect knows that they are just robots, but someplace deep in your brain you know that they are alive because of the way that they move.
 
@@ -33,9 +33,7 @@ URL: I think you may have slightly missed the meaning of the uncanny valley with
 
 [Sam Klink](#) 2005-08-25T08:09:55-07:00
 
-[original layout](/previous/2004/01/robots_dancing_.html)
-
-[Film](/tags/film/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

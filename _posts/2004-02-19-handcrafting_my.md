@@ -6,11 +6,11 @@ redirect_from:
   - /2004/02/handcrafting_my/
 date:   2004-02-19 16:25:05 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 While at [eTech](http://etech.weblogsinc.com/), I attended a number of "social software" sessions. One thing I heard was a persistent call from folk like [Marc Canter](http://blogs.it/0100198/) for all the vendors to support something called [FOAF](http://xmlns.com/foaf/0.1/). FOAF is a standard for "Friend of a Friend" files, and is an attempt to make _machine readable_ information about people, groups, companies, and other online resources. In particular, it is focused on representing the information that you might typically put on your personal home page in a form such that meta-data tools can interpret it.
 
@@ -129,11 +129,7 @@ Blogharbor.com also has a FOAF file. I didn't know it was its own protocol. My F
 
 [elamb](http://elamb.blogharbor.com) 2005-04-24T10:10:12-07:00
 
-[original layout](/previous/2004/02/handcrafting_my.html)`` ```
-
-`` `
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [FOAF](/tags/foaf/) [friend of a friend](/tags/friend-of-a-friend/) [social networking](/tags/social-networking/) [RDF](/tags/rdf/) [social software](/tags/social-software/) [friend](/tags/friend/) [RDF validation](/tags/rdf-validation/) [validator](/tags/validator/)
+[original layout]
 
 Life With Alacrity
 

@@ -6,7 +6,7 @@ redirect_from:
   - /2014/06/freedom-to-fail-freakonomics-podcast-failure-is-your-friend/
 date: 2014-06-05 12:35-07 +0300
 # image:  04.jpg
-# tags:   Home
+tags:   Home
 ---
 
 I often speak about "Freedom to Fail" as an essential element of success for all sizes of systems and processes such as a hackathons, ecosystems, corporate cultures, and art. Freedom to fail isn't just about innovation and creativity, it is also about resilience — small failures teach you about what to be careful about in the future to avoid big failures.
@@ -25,9 +25,7 @@ Closely related, I also recommend last week's repeat podcast on the topic of "Th
 **Freedom to Fail & Freakonomics podcast “Failure is Your Friend”**
 
 
-original layout
-
-[Business](/tags/business/) [Commentary](/tags/commentary/) [Security](/tags/security/) [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/) [Web/Tech](/tags/web/tech/)
+[original layout]
 
 Life With Alacrity
 

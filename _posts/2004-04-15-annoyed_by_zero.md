@@ -6,10 +6,10 @@ redirect_from:
   - /2004/04/annoyed_by_zero/
 date:   2004-04-15 00:27:05 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 As I'm studying social network software right now, I consider it my job to try many of the [hundred some odd social networks](http://socialsoftware.weblogsinc.com/entry/2241460714746671/) out there right now.
 
@@ -43,9 +43,7 @@ Yes, I got the invitation from you so I tried it out myself. Now everyone in my 
 
 [Jason Banico](http://www.funchain.com) 2004-04-15T18:11:03-07:00
 
-[original layout](/previous/2004/04/annoyed_by_zero.html)
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [social software](/tags/social-software/) [social networking service](/tags/social-networking-service/) [YASNS](/tags/yasns/) [spam](/tags/spam/) [zero degrees](/tags/zero-degrees/) [innappropriate](/tags/innappropriate/) [bad interface](/tags/bad-interface/)
+[original layout]
 
 Life With Alacrity
 

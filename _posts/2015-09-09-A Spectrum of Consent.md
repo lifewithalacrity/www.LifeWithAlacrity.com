@@ -6,6 +6,7 @@ redirect_from:
   - /2015/09/a-spectrum-of-consent/
 date:   2015-09-09 09:28-07 +0300
 # image:  spectrum.png
+tags: untagged
 ---
 
 
@@ -82,10 +83,8 @@ There is clearly some conflation and orthogonality in my list below of types of 
 
 (image credit: grant horwood, aka frymaster [CC BY-SA 2.5-2.0-1.0 ](https://creativecommons.org/licenses/by-sa/2.5-2.0-1.0){:target="_blank"})
 
-**original layout**
+[original layout]
 
-
-[Security](/tags/security/), [Social Software](/tags/social-software/), [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/), [Web/Tech](/tags/web/tech/)
 
 Life With Alacrity
 
