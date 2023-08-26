@@ -6,8 +6,10 @@ redirect_from:
   - /2009/11/paying-for-favors/
 date:   2009-11-22 00:59:46 -0700
 # image:  paying.jpg
-# tags:   Business
+tags:   Business
 ---
+
+By [Christopher Allen](/lwa/about)
 
 One of the common practices in the independent movie industry is to share favors to keep production costs low. I loan you use of a camera and you later do some editing for me on the cheap. Of course, it is often actually less direct then that: I loan you the camera, the community knows that I am generous, and when I need some editing time on the cheap, my social capital in the film community makes the resource available to me.
 
@@ -53,9 +55,9 @@ URL: I like your 1/3 rule. It makes more sense and it seems fair.
 
 [Lance Puig](#) 2010-02-24T15:43:38-07:00
 
-original layout
+[original layout]
 
-[Business](/tags/business/) [Entrepreneuring](/tags/entrepreneuring/) [Film](/tags/film/) [film business](/tags/film-business/) [budget](/tags/budget/) [virtual budget](/tags/virtual-budget/) [entrepreneuring](/tags/entrepreneuring/) [percentages](/tags/percentages/) [knowledge](/tags/knowledge/) [resources](/tags/resources/) [brand](/tags/brand/) [work](/tags/work/) [money](/tags/money/) [sharing](/tags/sharing/) [residuals](/tags/residuals/) [joss whedon](/tags/joss-whedon/) [dr. horrible](/tags/dr.-horrible/) [equity](/tags/equity/) [participation](/tags/participation/)
+<!-- [Business](/tags/business/) [Entrepreneuring](/tags/entrepreneuring/) [Film](/tags/film/) [film business](/tags/film-business/) [budget](/tags/budget/) [virtual budget](/tags/virtual-budget/) [entrepreneuring](/tags/entrepreneuring/) [percentages](/tags/percentages/) [knowledge](/tags/knowledge/) [resources](/tags/resources/) [brand](/tags/brand/) [work](/tags/work/) [money](/tags/money/) [sharing](/tags/sharing/) [residuals](/tags/residuals/) [joss whedon](/tags/joss-whedon/) [dr. horrible](/tags/dr.-horrible/) [equity](/tags/equity/) [participation](/tags/participation/) -->
 
 Life With Alacrity
 

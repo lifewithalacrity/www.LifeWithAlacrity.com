@@ -9,6 +9,8 @@ date:   2015-03-22 08:23:55 +0300
 tags:   Home
 ---
 
+By [Christopher Allen](/lwa/about)
+
 <img width="370"  align="right" src="../assets/images/mini-resume.png" alt="Mini Resume Card for Conference Season"/> 
 
 Between the business of the March/April conference season and leaving Blackphone, I've run out of business cards. Rather than rush to print a bunch of new ones, I'm created this mini-resume for digital sharing and a two-sided Avery business card version that I am printing on my laser printer and sharing.

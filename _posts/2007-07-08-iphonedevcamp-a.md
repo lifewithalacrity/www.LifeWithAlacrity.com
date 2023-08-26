@@ -6,8 +6,10 @@ redirect_from:
   - /2007/07/iphonedevcamp-a/
 date:   2007-07-08 23:19:52 -0700
 image:  everyone.jpg
-# tags:   Games
+tags:   Games
 ---
+
+By [Christopher Allen](/lwa/about)
 
 <a href="#"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/everyone.jpg" alt="Circle of Hands"/></a>
 
@@ -29,9 +31,9 @@ Building on my experience with the same-time collaboration tool [SynchroEdit](ht
 
 Over the last few weeks an online developer community that I started at WWDC called [iPhoneWebDev](http://www.iPhoneWebDev.com) has grown to over 650 members. It's now the best place to get online support for building iPhone web pages and webapps. I'd like to keep the momentum from the iPhoneDevCamp going forward on this list, so if you are interested in developing for the iPhone, check out the [example code](http://www.iPhoneWebDev.com/examples) and [join](http://www.iphonewebdev.com/) the discussion today!
 
-original layout
+[original layout]
 
-[Games](/tags/games/) [iPhone](/tags/iphone/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [HackAThon](/tags/hackathon/) [iPhoneWebCamp](/tags/iphonewebcamp/) [iPhone](/tags/iphone/) [iPhoneDevCamp](/tags/iphonedevcamp/) [JoeHewitt](/tags/joehewitt/) [iLace](/tags/ilace/) [hack contest](/tags/hack-contest/) [machack](/tags/machack/) [firebug](/tags/firebug/) [pickleview](/tags/pickleview/) [thepool](/tags/thepool/) [hack](/tags/hack/) [machack](/tags/machack/)
+<!-- [Games](/tags/games/) [iPhone](/tags/iphone/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [HackAThon](/tags/hackathon/) [iPhoneWebCamp](/tags/iphonewebcamp/) [iPhone](/tags/iphone/) [iPhoneDevCamp](/tags/iphonedevcamp/) [JoeHewitt](/tags/joehewitt/) [iLace](/tags/ilace/) [hack contest](/tags/hack-contest/) [machack](/tags/machack/) [firebug](/tags/firebug/) [pickleview](/tags/pickleview/) [thepool](/tags/thepool/) [hack](/tags/hack/) [machack](/tags/machack/) -->
 
 Life With Alacrity
 

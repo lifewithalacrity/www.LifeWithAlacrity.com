@@ -9,6 +9,8 @@ date:   2014-04-23 12:01:00 +0300
 tags:   Web/Tech
 ---
 
+By [Christopher Allen](/lwa/about)
+
 <img width="300" height="" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/14669191970268714121.jpeg" alt="Is the Sharing Economy Changing Our Culture of Trust?"/> 
 
 

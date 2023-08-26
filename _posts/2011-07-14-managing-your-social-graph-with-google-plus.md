@@ -6,8 +6,11 @@ redirect_from:
   - /2011/07/managing-your-social-graph-with-google-plus/
 date:   2011-07-14 16:29:13 -0700
 # image:  managing.jpg
-# tags:   Social
+tags:   Social
 ---
+
+By [Christopher Allen](/lwa/about)
+
 <img width="250px" align="right"  src="../assets/images/061.jpg" alt="cyberpunkstack"/>
 
 With Google+ almost two weeks into its test phase, conversation about this new social network service seems to be going in circles.
@@ -270,9 +273,9 @@ I like your ideas; I've also been trying to play about with the circles & work o
 
 [Emmadw](http://profile.typepad.com/emmadw) 2011-07-15T05:21:40-07:00
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [advice](/tags/advice/) [tips](/tags/tips/) [google+](/tags/google+/) [google plus](/tags/google-plus/) [social network](/tags/social-network/) [social network service](/tags/social-network-service/) [circles](/tags/circles/) [personal circles](/tags/personal-circles/) [social graph](/tags/social-graph/) [community by the numbers](/tags/community-by-the-numbers/) [support circle](/tags/support-circle/) [sympathy circle](/tags/sympathy-circle/) [trust circle](/tags/trust-circle/) [read later](/tags/read-later/) [time management](/tags/time-management/) [privacy](/tags/privacy/) [public](/tags/public/) [quasi-public](/tags/quasi-public/)
+<!-- [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [advice](/tags/advice/) [tips](/tags/tips/) [google+](/tags/google+/) [google plus](/tags/google-plus/) [social network](/tags/social-network/) [social network service](/tags/social-network-service/) [circles](/tags/circles/) [personal circles](/tags/personal-circles/) [social graph](/tags/social-graph/) [community by the numbers](/tags/community-by-the-numbers/) [support circle](/tags/support-circle/) [sympathy circle](/tags/sympathy-circle/) [trust circle](/tags/trust-circle/) [read later](/tags/read-later/) [time management](/tags/time-management/) [privacy](/tags/privacy/) [public](/tags/public/) [quasi-public](/tags/quasi-public/) -->
 
 Life With Alacrity
 

@@ -8,6 +8,8 @@ date:   2015-09-06 23:54-07 +0300
 tags: untagged
 ---
 
+By [Christopher Allen](/lwa/about)
+
 <img width="500px" height="300px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/consensus.png" alt="Speaking at Consensus 2015"/>
 
 Christopher Allen Internet Security Pioneer Speaking at [Consensus 10 Sep NYC](https://consensus.coindesk.com/){:target="_blank"}

@@ -6,8 +6,11 @@ redirect_from:
   - /2012/10/introduction-to-the-social-web-reading-list-sw4sx/
 date:   2012-10-14 08:44:31 -0700
 # image:  02.jpg
-# tags:   Web/Tech
+tags:   Web/Tech
 ---
+
+By [Christopher Allen](/lwa/about)
+
 This fall with be the 4th year, and the 5th time that I've taught the class [Using the Social Web for Social Change](http://www.bgi.edu/changing-business/social-web-for-social-change/) (hashtag #SW4SX) in the [MBA in Sustainable Systems](http://www.bgi.edu/academics/mbas/hybrid-mba/) program at [Bainbridge Graduate Institute](http://www.bgi.edu) (BGI.edu).
 
 The class itself is an elective, but has become so popular that during this school year I am running the class three times: once this summer, again this fall, and a third time in the spring. This class is unique because it crosses class cohorts; it has also been available to members of the Seattle [Metro MBA](http://www.bgi.edu/academics/mbas/metro-mba/) program; is the most popular class for auditing and alumni participation; and we have even had some faculty and TAs take the course. This means that we get a genuine cross-section of BGI and it has been a real inspiration and positive influence on the broader community and on other classes in the program.
@@ -167,7 +170,7 @@ _Weekly Deliverables:_ Delivery of draft student personal brand portfolio, deliv
 * Post-mortem 10%
     * Total: 100%
 
-original layout
+[original layout]
 
 Life With Alacrity
 

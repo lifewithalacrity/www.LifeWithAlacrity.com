@@ -6,9 +6,10 @@ redirect_from:
   - /2008/07/new-blog-for-ep/
 date: 2008-07-13 13:22:55 -0700
 image: ephemerablogthumb.png
-# tags: Weblogs
+tags: Weblogs
 ---
 
+By [Christopher Allen](/lwa/about)
 
 This blog has been quiet lately as I've been doing a lot of work in the last year on the iPhone. I've been speaking at conferences like eComm 2008 ([presentation](http://www.slideshare.net/eComm2008/christopher-allens-presentation-at-ecomm-2008), [video from panel](http://blogs.nmscommunications.com/communications/2008/05/heres-the-compl.html)), writing an book on the iPhone with my co-author Shannon Appelcline called [iPhone in Action: Introduction to Web and SDK Development](http://www.manning.com/callen) (first [two chapters](http://www.manning-source.com/books/callen/callen_meapch1-2.pdf) free), and I am one of the organizers for the upcoming [iPhoneDevCamp 2](http://www.iPhoneDevCamp.org), a MacHack style conference on August 1st-3rd, and I am working on some social software apps for the iPhone.
 
@@ -31,9 +32,9 @@ The RSS feed for this blog is here [![](http://www.feedburner.com/fb/images/pub/
 
 If you are interested in some of the other things I am looking at, you can follow my [del.icio.us](http://del.icio.us/ChristopherA) bookmarks, or read my [Google Shared Items](http://www.google.com/reader/shared/user/02324944907197224037/state/com.google/broadcast), watch my [Twitter](http://twitter.com/ChristopherA) posts, or see them all combined together in either [FriendFeed](http://friendfeed.com/christophera) or [Plaxo Pulse](http://pulse.plaxo.com/pulse/profile/show/93189?pk=5c10c629b99e837f0bc276c0e24ffffe1aed8799).
 
-[original layout](/previous/2008/07/new-blog-for-ep.html)
+[original layout]
 
-[Weblogs](/tags/weblogs/) [iphone](/tags/iphone/) [emphemera](/tags/emphemera/) [post](/tags/post/) [signal-to-noise ratio](/tags/signal-to-noise-ratio/) [quality](/tags/quality/) [social software](/tags/social-software/) [social media](/tags/social-media/)
+<!-- [Weblogs](/tags/weblogs/) [iphone](/tags/iphone/) [emphemera](/tags/emphemera/) [post](/tags/post/) [signal-to-noise ratio](/tags/signal-to-noise-ratio/) [quality](/tags/quality/) [social software](/tags/social-software/) [social media](/tags/social-media/) -->
 
 Life With Alacrity
 

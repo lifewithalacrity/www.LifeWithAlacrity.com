@@ -6,8 +6,14 @@ redirect_from:
   - /2009/09/password-best-practices.html
 date:  2009-09-25 01:29:32 -0700
 # image:  02.jpg
-# tags:  Home
+tags:  
+  - Home
+  - Web/Tech
+  - Security
+
 ---
+
+By [Christopher Allen](/lwa/about)
 
 Passwords are very important for maintaining your online identity, because they ensure that no one else can access your accounts and do things that you wouldn't do. As such, you should make sure that your online passwords are as strong as possible. This article will provide some general guidelines for doing so.
 
@@ -91,9 +97,9 @@ Very nice post. I especially like the unique-per-site approach. One thing you di
 
 [Kalle Alm](http://kallewoof.com) 2010-02-23T09:12:08-07:00
 
-original layout
+[original layout]
 
-[Security](/tags/security/) [Web/Tech](/tags/web/tech/)
+<!-- [Security](/tags/security/) [Web/Tech](/tags/web/tech/) -->
 
 Life With Alacrity
 

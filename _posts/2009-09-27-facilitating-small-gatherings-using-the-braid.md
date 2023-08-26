@@ -6,7 +6,11 @@ redirect_from:
   - /2009/09/facilitating-small-gatherings-using-the-braid/
 date:   2009-10-15 23:59:37 -0700
 image:  small.png
-# tags:   Home
+tags:
+  - Home
+  - Software Security
+  - Business
+
 ---
 <img width="200px" height="300px" align="right"  src="../assets/images/small.png" alt="The Power of conservation"/>
  I was musing as I was preparing for next week's Intensive at [BGI](/2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu.html) that I have 21 students in my class, an uncomfortable size. That's because it lies between a smaller size where good conversations naturally occur, and a larger size where you can take full advantage of different activities that work well for larger groups.
@@ -46,9 +50,9 @@ A Three Table Braid is easy to figure out by hand, but larger Braids are more di
 <img width="130px" align="right"  src="../assets/images/88x31.png" alt="cyberpunkstack"/> 
 Four Table Braid by [Christopher Allen](http://www.LifeWithAlacrity.com) is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 United States License](http://creativecommons.org/licenses/by-nc-sa/3.0/us/). Based on a work at [www.LifeWithAlacrity.com](http://www.LifeWithAlacrity.com/2009/09/facilitating-small-gatherings-using-the-braid.html). Permissions beyond the scope of this license may be available at [ChristopherA.LifeWithAlacrity.com](http://ChristopherA.LifeWithAlacrity.com). The Power of Conversation graphic is used with permission from [The World Cafe Image Bank](http://www.theworldcafe.com/bank_book.htm).
 
-original layout
+[original layout]
 
-[Business](/tags/business/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [braid](/tags/braid/) [the braid](/tags/the-braid/) [four table braid](/tags/four-table-braid/) [cafe method](/tags/cafe-method/) [world cafe](/tags/world-cafe/) [the world cafe](/tags/the-world-cafe/) [conversation cafe](/tags/conversation-cafe/) [small group facilitation](/tags/small-group-facilitation/) [facilitation](/tags/facilitation/) [group](/tags/group/) [group activity](/tags/group-activity/) [group process](/tags/group-process/) [group dynamics](/tags/group-dynamics/) [conversation](/tags/conversation/) [dunbar number](/tags/dunbar-number/) [judas number](/tags/judas-number/) [group threshold](/tags/group-threshold/) [party](/tags/party/) [team](/tags/team/) [warm up exercise](/tags/warm-up-exercise/) [idea formation](/tags/idea-formation/) [idea creation](/tags/idea-creation/) [ideas](/tags/ideas/) [tables](/tags/tables/) [warm up](/tags/warm-up/) [bgiedu](/tags/bgiedu/) [bgimgt566sx](/tags/bgimgt566sx/)
+<!-- [Business](/tags/business/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [braid](/tags/braid/) [the braid](/tags/the-braid/) [four table braid](/tags/four-table-braid/) [cafe method](/tags/cafe-method/) [world cafe](/tags/world-cafe/) [the world cafe](/tags/the-world-cafe/) [conversation cafe](/tags/conversation-cafe/) [small group facilitation](/tags/small-group-facilitation/) [facilitation](/tags/facilitation/) [group](/tags/group/) [group activity](/tags/group-activity/) [group process](/tags/group-process/) [group dynamics](/tags/group-dynamics/) [conversation](/tags/conversation/) [dunbar number](/tags/dunbar-number/) [judas number](/tags/judas-number/) [group threshold](/tags/group-threshold/) [party](/tags/party/) [team](/tags/team/) [warm up exercise](/tags/warm-up-exercise/) [idea formation](/tags/idea-formation/) [idea creation](/tags/idea-creation/) [ideas](/tags/ideas/) [tables](/tags/tables/) [warm up](/tags/warm-up/) [bgiedu](/tags/bgiedu/) [bgimgt566sx](/tags/bgimgt566sx/) -->
 
 Life With Alacrity
 

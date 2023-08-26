@@ -6,10 +6,10 @@ redirect_from:
   - /2005/03/dunbar_altruist/
 date:   2005-03-17 11:38:19 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 In my post about the [Dunbar Number](/2004/03/the_dunbar_numb.html) I offered some evidence on the levels of satisfaction of various group sizes based on some empirical data from online games. There I was able to show that even though the Dunbar Number might predict a mean group size of 150 for humans, that in fact for non-survival oriented groups the mean was significantly less, probably between 60 to 90.
 
@@ -77,9 +77,9 @@ is the supposed cognitive limit to the number of individuals with whom any one p
 
 [Busby seo challenge](http://www.edivergent.com) 2008-07-26T23:03:57-07:00
 
-original layout
+[original layout]
 
-[Community by the Numbers](/tags/community-by-the-numbers/) [Science](/tags/science/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [150](/tags/150/) [altruistic punishment](/tags/altruistic-punishment/) [charity](/tags/charity/) [prisoner's dilemma](/tags/prisoners-dilemma/) [meta-moderation](/tags/meta-moderation/) [game theory](/tags/game-theory/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [simulation](/tags/simulation/) [group size threshold](/tags/group-size-threshold/) [group satisfaction](/tags/group-satisfaction/) [trust metrics](/tags/trust-metrics/) [attention](/tags/attention/) [slashdot](/tags/slashdot/)
+<!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Science](/tags/science/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [150](/tags/150/) [altruistic punishment](/tags/altruistic-punishment/) [charity](/tags/charity/) [prisoner's dilemma](/tags/prisoners-dilemma/) [meta-moderation](/tags/meta-moderation/) [game theory](/tags/game-theory/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [simulation](/tags/simulation/) [group size threshold](/tags/group-size-threshold/) [group satisfaction](/tags/group-satisfaction/) [trust metrics](/tags/trust-metrics/) [attention](/tags/attention/) [slashdot](/tags/slashdot/) -->
 
 Life With Alacrity
 

@@ -6,10 +6,10 @@ redirect_from:
   - /2005/05/airvideo_and_im/
 date:   2005-05-10 12:25:27 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I was reading on [Slashdot](http://slashdot.org/) a discussion about [iTune 4.8](http://slashdot.org/article.pl?sid=05/05/10/0235212) and its new capability to purchase videos from the iTunes Music Store, when I read two things that just made me say "duh" with their obviousness, yet I'd never thought of them before.
 
@@ -105,9 +105,9 @@ I hope this blog does not mind I 've a put an extended post at http://blog.start
 
 [startup](http://www.startup.gr) 2005-09-10T04:30:02-07:00
 
-original layout
+[original layout]
 
-[Web/Tech](/tags/web/tech/) [Apple Computer](/tags/apple-computer/) [iTunes](/tags/itunes/) [video](/tags/video/) [music](/tags/music/) [slashdot](/tags/slashdot/) [iPod](/tags/ipod/) [airport express](/tags/airport-express/) [AirTunes](/tags/airtunes/) [AirVideo](/tags/airvideo/) [immersive media](/tags/immersive-media/) [ambient media](/tags/ambient-media/)
+<!-- [Web/Tech](/tags/web/tech/) [Apple Computer](/tags/apple-computer/) [iTunes](/tags/itunes/) [video](/tags/video/) [music](/tags/music/) [slashdot](/tags/slashdot/) [iPod](/tags/ipod/) [airport express](/tags/airport-express/) [AirTunes](/tags/airtunes/) [AirVideo](/tags/airvideo/) [immersive media](/tags/immersive-media/) [ambient media](/tags/ambient-media/) -->
 
 Life With Alacrity
 

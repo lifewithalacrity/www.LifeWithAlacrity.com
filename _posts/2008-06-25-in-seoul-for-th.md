@@ -6,8 +6,11 @@ redirect_from:
   - /2008/06/in-seoul-for-th/
 date:   2008-06-25 01:18:39 -0700
 image:  seoul.jpg
-# tags:   Home
+tags:   Home
 ---
+
+By [Christopher Allen](/lwa/about)
+
 <a href="http://www.flickr.com/photos/christophera/2610236112/"><img width="230px" style=" margin-left:15px" align="right"  src="../assets/images/seoul.jpg" alt="Downtown Seoul, South Korea, from Hotel Window"/></a>
 
 I'm in Seoul, South Korea this week for the [13th Global Forum on Business Driven Action Learning and Executive Development](http://www.globalforumactionlearning.com/), where I'm presenting on the topic of the how to get involved with the Social Web.
@@ -24,9 +27,9 @@ During the evenings I've had a chance to wander the streets of downtown Seoul. I
 
 I return on Monday, and I'll make a copy of my final presentation available here.
 
-[original layout](/previous/2008/06/in-seoul-for-th.html)
+[original layout]
 
-[Weblogs](/tags/weblogs/) [seoul](/tags/seoul/) [korea](/tags/korea/) [global forum](/tags/global-forum/) [blog coach](/tags/blog-coach/) [blog coaching](/tags/blog-coaching/) [social web coaching](/tags/social-web-coaching/) [social web](/tags/social-web/) [coaching](/tags/coaching/) [executive training](/tags/executive-training/) [executive development](/tags/executive-development/) [action learning](/tags/action-learning/) [business culture](/tags/business-culture/) [international culture](/tags/international-culture/) [social network](/tags/social-network/) [personal brand](/tags/personal-brand/)
+<!-- [Weblogs](/tags/weblogs/) [seoul](/tags/seoul/) [korea](/tags/korea/) [global forum](/tags/global-forum/) [blog coach](/tags/blog-coach/) [blog coaching](/tags/blog-coaching/) [social web coaching](/tags/social-web-coaching/) [social web](/tags/social-web/) [coaching](/tags/coaching/) [executive training](/tags/executive-training/) [executive development](/tags/executive-development/) [action learning](/tags/action-learning/) [business culture](/tags/business-culture/) [international culture](/tags/international-culture/) [social network](/tags/social-network/) [personal brand](/tags/personal-brand/) -->
 
 Life With Alacrity
 

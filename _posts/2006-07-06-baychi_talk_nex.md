@@ -3,11 +3,11 @@ layout: single
 title:  Apple, AirVideo, and Immersive vs Ambient Media
 date:   2006-07-06 13:58:20 -0700
 image:  baychi_1.gif
-# tags:   Home
+tags:   Home
 ---
 
 
-by [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 <img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/baychi_1.gif" alt="Baychi"/> I will be speaking next Tuesday (July 11th) at the monthly meeting of [BayCHI](http://www.baychi.org/calendar/20060711/), the San Francisco Bay Area Chapter of ACM SIGCHI (Computer Human Interface Special Interest Group), along with [Michael H. Goldhaber](http://www.goldhaber.org/).
 
@@ -35,6 +35,10 @@ Great talk at PARC Chris! I thoroughly enjoyed it and it's related to some of my
 
 [GadgetMan](http://www.the-gadgetman.com/blog) 2006-07-11T21:27:45-07:00
 
-original layout
+[original layout
+]
+<!-- [Social Software](/tags/social-software/) [talk](/tags/talk/) [baychi](/tags/baychi/) [acm](/tags/acm/) [sigchi](/tags/sigchi/) [dunbar number](/tags/dunbar-number/) [group size](/tags/group-size/) [unstructured trust](/tags/unstructured-trust/) [scale](/tags/scale/) [michael h. goldhaber](/tags/michael-h.-goldhaber/) [attention economy](/tags/attention-economy/) -->
 
-[Social Software](/tags/social-software/) [talk](/tags/talk/) [baychi](/tags/baychi/) [acm](/tags/acm/) [sigchi](/tags/sigchi/) [dunbar number](/tags/dunbar-number/) [group size](/tags/group-size/) [unstructured trust](/tags/unstructured-trust/) [scale](/tags/scale/) [michael h. goldhaber](/tags/michael-h.-goldhaber/) [attention economy](/tags/attention-economy/)
+Life With Alacrity
+
+© Christopher Allen

@@ -6,9 +6,10 @@ redirect_from:
   - /2005/07/cheers_belongin/
 date:   2005-07-27 16:35:17 -0700
 image:  cheers.jpg
-# tags:   Home
+tags:   Home
 ---
 
+By [Christopher Allen](/lwa/about)
 
 In yesterday's [All Things Considered](http://www.npr.org/templates/rundowns/rundown.php?prgId=2), NPR commentator [Jake Halpern](http://jakehalpern.com/news.html) questions why you feel like you have a relationship with the characters in your favorite TV shows. His answer: "That's because you do." This idea is interesting not just to help us understand how we relate to imaginary characters, but also to correlate with our own understanding of [Dunbar Number](/2004/03/the_dunbar_numb.html) relationship limits and how they might relate to this concept.
 
@@ -70,9 +71,9 @@ What about characters in books? Should I stop reading the Diskworld series?
 
 [Ford](http://blog.lib.umn.edu/denis036/thisweekinevolution/) 2008-02-01T10:20:18-07:00
 
-original layout
+[original layout]
 
-[Community by the Numbers](/tags/community-by-the-numbers/) [Recreation](/tags/recreation/) [Social Software](/tags/social-software/) [Television](/tags/television/) [para-social](/tags/para-social/) [relationships](/tags/relationships/) [belongingness](/tags/belongingness/) [needs](/tags/needs/) [jun relationships](/tags/jun-relationships/) [social software](/tags/social-software/) [social emotions](/tags/social-emotions/) [connections](/tags/connections/) [television](/tags/television/) [movies](/tags/movies/) [viewing](/tags/viewing/) [dunbar number](/tags/dunbar-number/) [limits](/tags/limits/) [cheers](/tags/cheers/) [jake halpern](/tags/jake-halpern/) [npr](/tags/npr/) [all things considered](/tags/all-things-considered/) [baumeister & leary](/tags/baumeister-leary/) [horton & wohl](/tags/horton-wohl/)
+<!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Recreation](/tags/recreation/) [Social Software](/tags/social-software/) [Television](/tags/television/) [para-social](/tags/para-social/) [relationships](/tags/relationships/) [belongingness](/tags/belongingness/) [needs](/tags/needs/) [jun relationships](/tags/jun-relationships/) [social software](/tags/social-software/) [social emotions](/tags/social-emotions/) [connections](/tags/connections/) [television](/tags/television/) [movies](/tags/movies/) [viewing](/tags/viewing/) [dunbar number](/tags/dunbar-number/) [limits](/tags/limits/) [cheers](/tags/cheers/) [jake halpern](/tags/jake-halpern/) [npr](/tags/npr/) [all things considered](/tags/all-things-considered/) [baumeister & leary](/tags/baumeister-leary/) [horton & wohl](/tags/horton-wohl/) -->
 
 
 Life With Alacrity

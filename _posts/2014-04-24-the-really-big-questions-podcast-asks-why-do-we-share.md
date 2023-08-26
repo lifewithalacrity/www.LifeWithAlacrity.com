@@ -8,6 +8,9 @@ date:   2014-04-24 10:39:49 +0300
 # image:  02.jpg
 tags:   Software
 ---
+
+By [Christopher Allen](/lwa/about)
+
 <img width="300" height="auto" align="right" src="../assets/images/SHARE_spot2_soup-300x300.jpg" alt="“The Really Big Questions” Podcast Asks “Why Do We Share?”"/> 
 
 On the topic of the #sharingeconomy, these audio podcast and video entries from "The Really Big Questions" that ask the question "Why Do People Share" are really quite good. In particular, catch the video of Capuchin monkey's rejecting unequal pay — I've been saying for a long time that the roots of trust and fairness are in our genes.

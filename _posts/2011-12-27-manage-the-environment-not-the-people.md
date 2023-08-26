@@ -6,8 +6,10 @@ redirect_from:
   - 
 date:   2011-12-27 20:21:08 -0700
 # image:  02.jpg
-# tags:   Weblogs
+tags:   Weblogs
 ---
+
+By [Christopher Allen](/lwa/about)
 
 Matt Taylor Photo In the late 80's I met Matt Taylor at a Mac user group event, and we became friends. We eventually became reciprocal apprentices — he learned from me about computers and collaborating online, and I learned from him about facilitating face-to-face collaboration and the architecture of facilitation.
 
@@ -45,3 +47,7 @@ So as I continue exploration of the nature of work, I offer Buckminster Fuller &
 (photos courtesy Matt Taylor)
 
 original layout
+
+Life With Alacrity
+
+© Christopher Allen

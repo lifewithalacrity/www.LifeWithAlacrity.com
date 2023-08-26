@@ -8,6 +8,8 @@ date:   2016-04-05 08:06:00 +0300
 tags: Web/Tech
 ---
 
+By [Christopher Allen](/lwa/about)
+
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Participatory.jpeg" alt="Participatory"/>
 
 _A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.

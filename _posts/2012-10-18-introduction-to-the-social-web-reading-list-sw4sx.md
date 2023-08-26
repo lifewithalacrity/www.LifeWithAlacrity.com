@@ -6,8 +6,10 @@ redirect_from:
   - /2012/10/introduction-to-the-social-web-reading-list-sw4sx/
 date:   2013-04-04 14:16:52 -0700
 # image:  02.jpg
-# tags:   Weblogs
+tags:   Weblogs
 ---
+
+By [Christopher Allen](/lwa/about)
 
 These are the initial required readings for the first two weeks of my [Using the Social Web for Social Change](http://www.bgi.edu/changing-business/social-web-for-social-change/) class (hashtag #SW4SX) that I teach in the [MBA in Sustainable Systems](http://www.bgi.edu/academics/mbas/hybrid-mba/) program at [Bainbridge Graduate Institute](http://www.bgi.edu).
 
@@ -230,9 +232,10 @@ _**When I designed this class four years ago, I was inspired by Michael Wesch's 
 
 I welcome your thoughts for additional or replacement Social Web introductory readings that we can use in the next class in the Spring of 2013.
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/)
+<!-- 
+[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) -->
 
 Life With Alacrity
 

@@ -6,8 +6,10 @@ redirect_from:
   - /2005/10/dunbar_group_co/
 date:   2005-10-28 16:16:17 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
+
+By [Christopher Allen](/lwa/about)
 
 There is some more excellent research this week by [Nick Yee](http://www.nickyee.com/) and [Nicolas Ducheneaut](http://www.parc.com/nicolas) in the [PlayOn](http://blogs.parc.com/playon/) blog. Again, their research provides good insight into social group dynamics as they appear in online games.
 
@@ -89,9 +91,9 @@ Thanks, the image is corrected to be g-3.
 
 [Christopher Allen](http://www.LifeWithAlacrity.com) 2006-04-14T05:23:55-07:00
 
-original layout
+[original layout]
 
-[Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [nick yee](/tags/nick-yee/) [nicolas ducheneau](/tags/nicolas-ducheneau/) [playon](/tags/playon/) [social software](/tags/social-software/) [group dynamics](/tags/group-dynamics/) [online games](/tags/online-games/) [guilds](/tags/guilds/) [WoW](/tags/wow/) [world of warcraft](/tags/world-of-warcraft/) [group cohesion](/tags/group-cohesion/) [cohesiveness](/tags/cohesiveness/) [co-presence](/tags/co-presence/) [co-location](/tags/co-location/) [subgraph size](/tags/subgraph-size/)
+<!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [nick yee](/tags/nick-yee/) [nicolas ducheneau](/tags/nicolas-ducheneau/) [playon](/tags/playon/) [social software](/tags/social-software/) [group dynamics](/tags/group-dynamics/) [online games](/tags/online-games/) [guilds](/tags/guilds/) [WoW](/tags/wow/) [world of warcraft](/tags/world-of-warcraft/) [group cohesion](/tags/group-cohesion/) [cohesiveness](/tags/cohesiveness/) [co-presence](/tags/co-presence/) [co-location](/tags/co-location/) [subgraph size](/tags/subgraph-size/) -->
 
 Life With Alacrity
 

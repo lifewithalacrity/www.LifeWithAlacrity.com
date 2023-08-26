@@ -2,12 +2,12 @@
 layout: single
 title:  "A Relationship With Work"
 slug:  "A Relationship With Work"
-redirect_from:
-  - 
 date:   2011-12-27 20:28:37 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
+
+By [Christopher Allen](/lwa/about)
 
 I am a lifetime entrepreneur. Even when working for large organizations I find my approach to be entrepreneurial (what my mentor **Gifford Pinchot** would call **Intrapreneurial**).
 
@@ -41,4 +41,8 @@ Thus Bria and I invite you to show your insights with us and participate in whit
 
 (photo credit: AlexPears in "Yahoo Employee Volunteers" using CC-SA)
 
-original layout
+[original layout]
+
+Life With Alacrity
+
+© Christopher Allen

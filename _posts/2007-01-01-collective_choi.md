@@ -6,10 +6,10 @@ redirect_from:
   - /2007/01/collective_choi/
 date:   2007-01-01 22:38:15 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen & Shannon Appelcline](lwa/about)
+By Christopher Allen & Shannon Appelcline
 
 _\[This is the fourth in a series of articles on [collective choice](/2005/12/systems_for_col.html), co-written by my collegue [Shannon Appelcline](http://www.skotos.net/about/staff/shannon_appelcline). It will be [jointly posted](http://www.skotos.net/articles/TTnT_179.phtml) in Shannon's [Trials, Triumphs & Trivialities](http://www.skotos.net/articles/TTnT.shtml) online games column at [Skotos](http://www.skotos.net/).\]_
 
@@ -261,9 +261,9 @@ URL: 0-10 scale is too large for most relevant human ratings systems. maybe i sh
 
 [Grumpy](#) 2007-12-18T10:24:24-07:00
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [rating](/tags/rating/) [review](/tags/review/) [ratings](/tags/ratings/) [collective choice](/tags/collective-choice/) [selection system](/tags/selection-system/) [statistics](/tags/statistics/) [bayesian](/tags/bayesian/) [rpg](/tags/rpg/) [gaming index](/tags/gaming-index/) [user content](/tags/user-content/)
+<!-- [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [rating](/tags/rating/) [review](/tags/review/) [ratings](/tags/ratings/) [collective choice](/tags/collective-choice/) [selection system](/tags/selection-system/) [statistics](/tags/statistics/) [bayesian](/tags/bayesian/) [rpg](/tags/rpg/) [gaming index](/tags/gaming-index/) [user content](/tags/user-content/) -->
 
 Life With Alacrity
 

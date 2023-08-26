@@ -9,6 +9,8 @@ date:   2014-05-05 12:01:00 +0300
 tags:   Home
 ---
 
+By [Christopher Allen](/lwa/about)
+
 I recently ran into a quote that rang true to me. It is from Bill Gates in "The Road Ahead", but is wise enough that it may have older origins than that:
 
 “Most people overestimate what they can do in one year and underestimate what they can do in ten years.”

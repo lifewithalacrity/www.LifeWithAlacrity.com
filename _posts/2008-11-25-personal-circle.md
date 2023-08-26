@@ -6,8 +6,10 @@ redirect_from:
   - /2008/11/personal-circle/
 date: 2009-09-14 13:55:42 -0700
 image: sympathy.jpg
-# tags:  Software
+tags:  Software
 ---
+
+By [Christopher Allen](/lwa/about)
 
 In my [previous](/2008/09/group-threshold.html) post, I talked about the limits on sizes of tightly-knit communities. These group limits are closely related to a number of interesting personal limits, and are often confused with them.
 
@@ -138,6 +140,10 @@ URL: The different kind of 'circles' we have in the social networking are includ
 
 [bebes](#) 2009-04-22T22:26:44-07:00
 
-original layout
+[original layout]
 
-[Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [personal limits](/tags/personal-limits/) [community numbers](/tags/community-numbers/) [support circle](/tags/support-circle/) [sympathy circle](/tags/sympathy-circle/) [trust circle](/tags/trust-circle/) [emotional circle](/tags/emotional-circle/) [familiar strangers](/tags/familiar-strangers/) [size](/tags/size/)
+<!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [personal limits](/tags/personal-limits/) [community numbers](/tags/community-numbers/) [support circle](/tags/support-circle/) [sympathy circle](/tags/sympathy-circle/) [trust circle](/tags/trust-circle/) [emotional circle](/tags/emotional-circle/) [familiar strangers](/tags/familiar-strangers/) [size](/tags/size/) -->
+
+Life With Alacrity
+
+© Christopher Allen

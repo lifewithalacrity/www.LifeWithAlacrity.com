@@ -9,6 +9,8 @@ date: 2014-06-05 12:35-07 +0300
 tags:   Home
 ---
 
+By [Christopher Allen](/lwa/about)
+
 I often speak about "Freedom to Fail" as an essential element of success for all sizes of systems and processes such as a hackathons, ecosystems, corporate cultures, and art. Freedom to fail isn't just about innovation and creativity, it is also about resilience — small failures teach you about what to be careful about in the future to avoid big failures.
 
 If you look at the success of Twitter, at its root was a failure. Many other big "successes" started with a failure. When my first business went bankrupt, a long-time entrepreneurial friend told "NOW, you are truly an entrepreneur.". He was right — I can still fear failure, but I also know I minimize its danger, and I can survive & learn to thrive from it.

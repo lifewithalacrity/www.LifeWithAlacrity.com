@@ -6,7 +6,7 @@ redirect_from:
   - /2006/02/flames_emotiona/
 date:   2006-02-13 13:07:32 -0700
 image:  cycle_of_flames.jpg
-# tags:   Home
+tags:   Home
 ---
 
 By [Christopher Allen](lwa/about)
@@ -89,6 +89,10 @@ At http://brudnopis.blogspot.com/2006/04/one-email-per-day-moderation-scheme.htm
 
 [Zbigniew Lukasiak](http://brudnopis.blogspot.com/) 2006-05-19T01:50:42-07:00
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [social software](/tags/social-software/) [moderation](/tags/moderation/) [flame](/tags/flame/) [flames](/tags/flames/) [flaming](/tags/flaming/) [behavior](/tags/behavior/) [psychology](/tags/psychology/) [sociology](/tags/sociology/) [online community](/tags/online-community/) [emotion](/tags/emotion/) [overinterpretation](/tags/overinterpretation/) [amplification](/tags/amplification/) [text](/tags/text/).
+<!-- [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [social software](/tags/social-software/) [moderation](/tags/moderation/) [flame](/tags/flame/) [flames](/tags/flames/) [flaming](/tags/flaming/) [behavior](/tags/behavior/) [psychology](/tags/psychology/) [sociology](/tags/sociology/) [online community](/tags/online-community/) [emotion](/tags/emotion/) [overinterpretation](/tags/overinterpretation/) [amplification](/tags/amplification/) [text](/tags/text/). -->
+
+Life With Alacrity
+
+© Christopher Allen

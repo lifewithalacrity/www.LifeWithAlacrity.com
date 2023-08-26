@@ -6,7 +6,7 @@ redirect_from:
   - /2009/10/blog-action-day-on-climate-change/
 date:   2009-10-15 23:59:37 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 Late this evening while catching up on my feeds, I saw for the first time that this year's [Blog Action Day](http://site.blogactionday.org/) is on the topic of [Climate Change](http://site.blogactionday.org/general/8-great-climate-change-resources-for-your-blog-action-day-post/). This event is sponsored yearly by [Change.org](http://www.change.org/). I wish I had known earlier as this would have been a great exercise for my sustainable MBA students at BGI.edu, as they are all creating their blogs this week for my [class](/2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu.html) "Using the Social Web for Social Change".
 
@@ -20,9 +20,9 @@ Other then the fact that I learned about it late, I'm reasonably pleased by the 
 
 There are a lot of things at this website which will be a good jumping off point for my students to think about as they work on their on blogs on sustainability, and their future Social Change media projects.
 
-original layout
+[original layout]
 
-[blog action day](/tags/blog-action-day/) [climate change](/tags/climate-change/) [bgiedu](/tags/bgiedu/)
+<!-- [blog action day](/tags/blog-action-day/) [climate change](/tags/climate-change/) [bgiedu](/tags/bgiedu/) -->
 
 Life With Alacrity
 

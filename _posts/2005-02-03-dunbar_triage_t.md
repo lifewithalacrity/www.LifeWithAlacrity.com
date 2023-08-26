@@ -6,10 +6,10 @@ redirect_from:
   - /2005/02/dunbar_triage_t/
 date:   2005-02-03 15:05:50 -0700
 image:  ryzeblogtribefriends.gif
-# tags:   Home
+tags:   Home
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 
 <a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/ryzeblogtribefriends.gif"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/ryzeblogtribefriends.gif" alt="Ryzeblogtribefriends"/></a>
@@ -163,9 +163,9 @@ I just had a minor realization: when we speak of "dropping" someone from our per
 
 [Eric Scheid](http://IAwiki.net/) 2005-07-30T01:53:38-07:00
 
-original layout
+[original layout]
 
-[Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [social networks](/tags/social-networks/) [social network services](/tags/social-network-services/) [social software](/tags/social-software/) [connections](/tags/connections/) [friends](/tags/friends/) [limits](/tags/limits/) [amplification](/tags/amplification/) [attenuation](/tags/attenuation/)
+<!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [social networks](/tags/social-networks/) [social network services](/tags/social-network-services/) [social software](/tags/social-software/) [connections](/tags/connections/) [friends](/tags/friends/) [limits](/tags/limits/) [amplification](/tags/amplification/) [attenuation](/tags/attenuation/) -->
 
 Life With Alacrity
 

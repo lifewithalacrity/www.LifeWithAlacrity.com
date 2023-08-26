@@ -6,7 +6,10 @@ redirect_from:
   - /2006/08/using_5star_rat/
 date:   2006-08-31 11:52:49 -0700
 image:  stars_1.gif
-# tags:   Social Software rating system
+tags:   
+  - Social 
+  - Software 
+  - rating system
 ---
 
 By [Christopher Allen](lwa/about)

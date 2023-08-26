@@ -6,7 +6,7 @@ redirect_from:
   - /2006/12/speaking_about_/
 date:   2006-12-06 14:34:38 -0700
 # image:  02.jpg
-# tags:   Web/Tech
+tags:   Web/Tech
 ---
 
 By [Christopher Allen](lwa/about)
@@ -15,9 +15,9 @@ I will be speaking tonight at [WikiWednesday](http://www.socialtext.net/wikiwed/
 
 If you are interested, see you tonight (Wednesday) at 6-8pm, [at Socialtext](http://maps.google.com/maps?oi=map&q=655+High+Street,+Palo+Alto,+CA).
 
-original layout
+[original layout]
 
-[User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [synchroedit](/tags/synchroedit/) [sametime](/tags/sametime/) [social software](/tags/social-software/) [synchroedit](/tags/synchroedit/) [mediawiki](/tags/mediawiki/) [editthispagephp](/tags/editthispagephp/)
+<!-- [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [synchroedit](/tags/synchroedit/) [sametime](/tags/sametime/) [social software](/tags/social-software/) [synchroedit](/tags/synchroedit/) [mediawiki](/tags/mediawiki/) [editthispagephp](/tags/editthispagephp/) -->
 
 Life With Alacrity
 

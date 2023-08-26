@@ -9,6 +9,8 @@ date:   2014-04-21 12:01:00 +0300
 tags:   Home
 ---
 
+By [Christopher Allen](/lwa/about)
+
 For the second time, I was asked to play a hand pan solo on stage at the BGIedu intensive. This time I was better prepared to make a better quality recording.
 
 For those who want more detail, this percussion instrument is generically called a hand pan, and specifically this a Pantheon Steel Halo Genesis tuned in the Xiao Xiong Diao (XXD) scale. A cousin of the PanArt hand pan called a "Hang", the makers of this instrument are one of the first to successfully make an instrument of similar quality. This specific instrument was the 14th created and tuned by Kyle Cox of Pantheon Steel in August of 2009, of what is now known as the "Genesis" line of their hand pans, and in my opinion is one of his early master works. The tuning was inspired by an asian scale called Xiao Xiong Diao (XXD). This means the central ding is a C, followed by 8 notes around the edge F G Ab C D Eb F and G.

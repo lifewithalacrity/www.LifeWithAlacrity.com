@@ -3,7 +3,7 @@ layout: single
 title:  Persuasion, Influence, Bias, Intuitive Errors
 date:   2010-10-13 11:28:12 -0700
 # image:  02.jpg
-# tags:   Social
+tags:   Social
 ---
 
 Motivated reasoning
@@ -24,4 +24,8 @@ intuitive errors: inattention blindness, believe that our memories are more reli
 
 http://en.wikipedia.org/wiki/List_of_cognitive_biases
 
-original layout
+[original layout]
+
+Life With Alacrity
+
+© Christopher Allen

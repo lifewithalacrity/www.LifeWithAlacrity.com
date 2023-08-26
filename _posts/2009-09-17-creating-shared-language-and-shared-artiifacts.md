@@ -6,8 +6,11 @@ redirect_from:
   - /2009/09/creating-shared-language-and-shared-artiifacts/
 date:   2009-09-17 01:13:10 -0700
 image:  poem.jpg
-# tags:   Home
+tags:   Home
 ---
+
+By [Christopher Allen](/lwa/about)
+
 <img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/poem.jpg" alt="Poem: Language"/>
 We live in a world of conversation, of language; all full of words. Mastery of language requires learning the meanings of thousands of words. The average native English language speaker uses in the realm of 12,000 to 20,000 words, whereas a college graduate would use 20-25,000 words. Shakespeare actively used more then 30,000 words, and his vocabulary was estimated to be over 66,000 words. Yet there are, at the very least, a quarter of a million distinct English words, excluding inflections, and words from technical and regional vocabularies. The Oxford English dictionary defines more then 600,000 words.
 
@@ -73,9 +76,9 @@ URL: Shared artifacts are also known as models; the best form of understanding o
 
 [Dave Carter](#) 2011-05-05T04:15:41-07:00
 
-[original layout](/previous/2009/09/creating-shared-language-and-shared-artiifacts.html)
+[original layout]
 
-[shared language](/tags/shared-language/) [shared artifact](/tags/shared-artifact/) [conversation](/tags/conversation/) [language](/tags/language/) [meaning](/tags/meaning/) [english](/tags/english/) [vocabulary](/tags/vocabulary/) [context](/tags/context/) [group formation](/tags/group-formation/) [trust building](/tags/trust-building/) [communication](/tags/communication/) [collaboration](/tags/collaboration/) [creation](/tags/creation/) [goal clarification](/tags/goal-clarification/) [commitment](/tags/commitment/) [shared object](/tags/shared-object/) [shared space](/tags/shared-space/) [constraint](/tags/constraint/) [social network](/tags/social-network/) [tagging](/tags/tagging/) [culture](/tags/culture/) [bgimgt566sx](/tags/bgimgt566sx/)
+<!-- [shared language](/tags/shared-language/) [shared artifact](/tags/shared-artifact/) [conversation](/tags/conversation/) [language](/tags/language/) [meaning](/tags/meaning/) [english](/tags/english/) [vocabulary](/tags/vocabulary/) [context](/tags/context/) [group formation](/tags/group-formation/) [trust building](/tags/trust-building/) [communication](/tags/communication/) [collaboration](/tags/collaboration/) [creation](/tags/creation/) [goal clarification](/tags/goal-clarification/) [commitment](/tags/commitment/) [shared object](/tags/shared-object/) [shared space](/tags/shared-space/) [constraint](/tags/constraint/) [social network](/tags/social-network/) [tagging](/tags/tagging/) [culture](/tags/culture/) [bgimgt566sx](/tags/bgimgt566sx/) -->
 
 Life With Alacrity
 

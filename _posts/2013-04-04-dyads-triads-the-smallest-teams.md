@@ -9,7 +9,7 @@ date:   2013-04-04 14:16:52 -0700
 tags:   Home
 ---
 
-(by Christopher Allen with Elyn Andersson and Shannon Appelcline)
+(By Christopher Allen with Elyn Andersson and Shannon Appelcline)
 
 <img width="100%" src="../assets/images/BGIedu.png" alt="BGIedu"/>
 
@@ -215,9 +215,9 @@ URL: I just discovered your site, and I'm really enjoying your posts. I am an Or
 
 [Kevin](#) 2014-11-05T12:19:04-07:00
 
-original layout
+[original layout]
 
-[Business](/tags/business/), [Community by the Numbers](/tags/community-by-the-numbers/), [Social Software](/tags/social-software/), [Web/Tech](/tags/web/tech/), [dyad](/tags/dyad/), [triad](/tags/triad/), [dyads](/tags/dyads/), [triads](/tags/triads/), [community](/tags/community/), [bgiedu](/tags/bgiedu/), [study groups](/tags/study-groups/), [team](/tags/team/), [teams](/tags/teams/), [work group](/tags/work-group/), [working team](/tags/working-team/), [work groups](/tags/work-groups/), [working teams](/tags/working-teams/), [emotional support](/tags/emotional-support/), [commitment](/tags/commitment/), [reasoned agreement](/tags/reasoned-agreement/), [power inequality](/tags/power-inequality/), [inability to devolve](/tags/inability-to-devolve/), [voting](/tags/voting/) [unconscious voting](/tags/unconscious-voting/), [elemental diversity](/tags/elemental-diversity/).
+<!-- [Business](/tags/business/), [Community by the Numbers](/tags/community-by-the-numbers/), [Social Software](/tags/social-software/), [Web/Tech](/tags/web/tech/), [dyad](/tags/dyad/), [triad](/tags/triad/), [dyads](/tags/dyads/), [triads](/tags/triads/), [community](/tags/community/), [bgiedu](/tags/bgiedu/), [study groups](/tags/study-groups/), [team](/tags/team/), [teams](/tags/teams/), [work group](/tags/work-group/), [working team](/tags/working-team/), [work groups](/tags/work-groups/), [working teams](/tags/working-teams/), [emotional support](/tags/emotional-support/), [commitment](/tags/commitment/), [reasoned agreement](/tags/reasoned-agreement/), [power inequality](/tags/power-inequality/), [inability to devolve](/tags/inability-to-devolve/), [voting](/tags/voting/) [unconscious voting](/tags/unconscious-voting/), [elemental diversity](/tags/elemental-diversity/). -->
 
 Life With Alacrity
 

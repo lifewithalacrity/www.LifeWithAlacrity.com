@@ -6,8 +6,10 @@ redirect_from:
   - /2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu/
 date:   2009-09-16 22:36:27 -0700
 # image:  Teaching.jpg
-# tags:   Web/Tech
+tags:   Web/Tech
 ---
+
+By [Christopher Allen](/lwa/about)
 
 <img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/Teaching.jpg" alt="Teaching"/>
 
@@ -33,9 +35,9 @@ Hi Christopher, We've done a lot of work in this area in the past couple of year
 
 [Robert Q. Benedict](http://www.changemakers.com) 2009-09-17T07:43:34-07:00
 
-original layout
+[original layout]
 
-[Web/Tech](/tags/web/tech/) [bgi](/tags/bgi/) [bgiedu](/tags/bgiedu/) [bgimgt566sx](/tags/bgimgt566sx/) [bainbridge graduate institute](/tags/bainbridge-graduate-institute/) [mba](/tags/mba/) [course](/tags/course/) [class](/tags/class/) [pedagogy](/tags/pedagogy/) [channel rock](/tags/channel-rock/) [bainbridge island](/tags/bainbridge-island/) [islandwood](/tags/islandwood/) [hybrid](/tags/hybrid/) [syllabus](/tags/syllabus/) [course plan](/tags/course-plan/) [presentations](/tags/presentations/) [elective](/tags/elective/) [green](/tags/green/) [sustainable](/tags/sustainable/)
+<!-- [Web/Tech](/tags/web/tech/) [bgi](/tags/bgi/) [bgiedu](/tags/bgiedu/) [bgimgt566sx](/tags/bgimgt566sx/) [bainbridge graduate institute](/tags/bainbridge-graduate-institute/) [mba](/tags/mba/) [course](/tags/course/) [class](/tags/class/) [pedagogy](/tags/pedagogy/) [channel rock](/tags/channel-rock/) [bainbridge island](/tags/bainbridge-island/) [islandwood](/tags/islandwood/) [hybrid](/tags/hybrid/) [syllabus](/tags/syllabus/) [course plan](/tags/course-plan/) [presentations](/tags/presentations/) [elective](/tags/elective/) [green](/tags/green/) [sustainable](/tags/sustainable/) -->
 
 Life With Alacrity
 

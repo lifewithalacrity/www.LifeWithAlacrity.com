@@ -6,8 +6,10 @@ redirect_from:
   - /2007/06/getting_ready_f/
 date:   2007-06-15 20:06:45 -0700
 image:  watereddown.jpg
-# tags:   Home
+tags:   Home
 ---
+
+By [Christopher Allen](/lwa/about)
 
 <a href="#"><img width="230px" style=" margin-left:15px" align="right"  src="../assets/images/watereddown.jpg" alt="watereddown"/></a>
 
@@ -43,8 +45,9 @@ If you are interested as well, I invite you to participate in the new [iPhoneWeb
 
 I have quite a bit more I'd like to write about specific iPhone technology, but unfortunately I have to wait until the [WWDC confidentiality](http://developer.apple.com/wwdc/attendee/) expires on June 29th with the release of the iPhone, so keep an eye out here for more details.
 
-original layout
-[iPhone](/tags/iphone/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [iphone](/tags/iphone/) [wwdc](/tags/wwdc/) [web2.0](/tags/web2.0/) [ajax](/tags/ajax/) [synchroedit](/tags/synchroedit/) [safari](/tags/safari/) [webkit](/tags/webkit/) [subethaedit](/tags/subethaedit/) [firefox](/tags/firefox/) [readystate](/tags/readystate/) [xmlhttprequest](/tags/xmlhttprequest/) [iPhoneWebDev](/tags/iphonewebdev/)
+[original layout]
+
+<!-- [iPhone](/tags/iphone/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [iphone](/tags/iphone/) [wwdc](/tags/wwdc/) [web2.0](/tags/web2.0/) [ajax](/tags/ajax/) [synchroedit](/tags/synchroedit/) [safari](/tags/safari/) [webkit](/tags/webkit/) [subethaedit](/tags/subethaedit/) [firefox](/tags/firefox/) [readystate](/tags/readystate/) [xmlhttprequest](/tags/xmlhttprequest/) [iPhoneWebDev](/tags/iphonewebdev/) -->
 
 Life With Alacrity
 

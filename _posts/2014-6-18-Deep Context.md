@@ -9,6 +9,7 @@ date:   2014-06-18 08:20:58 +0300
 tags:   Home
 ---
 
+By [Christopher Allen](/lwa/about)
 
 <img width="300" height="200" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/context.jpeg" alt="Deep Context Shared Languages"/> 
 

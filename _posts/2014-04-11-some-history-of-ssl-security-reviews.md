@@ -9,6 +9,8 @@ date:   2014-04-11 12:01:00 +0300
 tags:   Home
 ---
 
+By [Christopher Allen](/lwa/about)
+
 Regarding the Heartbleed bug, SSL and TLS vendors used to require code security reviews before CAs would accept certificate requests from that implementation.
 
 My firm Consensus Development was the only one offering these reviews, largely because other security firms were scared of liability issues. Over 50% of the products failed in less then 8 hours of review, typically for very stupid mistakes. The CAs stopped asking us for reviews because it was slowing down sales of certificates.

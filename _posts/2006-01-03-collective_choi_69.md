@@ -6,7 +6,7 @@ redirect_from:
   - /2005/12/collective_choi/
 date:   2005-07-27 16:35:17 -0700
 image:  bcs_1.png
-# tags:   Home
+tags:   Home
 ---
 
 By Christopher Allen & Shannon Appelcline
@@ -227,9 +227,9 @@ I have an interesting brainstorm for you about the netflix challenge: http://www
 
 [thinksketch](http://thinksketchdesign.com) 2009-03-03T18:56:13-07:00
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [collective choice](/tags/collective-choice/) [comparison systems](/tags/comparison-systems/) [rating systems](/tags/rating-systems/) [bayesian](/tags/bayesian/) [ebay](/tags/ebay/) [user-contributed content](/tags/user-contributed-content/) [feedback](/tags/feedback/) [granular ratings](/tags/granular-ratings/) [rating scale](/tags/rating-scale/) [specific ratings](/tags/specific-ratings/) [statistical ratings](/tags/statistical-ratings/) [rating weight](/tags/rating-weight/) [rpgnet](/tags/rpgnet/) [board game geek](/tags/board-game-geek/) [wow web designs](/tags/wow-web-designs/) [altruistic punishment](/tags/altruistic-punishment/) [editorial fiat](/tags/editorial-fiat/) [bilateralism](/tags/bilateralism/) [retaliation](/tags/retaliation/) [usefulness](/tags/usefulness/) [meta-ratings](/tags/meta-ratings/)
+<!-- [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [collective choice](/tags/collective-choice/) [comparison systems](/tags/comparison-systems/) [rating systems](/tags/rating-systems/) [bayesian](/tags/bayesian/) [ebay](/tags/ebay/) [user-contributed content](/tags/user-contributed-content/) [feedback](/tags/feedback/) [granular ratings](/tags/granular-ratings/) [rating scale](/tags/rating-scale/) [specific ratings](/tags/specific-ratings/) [statistical ratings](/tags/statistical-ratings/) [rating weight](/tags/rating-weight/) [rpgnet](/tags/rpgnet/) [board game geek](/tags/board-game-geek/) [wow web designs](/tags/wow-web-designs/) [altruistic punishment](/tags/altruistic-punishment/) [editorial fiat](/tags/editorial-fiat/) [bilateralism](/tags/bilateralism/) [retaliation](/tags/retaliation/) [usefulness](/tags/usefulness/) [meta-ratings](/tags/meta-ratings/) -->
 
 Life With Alacrity
 

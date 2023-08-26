@@ -6,8 +6,10 @@ redirect_from:
   - /2009/03/power-laws/
 date: 2009-09-14 13:55:42 -0700
 image: community.jpg
-# tags: Web/Tech
+tags: Web/Tech
 ---
+
+By [Christopher Allen](/lwa/about)
 
 In [my first article](/2008/11/personal-circle.html) in this series I talked about community numbers: how the sizes of groups ultimately affect their success (or failure). However what I discussed only offers up the most rudimentary explanation of the dynamics, and that is because typically not all of the members of a group are equally involved.
 
@@ -127,6 +129,10 @@ Chris - this was a really great series of 3 posts - it is outlined as well as an
 
 [Sean McClowry](http://www.openmethodology.org) 2009-07-15T15:33:05-07:00
 
-[original layout](/previous/2009/03/power-laws.html)
+[original layout]
 
-[Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [participation inequality](/tags/participation-inequality/) [dunbar number](/tags/dunbar-number/) [group sizes](/tags/group-sizes/) [online communities](/tags/online-communities/) [particiation](/tags/particiation/) [group thresholds](/tags/group-thresholds/) [pareto principle](/tags/pareto-principle/) [zipf's law](/tags/zipfs-law/)
+<!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [participation inequality](/tags/participation-inequality/) [dunbar number](/tags/dunbar-number/) [group sizes](/tags/group-sizes/) [online communities](/tags/online-communities/) [particiation](/tags/particiation/) [group thresholds](/tags/group-thresholds/) [pareto principle](/tags/pareto-principle/) [zipf's law](/tags/zipfs-law/) -->
+
+Life With Alacrity
+
+© Christopher Allen

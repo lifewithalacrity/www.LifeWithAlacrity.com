@@ -6,8 +6,11 @@ redirect_from:
   - /2008/09/group-threshold/
 date: 2009-09-14 13:55:42 -0700
 image: circle_of_hands.jpg
-# tags: Home
+tags: Home
 ---
+
+By [Christopher Allen](/lwa/about)
+
 <a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/circle_of_hands.jpg" alt="Circle of Hands"/></a>
 
 We often think of communities as organic creatures, which come into existence and grow on their own. However, the truth is they are fragile blossoms. Although many communities surely germinate and bloom on their own, purposefully creating communities can take a tremendous amount of hard work, and one factor their success ultimately depends upon is their _numbers_.
@@ -128,9 +131,9 @@ URL: Reading : "These optimal and sub-optimal community sizes appear in strata, 
 
 [Louis-Martin Michaud](#) 2010-07-30T08:05:27-07:00
 
-original layout
+[original layout]
 
-[Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [group threshold](/tags/group-threshold/) [group size](/tags/group-size/) [workinggroup](/tags/workinggroup/) [committee](/tags/committee/) [community](/tags/community/) [size](/tags/size/) [dunbar number](/tags/dunbar-number/) [judas number](/tags/judas-number/) [social dynamics](/tags/social-dynamics/) [small group](/tags/small-group/) [tribe](/tags/tribe/) [band](/tags/band/) [robin dunbar](/tags/robin-dunbar/) [magic number](/tags/magic-number/)
+<!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [group threshold](/tags/group-threshold/) [group size](/tags/group-size/) [workinggroup](/tags/workinggroup/) [committee](/tags/committee/) [community](/tags/community/) [size](/tags/size/) [dunbar number](/tags/dunbar-number/) [judas number](/tags/judas-number/) [social dynamics](/tags/social-dynamics/) [small group](/tags/small-group/) [tribe](/tags/tribe/) [band](/tags/band/) [robin dunbar](/tags/robin-dunbar/) [magic number](/tags/magic-number/) -->
 
 Life With Alacrity
 

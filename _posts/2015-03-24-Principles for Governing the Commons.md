@@ -8,6 +8,9 @@ date:   2015-03-24 14:51:07 +0300
 image:  principlas.png
 tags:   Home
 ---
+
+By [Christopher Allen](/lwa/about)
+
 <a href="#"><img width="350px" style=" margin-right:15px" align="right"  src="../assets/images/resource_sharing.jpg" alt="Resource Sharing"/></a>
 
 In 2009, [Elinor Ostrom](http://en.wikipedia.org/wiki/Elinor_Ostrom "Wikipedia Page on Elinor Ostrom") received the Nobel Prize in Economics for her _“analysis of economic governance, especially [the commons](http://en.wikipedia.org/wiki/Commons "Wikipedia Page on The Commons")”_.

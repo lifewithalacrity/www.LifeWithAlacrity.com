@@ -6,10 +6,14 @@ redirect_from:
   - /2005/02/voluntary_healt/
 date:   2005-02-28 11:20:01 -0700
 image:  acsrelay.jpg
-# tags:   Games Social Software Web/Tech
+tags:   
+  - Games 
+  - Social
+  - Software
+  - Web/Tech
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 I'm a keynote speaker for the [FVHA (Future of Voluntary Health Associations) Conference](http://www.nvhainnovations.org/2005/index.htm) in Atlanta today. My job is to give to this community a gentle introduction and overview of concepts and products related to Social Software and Social Networking. ([My slides are here - 6.6MB .pdf](http://web.lifewithalacrity.com/christophera/FVHA_Social_Software_Keynote_Presentation.pdf))
 
@@ -41,9 +45,9 @@ This is something very beneficial for humanity. Helping people voluntrary is not
 
 [Stacy](http://www.safehealthdirect.com) 2005-10-13T07:20:15-07:00
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [Wiki](/tags/wiki/) [social software](/tags/social-software/) [social networks](/tags/social-networks/) [voluntary health associations](/tags/voluntary-health-associations/) [conference](/tags/conference/) [american cancer society.](/tags/american-cancer-society./)
+<!-- [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [Wiki](/tags/wiki/) [social software](/tags/social-software/) [social networks](/tags/social-networks/) [voluntary health associations](/tags/voluntary-health-associations/) [conference](/tags/conference/) [american cancer society.](/tags/american-cancer-society./) -->
 
 Life With Alacrity
 

@@ -6,8 +6,10 @@ redirect_from:
   - /2005/07/extrapolative_h/
 date:   2005-07-18 14:13:15 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
+
+By [Christopher Allen](/lwa/about)
 
 > _**Extrapolate**_
 > 
@@ -52,9 +54,9 @@ Christopher, I got to your blog from an endorsement on your LinkedIn profile. Th
 
 [Naina Redhu](http://www.aside.in/blog/networking) 2005-11-30T23:07:18-07:00
 
-original layout
+[original layout]
 
-[Film](/tags/film/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [Wiki](/tags/wiki/) [Extrapolative hostility](/tags/extrapolative-hostility/) [hostility](/tags/hostility/) [flames](/tags/flames/) [flammage](/tags/flammage/) [online medium](/tags/online-medium/) [social software](/tags/social-software/) [social software toolbox](/tags/social-software-toolbox/) [mick lasalle](/tags/mick-lasalle/)
+<!-- [Film](/tags/film/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [Wiki](/tags/wiki/) [Extrapolative hostility](/tags/extrapolative-hostility/) [hostility](/tags/hostility/) [flames](/tags/flames/) [flammage](/tags/flammage/) [online medium](/tags/online-medium/) [social software](/tags/social-software/) [social software toolbox](/tags/social-software-toolbox/) [mick lasalle](/tags/mick-lasalle/) -->
 
 Life With Alacrity
 

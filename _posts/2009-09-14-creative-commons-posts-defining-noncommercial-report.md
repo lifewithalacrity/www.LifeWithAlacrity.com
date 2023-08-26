@@ -6,8 +6,11 @@ redirect_from:
   - /2009/09/creative-commons-posts-defining-noncommercial-report/
 date: 2009-09-14 13:55:42 -0700
 image: Creative.jpg
-# tags: Home
+tags: Home
 ---
+
+By [Christopher Allen](/lwa/about)
+
 <img width="230px" style=" margin-right:15px" align="right"   src="../assets/images/Creative.jpg" alt="Creative-commons-non-commercial"/>
 
 Last year I participated in a survey followed up by a focus group on the topic of Noncommercial Use, in particular around the context that about 2/3rds of the [Creative Commons](http://creativecommons.org) licenses extant use the NC attribute, such as in [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/us/).
@@ -43,9 +46,9 @@ There are also problems in the area of attribution, as all Creative Commons lice
 
 All are interesting problems that I hope Creative Commons will address in the future.
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [noncommercial](/tags/noncommercial/) [creative commons](/tags/creative-commons/) [cc](/tags/cc/) [cc by nc](/tags/cc-by-nc/) [content](/tags/content/) [use](/tags/use/) [users](/tags/users/) [creation](/tags/creation/) [creators](/tags/creators/) [license](/tags/license/) [report](/tags/report/) [data](/tags/data/) [survey](/tags/survey/) [focus group](/tags/focus-group/) [ugc](/tags/ugc/) [user-generated content](/tags/user-generated-content/) [commercial use](/tags/commercial-use/) [attribution](/tags/attribution/)
+<!-- [Social Software](/tags/social-software/) [noncommercial](/tags/noncommercial/) [creative commons](/tags/creative-commons/) [cc](/tags/cc/) [cc by nc](/tags/cc-by-nc/) [content](/tags/content/) [use](/tags/use/) [users](/tags/users/) [creation](/tags/creation/) [creators](/tags/creators/) [license](/tags/license/) [report](/tags/report/) [data](/tags/data/) [survey](/tags/survey/) [focus group](/tags/focus-group/) [ugc](/tags/ugc/) [user-generated content](/tags/user-generated-content/) [commercial use](/tags/commercial-use/) [attribution](/tags/attribution/) -->
 
 Life With Alacrity
 

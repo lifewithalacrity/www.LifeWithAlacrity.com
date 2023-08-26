@@ -6,6 +6,7 @@ image:  02.jpg
 tags:   Home
 ---
 
+By [Christopher Allen](/lwa/about)
 
 I was going through my first blog posts, and rediscovered a quote from 2003 Game Designer and Pundit Greg Costikyan from his blog Games * Design * Art * Culture that still resonates with me today:
 
@@ -30,7 +31,7 @@ So why is distribution dominating earnings, when given the changes caused by the
 
 Help me answer this question, and maybe I can help the creators so that they can deliver to you amazing stories, songs, and art.
 
-original layout
+[original layout]
 
 Life With Alacrity
 

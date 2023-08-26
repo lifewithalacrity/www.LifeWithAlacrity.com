@@ -6,8 +6,10 @@ redirect_from:
   - /2005/08/dunbar_world_of/
 date:   2005-10-28 16:16:17 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
+
+By [Christopher Allen](/lwa/about)
 
 In my initial blog entry on the [Dunbar Number](/2004/03/the_dunbar_numb.html) I presented some statistics on group sizes based on the online game [Ultimata Online](http://www.uo.com). In it you could clearly see the power-law (pareto) curve, with diminishing returns at around 150, with most groups being 60 in size:
 
@@ -89,9 +91,9 @@ URL: hi!can you help me with sth?? i want to make faster lvl can you help me plz
 
 [oday](#) 2006-11-09T06:13:06-07:00
 
-original layout
+[original layout]
 
-[Games](/tags/games/) [Recreation](/tags/recreation/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [group sizes](/tags/group-sizes/) [ultima online](/tags/ultima-online/) [worlds of warcraft](/tags/worlds-of-warcraft/) [nick yee](/tags/nick-yee/) [online games](/tags/online-games/) [guilds](/tags/guilds/) [band](/tags/band/) [tribe](/tags/tribe/)
+<!-- [Games](/tags/games/) [Recreation](/tags/recreation/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [group sizes](/tags/group-sizes/) [ultima online](/tags/ultima-online/) [worlds of warcraft](/tags/worlds-of-warcraft/) [nick yee](/tags/nick-yee/) [online games](/tags/online-games/) [guilds](/tags/guilds/) [band](/tags/band/) [tribe](/tags/tribe/) -->
 
 Life With Alacrity
 

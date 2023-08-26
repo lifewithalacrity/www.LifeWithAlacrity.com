@@ -6,11 +6,11 @@ redirect_from:
   - /2005/04/if_you_read_my_/
 date:   2005-05-10 12:25:27 -0700
 # image:  02.jpg
-# tags:   Home
+tags:   Home
 ---
 
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 If you read my blog through an aggregator, you may not have noticed my new sidebar "Recent Bookmarks". It is a list of web pages that I've found interesting enough to annotate using the [del.icio.us](http://del.icio.us/) service. It is useful if you want to have an insight into what future blog entries I'm working on, as links will often show up there before my actual blog posting is out.
 
@@ -36,9 +36,9 @@ I was delighted to see that your first del.icio.us posting linked to W. Ross Ash
 
 [woccam](http://www.woccam.com/) 2005-08-04T16:53:14-07:00
 
-original layout
+[original layout]
 
-[Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [bookmark annotate blog aggregator del.icio.us web service sidebar javascript rss digest feed](/tags/bookmark-annotate-blog-aggregator-del.icio.us-web-service-sidebar-javascript-rss-digest-feed/)
+<!-- [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [bookmark annotate blog aggregator del.icio.us web service sidebar javascript rss digest feed](/tags/bookmark-annotate-blog-aggregator-del.icio.us-web-service-sidebar-javascript-rss-digest-feed/) -->
 
 Life With Alacrity
 
