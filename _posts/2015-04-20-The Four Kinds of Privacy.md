@@ -6,7 +6,7 @@ redirect_from:
   - /2015/04/the-four-kinds-of-privacy/
 date:   2015-04-19 18:30-07 +0300
 # image:  privacy.jpeg
-# tags:   Home
+tags:   Home
 ---
 (This article has been cross-posted in [Medium](https://medium.com/@christophera/the-four-kinds-of-privacy-bf4b0bf222ac))
 
@@ -267,6 +267,8 @@ This article is based on an original post written in 2004 in Christopher's blog 
 
 See the following post [The Four Kinds of Privacy: Appendices & Bibliography](https://medium.com/@christophera/the-four-kinds-of-privacy-appendices-bibliography-d2b75b269d2d).
 
-original layout
+[original layout]
 
-[Security](/tags/security/), [Social Software](/tags/social-software/), [Social Web for Social Change #SW4SX](/tags/social-web-for-social-change-%23sw4sx/), [Web/Tech](/tags/web/tech/), [Privacy](/tags/privacy/) [security](/tags/security/), [public](/tags/public/), [human rights](/tags/human-rights/) [defensive](/tags/defensive/), [hacker](/tags/hacker/) [theft](/tags/theft/), [personal](/tags/personal/), [contextual](/tags/contextual/) [celebrity](/tags/celebrity/), [gamergate](/tags/gamergate/) [nsa](/tags/nsa/), [afghanistan](/tags/afghanistan/), [afgan](/tags/afgan/).
+Life With Alacrity
+
+© Christopher Allen

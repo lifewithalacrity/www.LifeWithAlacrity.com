@@ -8,7 +8,7 @@ date: 2004-02-01 17:12:22 -0700
 # image: 02.jpg
 tags: Home
 ---
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 Another Orkut user and I have confirmed a privacy hole in Orkut whenever you send a message to someone via Orkut.
 

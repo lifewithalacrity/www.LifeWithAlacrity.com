@@ -219,3 +219,7 @@ Todd, Peter. 2016. “Building Blocks of the State Machine Approach to Consensus
 Todd, Peter. 2016. “Dex: Deterministic Predicate Expressions for Smarter Signatures”. Rebooting the Web of Trust II: ID2020 Workshop. https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/topics-and-advance-readings/DexPredicatesForSmarterSigs.md
 
 Thomas, Stefan. 2016. "Crypto Conditions". Stefan Thomas. https://github.com/interledger/rfcs/tree/master/0002-crypto-conditions
+
+Life With Alacrity
+
+© Christopher Allen

@@ -6,7 +6,7 @@ redirect_from:
   - /2003/12/political_actio/
 date:   2003-12-10 11:42:47 -0700
 # image:  02.jpg
-# tags:   Web/Tech
+tags:   Web/Tech
 ---
 
 By [Christopher Allen](/about)
@@ -29,11 +29,8 @@ I've identified a few problems:
     
 All that I've joined feel just a bit off -- but yet I still believe there is something useful in Social Software to learn that I just have to puzzle out.
     
-[original layout](/previous/2003/12/social_software.html)
+[original layout]
     
-
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
-
 Life With Alacrity
 
 © Christopher Allen

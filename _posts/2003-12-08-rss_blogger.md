@@ -8,7 +8,7 @@ date:   2003-12-08 12:45:19 -0700
 tags:   Web/Tech 
 ---
 
-By [Christopher Allen](/about)
+By [Christopher Allen](/lwa/about)
 
 RSS is **finally** available to Blogger members, so as soon as I've figured it out I'll be adding it here.
 

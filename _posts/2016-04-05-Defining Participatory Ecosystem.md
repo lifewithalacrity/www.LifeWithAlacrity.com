@@ -35,8 +35,6 @@ Most recently I've been using it in talks about the blockchain ecosystem. I have
 
 I've posted this definition to [Github](http://www.participatoryecosystem.com/){:target="_blank"} hoping that others can fork it and submit pull requests to make it better — just like how open source world works!
 
- 
-
 [original layout]
 
 Life With Alacrity
