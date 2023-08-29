@@ -12,6 +12,10 @@ tags:
 
 categories:
   - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
 ---
 
 <style>
@@ -20,7 +24,7 @@ categories:
   }
 </style>  
 By Christopher Allen & Shannon Appelcline
-
+<!--more-->
 # ABSTRACT
 Technologies like the Web of Trust and PKI lay the foundation for _identity_ on the internet: they map a human persona to a cryptographic construct that is represented by a public key and protected by a private key._ Digital signatures_ are fundamental to these digital identities and have been widely used in a variety of applications. They’re the heart of SSH, the foundation of certificates, and the core of newer technologies like blockchain.
 

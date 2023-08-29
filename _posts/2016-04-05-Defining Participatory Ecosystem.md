@@ -6,6 +6,9 @@ redirect_from:
   - /2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it/
 date:   2016-04-05 08:06:00 +0300
 tags: Web/Tech
+excerpt_seperator: <!--more-->
+class:
+  - wide
 ---
 
 By [Christopher Allen](/lwa/about)
