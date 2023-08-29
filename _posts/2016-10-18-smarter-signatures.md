@@ -14,7 +14,11 @@ categories:
   - article
 ---
 
-
+<style>
+  #writer{
+    display: none;
+  }
+</style>  
 By Christopher Allen & Shannon Appelcline
 
 # ABSTRACT

@@ -44,7 +44,7 @@ layout: default
           {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
             <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>{% endif %}
-          {% if site.writer %}<h6 id="" itemprop="headline">By 
+          {% if site.writer %}<h6 id="writer" itemprop="headline">By 
             {{ site.writer | markdownify | remove: "<p>" | remove: "</p>" }}
           </h6>{% endif %}
           {% include page__meta.html %}
