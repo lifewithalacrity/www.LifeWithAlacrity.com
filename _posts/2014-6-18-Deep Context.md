@@ -3,13 +3,23 @@ layout: single
 title:  "Deep Context Shared Languages"
 slug:  "Deep Context Shared Languages"
 redirect_from:
+  - /2014/06/deep-context-shared-languages.html
   - /2014/06/deep-context-shared-languages/
 date:   2014-06-18 08:20:58 +0300
 # image:  context.jpeg
-tags:   Home
+tags: 
+  - language
+  - context
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/deep-context-shared-languages/
 ---
 
-By [Christopher Allen](/lwa/about)
 
 <img width="300" height="200" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/context.jpeg" alt="Deep Context Shared Languages"/> 
 

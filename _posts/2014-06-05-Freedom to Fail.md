@@ -3,13 +3,23 @@ layout: single
 title:  "Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend”"
 slug:  "Freedom to Fail &amp; Freakonomics podcast “Failure is Your Friend”"
 redirect_from:
+  - /2014/06/freedom-to-fail-freakonomics-podcast-failure-is-your-friend.html
   - /2014/06/freedom-to-fail-freakonomics-podcast-failure-is-your-friend/
 date: 2014-06-05 12:35-07 +0300
 # image:  04.jpg
-tags:   Home
+tags: 
+  - Freedom
+  - Fail
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/freedom-to-fail-freakonomics-podcast-failure-is-your-friend/
 ---
 
-By [Christopher Allen](/lwa/about)
 
 I often speak about "Freedom to Fail" as an essential element of success for all sizes of systems and processes such as a hackathons, ecosystems, corporate cultures, and art. Freedom to fail isn't just about innovation and creativity, it is also about resilience — small failures teach you about what to be careful about in the future to avoid big failures.
 

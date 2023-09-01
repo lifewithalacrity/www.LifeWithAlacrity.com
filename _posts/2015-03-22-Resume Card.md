@@ -3,13 +3,24 @@ layout: single
 title:  "Mini Resume Card for Conference Season"
 slug:  "Mini Resume Card for Conference Season"
 redirect_from:
+  - /2015/03/mini-resume-card-for-conference-season.html
   - /2015/03/mini-resume-card-for-conference-season/
 date:   2015-03-22 08:23:55 +0300
 # image:  mini-resume.png
-tags:   Home
+tags: 
+  - Conference
+  - Resume
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/mini-resume-card-for-conference-season/
 ---
 
-By [Christopher Allen](/lwa/about)
+
 
 <img width="370"  align="right" src="../assets/images/mini-resume.png" alt="Mini Resume Card for Conference Season"/> 
 
