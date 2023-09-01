@@ -25,8 +25,6 @@ permalink: /article/a-revised-ostroms-design-principles-for-collective-governanc
 <img width="250" height="300" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Ostrom’s.png" alt="TA Revised “Ostrom’s Design Principles for Collective Governance of the Commons"/> 
 
 **A Revised “Ostrom’s Design Principles for Collective Governance of the Commons”**
-
-
 The traditional economic definition of [_**“the commons”**_](https://en.wikipedia.org/wiki/Commons){:target="_blank"} are those resources that are held in common and not privately owned. This is closely related to economic concept of [public goods](https://en.wikipedia.org/wiki/Public_good){:target="_blank"}, which are goods that are both [non-excludable](https://en.wikipedia.org/wiki/Excludability){:target="_blank"} (in that individuals cannot be effectively excluded from use) and [non-rivalrous](https://en.wikipedia.org/wiki/Rivalry_(economics)){:target="_blank"} (where use by one individual does not reduce availability to others).
 
 My own personal definition for the commons is broader — any regenerative, self-organizing complex system that can be drawn upon for [deep wealth](https://www.artbrock.com/presentations/new-economy-new-wealth){:target="_blank"}. These can include traditional commons, such as lumber, fish, etc., but can also include other regenerative systems such as communities, markets, intellectual property, etc.

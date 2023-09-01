@@ -20,12 +20,9 @@ excerpt_seperator: <!--more-->
 permalink: /article/a-spectrum-of-consent/
 ---
 
-
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/spectrum.png" alt="A Spectrum of Consent"/> 
 
-
 **Consensus-flowchart**
-
 I have made understanding of consent and consensus, in both their human and technological forms, a major part of my career. I have explored them through my work in cryptographic technologies, but also in human terms at the [Group Pattern Language Project](https://groupworksdeck.org/){:target="_blank"}, by co-authoring with Shannon Appecline forthcoming book on the design of collaborative games, and another book in progress on the patterns of cooperative play. My business management style is also more collaborative and inclusive.
 
 This topic is so important to me that I named the company I founded in 1988 (that eventually led the effort to establish TLS 1.0 as an internet standard) was named "Consensus Development" [(archive.org)](https://web.archive.org/web/19980709005818/http://www.consensus.com/){:target="_blank"}.

@@ -19,8 +19,6 @@ excerpt_seperator: <!--more-->
 permalink: /article/the-four-kinds-of-privacy/
 ---
 
-By [Christopher Allen](/lwa/about)
-
 (This article has been cross-posted in [Medium](https://medium.com/@christophera/the-four-kinds-of-privacy-bf4b0bf222ac))
 
 Ssh by Katie Tegtmeyer CC-BY (crop2)

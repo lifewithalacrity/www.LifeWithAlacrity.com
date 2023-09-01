@@ -21,9 +21,7 @@ permalink: /ephemera/deep-context-shared-languages/
 ---
 
 
-<img width="300" height="200" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/context.jpeg" alt="Deep Context Shared Languages"/> 
-
-    
+<img width="300" height="200" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/context.jpeg" alt="Deep Context Shared Languages"/>  
 I consider one of my missions in life to be to "create tools that allow people to communicate about complexity". There are many problems to address and many possible solutions to those problems. My [Infinite Canvas Suite](https://www.facebook.com/InfiniteCanvasSuite/) app tries to address problems of linearity. Another way to manage complexity is facilitating the creation and learning of [Shared Languages](/2009/09/creating-shared-language-and-shared-artiifacts.html).
 
 Some of what Shared Language is is tribal — it has an elemental power to help a group form. But what a shared language also does is allow a group to take shortcuts. For instance, with the [Group Works Deck](https://www.facebook.com/GroupWorksDeck/) Pattern Language, I can say the phrase "Viewpoint Shift" and practitioners know that I mean _"Step from your usual perspective into another in order to better understand someone, shift energy, reframe meanings, open up new ideas, or simply see a situation with new eyes."_ But they also know more than that — they can connect that concept to their own experience of doing this practice.

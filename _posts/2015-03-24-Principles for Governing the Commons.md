@@ -21,9 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /news/10-design-principles-for-governing-the-commons/
 ---
 
-
 <a href="#"><img width="350px" style=" margin-right:15px" align="right"  src="../assets/images/resource_sharing.jpg" alt="Resource Sharing"/></a>
-
 In 2009, [Elinor Ostrom](http://en.wikipedia.org/wiki/Elinor_Ostrom "Wikipedia Page on Elinor Ostrom") received the Nobel Prize in Economics for her _“analysis of economic governance, especially [the commons](http://en.wikipedia.org/wiki/Commons "Wikipedia Page on The Commons")”_.
 
 Since then I've seen a number of different versions of her list of the 8 principles for effectively managing against [the tragedy of the commons](http://en.wikipedia.org/wiki/Tragedy_of_the_commons "Wikipedia Page for The Tragedy of the Commons"). However, I've found her original words — as well as many adaptions I've seen since — to be not very accessible. Also, since the original release of the list of 8 principles there has been some research resulting in updates and clarifications to her original list.

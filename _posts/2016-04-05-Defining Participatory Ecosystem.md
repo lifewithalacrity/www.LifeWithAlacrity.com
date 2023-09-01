@@ -21,9 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /news/defining-participatory-ecosystem-grow-the-pie-not-slice-it/
 ---
 
-
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Participatory.jpeg" alt="Participatory"/>
-
 _A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
 Defining “Participatory Ecosystem”_ — _**Grow the Pie, Not Slice It!**_
 
