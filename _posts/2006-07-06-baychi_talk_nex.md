@@ -9,12 +9,12 @@ tags:
   - Social Software
 
 categories:
-  - article
+  - news
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/baychi_talk_nex/
+permalink: /news/baychi_talk_nex/
 ---
 
 <img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/baychi_1.gif" alt="Baychi"/> I will be speaking next Tuesday (July 11th) at the monthly meeting of [BayCHI](http://www.baychi.org/calendar/20060711/), the San Francisco Bay Area Chapter of ACM SIGCHI (Computer Human Interface Special Interest Group), along with [Michael H. Goldhaber](http://www.goldhaber.org/).
