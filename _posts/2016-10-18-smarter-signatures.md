@@ -8,7 +8,7 @@ redirect_from:
 date:   2016-10-18 08:06:00 +0300
 tags: 
   - Experiments
-  - Verifications
+  - Signature
 
 categories:
   - article
@@ -16,6 +16,8 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
+
+permalink: /article/smarter-signatures-experiments-in-verifications/
 ---
 
 <style>
