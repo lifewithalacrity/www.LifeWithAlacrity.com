@@ -6,10 +6,18 @@ redirect_from:
   - /2014/04/harmonic-on-pantheon-steel-xxd-halo-hand-pan/
 date:   2014-04-21 12:01:00 +0300
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Web/Tech
+  - Pantheon
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/harmonic-on-pantheon-steel-xxd-halo-hand-pan/
+---
 
 For the second time, I was asked to play a hand pan solo on stage at the BGIedu intensive. This time I was better prepared to make a better quality recording.
 

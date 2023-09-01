@@ -3,13 +3,22 @@ layout: single
 title:  "“The Really Big Questions” Podcast Asks “Why Do We Share?”"
 slug:  "“The Really Big Questions” Podcast Asks “Why Do We Share?”"
 redirect_from:
-  - /2014/04/the-really-big-questions-podcast-asks-why-do-we-share/
+  - /2014/04/the-really-big-questions-podcast-asks-why-do-we-share.html
+    - /2014/04/the-really-big-questions-podcast-asks-why-do-we-share/
 date:   2014-04-24 10:39:49 +0300
 # image:  02.jpg
-tags:   Software
----
+tags: 
+  - software
+  - spectrum
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/a-spectrum-of-consent/
+---
 
 <img width="300" height="auto" align="right" src="../assets/images/SHARE_spot2_soup-300x300.jpg" alt="“The Really Big Questions” Podcast Asks “Why Do We Share?”"/> 
 

@@ -3,13 +3,22 @@ layout: single
 title:  "Underestimating the Long Term"
 slug:  "Underestimating the Long Term"
 redirect_from:
+  - /2014/05/underestimating-the-long-term.html
   - /2014/05/underestimating-the-long-term/
 date:   2014-05-05 12:01:00 +0300
 # image:  04.jpg
-tags:   Home
----
+tags: 
+  - Long-term
+  - Underestimate
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/underestimating-the-long-term/
+---
 
 I recently ran into a quote that rang true to me. It is from Bill Gates in "The Road Ahead", but is wise enough that it may have older origins than that:
 
