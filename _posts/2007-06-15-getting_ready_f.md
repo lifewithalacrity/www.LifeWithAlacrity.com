@@ -6,10 +6,18 @@ redirect_from:
   - /2007/06/getting_ready_f/
 date:   2007-06-15 20:06:45 -0700
 image:  watereddown.jpg
-tags:   Home
----
+tags: 
+  - Social Software
+  - iPhone
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/a-spectrum-of-consent/
+---
 
 <a href="#"><img width="230px" style=" margin-left:15px" align="right"  src="../assets/images/watereddown.jpg" alt="watereddown"/></a>
 

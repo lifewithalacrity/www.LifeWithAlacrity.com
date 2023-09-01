@@ -3,13 +3,24 @@ layout: single
 title:  "In Seoul for the Social Web"
 slug:  "In Seoul for the Social Web"
 redirect_from:
+  - /2008/06/in-seoul-for-th.html
   - /2008/06/in-seoul-for-th/
 date:   2008-06-25 01:18:39 -0700
 image:  seoul.jpg
-tags:   Home
----
+tags: 
+  - Seoul
+  - South Korea
+  - Social Software
+  - Weblogs
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/in-seoul-for-th/
+---
 
 <a href="http://www.flickr.com/photos/christophera/2610236112/"><img width="230px" style=" margin-left:15px" align="right"  src="../assets/images/seoul.jpg" alt="Downtown Seoul, South Korea, from Hotel Window"/></a>
 

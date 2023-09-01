@@ -3,16 +3,22 @@ layout: single
 title:  "Using 5-Star Rating Systems"
 slug:  "Using 5-Star Rating Systems"
 redirect_from:
+  - /2006/08/using_5star_rat.html
   - /2006/08/using_5star_rat/
 date:   2006-08-31 11:52:49 -0700
 image:  stars_1.gif
 tags:   
   - Social 
   - Software 
-  - rating system
----
 
-By [Christopher Allen](lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/using_5star_rat/
+---
 
 In [Collective Choice: Rating Systems](/2005/12/collective_choi.html) I discuss ratings scales of various sorts, from eBay's 3-point scale to RPGnet's double 5-point scale, and BoardGame Geek's 10-point scale.
 

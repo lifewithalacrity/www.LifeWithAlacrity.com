@@ -3,10 +3,19 @@ layout: single
 title:  Cultural Dimensions
 date:   2008-07-02 09:56:08 -0700
 # image:  02.jpg
-tags:   Home
+tags: 
+  - South Korea
+  - Culture
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/cultural-dimens/
 ---
 
-By [Christopher Allen](/lwa/about)
 
 Geert Hofstede™ Cultural Dimensions
 

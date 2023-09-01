@@ -3,13 +3,23 @@ layout: single
 title:  "Ratings: Who Do You Trust?"
 slug:  "Ratings: Who Do You Trust?"
 redirect_from:
+  - /2006/09/ratings_who_do_.html
   - /2006/09/ratings_who_do_/
 date:   2006-09-14 16:28:58 -0700
 image:  shannon_appelcline.jpg
-tags:   Software
----
+tags: 
+  - Social Software
+  - User Interface
+  - Web/Tech
 
-By [Christopher Allen](lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/ratings_who_do_/
+---
 
 My colleague, [Shannon Appelcline](http://www.skotos.net/about/staff/shannon_appelcline.php), has been working on a game rating system for [RPGnet](http://www.rpg.net). This has resulted in real-world application of the principles for designing rating systems which we've previously discussed in our [Collective Choice](/2005/12/collective_choi.html) articles. Shannon's newest article, [Ratings, Who Do You Trust?](http://www.skotos.net/articles/TTnT_/TTnT_196.phtml) offers a look at weighting ratings based on reliability.
 

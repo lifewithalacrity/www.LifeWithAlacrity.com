@@ -3,13 +3,23 @@ layout: single
 title:  "Dunbar Number Presentation at MeshForum 2006"
 slug:  "Dunbar Number Presentation at MeshForum 2006"
 redirect_from:
+  - /2006/08/dunbar_number_p.html
   - /2006/08/dunbar_number_p/
 date:   2006-08-31 11:52:49 -0700
 image:  christopher_allen_sketch_at_meshforum_20.jpg
-tags:   Home
----
+tags: 
+  - Web/Tech
+  - Dunbar number
+  - Science
 
-By [Christopher Allen](lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/a-spectrum-of-consent/
+---
 
 <a href="http://www.flickr.com/photos/davegray/147934089/"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/christopher_allen_sketch_at_meshforum_20.jpg" alt="Sketch by Dave Gray"/></a>
 

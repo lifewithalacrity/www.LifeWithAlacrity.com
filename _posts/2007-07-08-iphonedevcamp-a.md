@@ -4,12 +4,22 @@ title:  "iPhoneDevCamp and Hack-a-Thon"
 slug:  "iPhoneDevCamp and Hack-a-Thon"
 redirect_from:
   - /2007/07/iphonedevcamp-a/
+  - /2007/07/iphonedevcamp-a/
 date:   2007-07-08 23:19:52 -0700
 image:  everyone.jpg
-tags:   Games
----
+tags: 
+  - Games
+  - iPhone
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/iphonedevcamp-a/
+---
 
 <a href="#"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/everyone.jpg" alt="Circle of Hands"/></a>
 
