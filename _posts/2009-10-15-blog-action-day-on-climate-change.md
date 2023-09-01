@@ -3,10 +3,21 @@ layout: single
 title:  "Blog Action Day on Climate Change"
 slug:  "Blog Action Day on Climate Change"
 redirect_from:
+  - /2009/10/blog-action-day-on-climate-change.html
   - /2009/10/blog-action-day-on-climate-change/
 date:   2009-10-15 23:59:37 -0700
 # image:  02.jpg
-tags:   Home
+tags: 
+  - Change
+  - Bgiedu
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/blog-action-day-on-climate-change/
 ---
 Late this evening while catching up on my feeds, I saw for the first time that this year's [Blog Action Day](http://site.blogactionday.org/) is on the topic of [Climate Change](http://site.blogactionday.org/general/8-great-climate-change-resources-for-your-blog-action-day-post/). This event is sponsored yearly by [Change.org](http://www.change.org/). I wish I had known earlier as this would have been a great exercise for my sustainable MBA students at BGI.edu, as they are all creating their blogs this week for my [class](/2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu.html) "Using the Social Web for Social Change".
 

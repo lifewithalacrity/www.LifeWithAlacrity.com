@@ -3,13 +3,22 @@ layout: single
 title:  "Paying for Favors"
 slug:  "Paying for Favors"
 redirect_from:
+  - /2009/11/paying-for-favors.html
   - /2009/11/paying-for-favors/
 date:   2009-11-22 00:59:46 -0700
 # image:  paying.jpg
-tags:   Business
----
+tags: 
+  - Film
+  - Business
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/paying-for-favors/
+---
 
 One of the common practices in the independent movie industry is to share favors to keep production costs low. I loan you use of a camera and you later do some editing for me on the cheap. Of course, it is often actually less direct then that: I loan you the camera, the community knows that I am generous, and when I need some editing time on the cheap, my social capital in the film community makes the resource available to me.
 

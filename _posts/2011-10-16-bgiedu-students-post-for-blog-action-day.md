@@ -3,13 +3,22 @@ layout: single
 title:  "BGIedu Students Post for Blog Action Day on Food"
 slug:  "BGIedu Students Post for Blog Action Day on Food"
 redirect_from:
+  - /2011/07/managing-your-social-graph-with-google-plus.html
   - /2011/07/managing-your-social-graph-with-google-plus/
 date:   2011-10-16 17:35:27 -0700
 # image:  BGIedu.png
-tags:   Home
----
+tags: 
+  - Weblogs
+  - Social
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/managing-your-social-graph-with-google-plus/
+---
 
 <img width="280px" align="right"   src="../assets/images/04.jpg" alt="Let's talk about food"/>
 Today is [Blog Action Day](http://blogactionday.org/ "Blog Action Day Website"), where each year a topic is chosen and bloggers and activists worldwide write about that topic in their blogs or post about it on Twitter and Facebook using the tags [#FOOD](http://twitter.com/search/%23food) and [#BAD11](http://twitter.com/search/%23bad11).

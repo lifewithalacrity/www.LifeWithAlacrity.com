@@ -3,13 +3,22 @@ layout: single
 title:  "Introduction to the Social Web (Reading List#SW4SX)"
 slug:  "Introduction to the Social Web (Reading List#SW4SX)"
 redirect_from:
+  - /2012/10/introduction-to-the-social-web-reading-list-sw4sx.html
   - /2012/10/introduction-to-the-social-web-reading-list-sw4sx/
 date:   2013-04-04 14:16:52 -0700
 # image:  02.jpg
-tags:   Weblogs
----
+tags: 
+  - Weblogs
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/introduction-to-the-social-web-reading-list-sw4sx/
+---
 
 These are the initial required readings for the first two weeks of my [Using the Social Web for Social Change](http://www.bgi.edu/changing-business/social-web-for-social-change/) class (hashtag #SW4SX) that I teach in the [MBA in Sustainable Systems](http://www.bgi.edu/academics/mbas/hybrid-mba/) program at [Bainbridge Graduate Institute](http://www.bgi.edu).
 

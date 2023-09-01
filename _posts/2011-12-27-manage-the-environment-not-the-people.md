@@ -3,13 +3,21 @@ layout: single
 title:  "Manage the Environment, Not the People"
 slug:  "Manage the Environment, Not the People"
 redirect_from:
-  - 
+  -   
 date:   2011-12-27 20:21:08 -0700
 # image:  02.jpg
-tags:   Weblogs
----
+tags: 
+  - People
+  - Weblogs
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/manage-the-environment-not-the-people/
+---
 
 Matt Taylor Photo In the late 80's I met Matt Taylor at a Mac user group event, and we became friends. We eventually became reciprocal apprentices — he learned from me about computers and collaborating online, and I learned from him about facilitating face-to-face collaboration and the architecture of facilitation.
 

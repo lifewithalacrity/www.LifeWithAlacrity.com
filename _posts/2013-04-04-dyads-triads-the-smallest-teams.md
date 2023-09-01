@@ -3,16 +3,31 @@ layout: posts
 title:  "Dyads & Triads — The Smallest Teams"
 slug:  "Dyads & Triads — The Smallest Teams"
 redirect_from:
+  - /2013/04/dyads-triads-the-smallest-teams.html
   - /2013/04/dyads-triads-the-smallest-teams/
 date:   2013-04-04 14:16:52 -0700
 # image:  02.jpg
-tags:   Home
+tags: 
+  - Triads
+  - Dyads
+  - Business
+  - Social Software
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/dyads-triads-the-smallest-teams/
 ---
-
+<style>
+  #writer{
+    display: none;
+  }
+</style>
 (By Christopher Allen with Elyn Andersson and Shannon Appelcline)
-
 <img width="100%" src="../assets/images/BGIedu.png" alt="BGIedu"/>
-
 Two years ago, the Bainbridge Graduate Institute ([www.BGI.edu](http://www.BGI.edu "Bainbridge Graduate Institute")) faculty gathered to radically reinvent their sustainable business curriculum for the next decade. Our goal was not only to update course content, but also to significantly update how the material was taught. We wished to make our teaching process (our pedagogy) more interactive and also more effective for students graduating into a 21st-century work environment, where people increasingly work in teams-both online and offline.
 
 As a specialist in group interactions, I was asked by the faculty whether formal graduate student study groups (called "Study Buddies") should consist of two people or of three. I did not have an easy answer to this question.

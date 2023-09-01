@@ -3,13 +3,23 @@ layout: single
 title: "Community by the Numbers, Part II: Personal Circles"
 slug: "Community by the Numbers, Part II: Personal Circles"
 redirect_from:
+  - /2008/11/personal-circle.html
   - /2008/11/personal-circle/
 date: 2009-09-14 13:55:42 -0700
 image: sympathy.jpg
-tags:  Software
----
+tags: 
+  - Personal
+  - Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/personal-circle/
+---
 
 In my [previous](/2008/09/group-threshold.html) post, I talked about the limits on sizes of tightly-knit communities. These group limits are closely related to a number of interesting personal limits, and are often confused with them.
 

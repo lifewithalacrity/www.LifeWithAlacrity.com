@@ -3,15 +3,24 @@ layout: single
 title: "Facilitating Small Gatherings Using “The Braid”"
 slug: "Facilitating Small Gatherings Using “The Braid”"
 redirect_from:
+  - /2009/09/facilitating-small-gatherings-using-the-braid.html
   - /2009/09/facilitating-small-gatherings-using-the-braid/
 date:   2009-10-15 23:59:37 -0700
 image:  small.png
 tags:
-  - Home
   - Software Security
   - Business
 
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/facilitating-small-gatherings-using-the-braid/
+
 ---
+
 <img width="200px" height="300px" align="right"  src="../assets/images/small.png" alt="The Power of conservation"/>
  I was musing as I was preparing for next week's Intensive at [BGI](/2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu.html) that I have 21 students in my class, an uncomfortable size. That's because it lies between a smaller size where good conversations naturally occur, and a larger size where you can take full advantage of different activities that work well for larger groups.
 

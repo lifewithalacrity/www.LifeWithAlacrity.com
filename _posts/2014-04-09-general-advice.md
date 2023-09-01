@@ -12,7 +12,7 @@ tags:
   - Advice
 
 categories:
-  - sociamedia
+  - socialmedia
 class:
   - wide
 

@@ -3,16 +3,24 @@ layout: single
 title:  "Teaching “Using the Social Web for Social Change” at BGI.edu"
 slug:  "Teaching “Using the Social Web for Social Change” at BGI.edu"
 redirect_from:
+  - /2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu.html
   - /2009/09/teaching-using-the-social-web-for-social-change-at-bgiedu/
 date:   2009-09-16 22:36:27 -0700
 # image:  Teaching.jpg
-tags:   Web/Tech
+tags: 
+  - Bgiedu
+  - Web/Tech
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/teaching-using-the-social-web-for-social-change-at-bgiedu/
 ---
 
-By [Christopher Allen](/lwa/about)
-
 <img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/Teaching.jpg" alt="Teaching"/>
-
 Starting next week I will be teaching a course at the Bainbridge Graduate Institute on the topic of "Using the Social Web for Social Change".
 
 BGI offers an MBA and Certificate program for professionals to learn how to build enterprises that are financially successful, socially responsible and environmentally sustainable. Students have to learn everything that they'd have to learn in an ordinary MBA program — profit and loss, how to read a balance sheet, business plan creation, macroeconomics, quantitative analysis, corporate strategy, how to manage and motivate people, and a basic understanding of all the components of business such as operations, marketing, distribution, sales, etc. In addition, BGI student have to learn green and sustainability topics — the triple-bottom line, environmental accounting, sustainable energy, social justice, systems thinking, organization change, right livelihood and much more.

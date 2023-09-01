@@ -3,13 +3,22 @@ layout: single
 title: "Community by the Numbers, Part III: Power Laws"
 slug: "Community by the Numbers, Part III: Power Laws"
 redirect_from:
+  - /2009/03/power-laws.html
   - /2009/03/power-laws/
 date: 2009-09-14 13:55:42 -0700
 image: community.jpg
-tags: Web/Tech
----
+tags: 
+  - Web/Tech
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/power-laws/
+---
 
 In [my first article](/2008/11/personal-circle.html) in this series I talked about community numbers: how the sizes of groups ultimately affect their success (or failure). However what I discussed only offers up the most rudimentary explanation of the dynamics, and that is because typically not all of the members of a group are equally involved.
 

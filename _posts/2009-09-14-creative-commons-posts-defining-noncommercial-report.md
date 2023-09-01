@@ -3,16 +3,24 @@ layout: single
 title: "Creative Commons Posts “Defining Noncommercial” Report"
 slug: "Creative Commons Posts “Defining Noncommercial” Report"
 redirect_from:
+  - /2009/09/creative-commons-posts-defining-noncommercial-report.html
   - /2009/09/creative-commons-posts-defining-noncommercial-report/
 date: 2009-09-14 13:55:42 -0700
 image: Creative.jpg
-tags: Home
+tags: 
+  - Creating
+  - Social Software
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/creative-commons-posts-defining-noncommercial-report/
 ---
 
-By [Christopher Allen](/lwa/about)
-
 <img width="230px" style=" margin-right:15px" align="right"   src="../assets/images/Creative.jpg" alt="Creative-commons-non-commercial"/>
-
 Last year I participated in a survey followed up by a focus group on the topic of Noncommercial Use, in particular around the context that about 2/3rds of the [Creative Commons](http://creativecommons.org) licenses extant use the NC attribute, such as in [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/us/).
 
 > **Defining "Noncommercial":  A Study of how the Online Population Understands "Noncommercial" Use**  

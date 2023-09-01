@@ -2,11 +2,18 @@
 layout: single
 title:  Compensating the Creators
 date:   2009-10-21 15:33:22 -0700
-image:  02.jpg
-tags:   Home
----
+# image:  02.jpg
+tags: 
+  - Creators
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/compensating-the-creators/
+---
 
 I was going through my first blog posts, and rediscovered a quote from 2003 Game Designer and Pundit Greg Costikyan from his blog Games * Design * Art * Culture that still resonates with me today:
 

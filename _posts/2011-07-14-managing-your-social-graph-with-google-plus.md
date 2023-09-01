@@ -3,16 +3,25 @@ layout: single
 title:  "Managing your Social Graph with Google+ [Google Plus]"
 slug:  "Managing your Social Graph with Google+ [Google Plus]"
 redirect_from:
+  - /2011/07/managing-your-social-graph-with-google-plus.html
   - /2011/07/managing-your-social-graph-with-google-plus/
 date:   2011-07-14 16:29:13 -0700
 # image:  managing.jpg
-tags:   Social
+tags: 
+  - Social Software
+  - Social
+  - Google plus
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/managing-your-social-graph-with-google-plus/
 ---
 
-By [Christopher Allen](/lwa/about)
-
 <img width="250px" align="right"  src="../assets/images/061.jpg" alt="cyberpunkstack"/>
-
 With Google+ almost two weeks into its test phase, conversation about this new social network service seems to be going in circles.
 
 Literally.

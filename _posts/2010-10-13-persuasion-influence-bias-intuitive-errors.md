@@ -3,12 +3,20 @@ layout: single
 title:  Persuasion, Influence, Bias, Intuitive Errors
 date:   2010-10-13 11:28:12 -0700
 # image:  02.jpg
-tags:   Social
+tags: 
+  - Persuasion
+  - Errors
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/persuasion-influence-bias-intuitive-errors/
 ---
 
-Motivated reasoning
-
-social influence: simplicity, perceived self-interest, incongruity, confidence, empathy
+Motivated reasoning, social influence: simplicity, perceived self-interest, incongruity, confidence, empathy
 
 anecdote, emotion
 

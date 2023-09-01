@@ -12,16 +12,15 @@ tags:
   - spectrum
 
 categories:
-  - article
+  - ephemera
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/a-spectrum-of-consent/
+permalink: /ephemera/a-spectrum-of-consent/
 ---
 
 <img width="300" height="auto" align="right" src="../assets/images/SHARE_spot2_soup-300x300.jpg" alt="“The Really Big Questions” Podcast Asks “Why Do We Share?”"/> 
-
 On the topic of the #sharingeconomy, these audio podcast and video entries from "The Really Big Questions" that ask the question "Why Do People Share" are really quite good. In particular, catch the video of Capuchin monkey's rejecting unequal pay — I've been saying for a long time that the roots of trust and fairness are in our genes.
 
 KEYQUOTE FROM PODCAST #4: "Give and forget.

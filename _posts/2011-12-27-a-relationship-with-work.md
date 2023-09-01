@@ -4,10 +4,17 @@ title:  "A Relationship With Work"
 slug:  "A Relationship With Work"
 date:   2011-12-27 20:28:37 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Relationship
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/a-relationship-with-work/
+---
 
 I am a lifetime entrepreneur. Even when working for large organizations I find my approach to be entrepreneurial (what my mentor **Gifford Pinchot** would call **Intrapreneurial**).
 
