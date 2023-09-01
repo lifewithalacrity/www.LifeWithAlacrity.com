@@ -3,10 +3,20 @@ layout: single
 title:  "The Four Kinds of Privacy"
 slug:  "The Four Kinds of Privacy"
 redirect_from:
+  - /2015/04/the-four-kinds-of-privacy.html
   - /2015/04/the-four-kinds-of-privacy/
 date:   2015-04-19 18:30-07 +0300
 # image:  privacy.jpeg
-tags:   Home
+tags: 
+  - privacy
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/the-four-kinds-of-privacy/
 ---
 
 By [Christopher Allen](/lwa/about)

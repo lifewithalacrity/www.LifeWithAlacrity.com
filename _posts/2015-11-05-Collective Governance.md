@@ -3,13 +3,24 @@ layout: single
 title:  "A Revised “Ostrom’s Design Principles for Collective Governance of the Commons"
 slug:  "A Revised “Ostrom’s Design Principles for Collective Governance of the Commons"
 redirect_from:
+  - /2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-.html
   - /2015/11/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-/
 date:   2015-11-05 08:15:23 +0300
 # image:  Ostrom’s.png
-tags: Home
----
+tags: 
+  - Design
+  - Ostrom
+  - Principles
+  - government
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-/
+---
 
 <img width="250" height="300" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Ostrom’s.png" alt="TA Revised “Ostrom’s Design Principles for Collective Governance of the Commons"/> 
 

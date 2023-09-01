@@ -3,15 +3,24 @@ layout: single
 title:  "Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!"
 slug: "Defining “Participatory Ecosystem” — Grow the Pie, Not Slice It!"
 redirect_from:
+  - /2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it.html
   - /2016/04/defining-participatory-ecosystem-grow-the-pie-not-slice-it/
 date:   2016-04-05 08:06:00 +0300
 tags: Web/Tech
-excerpt_seperator: <!--more-->
+tags: 
+  - Ecosystem
+  - Defining
+
+categories:
+  - news
 class:
   - wide
+
+excerpt_seperator: <!--more-->
+
+permalink: /news/defining-participatory-ecosystem-grow-the-pie-not-slice-it/
 ---
 
-By [Christopher Allen](/lwa/about)
 
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Participatory.jpeg" alt="Participatory"/>
 

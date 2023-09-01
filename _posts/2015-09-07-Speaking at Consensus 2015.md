@@ -3,12 +3,22 @@ layout: single
 title:  "Speaking at Consensus 2015"
 slug: "Speaking at Consensus 2015"
 redirect_from:
+  - /2015/09/speaking-at-consensus-2015.html
   - /2015/09/speaking-at-consensus-2015/
 date:   2015-09-06 23:54-07 +0300
-tags: untagged
+tags: 
+  - consensus
+  - speaking
+
+categories:
+  - news
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /news/speaking-at-consensus-2015/
 ---
 
-By [Christopher Allen](/lwa/about)
 
 <img width="500px" height="300px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/consensus.png" alt="Speaking at Consensus 2015"/>
 

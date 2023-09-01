@@ -3,13 +3,24 @@ layout: single
 title:  "10 Design Principles for Governing the Commons"
 slug:  "10 Design Principles for Governing the Commons"
 redirect_from:
+  - /2015/03/10-design-principles-for-governing-the-commons.html
   - /2015/03/10-design-principles-for-governing-the-commons/
 date:   2015-03-24 14:51:07 +0300
 image:  principlas.png
-tags:   Home
+tags: 
+  - principles
+  - government
+  - designs
+
+categories:
+  - news
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /news/10-design-principles-for-governing-the-commons/
 ---
 
-By [Christopher Allen](/lwa/about)
 
 <a href="#"><img width="350px" style=" margin-right:15px" align="right"  src="../assets/images/resource_sharing.jpg" alt="Resource Sharing"/></a>
 
