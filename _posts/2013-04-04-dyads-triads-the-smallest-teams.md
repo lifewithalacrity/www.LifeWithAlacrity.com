@@ -184,7 +184,7 @@ At first, these groups followed the same methods I used for dyads: one person wo
 
 ## Final Notes
 
-<img width="250" align="right" src="../assets/images/Triple-Spiral-Symbol-filled.svg" alt="683866337_4dd654b650_n.jpg"/> — from Wikimedia Commons, Public DomainAs it happens, this article was created by a triad. It wasn't purposeful, nor was it meant to show off the findings of this article. Instead, the triad evolved naturally because it proved the best group size for writing this piece.
+<img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Triple-Spiral-Symbol-filled.svg" alt="683866337_4dd654b650_n.jpg"/> — from Wikimedia Commons, Public DomainAs it happens, this article was created by a triad. It wasn't purposeful, nor was it meant to show off the findings of this article. Instead, the triad evolved naturally because it proved the best group size for writing this piece.
 
 I came up with the initial concept for the article and wrote out the problem and introduction. Elyn then did considerable research and wrote up a rough draft of her findings. To that point, we were a committed dyad, working together in an organic way. However, we also had an article that felt like it was in two parts. That's when I had Shannon join us. He reorganized the article, unified its voice, and produced a final draft.
 

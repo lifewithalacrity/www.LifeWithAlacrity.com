@@ -20,7 +20,7 @@ excerpt_seperator: <!--more-->
 permalink: /article/creating-shared-language-and-shared-artiifacts/
 ---
 
-<img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/poem.jpg" alt="Poem: Language"/>
+<img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/poem.jpg" alt="Poem: Language"/>
 We live in a world of conversation, of language; all full of words. Mastery of language requires learning the meanings of thousands of words. The average native English language speaker uses in the realm of 12,000 to 20,000 words, whereas a college graduate would use 20-25,000 words. Shakespeare actively used more then 30,000 words, and his vocabulary was estimated to be over 66,000 words. Yet there are, at the very least, a quarter of a million distinct English words, excluding inflections, and words from technical and regional vocabularies. The Oxford English dictionary defines more then 600,000 words.
 
 But mastery of words is not enough to allow effective conversation.
@@ -31,7 +31,7 @@ Words also require context, outside of which they may have different meanings. F
 
 ## Creating a Shared Language
 
-<img width="230px" style=" margin-left:15px" align="right"  src="../assets/images/013.jpg" alt="Life With Alacrity Wordle"/>
+<img width="230px" style=" margin-left:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/013.jpg" alt="Life With Alacrity Wordle"/>
 
 Every time a new group of people meet together — whether in a team, in a marketplace, or in a community — one of the first activities they must do together is create a shared language. They do this in order to communicate more effectively together, to put a context on the words that they have in common, to construct a shared understanding in their minds based both on available information and their individual diversity of experience.
 
@@ -43,9 +43,9 @@ Yet the art of creating a shared language together is not taught. Some individua
 
 ## Using Shared Artifacts
 
-<img width="200px" style=" margin-right:15px" align="left"  src="../assets/images/014.jpg" alt="Using Shared Artifacts"/>
+<img width="200px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/014.jpg" alt="Using Shared Artifacts"/>
 A shared artifact is the creation of an object or shared space that is created collaboratively. It allows the individuals participating to ask the questions: "Is this what you mean when you are talking about this? I use these words, so suppose we change it to this? Is that what you mean? Does this reflect our new shared understanding?"
-<img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/015.jpg" alt="WatsonCrickNapkin-idea-original-concept-300x293 "/>
+<img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/015.jpg" alt="WatsonCrickNapkin-idea-original-concept-300x293 "/>
 
 Examples of shared artifacts include Watson & Crick's Tinker-Toy DNA model. Each scientist would work on the model separately, then use grad students to carry the model around to his partner to express certain ideas. Both Compaq Computer and Southwest Airlines were reportedly established after their founders wrote their ideas down together on a table napkin, another shared artifact.
 
