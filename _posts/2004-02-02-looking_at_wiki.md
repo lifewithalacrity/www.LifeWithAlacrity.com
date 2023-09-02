@@ -3,13 +3,23 @@ layout: single
 title:  "Looking at Wiki"
 slug:  "Looking at Wiki"
 redirect_from:
+  - /2004/02/looking_at_wiki.html
   - /2004/02/looking_at_wiki/
 date:   2004-02-19 16:25:05 -0700
 # image:  02.jpg
-tags:   Social
----
+tags: 
+  - Wiki
+  - Social
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/looking_at_wiki/
+---
 
 I've not just been spending time looking at social networking services, I've also been digging deeper into wiki. I've still got more to go, but some of these will be of interest to you if you are considering implementing a wiki for your community, or if you are a wiki developer.
 

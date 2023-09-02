@@ -3,12 +3,22 @@ layout: single
 title:  "The Dunbar Number as a Limit to Group Sizes"
 slug: "The Dunbar Number as a Limit to Group Sizes"
 redirect_from:
+  - /2004/03/the_dunbar_numb.html
   - /2004/03/the_dunbar_numb/
 date:   2004-03-10 14:17:52 -0700
-tags: untagged
----
+tags: 
+  - Web/Tech
+  - Social Software
+  - Dunbar number
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/the_dunbar_numb/
+---
 
 Lately I've been noticing the spread of a meme regarding "Dunbar's Number" of 150 that I believe is misunderstanding of his ideas.
 
@@ -20,7 +30,7 @@ Dunbar is an anthropologist at the University College of London, who wrote a pap
 
 Dunbar supports this hypothesis through studies by a number of field anthropologists. These studies measure the group size of a variety of different primates; Dunbar then correlate those group sizes to the brain sizes of the primates to produce a mathematical formula for how the two correspond. Using his formula, which is based on 36 primates, he predicts that 147.8 is the "mean group size" for humans, which matches census data on various village and tribe sizes in many cultures. The following chart shows the distribution produced by Dunbar's analysis:
 
-<img width="100%" style=" margin-right:15px" align="left"  src="../assets/images/brain_size_02.gif" alt="brain_size_02"/>
+<img width="100%" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/brain_size_02.gif" alt="brain_size_02"/>
 
 This number of 150 has become "Dunbar's Number" and has been popularized by various very popular business books such as Malcolm Gladwell's [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/exec/obidos/ASIN/0316346624/ref=skotostech-20/102-9060851-3407332) ([summary](http://radio.weblogs.com/0111705/categories/collaboration/2003/12/21.html#a358)), Duncan J. Watts' [Six Degrees: The Science of a Connected Age](http://www.amazon.com/exec/obidos/tg/detail/-/0393041425/ref=pd_skotostech-20/102-9060851-3407332) ([review](http://www.cmu.edu/joss/content/reviews/Podolny/)) and [Small Worlds: The Dynamics of Networks between Order and Randomness](http://www.amazon.com/exec/obidos/ASIN/0691005419/ref=skotostech-20/102-9060851-3407332) ([review](http://www.ams.org/notices/200008/rev-chow.pdf)), and Mark Buchanan's [Nexus: Small Worlds and the Groundbreaking Science of Networks](http://www.amazon.com/exec/obidos/tg/detail/-/0393041530/ref=skotostech-20/102-9060851-3407332) ([review](http://www.americanscientist.org/template/BookReviewTypeDetail/assetid/16209;jsessionid=baadd3W3trYipI)), the ideas from which are the foundation of the various Social Network Services that I've discussed elsewhere in this blog.
 
@@ -53,10 +63,10 @@ My anecdotal evidence generally seems to support the idea that group sizes will 
 
 _Ultima Online_ provides one of the best examples of what sizes an online community will support because it's well documented and the overall game size is large enough to generate many smaller communities. If you look at [Raph Koster's](http://www.legendmud.org/raph/) statistics for the size of groups in _Ultima Online_, you will see a definite point of diminishing returns at around 150; however, you will also see that most groups are around 60 large.
 
-<img width="100%"   src="../assets/images/UOGuildPowerLaw.jpg" alt="brain_size_02"/>
+<img width="100%"   src="{{ site.url }}{{ site.baseurl }}/assets/images/UOGuildPowerLaw.jpg" alt="brain_size_02"/>
 <br>
 <br>
-<img width="100%"   src="../assets/images/UOGuildHistogram.jpg" alt="UOGuildHistogram"/>
+<img width="100%"   src="{{ site.url }}{{ site.baseurl }}/assets/images/UOGuildHistogram.jpg" alt="UOGuildHistogram"/>
 
 Jessica Mulligan, executive producer at [Turbine Games](http://www.turbinegames.com/), confirmed these numbers to me:
 
@@ -92,7 +102,7 @@ I've already noted the next chasm when you go beyond 80 people, which I think is
 
 The following chart shows anecdotal satisfaction ratings for these lower group sizes:
 
-<img width="100%" style=" margin-right:15px" align="left"  src="../assets/images/GroupSatisfaction.jpg" alt="GroupSatisfaction"/>
+<img width="100%" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/GroupSatisfaction.jpg" alt="GroupSatisfaction"/>
 
 Much of this is probably predicted by Dunbar's model, if you add in the non-survival and dispursed community modifiers that I discuss here. Essentially, as we increase group sizes beyond 80, to 150, 200, or even 350-500, we typically do so by breaking larger groups down into smaller ones, and continually reducing community sizes down to the point where they can be understood and managed by people -- and so efficiency reasserts itself.
 

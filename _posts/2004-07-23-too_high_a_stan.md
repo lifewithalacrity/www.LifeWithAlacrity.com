@@ -3,13 +3,22 @@ layout: single
 title:  "Too High a Standard"
 slug:  "Too High a Standard"
 redirect_from:
+  - /2004/07/too_high_a_stan.html
   - /2004/07/too_high_a_stan/
 date:   2004-08-07 14:03:41 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Social Software
+  - 
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/too_high_a_stan/
+---
 
 I have for some time told people that one way that my blog was different was because I was focused on offering a [high signal-to-noise ratio](http://en.wikipedia.org/wiki/Signal-to-noise_ratio). I told them that they could subscribe to my blog safely, as I'd not inundate them with anything but the highest quality posts.
 

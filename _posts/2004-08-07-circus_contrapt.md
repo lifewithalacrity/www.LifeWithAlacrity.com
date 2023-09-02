@@ -3,13 +3,22 @@ layout: single
 title:  "Circus Contraption in SF during August"
 slug:  "Circus Contraption in SF during August"
 redirect_from:
+  - /2004/08/circus_contrapt.html
   - /2004/08/circus_contrapt/
 date:   2004-08-07 14:03:41 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Web/Tech
+  - Soft Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/circus_contrapt/
+---
 
 In my [review](/2004/01/seven_fingers_o.html) last January of the amazing [Seven Fingers of the Hand Circus](http://www.les7doigtsdelamain.com/menu.html) I talk about why I like circuses that are more raw and intimate, i.e. more "human" then the pretentious and distancing style of [Cirque du Soleil](http://www.cirquedusoleil.com/CirqueDuSoleil/en/default.htm). However, I was disappointed that I saw the near-to-last show, so could not send my friends out to go see one of the great performances of the year.
 
@@ -17,7 +26,7 @@ Last night at the recommendation of [Mark Finnern](http://finnern.com/2004/07/31
 
 This year's show is "Grand American Traveling Dime Museum" which is particularly appropriate theme given the re-opening this month of the [Musee Mechanique](http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/2004/08/01/PKGHI7U19K1.DTL) on Fisherman's Wharf. The show plays at 9pm every Friday, Saturday, and Sunday in August except for August 15th and August 29th, and is only $15!
 
-<a href="#"><img width="150px" style=" margin-right:15px" align="left"  src="../assets/images/circus_contraption_1-thumb.jpg" alt="Circle of Hands"/></a>
+<a href="#"><img width="150px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/circus_contraption_1-thumb.jpg" alt="Circle of Hands"/></a>
 
 The troupe consisted of twelve players, who performed almost two dozen acts (with an intermission in the middle) that ranged from clownwork, trapeze, ropework, tumbling, acrobatics, juggling, skits, stilts, puppets, etc., all set to music. What makes Circus Contraption truly unique is the risque nature of the acts, and the raunchy exuberance of the music numbers. With the Pickles Family Circus and Seven Fingers there is often a subtext of eroticism and sensuality, but as these are family shows these themes are not overt. Circus Contraption is quite overt and fun -- definitely rated R stuff.
 

@@ -3,13 +3,22 @@ layout: single
 title:  "Four Kinds of Privacy"
 slug:  "Four Kinds of Privacy"
 redirect_from:
+  - /2004/04/four_kinds_of_p.html
   - /2004/04/four_kinds_of_p/
 date:   2004-04-22 02:00:51 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Privacy
+  - Freedom
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/a-spectrum-of-consent/
+---
 
 I've been thinking about the nature of privacy a lot lately.
 

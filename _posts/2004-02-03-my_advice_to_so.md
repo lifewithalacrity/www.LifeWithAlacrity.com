@@ -3,13 +3,24 @@ layout: single
 title:  "My Advice to Social Networking Services"
 slug:  "My Advice to Social Networking Services"
 redirect_from:
+  - /2004/02/my_advice_to_so.html
   - /2004/02/my_advice_to_so/
 date:   2004-02-03 11:39:47 -0700
 # image:  02.jpg
-tags:   Software
----
+tags: 
+  - Software
+  - Social Software
+  - Network
+  - Security
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/my_advice_to_so/
+---
 
 I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I've not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my [recent experiences with Orkut.com](/2004/01/insecurity_at_o.html), and my [evaluation](/2003/12/evaluating_soci.html) and [followup](/2003/12/followup_to_eva.html) on various social networking services in December.
 

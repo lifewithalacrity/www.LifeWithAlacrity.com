@@ -3,13 +3,23 @@ layout: single
 title: "Progressive Trust"
 slug: "Progressive Trust"
 redirect_from:
+  - /2004/08/progressive_tru.html
   - /2004/08/progressive_tru/
 date:   2004-08-16 23:42:15 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Business
+  - Security
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/progressive_tru/
+---
 
 I believe that as we evolve social software to better serve our needs and the needs of the groups that we are involved in, we need to figure out how to apply an understanding of how human groups behave and work.
 

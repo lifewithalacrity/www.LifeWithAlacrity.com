@@ -3,13 +3,23 @@ layout: single
 title: "Insecurity at Orkut"
 slug: "Insecurity at Orkut"
 redirect_from:
+  - /2004/01/insecurity_at_o.html
   - /2004/01/insecurity_at_o/
 date: 2004-01-31 13:58:38 -0700
 # image: 02.jpg
-tags: Home
----
+tags: 
+  - Social
+  - Social Software
+  - Security
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/insecurity_at_o/
+---
 
 Like many others, I've been paying attention to [Orkut](http://www.orkut.com/Profile.aspx?uid=2789681602836776519) in the last couple of weeks. I've answered more requests to be "friends" on Orkut then I have of any of the other half-dozen Social Networking Services I've tried, and I've looking at other people's friends to see if I know anyone. I've yet to ask someone to join Orkut that wasn't already a member, and I've been careful to not have anyone as a "friend" that I didn't know reasonably well and I thought knew me. Currently I have 68 Orkut "friends", many more then I have on [LinkedIn](http://www.linkedin.com/profile?viewProfile=&key=62844), which I've been using for several months and have 50 "connections".
 

@@ -3,13 +3,22 @@ layout: single
 title:  "Annoyed by Zero Degrees"
 slug:  "Annoyed by Zero Degrees"
 redirect_from:
+  - /2004/04/annoyed_by_zero.html
   - /2004/04/annoyed_by_zero/
 date:   2004-04-15 00:27:05 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Social Software
+  - Web/Tech
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/annoyed_by_zero/
+---
 
 As I'm studying social network software right now, I consider it my job to try many of the [hundred some odd social networks](http://socialsoftware.weblogsinc.com/entry/2241460714746671/) out there right now.
 

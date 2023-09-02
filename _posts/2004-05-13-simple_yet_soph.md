@@ -3,12 +3,21 @@ layout: single
 title:  "Simple Yet Sophisticated Group Page Editing"
 slug:  "Simple Yet Sophisticated Group Page Editing"
 redirect_from:
+  - /2004/05/simple_yet_soph.html
   - /2004/05/simple_yet_soph/
 date:   2004-05-13 14:58:39 -0700
 # image:  02.jpg
-tags:   Web/Tech
+tags: 
+  - Web/Tech
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/simple_yet_soph/
 ---
-By [Christopher Allen](/lwa/about)
 
 I have been leading the design of a new Open Source collaboration tool called [EditThisPagePHP](http://editthispagephp.sourceforge.net/home/index.php), which started [six months ago](/2003/12/editthispagephp.html) and now is in beta.
 

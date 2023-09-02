@@ -3,12 +3,22 @@ layout: single
 title:  "Followup on Orkut"
 slug:  "Followup on Orkut"
 redirect_from:
+  - /2004/02/followup_on_ork.html
   - /2004/02/followup_on_ork/
 date:   2004-02-01 13:21:13 -0700
 # image:  02.jpg
-tags:   Home
+tags: 
+  - Social Software
+  - Network
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/followup_on_ork/
 ---
-By [Christopher Allen](/lwa/about)
 
 I've read of emails, Orkut messages, and blog postings since my [post yesterday](/2004/01/insecurity_at_o.html), so I thought I would share some with you.
 

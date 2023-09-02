@@ -6,10 +6,18 @@ redirect_from:
   - /2004/03/great_social_ne/
 date:   2004-03-18 08:05:31 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Social Software
+  - Web/Tech 
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/great_social_ne/
+---
 
 While I've been out attending the [SXSW Music, Movie and Interactive Conference](http://www.sxsw.com) there has been a flurry of high-quality postings about Social Networking.
 

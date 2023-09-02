@@ -3,13 +3,23 @@ layout: single
 title:  "Sexism, Social Software & the Blogospher"
 slug:  "Sexism, Social Software & the Blogospher"
 redirect_from:
+  - /2004/02/sexism_social_s.html
   - /2004/02/sexism_social_s/
 date:   2004-02-05 14:37:38 -0700
 # image:  02.jpg
-tags:   society  
----
+tags: 
+  - Society
+  - Weblogs
+  - Social Software
 
-By [Christopher Allen](/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/sexism_social_s/
+---
 
 A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:
 

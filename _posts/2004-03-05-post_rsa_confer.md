@@ -6,10 +6,19 @@ redirect_from:
   - /2004/03/post_rsa_confer/
 date:   2004-03-05 03:50:41 -0700
 # image:  02.jpg
-tags:   Business
----
+tags: 
+  - Business
+  - Security
+  - Conference
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/post_rsa_confer/
+---
 
 I spent most of last week at the RSA Conference in San Francisco.
 
