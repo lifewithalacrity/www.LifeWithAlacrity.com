@@ -3,6 +3,7 @@ layout: single
 title: "Tracing the Evolution of Social Software"
 slug: "Tracing the Evolution of Social Software"
 redirect_from:
+  - /2004/10/tracing_the_evo.html
   - /2004/10/tracing_the_evo/
 date:   2004-10-13 23:40:10 -0700
 image:  evolution.jpg
@@ -10,11 +11,18 @@ tags:
   - Social
   - Software
   - Web/Tech
+  - Evolution
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/tracing_the_evo/
 ---
-By [Christopher Allen](/lwa/about)
 
 <a href="https://www.lifewithalacrity.com/previous/photos/uncategorized/evolution.jpg"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/evolution.jpg" alt="Evolution"/></a>
-
 The term 'social software', which is now used to define software that supports group interaction, has only become relatively popular within the last two or more years. However, the core ideas of social software itself enjoy a much longer history, running back to Vannevar Bush's ideas about 'memex' in 1945, and traveling through terms such as Augmentation, Groupware, and CSCW in the 1960s, 70s, 80s, and 90s.
 
 By examining the many terms used to describe today's 'social software' we can also explore the origins of social software itself, and see how there exists a very real life cycle concerning the use of technical terminology.

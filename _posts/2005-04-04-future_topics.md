@@ -3,13 +3,27 @@ layout: single
 title:  "Future Topics"
 slug:  "Future Topics"
 redirect_from:
+  - /2005/04/future_topics.html
   - /2005/04/future_topics/
 date:   2005-04-04 01:08:16 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Business
+  - User Interface
+  - Social Software
+  - Web/Tech
+  - Weblogs
+  - Security
+  - Science
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/future_topics/
+---
 
 I've been working on an ambitious list of topics that I'd like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.
 

@@ -3,13 +3,24 @@ layout: single
 title: "Google Suggest Dissected"
 slug: "Google Suggest Dissected"
 redirect_from:
+  - /2004/12/google_suggest_.html
   - /2004/12/google_suggest_/
 date:   2004-12-18 08:44:31 -0700
 # image:  logo_google_suggest.gif
-tags:   Home
----
+tags: 
+  - User Interface
+  - Google
+  - Javascript
+  - Web/Tech
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/google_suggest_/
+---
 
 As a former Macintosh developer, I've always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.
 

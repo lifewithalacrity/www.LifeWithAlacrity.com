@@ -3,13 +3,23 @@ layout: single
 title: "Map Mashup"
 slug: "Map Mashup"
 redirect_from:
+  - /2004/10/map_mashup.html
   - /2004/10/map_mashup/
 date:   2004-10-07 00:39:29 -0700
 image:  mapmashup_1.gif
-tags:   UserInterface
----
+tags: 
+  - User Interface
+  - Web/Tech
+  - Map
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/map_mashup/
+---
 
 <a href="https://web.archive.org/web/20050117010708/http://lifewithalacrity.blogs.com/photos/uncategorized/mapmashup_1.gif"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/mapmashup_1.gif" alt="Mapmashup_1"/></a>I'm a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
 

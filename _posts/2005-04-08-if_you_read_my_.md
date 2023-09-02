@@ -3,14 +3,23 @@ layout: single
 title:  "New Sidebar: Recent Bookmarks"
 slug:  "New Sidebar: Recent Bookmarks"
 redirect_from:
+  - /2005/04/if_you_read_my_.html
   - /2005/04/if_you_read_my_/
 date:   2005-05-10 12:25:27 -0700
 # image:  02.jpg
-tags:   Home
+tags: 
+  - Web/Tech
+  - Social Software
+  - User Interface
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/if_you_read_my_/
 ---
-
-
-By [Christopher Allen](/lwa/about)
 
 If you read my blog through an aggregator, you may not have noticed my new sidebar "Recent Bookmarks". It is a list of web pages that I've found interesting enough to annotate using the [del.icio.us](http://del.icio.us/) service. It is useful if you want to have an insight into what future blog entries I'm working on, as links will often show up there before my actual blog posting is out.
 

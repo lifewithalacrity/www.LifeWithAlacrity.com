@@ -3,13 +3,23 @@ layout: single
 title:  "Dunbar, Altruistic Punishment, and Meta-Moderation"
 slug:  "Dunbar, Altruistic Punishment, and Meta-Moderation"
 redirect_from:
+  - /2005/03/dunbar_altruist.html
   - /2005/03/dunbar_altruist/
 date:   2005-03-17 11:38:19 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Science
+  - Social Software
+  - Dunbar number
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/dunbar_altruist/
+---
 
 In my post about the [Dunbar Number](/2004/03/the_dunbar_numb.html) I offered some evidence on the levels of satisfaction of various group sizes based on some empirical data from online games. There I was able to show that even though the Dunbar Number might predict a mean group size of 150 for humans, that in fact for non-survival oriented groups the mean was significantly less, probably between 60 to 90.
 

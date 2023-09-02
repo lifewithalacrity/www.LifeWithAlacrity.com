@@ -3,6 +3,7 @@ layout: single
 title: "Voluntary Health Associations & Social Software"
 slug: "Voluntary Health Associations & Social Software"
 redirect_from:
+  - /2005/02/voluntary_healt.html
   - /2005/02/voluntary_healt/
 date:   2005-02-28 11:20:01 -0700
 image:  acsrelay.jpg
@@ -11,9 +12,15 @@ tags:
   - Social
   - Software
   - Web/Tech
----
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/voluntary_healt/
+---
 
 I'm a keynote speaker for the [FVHA (Future of Voluntary Health Associations) Conference](http://www.nvhainnovations.org/2005/index.htm) in Atlanta today. My job is to give to this community a gentle introduction and overview of concepts and products related to Social Software and Social Networking. ([My slides are here - 6.6MB .pdf](http://web.lifewithalacrity.com/christophera/FVHA_Social_Software_Keynote_Presentation.pdf))
 

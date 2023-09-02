@@ -3,14 +3,23 @@ layout: single
 title: "Dunbar Triage: Too Many Connections"
 slug: "Dunbar Triage: Too Many Connections"
 redirect_from:
+  - /2005/02/dunbar_triage_t.html
   - /2005/02/dunbar_triage_t/
 date:   2005-02-03 15:05:50 -0700
 image:  ryzeblogtribefriends.gif
-tags:   Home
+tags: 
+  - Social Software
+  - Web/Tech
+  - Dunbar number
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/dunbar_triage_t/
 ---
-
-By [Christopher Allen](/lwa/about)
-
 
 <a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/ryzeblogtribefriends.gif"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/ryzeblogtribefriends.gif" alt="Ryzeblogtribefriends"/></a>
 As someone who now has over 171 professional "connections" in my [LinkedIn Profile](https://www.linkedin.com/profile?viewProfile=&key=62844), 198 "friends" on [Orkut](http://www.orkut.com/Profile.aspx?uid=2789681602836776519), many more non-intersecting friends and acquaintances on   [Tribe.Net](http://cluster.tribe.net/tribe/servlet/template/pub,pcard,PeopleCard.vm?personid=ce34093a-3c72-4954-b52f-3d6bc51884af), [LiveJournal](http://www.livejournal.com/users/christophera_/), and [other social networking services](http://socialsoftware.weblogsinc.com/sns-meta-list/), as well as a plethora of correspondents that I only interact with via email, I am trying reconcile a mismatch between my connections and my own [Dunbar Number](/2004/03/the_dunbar_numb.html).
