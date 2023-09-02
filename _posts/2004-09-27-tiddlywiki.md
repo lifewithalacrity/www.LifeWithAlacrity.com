@@ -3,6 +3,7 @@ layout: single
 title: "TiddlyWiki"
 slug: "TiddlyWiki"
 redirect_from:
+  - /2004/09/tiddlywiki.html
   - /2004/09/tiddlywiki/
 date:   2004-09-27 20:28:46 -0700
 # image:  02.jpg
@@ -10,9 +11,15 @@ tags:
   - Social
   - Software
   - User Interface
----
 
-By [Christopher Allen](/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/tiddlywiki/
+---
 
 I keep an eye out for new ideas in Wiki technology (see my post from February [Looking at Wiki](/2004/02/looking_at_wiki.html)), and I recently became fascinated by [TiddlyWiki](http://www.tiddlywiki.com/). It is sort of a one-page client-only Wiki written completely in Javascript and HTML. Like my [Edit This Page PHP](http://editthispagephp.sourceforge.net), it appears to be an elegant experiment to look into the future of this medium of user-editable content.
 

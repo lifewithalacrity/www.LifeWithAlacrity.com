@@ -27,7 +27,7 @@ I last mentioned their research on guild sizes in my blog post [Dunbar & World o
 
 In Nic & Nick's more recent research, they are looking deeper and are [mapping social networks](http://blogs.parc.com/playon/archives/2005/10/mapping_social.html) _(now 404, use [Internet Archive](https://web.archive.org/web/20090425222428/http://blogs.parc.com/playon/archives/2005/10/mapping_social.html))_ on World of Warcraft. Using tools available to them, over the course of the month of August they looked at 241,378 characters and 5569 guilds. From that data they were able to able to discover how often guild members were co-present (online at the same time) or co-located (online and in the same zone in the game)
 
-<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b8d1b3c611970c-pi"><img width="100%" style=" margin-right:15px"  src="../assets/images/dunbar.jpg" alt="dunbar"/></a>
+<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b8d1b3c611970c-pi"><img width="100%" style=" margin-right:15px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/dunbar.jpg" alt="dunbar"/></a>
 
 For example, in this map you can see:
 
@@ -35,13 +35,13 @@ For example, in this map you can see:
 
 Using this same data, they then looked at the [max subgraph size of guilds](http://blogs.parc.com/playon/archives/2005/10/guilds_max_subg.html) _(now 404, use [Internet Archive](http://blogs.parc.com/playon/archives/2005/10/guilds_max_subg.html))_. A "subgraph" in a social network can be thought of as a "clique" of people that interact with each other.
 
-<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c82940ec970b-pi"><img width="100%" style=" margin-right:15px"  src="../assets/images/dunbar_1.jpg" alt="dunbar_1"/></a>
+<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c82940ec970b-pi"><img width="100%" style=" margin-right:15px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/dunbar_1.jpg" alt="dunbar_1"/></a>
 
 For instance, in the social network of this guild there are 5 subgraphs, 4 of which are just 2 people and 1 subgraph that is of 6. The 4 subgraphs that are only of 2 people are members of the guild who did not participate much in the guild. But the number of people in the subgraph of 6 is much more interesting, as it shows that these members are "cohesive".
 
 When the max subgraph size of a guild is plotted against the guild size, you get some interesting results -- the maximum guild cohesiveness occurs around the guild size of 50. Larger then that, guilds have a much more difficult time remaining cohesive.
 
-<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b8d1b3c66b970c-pi"><img width="100%" style=" margin-right:15px"   src="../assets/images/dunbar_2.jpg" alt="dunbar_2"/></a>
+<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b8d1b3c66b970c-pi"><img width="100%" style=" margin-right:15px"   src="{{ site.url }}{{ site.baseurl }}/assets/images/dunbar_2.jpg" alt="dunbar_2"/></a>
 
 These results strong support my hypothesis in my original [Dunbar Number](/2004/03/the_dunbar_numb.html) post, where I...
 
@@ -49,7 +49,7 @@ These results strong support my hypothesis in my original [Dunbar Number](/2004/
 
 Some possible other support for this hypothesis comes from another post by Nic & Nick where they analyze the [time guilds spend together](http://blogs.parc.com/playon/archives/2005/10/guild_members_t.html) (now 404, use [Internet Archive](https://web.archive.org/web/20081119142033/http://blogs.parc.com/playon/archives/2005/10/guild_members_t.html)).
 
-<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b8d1b3c680970c-pi"><img width="100%" style=" margin-right:15px"   src="../assets/images/dunbar_3.jpg" alt="dunbar_3"/></a>
+<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b8d1b3c680970c-pi"><img width="100%" style=" margin-right:15px"   src="{{ site.url }}{{ site.baseurl }}/assets/images/dunbar_3.jpg" alt="dunbar_3"/></a>
 
 Note that the mean amount of time that guilds spend together in the band 31 - 60 is only 95 minutes and that the standard deviation is the lowest, as compared to groups that are larger then 120 where the mean time is 141 minutes at the standard deviation is higher. This says to me that keeping a large group cohesive requires significantly more time in social "grooming".
 
@@ -59,7 +59,7 @@ In my original [Dunbar Number](/2004/03/the_dunbar_numb.html) post I had a secon
 
 There is strong support for this in another plot found in the [max subgraph size of guilds](http://blogs.parc.com/playon/archives/2005/10/guilds_max_subg.html) _(now 404, use [Internet Archive](https://web.archive.org/web/20081231143011/http://blogs.parc.com/playon/archives/2005/10/guilds_max_subg.html))_ post where they compare the subgraph ration to guild sizes:
 
-<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01bb08cde1c9970d-pi"><img width="100%" style=" margin-right:15px"   src="../assets/images/dunbar_4.jpg" alt="dunbar_4"/></a>
+<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01bb08cde1c9970d-pi"><img width="100%" style=" margin-right:15px"   src="{{ site.url }}{{ site.baseurl }}/assets/images/dunbar_4.jpg" alt="dunbar_4"/></a>
 
 Here you can see a strong peak at 10 people, that rapidly falls with guild size. This shows that guild cohesion is relatively easy to maintain up to size 10, but becomes much more difficult to maintain as guilds grow larger.
 

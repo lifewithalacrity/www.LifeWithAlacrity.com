@@ -22,7 +22,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/jotspot_applica/
 ---
 
-<img width="320px" align="right"  src="../assets/images/slide09.jpg" alt="slide09"/>
+<img width="320px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/slide09.jpg" alt="slide09"/>
 [Joe Kraus](http://www.jotspot.com/about/index.php), one of the co-founders of Excite, and new [blogger](http://bnoopy.typepad.com/bnoopy/) has long been [rumored](http://owt.typepad.com/blog/2004/09/wiki_and_then_s.html) to be working on a new wiki tool. Today at the [Web 2.0](http://www.web2con.com/pub/w/32/program.html) conference Joe finally unveiled [JotSpot](http://www.jotspot.com), a new type of wiki that they have named an "Application Wiki". JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.
 
 ![](http://www.jotspot.com/tours/advanced/img/slide09.jpg)At the JotSpot website there is an page on [How JotSpot is Different](http://jot.com/compare/index.php) and an [Advanced Tour](http://jot.com/tours/advanced/1.php) of this wiki's database capabilities.

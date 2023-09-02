@@ -24,7 +24,7 @@ permalink: /ephemera/for_the_last_se/
 
 For the last several months I've been working on a new open source project that I've been calling [SynchroEdit](http://www.synchroedit.com). SynchroEdit is a browser-based simultaneous multiuser editor, useful for ["same-time" collaboration](http://www.it.bton.ac.uk/staff/rng/teaching/notes/CSCWgroupware.html).
 
-<a href="#"><img width="250px" style=" margin-right:15px" align="right"  src="../assets/images/synchroeditmac.png" alt="synchroeditmac"/></a>
+<a href="#"><img width="250px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/synchroeditmac.png" alt="synchroeditmac"/></a>
 The basic concept is that it allows multiple users to WYSIWYG edit a single web-based document, all at exactly the same time. SynchroEdit continuously synchronizes all changes so that users always see the same version. They can also see each others' changes as they type, see where each user is currently editing, and see each others' changes by color.
 
 SynchroEdit is a tool for "same-time" collaboration, either "same-time, different-place", as in teleconference calls, or "same-time, same-place", during a meeting or a conference. If you've ever used [SubEthaEdit](http://www.codingmonkeys.de/subethaedit/) on Mac OS X, or [MoonEdit](http://www.moonedit.com) for Windows or Linux, or the cross-platform [Gobby](http://gobby.0x539.de/), this is a similar experience. The difference is that unlike those tools you are not limited to just plain text -- character styles (bold, italic, etc.) and paragraph styles (rulers, headers, blockquotes, etc) are synchronized as well. And of course, it all works inside your browser.
@@ -47,7 +47,7 @@ The development of SynchroEdit is being led by Kalle Alm, a young Swedish coder 
 
 We are seeking more financial contributions so that we can accelerate development. Currently SynchroEdit only works in Mozilla/Firefox, and I anticipate that making it work with Internet Explorer may be quite difficult, so we'll need more partners to help.
 
-<img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/christopher_allen_web2point1_brainjam.png" alt="christopher_allen_web2point1_brainjam"/>I did a demo of last year's open source project, [EditThisPage](http://www.EditThisPage.net), and of the SynchroEdit alpha at [Web 2.1 BrainJam](http://www.web2point1.org/) last week; there are two videos available from Enric Teller's vBlog: [Presentation](http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/) and [Q&A](http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/). 
+<img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/christopher_allen_web2point1_brainjam.png" alt="christopher_allen_web2point1_brainjam"/>I did a demo of last year's open source project, [EditThisPage](http://www.EditThisPage.net), and of the SynchroEdit alpha at [Web 2.1 BrainJam](http://www.web2point1.org/) last week; there are two videos available from Enric Teller's vBlog: [Presentation](http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/) and [Q&A](http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/). 
 
 If you are interested in learning more, visit the [SynchroEdit website](http://www.synchroedit.com). We have additional information on the program, a [developers wiki](http://wiki.synchroedit.com), as well as a sandbox that you can play in to demonstrate SynchroEdit in use.
 

@@ -25,7 +25,7 @@ In yesterday's [All Things Considered](http://www.npr.org/templates/rundowns/run
 
 In his [commentary](http://www.npr.org/templates/story/story.php?storyId=4772145), Bostonian Jake Halpern considers two academic ideas, "belongingness theory" and "para-social relationships", and how they affect the relationships we develop with television characters. He puts it all in the context of the 1990s TV show _Cheers_:
 
-> <img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/cheers.jpg" alt="Cheers"/>
+> <img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/cheers.jpg" alt="Cheers"/>
 
 >_"My preoccupation with_ Cheers the Bar _puzzled me until I stumbled upon a rather obscure but quite fascinating academic notion called_ belongingness theory_.The argument goes something like this: in ancient times humans who stuck together increased the chances that they would survive and reproduce. So, when it came time to, say, hunt a large animal, or defend the cave against marauders, groups fared better then the guy on his own. In addition, adults in the group would have been more likely to find mates, reproduce, and raise their children._
 > 

@@ -30,7 +30,7 @@ _\[This is the second of a series of articles on [collective choice](/2005/12/sy
 
 In our previous article we talked about the many systems available for [collective choice](/2005/12/systems_for_col.html). There are [selection systems](/2005/12/systems_for_col.html#selection_systems), which are primarily centered on voting and deliberation, [opinion systems](/2005/12/systems_for_col.html#opinion_systems), which represent how voting could occur, and finally [comparison systems](/2005/12/systems_for_col.html#comparison_systems), which rank or rate different people or things in a simple, comparative manner.
 
-<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/stars_1.gif"><img width="260px" style=" margin-right:15px" align="right"  src="../assets/images/stars_1.gif" alt="stars_1"/></a>One purpose of our previous article was to create a dictionary of terms for talking about these related, but clearly different, systems. Another was to start offering analyses of these systems, many of which had not been well studied before their introduction onto the Internet.
+<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/stars_1.gif"><img width="260px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/stars_1.gif" alt="stars_1"/></a>One purpose of our previous article was to create a dictionary of terms for talking about these related, but clearly different, systems. Another was to start offering analyses of these systems, many of which had not been well studied before their introduction onto the Internet.
 
 However at best our previous article provided an overview of what should be further investigated in each system. This article provides more in-depth coverage of one of the systems we previously outlined: [rating systems](/2005/12/systems_for_col.html#rating_systems).
 
@@ -38,7 +38,7 @@ As we wrote in our previous article, in comparison rating systems _"the value of
 
 ### eBay: A Failed Rating Experiment
 
-<img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/ebaysales.jpg" alt="ebaysales"/>Most rating systems center around rating content, often user-contributed content, and they frequently help apply community values and acclaim to that content. However, the idea of ratings can go far beyond that narrow niche (though that will doubtless be its greatest use as the Internet continues to expand). Early Internet site, [eBay](http://www.ebay.com), was one of the first to widely use user-submitted ratings, and it used them for a different manner: to determine the good traders on their auction site.
+<img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/ebaysales.jpg" alt="ebaysales"/>Most rating systems center around rating content, often user-contributed content, and they frequently help apply community values and acclaim to that content. However, the idea of ratings can go far beyond that narrow niche (though that will doubtless be its greatest use as the Internet continues to expand). Early Internet site, [eBay](http://www.ebay.com), was one of the first to widely use user-submitted ratings, and it used them for a different manner: to determine the good traders on their auction site.
 
 Unfortunately, as one of the first in this field, eBay made many mistakes which now leave their ratings system only slightly helpful. However, its failures can also provide us with insights in creating new rating systems on the Internet.
 
@@ -46,7 +46,7 @@ eBay allows you to leave positive, negative, or (more recently) neutral feedback
 
 Unfortunately, for reasons discussed below, almost all feedback is positive, and thus the Feedback Score acts almost entirely as a track record of how many trades someone has made. The Feedback Score could be largely replaced by that single number. You can look at a score of "27", and say, "That's an amateur trader, or someone just getting started", at a score of "3", and say, "That person may or may not know what they're doing", at a score of "10,302", and say, "That person has done a lot of trades." But you still don't know how good the trader is.
 
-<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/photos/uncategorized/ebayprofile.jpg"><img width="420px" style=" margin-right:15px" align="right"  src="../assets/images/ebayprofile.jpg" alt="ebayprofile"/></a>Theoretically, the Positive Feedback percentage should give a more meaningful number, but people so infrequently give bad ratings that, even when they do appear, they look like noise. Does a percentage of "99.8%" on a user with a score of "1,762" mean that the seller has a genuine problem or not? Do those 3 unhappy customers really represent another 30 who were unwilling to actually click the negative feedback? And, did those people have slightly bad experience or really bad experiences? It's pretty hard to say.
+<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/photos/uncategorized/ebayprofile.jpg"><img width="420px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/ebayprofile.jpg" alt="ebayprofile"/></a>Theoretically, the Positive Feedback percentage should give a more meaningful number, but people so infrequently give bad ratings that, even when they do appear, they look like noise. Does a percentage of "99.8%" on a user with a score of "1,762" mean that the seller has a genuine problem or not? Do those 3 unhappy customers really represent another 30 who were unwilling to actually click the negative feedback? And, did those people have slightly bad experience or really bad experiences? It's pretty hard to say.
 
 Overall, eBay has a few major problems with their rating system:
 
@@ -67,7 +67,7 @@ We're going to address each of these issues in turn, to offer insight into creat
 
 ### Granular Ratings
 
-<img width="150px" style=" margin-right:15px" align="left"  src="../assets/images/smiley.png" alt="smiley"/> In general, _people want to be nice_. There are exceptions to that rule, perhaps even great numbers of them, but the average, well-adjusted person would prefer to make other people happy, not sad.
+<img width="150px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/smiley.png" alt="smiley"/> In general, _people want to be nice_. There are exceptions to that rule, perhaps even great numbers of them, but the average, well-adjusted person would prefer to make other people happy, not sad.
 
 This has a notable effect on any comparison rating system, because it means that people are less likely to use the bottom half of any rating scale. If you did a statistical run on eBay, you'd certainly find that more than 99 out of every 100 ratings are positive. This is largely influenced by concerns of bilateral revenge, as discussed below, and the fact that eBay suggests other means of dispute resolution when you try and leave negative feedback. However, [RPGnet](http://www.rpg.net), a roleplaying site which reviews games, comics, books, movies, and more shows a similar trend despite the lack of bilaterality.
 
@@ -75,7 +75,7 @@ RPGnet uses two 5-points scales for reviews, resulting in a total rating of 2-10
 
 The following table shows all the ratings for each of the two categories that RPGnet uses, "Style" and "Substance":
 
-<a href="https://web.archive.org/web/20080219224023/http://www.rpg.net/reviews/archive/9/9971.phtml"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/rpgnetsettlersreview.png" alt="rpgnetsettlersreview"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://www.rpg.net/reviews/archive/9/9971.phtml"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/rpgnetsettlersreview.png" alt="rpgnetsettlersreview"/></a>
 
 | **Rating** | **Style** | **Substance** | **%** |
 | --- | --- | --- | --- |
@@ -99,7 +99,7 @@ A bigger problem occurs when an individual is inconsistent in his ratings over t
 
 You thus want to help individuals to stay consistent, and the best way to do that is to make the criteria for your ratings distinct. [BoardGameGeek](http://www.boardgamegeek.com), a board game web site that supports a 10-point rating system for games, does a good job of offering distinction in its ratings.
 
-> <a href="https://web.archive.org/web/20080219224023/http://www.boardgamegeek.com/game/13"><img width="250px" style=" margin-right:15px" align="right"  src="../assets/images/settlers_rating_1.png" alt="settlers_rating_1"/></a>
+> <a href="https://web.archive.org/web/20080219224023/http://www.boardgamegeek.com/game/13"><img width="250px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/settlers_rating_1.png" alt="settlers_rating_1"/></a>
 > 
 > * **10** \- Outstanding. Always want to play and expect this will never change.
 > * **9** \- Excellent game. Always want to play it.
@@ -140,7 +140,7 @@ Say three "shill" users had come onto your site and rated a brand new indie film
 
 WowWebDesigns uses a similar model and even offers a [good explanation of their methods](http://www.wowwebdesigns.com/formula.php) on their web site.
 
-<a href="https://web.archive.org/web/20080219224023/http://www.wowwebdesigns.com/designs/id_242/ratings/"><img width="450px" style=" margin-right:15px"  src="../assets/images/wowwebdesignsrating.png" alt="wowwebdesignsrating"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://www.wowwebdesigns.com/designs/id_242/ratings/"><img width="450px" style=" margin-right:15px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/wowwebdesignsrating.png" alt="wowwebdesignsrating"/></a>
 
 With everything that's been described thus far, including granularity and distinction, a bayesian average (or some other similiar method) will probably be enough to give your ratings a good, sound statistical basis. However, sites with low volume of ratings may still be concerned with "shills" or "crappers" who come in to your site just to put "10"s on their favorite items on "1"s on their least favorite. RPGnet's reviews are an example of a site that could experience this issue, because only a few people are going to ever write reviews for an individual item, and this small number of reviews could compromise the nature of any comparisons generated by the ratings sytems.
 
@@ -161,7 +161,7 @@ The idea of adjusting ratings based on ratings bears a bit of additional discuss
 
 90% of the rating issues that sites will face are covered by the above. However eBay in particular raised two other issues -- bilateralism and usefulness -- that aren't as generally relevant but do deserve some consideration.
 
-<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/photos/uncategorized/ebayfeedback.jpg"><img width="450px" style=" margin-right:15px" align="right"  src="../assets/images/ebayfeedback.jpg" alt="ebayfeedback"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/photos/uncategorized/ebayfeedback.jpg"><img width="450px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/ebayfeedback.jpg" alt="ebayfeedback"/></a>
 
  **Bilateralism:** One of the reasons that eBay's ratings fall apart is that they're bilateral. Buyers and sellers rate each other simultaneously and thus there's the fear of revenge if you rate someone badly. It's a sufficient issue that eBay has a [FAQ on the topic](http://pages.ebay.com/help/feedback/questions/retaliatory-feedback.html), though they don't offer any good answers.
 
@@ -186,7 +186,7 @@ eBay offers a counter example of frustration with the usefulness of ratings. As 
 
 You also need to be careful with your user interface for ratings. Here is an example of a poor UI:
 
-<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/uselessratingui.jpg" alt="uselessratingui"/></a>
+<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/uselessratingui.jpg" alt="uselessratingui"/></a>
 
 ### Conclusion
 

@@ -26,7 +26,7 @@ This blog has been quiet lately as I've been doing a lot of work in the last yea
 I've been reluctant to post too many of these off posts on this blog, as I like the length, quality and high-signal-to-noise ratio of the posts that I've written for this blog. I do plan to continue to offer more social software and social media posts, including followups to my [Collective Choice](/2005/12/systems_for_col.html) articles, as well as updates on my popular [Dunbar Number](/2004/03/the_dunbar_numb.html) posts. But I don't want to spam my readers here with notes on iPhone Apps, my thoughts on movies, circuses, the odd conferences I speak at, etc.
 
 <a href="https://ephemera.lifewithalacrity.com/">
-<img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/ephemerablogthumb.png" alt="ephemerablogthumb"/>
+<img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/ephemerablogthumb.png" alt="ephemerablogthumb"/>
 </a>
 
 So I've been trying to figure out how to cover some of the other things that I am up to without loosing my readers here, so decided to a create a new blog for my shorter and more transitory thoughts: [Christopher Allen's Ephemera Blog](http://ephemera.LifeWithAlacrity.com). So far I have posted:

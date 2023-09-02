@@ -25,15 +25,15 @@ permalink: /article/dunbar_world_of/
 
 In my initial blog entry on the [Dunbar Number](/2004/03/the_dunbar_numb.html) I presented some statistics on group sizes based on the online game [Ultimata Online](http://www.uo.com). In it you could clearly see the power-law (pareto) curve, with diminishing returns at around 150, with most groups being 60 in size:
 
-<a href="https://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#onlinecommunities"><img width="100%"   src="../assets/images/UOGuildPowerLaw.jpg" alt="UOGuildPowerLaw"/></a>
+<a href="https://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#onlinecommunities"><img width="100%"   src="{{ site.url }}{{ site.baseurl }}/assets/images/UOGuildPowerLaw.jpg" alt="UOGuildPowerLaw"/></a>
 
-<a href="https://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#onlinecommunities"><img width="100%"   src="../assets/images/UOGuildHistogram.jpg" alt="UOGuildHistogram"/></a>
+<a href="https://www.lifewithalacrity.com/2004/03/the_dunbar_numb.html#onlinecommunities"><img width="100%"   src="{{ site.url }}{{ site.baseurl }}/assets/images/UOGuildHistogram.jpg" alt="UOGuildHistogram"/></a>
 
 More recently, [Nick Yee](http://www.nickyee.com/) and other researchers at the [PlayOn Blog](http://blogs.parc.com/playon/) have been researching the behaviors of players in the popular [World of Warcraft](http://www.worldofwarcraft.com/) online game. At my request, they sampled guild sizes over a one-week period, and prepared [similar graphs](http://blogs.parc.com/playon/archives/2005/07/guild_size.html) _(now 404, use [internet archive link](https://web.archive.org/web/20060205115408/http://blogs.parc.com/playon/archives/2005/07/guild_size.html))_:
 
-<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c8294004970b-pi"><img width="100%"   src="../assets/images/dunbar_5.jpg" alt="dunbar_5"/></a>
+<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c8294004970b-pi"><img width="100%"   src="{{ site.url }}{{ site.baseurl }}/assets/images/dunbar_5.jpg" alt="dunbar_5"/></a>
 
-<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c8294012970b-pi"><img width="100%"   src="../assets/images/dunbar_6.jpg" alt="dunbar_6"/></a>
+<a href="https://www.lifewithalacrity.com/previous/.a/6a00d8341d8bc053ef01b7c8294012970b-pi"><img width="100%"   src="{{ site.url }}{{ site.baseurl }}/assets/images/dunbar_6.jpg" alt="dunbar_6"/></a>
 
 Overall, these statistics still support my original hypothesis in my [Dunbar Number](/2004/03/the_dunbar_numb.html) post that mean group sizes will be smaller than 150 for non-survival oriented groups:
 

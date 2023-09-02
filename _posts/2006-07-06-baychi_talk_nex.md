@@ -17,7 +17,7 @@ excerpt_seperator: <!--more-->
 permalink: /news/baychi_talk_nex/
 ---
 
-<img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/baychi_1.gif" alt="Baychi"/> I will be speaking next Tuesday (July 11th) at the monthly meeting of [BayCHI](http://www.baychi.org/calendar/20060711/), the San Francisco Bay Area Chapter of ACM SIGCHI (Computer Human Interface Special Interest Group), along with [Michael H. Goldhaber](http://www.goldhaber.org/).
+<img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/baychi_1.gif" alt="Baychi"/> I will be speaking next Tuesday (July 11th) at the monthly meeting of [BayCHI](http://www.baychi.org/calendar/20060711/), the San Francisco Bay Area Chapter of ACM SIGCHI (Computer Human Interface Special Interest Group), along with [Michael H. Goldhaber](http://www.goldhaber.org/).
 
 The synopsis of my topic is:
 
@@ -26,7 +26,7 @@ The synopsis of my topic is:
 
 Michael H. Goldhaber will be speaking on:
 
-<a href="https://web.archive.org/web/20080219224023/http://www.parc.com/about/directions.html"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/maptoparc.gif" alt="maptoparc"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://www.parc.com/about/directions.html"><img width="300px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/maptoparc.gif" alt="maptoparc"/></a>
 
 
 >**The Real Nature of the Emerging Attention Economy: Seen As a New Level in the Massively Multiplayer Game Known as Western Culture:**  

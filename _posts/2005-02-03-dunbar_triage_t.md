@@ -21,7 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /article/dunbar_triage_t/
 ---
 
-<a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/ryzeblogtribefriends.gif"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/ryzeblogtribefriends.gif" alt="Ryzeblogtribefriends"/></a>
+<a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/ryzeblogtribefriends.gif"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/ryzeblogtribefriends.gif" alt="Ryzeblogtribefriends"/></a>
 As someone who now has over 171 professional "connections" in my [LinkedIn Profile](https://www.linkedin.com/profile?viewProfile=&key=62844), 198 "friends" on [Orkut](http://www.orkut.com/Profile.aspx?uid=2789681602836776519), many more non-intersecting friends and acquaintances on   [Tribe.Net](http://cluster.tribe.net/tribe/servlet/template/pub,pcard,PeopleCard.vm?personid=ce34093a-3c72-4954-b52f-3d6bc51884af), [LiveJournal](http://www.livejournal.com/users/christophera_/), and [other social networking services](http://socialsoftware.weblogsinc.com/sns-meta-list/), as well as a plethora of correspondents that I only interact with via email, I am trying reconcile a mismatch between my connections and my own [Dunbar Number](/2004/03/the_dunbar_numb.html).
 
 How do I maintain meaningful relationships with over 300 people?
@@ -66,7 +66,7 @@ Secondly, how do you tell someone "I'm sorry, but I'm overly Dunbarred, so I hav
 
 One of the great hopes of social networking services is to improve the ways that we interact with other people, particularly those that we know at a distance -- the "weak links". Right now, these services are part of the problem because they offer out-of-balance social systems. However, they can also be part of the solution; science-fiction writers and social software designers alike are starting to look at these issues and offer new solutions that would not have been possible before the advent of widespread software communication systems.
 
-**Technological Solution - Augmentation:** <img width="130px" align="right"  src="../assets/images/geodesica.jpg" alt="geodesica"/>
+**Technological Solution - Augmentation:** <img width="130px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/geodesica.jpg" alt="geodesica"/>
 
 I recently read in [Geodesica: Ascent](http://www.amazon.com/exec/obidos/tg/detail/-/0441012698/qid=1107286515/sr=8-1/ref=skotos_20/102-0974708-1794504?v=glance&s=books&n=507846), a new science fiction novel by Sean Williams and Shane Dix, a futurist example of augmentation as a method of maintaining extended social networks.
 
@@ -80,7 +80,7 @@ In [Geodesica: Ascent](http://www.amazon.com/exec/obidos/tg/detail/-/0441012698/
 
 I'm not sure that the Dunbar Number problem is solely one of "recognition", as illustrated by Williams and Dix. However, I think this is a great example of seeing how a traditional cultural solution to network overextension (namely, "Spending More Time") can be better applied by Social Software. In this example Melilah's software automates the "ticklers" that politicians use.
 
-<img width="300px" align="right"  src="../assets/images/spokekeepintouchsettings.gif" alt="Spokekeepintouchsettings"/>Already at least one social networking service has adopted a somewhat similar idea. [Spoke](http://center.spoke.com/person/personalProfileTab.spoke?id=[serverID=center,ID=4877427]) has a "Keep In Touch" setting. The Spoke client software will watch your Outlook mailbox and addressbook to see how often you contact various people, and if you don't email them or modify your address book entry for them periodically, will remind you that you should contact them.
+<img width="300px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/spokekeepintouchsettings.gif" alt="Spokekeepintouchsettings"/>Already at least one social networking service has adopted a somewhat similar idea. [Spoke](http://center.spoke.com/person/personalProfileTab.spoke?id=[serverID=center,ID=4877427]) has a "Keep In Touch" setting. The Spoke client software will watch your Outlook mailbox and addressbook to see how often you contact various people, and if you don't email them or modify your address book entry for them periodically, will remind you that you should contact them.
 
 I've never used Spoke's "Keep In Touch" feature -- largely for privacy reasons (I was [stung by a Zero Degrees](/2004/04/annoyed_by_zero.html) Outlook extension), but also because Spoke seemed to be oriented toward salespeople and thus emphasized growing the network. My problem is not growing my network, but managing the network I already have more effectively. But I may have to take another look at Spoke. So, it doesn't quite offer the same solution that Melilah used in the far-future, but it's still a start upon that path.
 
@@ -100,7 +100,7 @@ As with any problem in the developing technical world, the first step is to defi
 
 What's your solution?
 
-<a href="https://web.archive.org/web/20051124093032/http://www.gapingvoid.com/Moveable_Type/archives/000219.html"><img width="100%" style=" margin-right:15px"  src="../assets/images/zzzmkghilkj38.jpg" alt="Too Many Friends, by hugh, from gapingvoid blog"/></a> 
+<a href="https://web.archive.org/web/20051124093032/http://www.gapingvoid.com/Moveable_Type/archives/000219.html"><img width="100%" style=" margin-right:15px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/zzzmkghilkj38.jpg" alt="Too Many Friends, by hugh, from gapingvoid blog"/></a> 
 
 _(comic illustration from the blog [gapingvoid](http://www.gapingvoid.com/Moveable_Type/archives/000219.html) by [hugh](http://www.gapingvoid.com/Moveable_Type/archives/000823.html))_
 

@@ -26,7 +26,7 @@ As a former Macintosh developer, I've always been disappointed with the user-int
 
 So I keep an eye out for innovative ideas that preserve the essence of what is so powerful about web pages, yet also offer a good ideas. My posts on [Map Mashup](/2004/10/map_mashup.html) and [TiddlyWiki](/2004/09/tiddlywiki.html) offer some interesting web UI exemplars.
 
-<a href="https://web.archive.org/web/20051124093032/http://www.google.com/webhp?hl=en&complete=1"><a href="#"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/logo_google_suggest.gif" alt="logo_google_suggest"/></a></a>
+<a href="https://web.archive.org/web/20051124093032/http://www.google.com/webhp?hl=en&complete=1"><a href="#"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/logo_google_suggest.gif" alt="logo_google_suggest"/></a></a>
 
 To this list of exemplars I now add [Google Suggest](http://www.google.com/webhp?hl=en&complete=1) by Google programmer [Kevin Gibbs](http://www.google.com/googleblog/2004/12/ive-got-suggestion.html), who wrote this as part of Google employee's ability to work 20% of the time on their own projects. Google Suggest replaces the browser's default auto-complete with one specific to Google searching. As you type each letter of your search request, you are shown the most popular requests for that term, and how many search hits are available for that search term. You really have to try out to understand how amazing and intuitive it is.
 

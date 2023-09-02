@@ -21,7 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /article/map_mashup/
 ---
 
-<a href="https://web.archive.org/web/20050117010708/http://lifewithalacrity.blogs.com/photos/uncategorized/mapmashup_1.gif"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/mapmashup_1.gif" alt="Mapmashup_1"/></a>I'm a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
+<a href="https://web.archive.org/web/20050117010708/http://lifewithalacrity.blogs.com/photos/uncategorized/mapmashup_1.gif"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/mapmashup_1.gif" alt="Mapmashup_1"/></a>I'm a sucker for great user-interface design ideas, especially if they succeed with what typically has poor UI design -- web pages.
 
 MultiMap is a company that sells maps and aerial photos, primarily for Great Britain. They offer an online map tool that is very similar to that used by MapQuest or Yahoo Maps.
 

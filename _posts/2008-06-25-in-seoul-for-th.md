@@ -22,7 +22,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/in-seoul-for-th/
 ---
 
-<a href="http://www.flickr.com/photos/christophera/2610236112/"><img width="230px" style=" margin-left:15px" align="right"  src="../assets/images/seoul.jpg" alt="Downtown Seoul, South Korea, from Hotel Window"/></a>
+<a href="http://www.flickr.com/photos/christophera/2610236112/"><img width="230px" style=" margin-left:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/seoul.jpg" alt="Downtown Seoul, South Korea, from Hotel Window"/></a>
 
 I'm in Seoul, South Korea this week for the [13th Global Forum on Business Driven Action Learning and Executive Development](http://www.globalforumactionlearning.com/), where I'm presenting on the topic of the how to get involved with the Social Web.
 

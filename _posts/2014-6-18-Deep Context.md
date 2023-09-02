@@ -30,7 +30,7 @@ The first time I was introduced to this concept was by expert facilitator and fu
 
 > "The Glass Bead Game is "a kind of synthesis of human learning" in which themes, such as a musical phrase or a philosophical thought, are stated. As the Game progresses, associations between the themes become deeper and more varied."
 
-<a href="#"><img width="50px" style=" margin-right:15px" align="right"  src="../assets/images/strike_compass.jpg" alt="Solution Box, Insight, Philosophy, Schematic Design"/></a>
+<a href="#"><img width="50px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/strike_compass.jpg" alt="Solution Box, Insight, Philosophy, Schematic Design"/></a>
 
 When you know the shared language of Matt's community, you can express concisely "In the SOLUTION BOX I am at INSIGHT, PHILOSOPHY and SCHEMATIC DESIGN." Which means, in other words, _"I have a mature idea that I feel is a synthesis of all the challenges inherent in the project, I can talk about it with some clarity and express it as a visual solution. I have done a lot of work yet I do not have a buildable design."_ Someone familiar with the language can then respond in kind, rather than coming from a different perspective in the solution box and think that I have built something that is ready for production.
 

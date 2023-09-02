@@ -23,7 +23,7 @@ permalink: /article/ratings_who_do_/
 
 My colleague, [Shannon Appelcline](http://www.skotos.net/about/staff/shannon_appelcline.php), has been working on a game rating system for [RPGnet](http://www.rpg.net). This has resulted in real-world application of the principles for designing rating systems which we've previously discussed in our [Collective Choice](/2005/12/collective_choi.html) articles. Shannon's newest article, [Ratings, Who Do You Trust?](http://www.skotos.net/articles/TTnT_/TTnT_196.phtml) offers a look at weighting ratings based on reliability.
 
-><img width="250px" align="right" src="../assets/images/shannon_appelcline.jpg" alt="shannon_appelcline"/>
+><img width="250px" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/shannon_appelcline.jpg" alt="shannon_appelcline"/>
 
 >_On the [RPGnet Gaming Index](http://index.rpg.net/) we've put this all together to form a tree of weighted ratings that answer the question, _who do you trust_?_
 > 

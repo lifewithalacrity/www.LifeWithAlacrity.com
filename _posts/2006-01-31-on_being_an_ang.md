@@ -21,7 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /article/on_being_an_ang/
 ---
 
-<a href="https://web.archive.org/web/20080219224023/http://www.alumni.unh.edu/connection/archives/12_03_04.html"><img width="250px" style=" margin-right:15px" align="right"  src="../assets/images/angel_investor.gif" alt="angel_investor"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://www.alumni.unh.edu/connection/archives/12_03_04.html"><img width="250px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/angel_investor.gif" alt="angel_investor"/></a>
 In the last month or so I've received a number of links to [Life With Alacrity](http://www.LifeWithAlacrity.com) as a [venture capital blog](http://www.ventureblogs.com/), and to myself as a [venture capitalist](http://www.siliconbeat.com/entries/2006/01/09/two_more_silicon_valley_vc_bloggers_guy_kawasaki_christopher_allen.html).
 
 However, I don't consider myself a venture capitalist. Instead, I am what is known as an "angel investor".
@@ -54,7 +54,7 @@ So what is an angel investor? I learned a lot of what I know from the 3 angel in
 
 ### Gifford Pinchot -- Partner Angel
 
-<a href="#"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/gif_and_libba.jpg" alt="Gif and Libba"/></a>
+<a href="#"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/gif_and_libba.jpg" alt="Gif and Libba"/></a>
 
  Gifford Pinchot, with his wife Libba, was my first angel investor in Consensus Development. We met at a Maxis meeting where Gifford had been asked to facilitate the formation of a new startup to create simulation software. At the end of the meeting we left frustrated with the results of the meeting, but Gifford liked what he heard about my broader vision. Gifford flew me to San Diego, where we walked the beach and discussed my vision for collaborative software. He liked what he heard, and later in the month flew me to his home in Connecticut, where I stayed for a month in a barn guest house near his home while we worked on our first business plan.
 
@@ -64,7 +64,7 @@ In the end, Gifford earned probably 7 figures on his initial 5 figure investment
 
 ### Scott Loftesness -- Seed Angel
 
-<a href="https://web.archive.org/web/20080219224023/http://www.sjl.us/"><img width="200px" style=" margin-right:15px" align="left"  src="../assets/images/people_scott.jpg" alt="people scott"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://www.sjl.us/"><img width="200px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/people_scott.jpg" alt="people scott"/></a>
  I met [Scott Loftesness](http://www.sjl.us/) when he was the executive vice president at [Visa International](http://corporate.visa.com). We learned of each other through CompuServe, where we both were sysops in the 80s. I did some consulting for him at Visa in the groupware area over a couple of years and we grew to respect and trust each other. I came to him when I branched out from groupware consulting and began to include consulting on cryptographic security. I'd seen an opportunity--I had a potential contract from [RSA Data Security](http://www.rsasecurity.com) to be a distributor of [RSAREF](http://www.csm.ornl.gov/~dunigan/rsaref.txt)--but in order to take advantage of this opportunity I needed some seed capital.
 
 Scott invested over twice what Gifford invested, but still 5 figures. However, like Gifford, what I gained from my association with Scott was a lot more then the seed capital. He had a respected name in the industry -- a friend at Visa USA told me "Scott is where all innovation at Visa flows from." He joined my board of directors, supported our risky choice to drop all groupware and cryptographic consulting to focus on our SSL project, helped tremendously in doing due diligence on potential buyers, and was pivotal to the negotiations to close our final sale of Consensus Development.
@@ -73,7 +73,7 @@ In the end, Scott Loftesness also did quite well in his investment in Consensus 
 
 ### Jim Bidzos -- Hands-Off Angel
 
-<img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/bidzos.jpg" alt="Bidzos"/> Jim Bidzos was the CEO of RSA Data Security, whose firm had a critical patent on almost all meaningful cryptographic security. Over the years I did a lot of consulting for him to support various projects like RSAREF in standards, to create client tools for their Certificate Services Division, and to help with the founding of [Verisign](http://www.verisign.com).
+<img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/bidzos.jpg" alt="Bidzos"/> Jim Bidzos was the CEO of RSA Data Security, whose firm had a critical patent on almost all meaningful cryptographic security. Over the years I did a lot of consulting for him to support various projects like RSAREF in standards, to create client tools for their Certificate Services Division, and to help with the founding of [Verisign](http://www.verisign.com).
 
 One day I told Jim that RSAREF would never be successful in his goal of promoting the RSA algorithm in security standards as long as it could only be sold through RSA salespeople. They preferred to sell RSA's premiere toolkit, BSAFE. I somewhat jokingly proposed that maybe Consensus Development should sell it instead. To my surprise, he agreed.
 
@@ -95,7 +95,7 @@ The second problem was no management fee -- unlike a VC firm, angels don't get a
 
 The third problem was my time. Most angels still work for a living -- being an angel investor is part-time, a venture capitalist typically works full-time. If only 1 in 20 investments "make the fund", but I could at most manage 7 investments, that meant that I had a 2/3rd's chance of losing my entire investment. I might be able to argue that for some kinds of businesses I might more informed than the average VC, and thus might be able to make better choices, but not **_that_** much better.
 
-<img width="120px" align="right"  src="../assets/images/harold.jpg" alt="Harold"/> The key, I decided, was to work with at least 2 other angel investors. That would theoretically allow us to invest in 21 companies, diversify our portfolios, and split the work. I approached my first angel investor, Gifford Pinchot, and he agreed to be one of the partners. The second was [Harold Shattuck](http://www.alacrityventures.com/shattuck.html), who had done some due diligence and operations consulting for Consensus Development, and had been VC once before, but enjoyed being closer to the actual building of a new company with some operating interaction. I was the managing partner for files and accounting, but we all brought to the table our "deal flow", performed due diligence together, and worked closely with each other.
+<img width="120px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/harold.jpg" alt="Harold"/> The key, I decided, was to work with at least 2 other angel investors. That would theoretically allow us to invest in 21 companies, diversify our portfolios, and split the work. I approached my first angel investor, Gifford Pinchot, and he agreed to be one of the partners. The second was [Harold Shattuck](http://www.alacrityventures.com/shattuck.html), who had done some due diligence and operations consulting for Consensus Development, and had been VC once before, but enjoyed being closer to the actual building of a new company with some operating interaction. I was the managing partner for files and accounting, but we all brought to the table our "deal flow", performed due diligence together, and worked closely with each other.
 
 ### Lessons from Alacrity Ventures
 

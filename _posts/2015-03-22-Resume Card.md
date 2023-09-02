@@ -20,7 +20,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/mini-resume-card-for-conference-season/
 ---
 
-<img width="370"  align="right" src="../assets/images/mini-resume.png" alt="Mini Resume Card for Conference Season"/> 
+<img width="370"  align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/mini-resume.png" alt="Mini Resume Card for Conference Season"/> 
 Between the business of the March/April conference season and leaving Blackphone, I've run out of business cards. Rather than rush to print a bunch of new ones, I'm created this mini-resume for digital sharing and a two-sided Avery business card version that I am printing on my laser printer and sharing.
 
 Not as pretty as my old Life With Alacrity cards, but effective in getting across the diversity of my professional experience and interests.

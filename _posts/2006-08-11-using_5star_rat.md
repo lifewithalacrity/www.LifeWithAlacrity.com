@@ -22,7 +22,7 @@ permalink: /article/using_5star_rat/
 
 In [Collective Choice: Rating Systems](/2005/12/collective_choi.html) I discuss ratings scales of various sorts, from eBay's 3-point scale to RPGnet's double 5-point scale, and BoardGame Geek's 10-point scale.
 
-<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/stars_1.gif" alt="Circle of Hands"/></a>
+<a href="#"><img width="300px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/stars_1.gif" alt="Circle of Hands"/></a>
 
 Of the various ratings scales, 5-point scales are probably the most common on the Internet. You can find them not just in my own RPGnet, but also on Amazon, Netflix, and iTunes, as well as many other sites and services. Unfortunately 5-point rating scales also face many challenges in their use, and different studies suggest different flaws with this particular methodology.
 
@@ -111,19 +111,19 @@ Obviously rating a large music collection can become a chore -- you don't want t
 
 * First, I sorted my catalog by my old ratings, and modified everything down by 1, Starting with everything rated 2 becoming 1, 3 becoming 2, etc. This gave me a good base to start with
 
-<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/exemplar_smart_playlist.png"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/exemplar_smart_playlist.png" alt="Exemplar_smart_playlist"/></a>
+<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/exemplar_smart_playlist.png"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/exemplar_smart_playlist.png" alt="Exemplar_smart_playlist"/></a>
 
 *  Next I created Smart Playlists for each rating, i.e. "Rating 5 - Exemplar" with "Match only checked songs" and "Live updating" checked. I then added "Play Count" as a column to my view, and sorted by it. This gave me the songs that I played the most and least, and I adjusted some songs up and down accordingly.
 
 
- <a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/plays_well_with_others_smart_playlist.png"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/plays_well_with_others_smart_playlist.png" alt="Plays_well_with_others_smart_playlist"/></a>
+ <a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/plays_well_with_others_smart_playlist.png"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/plays_well_with_others_smart_playlist.png" alt="Plays_well_with_others_smart_playlist"/></a>
 
 *  Then I created a new Smart Playlist that simply plays songs rated 3 to 5, limiting the list to the first 100 GB selected by random (i.e. everything random), and saved this Smart Playlist as "Plays Well With Others". I play this on occasion in the background, and when I hear something that jars me I know something isn't rated right. Thus without a lot of effort I can change ratings for songs that no longer fit their rating, or uncheck items where the rating was appropriate but it "didn't play well with others".
 
     
 * I try to be aware when I'm using my iPod of what a songs rating is, and change it if it seems wrong. The next time I sync the iPod my ratings will be adjusted in my iTunes catalog.
     
-<img width="300px" height="auto" style=" margin-right:15px" align="right"  src="../assets/images/play_count.png" alt="Play Count"/>
+<img width="300px" height="auto" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/play_count.png" alt="Play Count"/>
 
 * I also try to be aware of Play Count -- this number only goes up if you play a song to the end. So even if I'm not able to take a look at the rating (for instance when I'm in a car), I can at least forward to the next song. Periodically I review the play counts for songs that I've rated and consider moving them up and down accordingly. Of course, this means that I have to be careful and not let the iPod keep running when I'm not listening.
 
@@ -139,7 +139,7 @@ Amazon also uses a 5-Star rating system, and your ratings can be used by Amazon 
 
 Amazon has a number of different tools to assist you in your ratings. If you are an Amazon customer, you can go to [Improve Your Recommendations: Edit Items You Own](http://www.amazon.com/gp/yourstore/iyr/?ie=UTF8&collection=owned) and see all the books that you've purchased and quickly rate them with a nice AJAX interface. You can also review items that you've already rated, whether or not you own them, at [Improve Your Recommendations: Edit Items You've Rated](http://www.amazon.com/gp/yourstore/iyr/?ie=UTF8&collection=rated).
 
-<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/amazon_your_media_library.png"><img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/amazon_your_media_library.png" alt="Amazon_your_media_library"/></a>
+<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/amazon_your_media_library.png"><img width="300px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/amazon_your_media_library.png" alt="Amazon_your_media_library"/></a>
  Amazon has also recently added a very nice web service called [Your Media Library](http://www.amazon.com/gp/library/) that can be used to help manage your media library of books, music, and dvds. I personally only have used it to manage my books and dvds, as I find rating albums useless -- it is songs that I prefer to rate.
 
 

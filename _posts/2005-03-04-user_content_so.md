@@ -22,7 +22,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/user_content_so/
 ---
 
-<img width="130px" style=" margin-right:15px" align="left"  src="../assets/images/shannon.jpeg" alt="shannon"/>Shannon Appelcline, my colleague at [Skotos](http://www.skotos.net) (an online game company that I founded in 1999), has been writing for several years a sometimes weekly, sometimes bi-weekly column on the topic of game design called [Trials, Triumphs & Trivialities](http://www.skotos.net/articles/TTnT_.shtml) (rss feed for all [Skotos Articles](http://www.skotos.net/articles/index.xml) including TT&T).
+<img width="130px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/shannon.jpeg" alt="shannon"/>Shannon Appelcline, my colleague at [Skotos](http://www.skotos.net) (an online game company that I founded in 1999), has been writing for several years a sometimes weekly, sometimes bi-weekly column on the topic of game design called [Trials, Triumphs & Trivialities](http://www.skotos.net/articles/TTnT_.shtml) (rss feed for all [Skotos Articles](http://www.skotos.net/articles/index.xml) including TT&T).
 
 His latest column [Social Software & Gaming: User Content](http://www.skotos.net/articles/TTnT_163.phtml) discusses issues of user content and user facilitation that apply both online game communities and social software:
 
@@ -35,7 +35,7 @@ As I wrote about in an [older post](/2003/12/socialization_i.html), Shannon has 
 * [Social Gaming Interactions, Part Two: Competition](http://www.skotos.net/articles/TTnT_137.phtml)
 * [Social Gaming Interactions, Part Three: Cooperation & Freeform](http://www.skotos.net/articles/TTnT_138.phtml)
 
-<a href="#"><img width="260px" style=" margin-right:15px" align="right"  src="../assets/images/articles_ttntlogo2b.gif" alt="articles_ttntlogo2b"/></a>More recent articles by Shannon have ranged in topics from analysis of the use of [auctioning](http://www.skotos.net/articles/TTnT_161.phtml) and [majority control](http://www.skotos.net/articles/TTnT_162.phtml) techniques in board games, how [communities work](http://www.skotos.net/articles/TTnT_159.phtml) in online games, the importance of [enthusiasm](http://www.skotos.net/articles/TTnT_160.phtml) in business, [intellectual property](http://www.skotos.net/articles/TTnT_146.phtml) and [licensing](http://www.skotos.net/articles/TTnT_157.phtml), on [transcreation,](http://www.skotos.net/articles/TTnT_151.phtml) and much, much more.
+<a href="#"><img width="260px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/articles_ttntlogo2b.gif" alt="articles_ttntlogo2b"/></a>More recent articles by Shannon have ranged in topics from analysis of the use of [auctioning](http://www.skotos.net/articles/TTnT_161.phtml) and [majority control](http://www.skotos.net/articles/TTnT_162.phtml) techniques in board games, how [communities work](http://www.skotos.net/articles/TTnT_159.phtml) in online games, the importance of [enthusiasm](http://www.skotos.net/articles/TTnT_160.phtml) in business, [intellectual property](http://www.skotos.net/articles/TTnT_146.phtml) and [licensing](http://www.skotos.net/articles/TTnT_157.phtml), on [transcreation,](http://www.skotos.net/articles/TTnT_151.phtml) and much, much more.
 
 I always find Shannon's articles rich and deeply thought out -- I think you will to.
 

@@ -25,7 +25,7 @@ By Christopher Allen & Shannon Appelcline
 
 _[\[Shannon Appelcline](http://www.skotos.net/about/staff/shannon_appelcline) is a friend and colleague of mine at [Skotos](http://www.skotos.net), an online game company. Over the last few years we've had many discussions about how decisions are made, and how our society collectively makes choices. The origin of these discussions have varied from "what makes this board game work?", to "how can we give our players more control of our online games?", to "how do we make decisions in our company?", and of course "how did we collectively make such a mess of decision making in America?". This article, and some followup articles, summarize our thoughts on these topics, and will be [jointly posted](http://www.skotos.net/articles/TTnT_178.phtml) in Shannon's [Trials, Triumphs & Trivialities](http://www.skotos.net/articles/TTnT.shtml) online games column at Skotos.\]_
 
-<img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/peoplearoundthesun.gif" alt="peoplearoundthesun"/>
+<img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/peoplearoundthesun.gif" alt="peoplearoundthesun"/>
 
 Collective choice systems have been around for a long time. Since at least the birth of democracy in ancient Greece people have made joint decisions about important issues, and since at least the knightly tournaments of the late Middle Age people have competed to be ranked against their peers. Today Western culture especially values diversity of input when implementing any type of choice, believing that wide input from a variety of people provides the fairest result.
 
@@ -39,7 +39,7 @@ Broadly, there seem to be three methods of collective choice, divided by the int
 
 Selection systems allow for the purposeful choice between multiple items. There are many types of selection systems, but two in particular, _representative systems_, _deliberative systems_, and _consensus systems_ are worth noting.
 
-<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/19thamend.jpg"><img width="170px" style=" margin-right:15px" align="right"  src="../assets/images/19thamend.jpg" alt="19thamend"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/19thamend.jpg"><img width="170px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/19thamend.jpg" alt="19thamend"/></a>
 
   **Representative Systems:** In a representative system, individuals cast a ballot for someone who will represent their interests. They're by definition _voting systems_ and the heart of any [Republican](http://en.wikipedia.org/wiki/Republicanism) system of government. When you're voting for a president, prime minister, senator, congressman, director, or board member, that's representative voting
 
@@ -51,7 +51,7 @@ Another solution is a [primary-based election system](http://en.wikipedia.org/wi
 
 Many other types of [voting systems](http://en.wikipedia.org/wiki/Voting_systems) are possible, most of which allow voters to select multiple candidates at the same time. These systems then eliminate the lowest ranked candidates and give their votes to others based upon those voter selections.
 
-<img width="180px" style=" margin-right:15px" align="left"  src="../assets/images/irv.gif" alt="irv"/> [Instant Runoff Voting](http://en.wikipedia.org/wiki/IRV), or IRV, is a fairly commonly used multiple candidate system (though not necessarily the best one). It's technically a [single transferable vote](http://en.wikipedia.org/wiki/Single_Transferable_Vote) preferential voting system. Wikipedia describes the process like this:
+<img width="180px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/irv.gif" alt="irv"/> [Instant Runoff Voting](http://en.wikipedia.org/wiki/IRV), or IRV, is a fairly commonly used multiple candidate system (though not necessarily the best one). It's technically a [single transferable vote](http://en.wikipedia.org/wiki/Single_Transferable_Vote) preferential voting system. Wikipedia describes the process like this:
 
 > _Each voter ranks at least one candidate in order of preference.  
 > ...  
@@ -73,7 +73,7 @@ There several different tactical voting "attacks" against various representative
 
 In the United States the best known deliberative system is the [initiative](http://en.wikipedia.org/wiki/Initiative) system found in some states, including California. It allows for issues to be put directly before the voters through the submission of sufficient signatures, and then allows the voters to pass or fail those issues, based on either [plurality](http://en.wikipedia.org/wiki/Plurality) (most votes), [majority](http://en.wikipedia.org/wiki/Majority) (at least 50% of votes), or else [super majority](http://en.wikipedia.org/wiki/Supermajority) (some percentage of votes in excess of 51%). In California, for example, 66% approval is required for new tax initiatives.
 
-<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/constitution_signing.jpg"><img width="250px" style=" margin-right:15px" align="right"  src="../assets/images/constitution_signing.jpg" alt="constitution_signing"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/constitution_signing.jpg"><img width="250px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/constitution_signing.jpg" alt="constitution_signing"/></a>
 The United States constitution defines a large and very complex deliberative system. It creates three bodies of government to support deliberation and voting, and uses a [checks and balances](http://en.wikipedia.org/wiki/Checks_and_Balances#Checks_and_balances) systems in order to allow different branches to have different effects upon a vote. The main voting is done by the legislature, which requires two _pluralities_ from two different groups of people to pass a vote. Then the executive branch has a singular opportunity to veto legislature, which then requires a _super majority_ (here, 66%) to override that veto. Once a law is established, the judicial department may by _plurality_ vote to declare that legislation unconstitutional, but that may be overcome by an even greater _super majority_ (typically, 66% of each legislature + 75% of the state governments) who want to [amend the constitution](http://en.wikipedia.org/wiki/United_States_Constitution#Provisions_for_amendment). 
 
 The constitution also shows how deliberation can span beyond simple voting because of the fact that it includes specific rules for how to debate, when debate can be closed, etc. In today's very fractured congress, however, it's unclear if individuals ever are actually swayed by deliberations in the floor of the legislature, or if they've already decided to follow their party lines or their specific interests, long before they entered the Capitol buildings.
@@ -82,7 +82,7 @@ A smaller example of a true deliberative system, based on guiding discussions as
 
 Because deciding directly upon ideas rather than just voting for representatives can have a greater effect upon a community, the deliberative systems may need to be more complex to avoid abuse, as evidenced by the complexities of the U.S. Government and Robert's Rule of Order. However, these very complexities can make these systems more prone to purposeful gaming. The benefits and deficits of more complex deliberative systems have not yet been fully studied, nor have there been as much analysis of "attacks" against them.
 
-<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/photos/uncategorized/consensus_1.jpg"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/consensus_1.jpg" alt="consensus_1"/></a>**Consensus Systems:** In consensus systems people jointly come to a consensus as a group through group interactions. This sort of decision making theoretically avoids the "tyranny of the majority" and likewise can produce more informed decision making. It's a variant of the broader _deliberative systems_, but one with more group and less individual power.
+<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/photos/uncategorized/consensus_1.jpg"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/consensus_1.jpg" alt="consensus_1"/></a>**Consensus Systems:** In consensus systems people jointly come to a consensus as a group through group interactions. This sort of decision making theoretically avoids the "tyranny of the majority" and likewise can produce more informed decision making. It's a variant of the broader _deliberative systems_, but one with more group and less individual power.
 
 One example of consensual selection is cabinet government as laid out under the [Westminster System](http://en.wikipedia.org/wiki/Westminster_system). Wikipedia describes it as follows:
 
@@ -94,7 +94,7 @@ As a final note, it's important to differentiate consensus from coercion. The en
 
 ### Opinion Systems
 
-<img width="250px" align="right"  src="../assets/images/poll.gif" alt="poll"/>Opinion systems are a clear subsidiary category to selection systems. An opinion system's main use is as a decision indicator, to show how people will decide or did decide in a representative system, a deliberative system, or both. Current opinion systems tend to be oriented toward actual votes, as opposed to more freeform selection systems (though the _delphic polling system_ shows a more freeform version of the category itself). Opinion systems tend to be push-based (meaning people are asked for their opinions rather than actively offering them), but this isn't required.
+<img width="250px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/poll.gif" alt="poll"/>Opinion systems are a clear subsidiary category to selection systems. An opinion system's main use is as a decision indicator, to show how people will decide or did decide in a representative system, a deliberative system, or both. Current opinion systems tend to be oriented toward actual votes, as opposed to more freeform selection systems (though the _delphic polling system_ shows a more freeform version of the category itself). Opinion systems tend to be push-based (meaning people are asked for their opinions rather than actively offering them), but this isn't required.
 
 All opinion systems tend to have the same general problem, which is figuring out how to use scientific means to determine the actual results of a decision. This means massaging respondent numbers to offset categories of people more or less likely to vote to try and generate the actual results. For example, one 1998 poll showed that 62% of Republicans were absolutely certain they were going to vote, while only 51% of Independents could say the same. This means that every Republican voter a poll contacted in that year might have been weighted about 1.2x over every Independent contacted. Of course the actual calculations are much more complex than that, since they tend to depend upon traditional voter turnout and lots of analysis, but the core idea is sound, which is that every polled individual should not be considered equal.
 
@@ -104,7 +104,7 @@ There are two general categories of opinion systems: _pre-voting (subjective) po
 
 **Pre-voting Polling Systems:** These are polls made before a vote is cast. They're often called "opinion polls" and tend to be conducted via phone. They try and isolate "likely voters" and determine how they will vote. This question of voter likelihood is one of the first issues with a pre-voting system, because there's no guarantee that the polled people will actually later vote. Likewise, pre-voting systems have to accommodate "undecided voters" and the fact that no voter has ever truly made up their mind until they cast their final ballot. Unlike post-voting polling systems, pre-voting systems also have considerable more possibility for bias (which is not accounted for by margins of error), based upon how questions are asked, in what order, and with what additional text.
 
-<img width="200px" align="left"  src="../assets/images/exitpoll.png" alt="exitpoll"/>
+<img width="200px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/exitpoll.png" alt="exitpoll"/>
 
  **Post-voting Polling Systems:** These are polls taken after a vote is cast. They're typically called "exit polls", as most are conducted as people are leaving a "polling" station (where they cast a vote). One would expect these to be much more reliable than pre-voting polls, but as the [2004 U.S. Presidential Election](http://en.wikipedia.org/wiki/2004_U.S._presidential_election_controversy_and_irregularities#Exit_polls) showed, exit polls can be wildly inaccurate.
 
@@ -112,7 +112,7 @@ One of the problems with post-voting polling systems, shared with pre-voting sys
 
 When conducted & matched correctly, exit polls are supposed to be [quite reliable](http://en.wikipedia.org/wiki/2004_U.S._presidential_election_controversy%2C_exit_polls#Reliability_of_Exit_Polls).
 
-<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/delphiamphitheatre.jpg"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/delphiamphitheatre.jpg" alt="delphiamphitheatre"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/delphiamphitheatre.jpg"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/delphiamphitheatre.jpg" alt="delphiamphitheatre"/></a>
 
  **Delphic Polling Systems:** An interesting polling method applicable to all sorts of opinion systems is the "delphi poll". This is a specific method of polling which is _iterative_ and _anonymous_ and which supports _confidence ratings_ and _feedback_. The general idea is that people are polled on a question using not just binary responses, but a full confidence rating (e.g., you would state that you are 60% sure that Bush would be elected, rather than stating that you think Bush would be elected). After polls are collected, the anonymous results--or at least a summary of those results--are shared with the participants, who then poll again. This iterative process continues until a consistent answer is settled upon. By incorporating feedback into the polling process there's the possibility for greatly increased reliability.
 
@@ -124,7 +124,7 @@ Comparison systems allow individual items to be measured up against each other. 
 
 **Comparison Ranking Systems:** In a ranking system, items in a hierarchy (most frequently people) rise or fall based upon specific, objective, and well-known rules. This is the heart of most multiplayer competitive systems.
 
-<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/chess.jpg"><img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/chess.jpg" alt="chess"/></a>
+<a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/chess.jpg"><img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/chess.jpg" alt="chess"/></a>
 
  The [ELO System](http://en.wikipedia.org/wiki/ELO_rating_system) is an example of a ranking system used for two-player games, and is used by the U.S. Chess Federation. Days of Wonder uses a [multiplayer variant of the ELO system](http://www.gangoffour.com/index.php?t=content&sub=ranking) for their online games. Each system builds a simple distribution of player ratings around a norm (typically 1500 points), then awards or deducts points based upon wins and losses, with the total sum of all points in the system staying constant. Players are then ranked according to their comparative scores.
 
@@ -132,13 +132,13 @@ There are flaws in ranking systems like ELO. For example, two players could coll
 
 These are numerous other ranking systems which are used for competitions, from double-elimination seeded tournaments (e.g., a tennis tournament) to ranked comparisons based upon win-loss ratios (e.g., baseball standings). Objective rankings are also (less commonly) used to rank items, such as a ranking of cars based upon safety ratings.
 
-<a href="#"><img width="250px" style=" margin-right:15px" align="right"  src="../assets/images/usmc_enlisted_rank_structure.jpg" alt="usmc_enlisted_rank_structure"/></a>
+<a href="#"><img width="250px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/usmc_enlisted_rank_structure.jpg" alt="usmc_enlisted_rank_structure"/></a>
 
 Most ranking systems create a hierarchy of positive rankings (e.g., "best chess players ever"). However, a hierarchy of negative rankings may also most be used, most commonly based on a negative criteria (e.g., "biggest Player Killers (PKers)"). In addition, either direction of ranking can use threshold systems to mark positive or negative rankings that meet a certain criteria. A positive threshold might be a "Grand Master" ranking threshold for anyone with a Chess rating of 2700, while a negative threshold might be a "Player Killer" ranking threshold, for with sufficient "accidental" PKs.
 
 Ranking systems are somewhat removed from the other collective choice systems listed here, since there's isn't a collaborative decision, only a collective result. However their problems & results remain closely related to the more collective rating and reputation systems, hence their inclusion.
 
- <a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/stars_1.gif"><img width="250px" style=" margin-right:15px" align="right"  src="../assets/images/stars_1.gif" alt="stars_1"/></a>
+ <a href="https://web.archive.org/web/20080219224023/http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/stars_1.gif"><img width="250px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/stars_1.gif" alt="stars_1"/></a>
  **Rating Systems:** In a rating system, the value of individual items (most frequently goods) rise or fall based upon the largely subjective judgment of individual users.
 
 [Amazon](http://www.amazon.com) and [Netflix](http://www.netflix.com) are two examples of stores which provide subjective rating systems. Individual users rate items from 1 to 5 stars, then an average user rating is calculated. [BoardGameGeek](http://www.boardgamegeek.com) offers a slightly different example because it not only lets users rate individual items, but also ranks items against each other based upon those ratings.

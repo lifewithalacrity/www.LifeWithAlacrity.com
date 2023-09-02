@@ -19,7 +19,7 @@ excerpt_seperator: <!--more-->
 permalink: /article/a-spectrum-of-consent/
 ---
 
-<a href="#"><img width="230px" style=" margin-left:15px" align="right"  src="../assets/images/watereddown.jpg" alt="watereddown"/></a>
+<a href="#"><img width="230px" style=" margin-left:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/watereddown.jpg" alt="watereddown"/></a>
 
   I've been excited about the web capabilities of the upcoming [iPhone](http://www.apple.com/iphone/) for some time. As a reluctant laptop user ("oh, my aching shoulders"), there is real appeal to me in a better portable web browser. I have tried most of the PDA and cellphone browsers to date, and none offer more then a poor cousin to the web that we experience on the desktop.
 
@@ -27,13 +27,13 @@ Instead, the iPhone offers a desktop-class browser. There is no transcoding, nor
 
 Because of the iPhone's upcoming July 29th release, I decided to participate in this week's [Apple WWDC](http://developer.apple.com/wwdc/) conference for Macintosh developers. There a number of announcements about the iPhone were released, and a number of technical sessions on the iPhone and iPhone-related technologies were held. Together the iPhone demonstrations at the public keynote and other demonstrations throughout the WWDC offered some real promise for when the phone is released on June 29th.
 
-<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/2007/06/15/iphonesteve.jpg"><img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/iphonesteve.jpg" alt=""/></a>
+<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/2007/06/15/iphonesteve.jpg"><img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/iphonesteve.jpg" alt=""/></a>
 
 The biggest announcement at the public [keynote](http://events.apple.com.edgesuite.net/d7625zs/event/) was that there will not be an SDK for building native iPhone apps; instead, the only way for third parties to get involved is to create web applications optimized for the iPhone. This came as a big disappointment to the majority of developers participating at WWDC. However, as someone who has been involved lately in creating AJAX/Web 2.0 apps, I was less unhappy.
 
 The other significant announcement at the keynote was that a [Safari 3.0 beta](http://www.apple.com/safari/download/) for both Mac and Windows was being released and that a third Safari platform would be released on July 29th—inside the iPhone. This means that web 2.0 applications created to work with Safari on the Mac will likely also work on the iPhone.
 
-<img width="100%"   src="../assets/images/SynchroEdit-Diagram-1536x807.png" alt="SynchroEdit-Diagram-1536x807"/>
+<img width="100%"   src="{{ site.url }}{{ site.baseurl }}/assets/images/SynchroEdit-Diagram-1536x807.png" alt="SynchroEdit-Diagram-1536x807"/>
 
 Since [SynchroEdit](http://www.synchroedit.com), an open-source simultaneous web editor (in the style of [SubEthaEdit](http://www.codingmonkeys.de/subethaedit/)) for Firefox that I produced last year, is one of the most sophisticated AJAX/Web 2.0 applications, I dug deeper at various WWDC sessions to see if it might be possible to make SynchroEdit work on the iPhone.
 
