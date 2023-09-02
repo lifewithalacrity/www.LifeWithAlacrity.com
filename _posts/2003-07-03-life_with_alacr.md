@@ -3,13 +3,23 @@ layout: single
 title:  "“Life With Alacrity” Blog, using Blogger"
 slug:  "“Life With Alacrity” Blog, using Blogger"
 redirect_from:
+  - /2003/07/life_with_alacr.html
   - /2003/07/life_with_alacr/
 date:   2003-07-03 12:49:02 -0700
 # image:  02.jpg
-tags:   Web/Tech
----
+tags: 
+  - Blogger
+  - Web/Tech
+  - Life of Alacrity
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/life_with_alacr/
+---
 
 I decided after years of reading blogs that it was time to start blogging.
 

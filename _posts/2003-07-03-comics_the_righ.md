@@ -3,13 +3,22 @@ layout: single
 title:  "Comics, The Right Number, Bit Pass, and the Future of Micropayments"
 slug:  "Comics, The Right Number, Bit Pass, and the Future of Micropayments"
 redirect_from:
+  - /2003/07/comics_the_righ.html
   - /2003/07/comics_the_righ/
 date:   2003-07-03 17:16:38 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Comics
+  - BitPass
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/comics_the_righ/
+---
 
 [Scott McCloud](http://www.scottmccloud.com/), a very smart comic book artist and author of the fantastic book ["Understanding Comics"](http://www.amazon.com/exec/obidos/tg/detail/-/006097625X/qid=1057279163/sr=8-1/ref=sr_8_1/104-4032771-8576750?v=glance&s=books&n=507846) has been trying for a number of years to both [reinvent comics](http://www.amazon.com/exec/obidos/tg/detail/-/0613280407/qid=1057279250/sr=1-2/ref=sr_1_2/104-4032771-8576750?v=glance&s=books) but also has been [experimenting](http://www.scottmccloud.com/comics/icst/index.html) with how the medium of the Web transforms the comic medium. In addition, he has been an advocate for exploring new business models for comic book artists.
 

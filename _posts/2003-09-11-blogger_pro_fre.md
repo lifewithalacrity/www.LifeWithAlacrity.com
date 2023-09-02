@@ -3,14 +3,22 @@ layout: single
 title:  "Blogger Pro Free, but Where is RSS Syndication?"
 slug:  "Blogger Pro Free, but Where is RSS Syndication?"
 redirect_from:
+  - /2003/09/blogger_pro_fre.html
   - /2003/09/blogger_pro_fre/
 date:   2003-09-11 13:29:53 -0700
 # image:  02.jpg
-tags:   Home
+tags: 
+  - RSS
+  - Blogger
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/blogger_pro_fre/
 ---
-
-
-By [Christopher Allen](/lwa/about)
 
 I have been hesitating on committing to [Blogger](http://www.blogger.com) because ever time I check into availability of Blogger Pro, it was not available. Apparently now [Blogger Pro is Free](http://new.blogger.com/feature_giveaway/pro_email.pyra).
 

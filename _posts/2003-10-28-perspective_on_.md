@@ -3,13 +3,22 @@ layout: single
 title:  "Perspective on Capital to Market"
 slug:  "Perspective on Capital to Market"
 redirect_from:
+  - /2003/10/perspective_on_.html
   - /2003/10/perspective_on_/
 date:   2003-10-28 15:26:19 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Games
+  - Design
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/perspective_on_/
+---
 
 Game Designer and Pundit [Greg Costikyan](http://www.costik.com/): wrote in his blog a thought I can't believe that I've not heard of before, it makes so much sense. But it is new to me:
 

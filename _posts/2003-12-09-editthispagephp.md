@@ -3,13 +3,21 @@ layout: single
 title:  "EditThisPagePHP -- Lightweight Experimental Wiki"
 slug:  "EditThisPagePHP -- Lightweight Experimental Wiki"
 redirect_from:
+  - /2003/12/editthispagephp.html
   - /2003/12/editthispagephp/
 date:   2003-12-09 13:12:26 -0700
 # image:  02.jpg
-tags:   Home
+tags: 
+  - Wiki
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/editthispagephp/
 ---
-	
-By [Christopher Allen](/lwa/about)
 
 I have been working on some code for experimenting with some of my ideas regarding the future of wiki's, at [EditThisPagePHP](http://editthispagephp.sourceforge.net) which is hosted at [SourceForge](http://www.sourceforge.net).
 

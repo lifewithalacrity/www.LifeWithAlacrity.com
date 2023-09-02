@@ -3,13 +3,21 @@ layout: single
 title:  "Fascinated by Melding of Ethnic Music Styles"
 slug:  "Fascinated by Melding of Ethnic Music Styles"
 redirect_from:
+  - /2003/12/fascinated_by_m.html
   - /2003/12/fascinated_by_m/
 date:   2003-12-09 15:32:24 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Music
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/fascinated_by_m/
+---
 
 I'm fascinated by the melding of various ethic music styles with contemporary music, in particular, when the mix includes some middle-eastern or central-european infuences.
 
