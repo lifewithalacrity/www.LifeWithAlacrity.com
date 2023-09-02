@@ -3,13 +3,23 @@ layout: single
 title: "Socialization in Online Games"
 slug: "Socialization in Online Games"
 redirect_from:
+  - /2003/12/socialization_i.html
   - /2003/12/socialization_i/
 date: 2003-12-20 04:32:03 -0700
 # image: 02.jpg
-tags: Web/Tech
----
+tags: 
+  - Social
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/socialization_i/
+---
 
 I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.
 
@@ -27,7 +37,7 @@ I've identified a few problems:
     
 * Last, but probably most important -- I'm not getting enough value from them for the effort. I do have a friend that say that she has gotten good business from it, but I think that is more because she is a single woman and because she attended some live events sponsored by the social network. Maybe my problem is that I'm a decent networker by myself, and don't need the extra help of the service?
     
-    All that I've joined feel just a bit off -- but yet I still believe there is something useful in Social Software to learn that I just have to puzzle out.
+All that I've joined feel just a bit off -- but yet I still believe there is something useful in Social Software to learn that I just have to puzzle out.
     
 [original layout]
     

@@ -3,13 +3,23 @@ layout: single
 title: "Followup to “Evaluating Social Network Services”"
 slug: "Followup to “Evaluating Social Network Services”"
 redirect_from:
+  - /2003/12/followup_to_eva.html
   - /2003/12/followup_to_eva/
 date: 2003-12-18 00:19:52 -0700
 # image: 02.jpg
-tags: Home
----
+tags: 
+  - Network
+  - Services
+  - 
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/followup_to_eva/
+---
 
 I've received a number of replies and pointers after posting my [Evaluating Social Network Services](/2003/12/evaluating_soci.html) here last Tuesday. Here are a few:
 

@@ -3,13 +3,21 @@ layout: single
 title:  "eVentor -- an eBay for Events"
 slug:  "eVentor -- an eBay for Events"
 redirect_from:
+  - /2003/12/eventor_an_ebay.html
   - /2003/12/eventor_an_ebay/
 date:   2003-12-11 15:45:48 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Ebay
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/eventor_an_ebay/
+---
 
 I have been working the last couple of weeks on a business plan idea for a company tenatively called eVentor:
 

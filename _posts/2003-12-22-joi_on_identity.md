@@ -6,10 +6,19 @@ redirect_from:
   - /2003/12/joi_on_identity/
 date: 2003-12-22 17:52:48 -0700
 # image: 02.jpg
-tags: Web/Tech
----
+tags: 
+  - Identity
+  - Web/Tech
+  - Networks
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/joi_on_identity/
+---
 
 [Joi Ito's Web: Blogger's block, collapsing facets and the number 150](http://joi.ito.com/archives/2003/12/23/bloggers_block_collapsing_facets_and_the_number_150.html) offers some insights on two different topics:
 

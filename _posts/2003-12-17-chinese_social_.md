@@ -3,13 +3,23 @@ layout: single
 title:  "Chinese Social Network"
 slug:  "Chinese Social Network"
 redirect_from:
+  - /2003/12/chinese_social.html
   - /2003/12/chinese_social/
 date:   2003-12-17 12:58:00 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Chinese
+  - Social 
+  - Network
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/chinese_social/
+---
 
 [The Social Software Weblog](http://socialsoftware.weblogsinc.com/entry/6674682935746669/) discusses [DragonVenture Invests in Social Networking Platform in China](http://www.marketwire.com/mw/release_html_b1?release_id=61083):
 

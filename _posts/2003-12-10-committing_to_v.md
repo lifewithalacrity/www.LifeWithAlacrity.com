@@ -3,13 +3,21 @@ layout: single
 title:  "Committing to Vonage"
 slug:  "Committing to Vonage"
 redirect_from:
+  - /2003/12/committing_to_v.html
   - /2003/12/committing_to_v/
 date:   2003-12-10 14:39:21 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Vonage
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/committing_to_v/
+---
 
 In September I signed up for [Vonage](http://www.vonage.com), a VoIP (Voice-over-IP) service that using SIP (Session Initiation Protocol) that allows you to connect using the net to the analog POTS (Plain Old Telephone System) quite economically.
 

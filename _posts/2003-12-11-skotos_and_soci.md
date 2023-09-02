@@ -3,13 +3,23 @@ layout: single
 title:  "Skotos and Social Software"
 slug:  "Skotos and Social Software"
 redirect_from:
+  - /2003/12/skotos_and_soci.html
   - /2003/12/skotos_and_soci/
 date:   2003-12-11 15:53:52 -0700
 # image:  02.jpg
-tags:   Web/Tech
----
+tags: 
+  - Social Software
+  - Web/tech
+  - Skotos
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/skotos_and_soci/
+---
 
 I've been interested for several years in the ability of "player-generated content" to create niche or small multiplayer online games, at a company I've invested in called [Skotos](http://www.skotos.net) . At this point its oldest game Castle Marrach is completely run by the players, and 7 more games are being developed by their customers. The company is at break-even, but is not yet a 'commercial success'. There are some learnings from the world of massively multiplayer online games that apply to other kinds of social networks.
 

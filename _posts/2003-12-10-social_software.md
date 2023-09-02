@@ -3,13 +3,22 @@ layout: single
 title:  "Social Software -- Problems & the Definition of “Friends”"
 slug:  "Social Software -- Problems & the Definition of “Friends”"
 redirect_from:
+  - /2003/12/social_software.html
   - /2003/12/social_software/
 date:   2003-12-10 12:35:38 -0700
 # image:  02.jpg
-# tags:   Web/Tech
----
+tags: 
+  - Web/Tech
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/social_software/
+---
 
 I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.
 

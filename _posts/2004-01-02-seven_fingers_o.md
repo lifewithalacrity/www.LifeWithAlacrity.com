@@ -3,13 +3,23 @@ layout: single
 title: "Seven Fingers of the Hand"
 slug: "Seven Fingers of the Hand"
 redirect_from:
+  - /2004/01/seven_fingers_o.html
   - /2004/01/seven_fingers_o/
 date: 2004-01-02 12:15:31 -0700
 # image: 02.jpg
-tags: Web/Tech
----
+tags: 
+  - Web/Tech
+  - Circus
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/seven_fingers_o/
+---
 
 Yesterday I watched the amazing [Seven Fingers of the Hand Circus](http://www.les7doigtsdelamain.com/menu.html). There were parts of it that were so beautiful and meaningful that I cried.
 

@@ -3,16 +3,25 @@ layout: single
 title:  "Political Action and Visual Media"
 slug:  "Political Action and Visual Media"
 redirect_from:
+  - /2003/12/political_actio.html
   - /2003/12/political_actio/
 date:   2003-12-10 11:42:47 -0700
 # image:  02.jpg
-tags:   Web/Tech
+tags: 
+  - Web/Tech
+  - Politics
+
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/political_actio/
 ---
 
-By [Christopher Allen](/about)
-
 I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.
-
+<!--more-->
 I'm currently on [Ryze](http://new.ryze.com/view.php?who=ChristopherA) with supposedly 13 'Friends' and 414 in 'Network', and [Tribe.net](http://cluster.tribe.net/tribe/servlet/template/pub%2Cpcard%2CBasics.vm?personid=ce34093a-3c72-4954-b52f-3d6bc51884af) with 20 'Friends' and 17,677 in my 'Network'. I've registered for a few others, but wasn't able to get them going much beyond registering. However, I have not registered for Friendster yet, as it was originally a dating site but I understand now that it is more then that.
 
 These Social Networking sites have been interesting, but so far none have been a really useful to me.

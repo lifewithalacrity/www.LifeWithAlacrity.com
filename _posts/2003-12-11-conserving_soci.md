@@ -3,13 +3,21 @@ layout: single
 title:  "Conserving Social Capital"
 slug:  "Conserving Social Capital"
 redirect_from:
+  - /2003/12/conserving_soci.html
   - /2003/12/conserving_soci/
 date:   2003-12-11 01:17:16 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/conserving_soci/
+---
 
 A followup to my post yesterday [Social Software -- Problems & the Definition of "Friends"](#107108853847658748), I saw in [Scott Lofteness' blog](http://www.sjl.us/main/2003/12/social_networki.html) a reference to David Hornick's [VentureBlog: Conserving Social Capital](http://www.ventureblog.com/articles/indiv/2003/000214.html):
 

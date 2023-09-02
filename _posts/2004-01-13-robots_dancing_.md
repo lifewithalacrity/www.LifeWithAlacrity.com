@@ -3,13 +3,23 @@ layout: single
 title: "Robots Dancing in the Uncanny Valley, Knowledge Navigator and UI Design"
 slug: "Robots Dancing in the Uncanny Valley, Knowledge Navigator and UI Design"
 redirect_from:
+  - /2004/01/robots_dancing_.html
   - /2004/01/robots_dancing_/
 date: 2004-01-13 15:21:07 -0700
 # image: 02.jpg
-tags: Web/Tech
----
+tags: 
+  - Web/Tech
+  - Apple
+  - Design
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/robots_dancing_/
+---
 
 At a recent unofficial gathering of [Future Salon'ers](http://finnern.com/future/), there was a discussion about a [demonstration of four robots doing a japanese fan dance to music](http://pc.watch.impress.co.jp/docs/2003/1218/sony_06.wmv) (I think it was seen at CES in Las Vegas last week). The remark was that it was vaguely disturbing because your intellect knows that they are just robots, but someplace deep in your brain you know that they are alive because of the way that they move.
 

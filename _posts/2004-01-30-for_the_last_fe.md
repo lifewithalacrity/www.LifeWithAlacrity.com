@@ -3,13 +3,22 @@ layout: single
 title: "Converting to TypePad Complete"
 slug: "Converting to TypePad Complete"
 redirect_from:
+  - /2004/01/for_the_last_fe.html
   - /2004/01/for_the_last_fe/
 date: 2004-01-30 12:30:00 -0700
 # image: 02.jpg
 tags: Home
----
+tags: 
+  - TypePad
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/for_the_last_fe/
+---
 
 For the last few weeks I've been moving my blog from Blogger Pro over to the TypePad service, after a frustrating try to get WordPress to work. While I was at it, I moved my blog from my business server to this new domain.
 

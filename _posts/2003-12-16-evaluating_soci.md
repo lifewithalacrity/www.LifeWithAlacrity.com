@@ -3,13 +3,23 @@ layout: single
 title:  "Evaluating Social Network Services"
 slug:  "Evaluating Social Network Services"
 redirect_from:
+  - /2003/12/evaluating_soci.html
   - /2003/12/evaluating_soci/
 date:   2003-12-16 15:11:56 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Social
+  - Network
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/evaluating_soci/
+---
 
 After a week where I met a number of bloggers and social network / social software people, I decided to try to update my various networks at [Ryze](http://www.ryze.com/), [Tribe.Net](http://www.tribe.net/), [LinkedIn](http://www.linkedin.com/), and [Friendster](http://www.friendster.com/).
 
