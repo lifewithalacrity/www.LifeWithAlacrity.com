@@ -3,13 +3,24 @@ layout: single
 title:  "Apple, AirVideo, and Immersive vs Ambient Media"
 slug:  "Apple, AirVideo, and Immersive vs Ambient Media"
 redirect_from:
+  - /2005/05/airvideo_and_im.html
   - /2005/05/airvideo_and_im/
 date:   2005-05-10 12:25:27 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Music
+  - Web/Tech
+  - iTunes
+  - iPod
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/airvideo_and_im/
+---
 
 I was reading on [Slashdot](http://slashdot.org/) a discussion about [iTune 4.8](http://slashdot.org/article.pl?sid=05/05/10/0235212) and its new capability to purchase videos from the iTunes Music Store, when I read two things that just made me say "duh" with their obviousness, yet I'd never thought of them before.
 

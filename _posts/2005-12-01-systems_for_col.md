@@ -3,10 +3,22 @@ layout: single
 title:  "Systems for Collective Choice"
 slug:  "Systems for Collective Choice"
 redirect_from:
+  - /2005/12/systems_for_col.html
   - /2005/12/systems_for_col/
 date:   2005-12-01 16:03:26 -0700
 image:  peoplearoundthesun.gif
-tags:   Web/Tech
+tags: 
+  - Social Software
+  - Web/Tech
+  - Collective Choice
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/systems_for_col/
 ---
 
 By Christopher Allen & Shannon Appelcline

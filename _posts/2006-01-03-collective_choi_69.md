@@ -3,14 +3,29 @@ layout: single
 title:  "Collective Choice: Rating Systems"
 slug:  "Collective Choice: Rating Systems"
 redirect_from:
+  - /2005/12/collective_choi.html
   - /2005/12/collective_choi/
 date:   2005-07-27 16:35:17 -0700
 image:  bcs_1.png
-tags:   Home
+tags: 
+  - Social Software
+  - Web/Tech
+  - User Interface
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/collective_choi/
 ---
-
+<style>
+  #writer{
+    display: none;
+  }
+</style>
 By Christopher Allen & Shannon Appelcline
-
 _\[This is the second of a series of articles on [collective choice](/2005/12/systems_for_col.html), co-written by my collegue [Shannon Appelcline](http://www.skotos.net/about/staff/shannon_appelcline). It will be [jointly posted](http://www.skotos.net/articles/TTnT_179.phtml) in Shannon's [Trials, Triumphs & Trivialities](http://www.skotos.net/articles/TTnT.shtml) online games column at [Skotos](http://www.skotos.net/).\]_
 
 In our previous article we talked about the many systems available for [collective choice](/2005/12/systems_for_col.html). There are [selection systems](/2005/12/systems_for_col.html#selection_systems), which are primarily centered on voting and deliberation, [opinion systems](/2005/12/systems_for_col.html#opinion_systems), which represent how voting could occur, and finally [comparison systems](/2005/12/systems_for_col.html#comparison_systems), which rank or rate different people or things in a simple, comparative manner.

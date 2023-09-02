@@ -3,13 +3,22 @@ layout: single
 title:  "Flames: Emotional Amplification of Text"
 slug:  "Flames: Emotional Amplification of Text"
 redirect_from:
+  - /2006/02/flames_emotiona.html
   - /2006/02/flames_emotiona/
 date:   2006-02-13 13:07:32 -0700
 image:  cycle_of_flames.jpg
-tags:   Home
----
+tags: 
+  - Social Software
+  - Web/Tech
 
-By [Christopher Allen](lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/flames_emotiona/
+---
 
 <img width="280px" style=" margin-right:15px" align="right"  src="../assets/images/cycle_of_flames.jpg" alt="cycle_of_flames"/>
  I've been a moderator/host/forum leader for various bulletin boards and other online communities since the early 1980s; first on CompuServe, later on GEnie and AOL, and then professionally in the early days of Consensus Development. One of the behaviors that happens in online communities and that I rarely see elsewhere is flaming -- where one member writes an extremely inappropriate, typically passionately worded attack on another. Flaming behavior can hurt an online community.

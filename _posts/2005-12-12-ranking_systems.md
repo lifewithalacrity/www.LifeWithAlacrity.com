@@ -3,10 +3,22 @@ layout: single
 title:  "Collective Choice: Competitive Ranking Systems"
 slug:  "Collective Choice: Competitive Ranking Systems"
 redirect_from:
+  - /2006/01/ranking_systems.html
   - /2006/01/ranking_systems/
 date:   2006-01-03 23:37:09 -0700
 image:  bcs_1.png
-tags:   Web/Tech
+tags: 
+  - Social SOftware
+  - Web/Tech
+  - User Interface
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/ranking_systems/
 ---
 
 	

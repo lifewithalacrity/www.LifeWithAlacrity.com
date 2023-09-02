@@ -3,16 +3,25 @@ layout: single
 title:  "On Being an Angel"
 slug:  "On Being an Angel"
 redirect_from:
+  - /2006/01/on_being_an_ang.html
   - /2006/01/on_being_an_ang/
 date:   2006-01-31 18:17:47 -0700
 # image:  02.jpg
-tags:   Business
+tags: 
+  - Social Software
+  - Business
+  - Web/Tech
+
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/on_being_an_ang/
 ---
 
-By [Christopher Allen](lwa/about)
-
 <a href="https://web.archive.org/web/20080219224023/http://www.alumni.unh.edu/connection/archives/12_03_04.html"><img width="250px" style=" margin-right:15px" align="right"  src="../assets/images/angel_investor.gif" alt="angel_investor"/></a>
-
 In the last month or so I've received a number of links to [Life With Alacrity](http://www.LifeWithAlacrity.com) as a [venture capital blog](http://www.ventureblogs.com/), and to myself as a [venture capitalist](http://www.siliconbeat.com/entries/2006/01/09/two_more_silicon_valley_vc_bloggers_guy_kawasaki_christopher_allen.html).
 
 However, I don't consider myself a venture capitalist. Instead, I am what is known as an "angel investor".

@@ -3,13 +3,23 @@ layout: single
 title:  "Cheers: Belongingness and Para-Social Relationships"
 slug:  "Cheers: Belongingness and Para-Social Relationships"
 redirect_from:
+  - /2005/07/cheers_belongin.html
   - /2005/07/cheers_belongin/
 date:   2005-07-27 16:35:17 -0700
 image:  cheers.jpg
-tags:   Home
----
+tags: 
+  - Recreation
+  - Television
+  - Social Software
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - news
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /news/cheers_belongin/
+---
 
 In yesterday's [All Things Considered](http://www.npr.org/templates/rundowns/rundown.php?prgId=2), NPR commentator [Jake Halpern](http://jakehalpern.com/news.html) questions why you feel like you have a relationship with the characters in your favorite TV shows. His answer: "That's because you do." This idea is interesting not just to help us understand how we relate to imaginary characters, but also to correlate with our own understanding of [Dunbar Number](/2004/03/the_dunbar_numb.html) relationship limits and how they might relate to this concept.
 

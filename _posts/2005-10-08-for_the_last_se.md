@@ -3,13 +3,24 @@ layout: single
 title:  "SynchroEdit: Simultaneous Editing for the Web"
 slug:  "SynchroEdit: Simultaneous Editing for the Web"
 redirect_from:
+  - /2005/10/for_the_last_se.html
   - /2005/10/for_the_last_se/
 date:   2005-10-28 16:16:17 -0700
 image:  synchroeditmac.png
-tags:   Home
----
+tags: 
+  - Social Software
+  - Web/Tech
+  - User Interface
+  - Weblogs
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/for_the_last_se/
+---
 
 For the last several months I've been working on a new open source project that I've been calling [SynchroEdit](http://www.synchroedit.com). SynchroEdit is a browser-based simultaneous multiuser editor, useful for ["same-time" collaboration](http://www.it.bton.ac.uk/staff/rng/teaching/notes/CSCWgroupware.html).
 

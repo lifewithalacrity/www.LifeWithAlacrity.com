@@ -3,13 +3,23 @@ layout: single
 title:  "Dunbar Number & Group Cohesion"
 slug:  "Dunbar Number & Group Cohesion"
 redirect_from:
+  - /2005/10/dunbar_group_co.html
   - /2005/10/dunbar_group_co/
 date:   2005-10-28 16:16:17 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Dunbar number
+  - Social Software
+  - Web/Tech
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/dunbar_group_co/
+---
 
 There is some more excellent research this week by [Nick Yee](http://www.nickyee.com/) and [Nicolas Ducheneaut](http://www.parc.com/nicolas) in the [PlayOn](http://blogs.parc.com/playon/) blog. Again, their research provides good insight into social group dynamics as they appear in online games.
 

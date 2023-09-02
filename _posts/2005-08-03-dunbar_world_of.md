@@ -3,13 +3,25 @@ layout: single
 title: "Dunbar & World of Warcraft"
 slug: "Dunbar & World of Warcraft"
 redirect_from:
+  - /2005/08/dunbar_world_of.html
   - /2005/08/dunbar_world_of/
 date:   2005-10-28 16:16:17 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Social Software
+  - Games
+  - Web/Tech
+  - Dunbar number
+  - Recreation
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - article
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /article/dunbar_world_of/
+---
 
 In my initial blog entry on the [Dunbar Number](/2004/03/the_dunbar_numb.html) I presented some statistics on group sizes based on the online game [Ultimata Online](http://www.uo.com). In it you could clearly see the power-law (pareto) curve, with diminishing returns at around 150, with most groups being 60 in size:
 

@@ -3,13 +3,24 @@ layout: single
 title:  "Extrapolative Hostility in the Online Medium"
 slug:  "Extrapolative Hostility in the Online Medium"
 redirect_from:
+  - /2005/07/extrapolative_h.html
   - /2005/07/extrapolative_h/
 date:   2005-07-18 14:13:15 -0700
 # image:  02.jpg
-tags:   Home
----
+tags: 
+  - Film
+  - Social Software
+  - Web/Tech
+  - Weblogs
 
-By [Christopher Allen](/lwa/about)
+categories:
+  - ephemera
+class:
+  - wide
+
+excerpt_seperator: <!--more-->
+permalink: /ephemera/extrapolative_h/
+---
 
 > _**Extrapolate**_
 > 
