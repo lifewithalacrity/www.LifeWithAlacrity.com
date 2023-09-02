@@ -20,7 +20,7 @@ excerpt_seperator: <!--more-->
 permalink: /article/group-threshold/
 ---
 
-<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="../article/assets/images/circle_of_hands.jpg" alt="Circle of Hands"/></a>
+<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/article/assets/images/circle_of_hands.jpg" alt="Circle of Hands"/></a>
 We often think of communities as organic creatures, which come into existence and grow on their own. However, the truth is they are fragile blossoms. Although many communities surely germinate and bloom on their own, purposefully creating communities can take a tremendous amount of hard work, and one factor their success ultimately depends upon is their _numbers_.
 
 If a community is too small you'll often have insufficient critical mass to sustain it. Conversely, if it's too large you can end up with a community that's too noisy, too cliquey, or otherwise problematic. These optimal and sub-optimal community sizes appear in strata, like discrete layers of rock. For a community to advance from one strata to the next often takes immense energy.
@@ -35,20 +35,20 @@ Groups can clearly exist at any size, from a partnership of two, on upward. Howe
 
 I'm also specifically talking about groups that are both tightly-knit and participatory communities. Clearly Ford Motor Company, with 250,000 employees, doesn't match any of these group thresholds. But any self-contained community within Ford probably will (and in fact, it will probably be either a "Working Group" or a "Non-Exclusive Dunbar Group", both terms I'll explain below). Similarly, a non-corporate community that doesn't _require_ everyone to participate won't work quite the same as a community that does require participation from each member (though that's again the topic of the third article in this series).
 
-<a href="https://www.singers.com/jazz/group7.html"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/group7.jpg" alt="Circle of Hands"/></a>
+<a href="https://www.singers.com/jazz/group7.html"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/group7.jpg" alt="Circle of Hands"/></a>
  **7, "The Working Group".**  This community size probably runs from about 4-9 members, but 7 is a pretty good average, and one that shows up in [multiple studies](http://delicious.com/ChristopherA/workinggroup). This number may well relate to the general [rule of seven](http://en.wikipedia.org/wiki/Rule_of_seven) ([original paper](http://www.musanim.com/miller1956/)), which suggests that 7 is a number that the brain can easily and intuitively comprehend.
 
 It has become increasingly clear that a tightly-knit group of 7 is the first group size which is truly an optimal community size. Groups below this size can function effectively, but risk not having enough manpower to deliver a result that everyone is happy with, or having insufficient viewpoints to avoid group think.
 
 Seven is not only an optimal size for a wide variety of corporate and government committees, it is also a healthy size for a small business and even a good size for a party of close friends. More importantly, 7 is a very comfortable group size as it "feels" relatively natural. At this size members find it easy to get to know the other members of the group, and they're able to function well together in a very intuitive and organic fashion.
 
-<a href="#"><img width="200px" style=" margin-right:15px" align="left"  src="../assets/images/squadfireteam.gif" alt="squadfireteam"/></a>
+<a href="#"><img width="200px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/squadfireteam.gif" alt="squadfireteam"/></a>
 
  An interesting example of this group size is the modern infantry "squad", which consists of two fire teams of 4 people, and a squad leader, for a total of 9 people. Each fire team is is large enough to function on its own, but together the group of 9 can still have effective small group dynamics.
 
 It is typically at this size that the first signs of leadership in a group informally emerge, but the leadership usually isn't overbearing at this level, nor does there tend to be any rebellion against it — perhaps because the group may be too small to elicit multiple leaders.
 
-<a href="https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/lastsupper.jpg" alt="Last Supper "/></a>
+<a href="https://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo)"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/lastsupper.jpg" alt="Last Supper "/></a>
 
 13—"The Judas Number"._** A group size of 13 doesn't represent a threshold ideal value, but rather a threshold nadir. It is one of the points where groups can change behavior and risk becoming dysfunctional. There's one of these nadirs beyond every group threshold, where the previously harmonious group dynamics become more difficult. I've chosen to highlight this specific number because it's a point that small communities often hit, particularly as entrepreneurial organizations try to grow above their startup beginnings.
 
@@ -66,7 +66,7 @@ Energy could also be spent to help push the group up to the next threshold. Thou
 
 A group size of 13 isn't necessarily bad, just more difficult. Anthropological studies show that primitive hunting tribes often temporarily broke into "bands" of this size — my presumption is that the value of having that many people hunting together outweighed the social costs of the group. It is interesting that most juries are made up of groups this size. I believe that the social dynamics of this size of group with all new members creates some tension among the jurors, which may serve justice to make sure that all sides are considered by the jury without falling into groupthink. However, from my experience, the interpersonal conflict in a jury can also slow down the deliberation process and cause much frustration among the participants.
 
-<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/nonexclusivenetworks.png" alt="Non Exclusive Networks"/></a>
+<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/nonexclusivenetworks.png" alt="Non Exclusive Networks"/></a>
 
  50—"The Non-Exclusive Dunbar Number".** More properly this group size falls in the range of 25-75 participants, but it seems to feel the most natural in the range of 50-60. Studies of the sizes guilds in online games [support](/2005/08/dunbar_world_of.html) this hypothesis. For instance, based on graphs of the guild sizes in Ultima Online, groups have a median of 61 members. Similar numbers hold true in studies of a more recent game, [World of Warcraft](/2005/10/dunbar_group_co.html).
 
@@ -76,7 +76,7 @@ I call this value the "Non-Exclusive Dunbar Number" because it matches the lower
 
 I've found this to be true when growing a small business — where it is too small for any middle-management, but the sub-groups are too large for one person to manage effectively. I've also seen this with more ephemeral groups, such as when a small conference that worked well at 60 participants tries to grow and finds at at 100 participants they can't sustain a high enough intimacy level.
 
-<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/legion_2.jpg" alt="legion_2"/></a>
+<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/legion_2.jpg" alt="legion_2"/></a>
 Another illustration of the Dunbar Valley is the history of the ancient Roman "century", a grouping that was originally 100 soldiers. However, as the years went by, centuries tended to decrease in numbers to only include 70 or 80 soldiers. This might well be due to Non-Exclusive Dunbar constraints: even in a very devoted group of military men, there was still the need for relationships with other century groups, with support staff, and with camp followers, ultimately lowering the attention that could be spent on the century itself.
 
 **150—"The Exclusive Dunbar Number".** Robin Dunbar got much of the discussion of group thresholds started with his [article](http://www.isrl.uiuc.edu/~amag/langev/paper/dunbar93coevolutionOf.html), "Co-Evolution Of Neocortex Size, Group Size And Language In Humans." However, as I've written [previously](/2004/03/the_dunbar_numb.html), and as I've described in this article, Dunbar's group threshold of 150 applies more to groups that are highly incentivized and relatively exclusive and whose goal is survival.
@@ -85,7 +85,7 @@ Dunbar makes this obvious by the statement that such a grouping "would require a
 
 The result of the grooming requirement is that communities bounded by the Exclusive Dunbar Number are relatively few. You will find hunter/gatherer and other subsistence societies where this is a natural tribe size. You'll also find these groups sizes in [terrorist and mafia](http://globalguerrillas.typepad.com/globalguerrillas/2004/03/what_is_the_opt.html) organizations.
 
-<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="../assets/images/sopranos_dinner.jpg" alt="Circle of Hands"/></a>
+<a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/sopranos_dinner.jpg" alt="Circle of Hands"/></a>
 
 Clearly, as we step up toward higher group thresholds, more and more time is required to simply keep the group going. You see this in depictions of mafia life — in the TV series _The Sopranos_ a lot of time is spent dining, hanging out, and drinking together. That is part of that 42% social grooming time required for that intense of a survival group.
 

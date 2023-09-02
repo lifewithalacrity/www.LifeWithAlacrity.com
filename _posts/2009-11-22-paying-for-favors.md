@@ -24,7 +24,7 @@ One of the common practices in the independent movie industry is to share favors
 
 The real value of participating in this exchange is in the reciprocity and the social capital, but if the indie project is financially successful some ill will can arise about who really owes whom. One way that some creative producers deal with this is to have in effect two budgets, the real budget, and the virtual budget. Joss Whedon (creator and producer of _Buffy the Vampire Slayer_, _Serenity_, _Firefly_, _Dollhouse_, etc.) describes how he did this for his recent successful internet project [_Dr. Horrible's Sing-Along Blog_](http://www.drhorrible.com/) in a recent [interview](http://knowledge.wharton.upenn.edu/article.cfm?articleid=2152) at the Wharton business school:
 
-><img width="250px" align="right"  src="../assets/images/08.jpg" alt="cyberpunkstack"/> 
+><img width="250px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/08.jpg" alt="cyberpunkstack"/> 
 >
 >**Whedon:** We got so much of this done through people doing us favors — department heads and people who have access to things. But you've got to pay your day-to-day crew. The actors all did it for nothing. And we all did it for nothing. So, the production costs alone — the basic costs of filming the thing, and getting the locations, props and everything — ran a little over $200,000._
 > 

@@ -27,7 +27,7 @@ BASIC (1976)
 
 In 1976 I encountered my first tool for ignition: [Bill Gate's](http://en.wikipedia.org/wiki/Bill_Gates) [MicroSoft BASIC](http://en.wikipedia.org/wiki/IMSAI_8080) running on the [IMSAI 8080](http://en.wikipedia.org/wiki/IMSAI_8080). There was no ROM on this computer, so you had to load a boot program using the front panel switches you see above. This program would then allow us to use a paper-tape reader, from which we would load BASIC.
 
-<img width="90%"  src="../assets/images/ignition.jpg" alt="683866337_4dd654b650_n.jpg"/>
+<img width="90%"  src="{{ site.url }}{{ site.baseurl }}/assets/images/ignition.jpg" alt="683866337_4dd654b650_n.jpg"/>
 
 At 15 it wasn't the hardware that got me excited, it was the idea of software — that you could take a creative idea that was in your mind and then craft that idea into a reality.
 
@@ -74,7 +74,7 @@ I was already programming in a variety of programming languages, but like MacPai
 HyperCard empowered a whole generation of passionate, creative people who otherwise never would have had the chance to share their ideas and visions with the world. I saw thinkers I admired begin to express their thoughts through software. Artists and designers loved that they could bring their language of imagery to life. Children who never had programmed before would start by drawing on some "cards", add buttons, show their friends, get excited and ultimately start on the path to learn how to express oneself through software. Amazing stories were told: some of my favorites were "If Monks Had Macs", "Spaceship Warlock", "Beyond Cyperpunk" and ultimately [Myst](http://en.wikipedia.org/wiki/Myst).
 
 
-<img width="90%"  src="../assets/images/cyberpunkstack.jpg" alt="cyberpunkstack"/>
+<img width="90%"  src="{{ site.url }}{{ site.baseurl }}/assets/images/cyberpunkstack.jpg" alt="cyberpunkstack"/>
 
 
 HyperCard had a profound impact beyond those who discovered and used it on the Mac. Many do not know that [Tim Berners-Lee](http://en.wikipedia.org/wiki/Tim_Berners-Lee), the creator of the World Wide Web, was [inspired](http://www.w3.org/History/1989/proposal.html) by HyperCard. [Ward Cunningham](http://en.wikipedia.org/wiki/Ward_Cunningham), investor of the first Wiki also [credits](http://c2.com/cgi/wiki?WikiWikiHyperCard) it for inspiration.
@@ -149,7 +149,7 @@ Since 2007 I have been running a participatory event, originally called iPhoneDe
 
 iOSDevCamp appeals to me because it is creative ignition in action — it was founded on twitter, organized as an online community, supports the ideals of collaboration and nutures passionate creative people. In recent years I've been quite proud of the diversity of the conference, with [designers](http://www.xeodesign.com/tiltstory.html), [artists](http://ipadportraits.blogspot.com/2012/07/ipad-portrait-of-paul-ossenbruggen.html), [women](http://ebayinkblog.com/2012/08/08/girls-ideas-take-center-stage-at-iosdevcamp/), [young adults](http://www.youtube.com/watch?v=vYooh4UU_H0&feature=plcp) and even [children](http://www.iosdevcamp.org/2012/08/04/qa-with-krithika-yetchina-winner-of-best-woman-entrepreneur/) participating.
 
-<img width="90%"  src="../assets/images/DSC8398-S.jpg" alt="DSC8398-S"/>
+<img width="90%"  src="{{ site.url }}{{ site.baseurl }}/assets/images/DSC8398-S.jpg" alt="DSC8398-S"/>
 
 
 However, today the barriers between being a spectator and becoming a creator are huge. It is increasingly hard for a new user to create a good-looking web page. The skills required to create an iPhone or iPad app are quite intimidating. I have had many designers show up at iOSDevCamp whom I was unable to match with a coder because they lacked the most basic understanding of the principles of interactivity. Sadly, I was unable to facilitate their full participation.
@@ -157,7 +157,7 @@ However, today the barriers between being a spectator and becoming a creator are
 So at iOSDevCamp 2010 I started [Infinite Canvas](http://www.infinitecanvasapp.com/), based on the principles of what inspired me about HyperCard. This tool needed to allow artists, designers, photographers, children to easily experience creating interactive stories and experiences. It needed to not only be easy to use, but also easy to share — no gatekeepers saying "This isn't good enough". It needed to support discoverability, where those new to the language of interactivity could learn and advance their skills to ultimately create quite sophisticated experiences. And it needed to take advantage of the new computing experiences that the iPad offers — portability, touchability — advantages that even the lightest laptop was never quite able to match.
 
 
-<img width="140" align="right"  src="../assets/images/6a00d8341d8bc053ef01774417971b970d-120wi.png" alt="6a00d8341d8bc053ef01774417971b970d-120wi"/>
+<img width="140" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/6a00d8341d8bc053ef01774417971b970d-120wi.png" alt="6a00d8341d8bc053ef01774417971b970d-120wi"/>
 
 The first version of [Infinite Canvas](http://bit.ly/infinitecanvasapp) iPad app, initially a viewer-only version, was approved and [released](http://www.infinitecanvasapp.com/2012/08/11/announcing-the-release-of-infinite-canvas-viewer-in-the-app-store/) Friday in the Apple App Store, the day before HyperCard's anniversary. There is a library of example canvases available which can be downloaded for free using the app. Users will be able to create their own canvases in the near future when the Infinite Canvas authoring tool makes its debut.
 

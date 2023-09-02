@@ -27,11 +27,11 @@ Unlike the group limits, personal limits actually measure something different: t
 
 ### Personal Limits
 
-<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="left"  src="../assets/images/sympathy.jpg" alt="sympathy"/></a>
+<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/sympathy.jpg" alt="sympathy"/></a>
 
 **The Support Circle:** This is the number of individuals that you seek advice, support, or help from in times of severe emotional or financial stress. In most societies, the average size of an individual's Support Circle is 3-5. The people are the core of your intimate social network and most typically are also kin. In sociology papers this is often called the "support clique".
 
-<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="right"  src="../assets/images/3055563324_f62dbcdc7d_m.jpg" alt="sympathy"/></a>
+<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/3055563324_f62dbcdc7d_m.jpg" alt="sympathy"/></a>
 
 **The Sympathy Circle**: This is larger then the Support Circle — it is the number of people that you go to for sympathy and also those people whose death would be devastating to you. The Sympathy Circle typically is in the range of 10-15 people, but can vary widely from as few as 7 to as many as 20. The Sympathy Circle often may be made up of kin, but usually includes some peers as well.
 
@@ -40,7 +40,7 @@ In sociology papers the Sympathy Circle is also known as a "sympathy group", but
 An interesting issue with the Sympathy Circle is that as a personal limit, 10-15 is a typical size. however, if you bring them all together in one place, they will likely become a [Judas-Number-sized group](/2008/09/group-threshold.html#Judas_Number), with all of the problems associated with that size.
 
 
-<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="right"  src="../assets/images/061.jpg" alt="sympathy"/></a>
+<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/061.jpg" alt="sympathy"/></a>
 
 **The Trust Circle**: These are the people that you have some type of intimate connection to. One study measured it as the people that you would send a family Christmas card to, while another simply tested emotional closeness.
 
@@ -67,7 +67,7 @@ An interesting point to make is that the people who are in your Emotional Circle
 
 ## The Familiar Stranger
 
-<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="right"  src="../assets/images/2215047019_80e572fe0d_m.jpg" alt="sympathy"/></a>
+<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/2215047019_80e572fe0d_m.jpg" alt="sympathy"/></a>
 
 Outside of our Emotional Circle is a larger, more tenuous circle: those people whose faces you recognize, but who you know nothing more about. These are your "Familiar Strangers".
 
@@ -81,7 +81,7 @@ There could also be some interesting research looking more closely at social net
 
 I've used the term "circles" throughout this article because it's a great metaphor for these levels of personal involvement. They can literally be thought of as concentric circles of people getting further and further away from an individual.
 
-<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="right"  src="../assets/images/3054729757_4fa37f7a6e_m.jpg" alt="Personal Circles Landscape"/></a>
+<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="180px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/3054729757_4fa37f7a6e_m.jpg" alt="Personal Circles Landscape"/></a>
 
 However, if you want to consider them with an even more graphic bent, think of these circles as the ridge lines of a topographical map. An individual sits at the center, and around him lie many other people, fading slowly away as the distance increases.
 

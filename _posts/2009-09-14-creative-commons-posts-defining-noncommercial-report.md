@@ -20,7 +20,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/creative-commons-posts-defining-noncommercial-report/
 ---
 
-<img width="230px" style=" margin-right:15px" align="right"   src="../assets/images/Creative.jpg" alt="Creative-commons-non-commercial"/>
+<img width="230px" style=" margin-right:15px" align="right"   src="{{ site.url }}{{ site.baseurl }}/assets/images/Creative.jpg" alt="Creative-commons-non-commercial"/>
 Last year I participated in a survey followed up by a focus group on the topic of Noncommercial Use, in particular around the context that about 2/3rds of the [Creative Commons](http://creativecommons.org) licenses extant use the NC attribute, such as in [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/us/).
 
 > **Defining "Noncommercial":  A Study of how the Online Population Understands "Noncommercial" Use**  
@@ -45,8 +45,8 @@ All in all an excellent report, with lots of good data in it for further investi
 
 My personal take on this report is that the noncommercial provisions of the CC license need more clarification and there needs to be more user education. In addition I feel that Creative Commons also needs to look at the commercial use side of the problem. I appreciate the recent efforts toward a [CC Plus](http://wiki.creativecommons.org/CCPlus) metadata, but it isn't enough.
 
-<img  width="150px" src="../assets/images/Cc-by-nc-3.0-88x31.png" alt="cyberpunkstack"/> <span style="font-size:100px; margin-top:20px;">+</span>
-<img width="150px"   src="../assets/images/Commercial-license-button.png" alt="cyberpunkstack"/>
+<img  width="150px" src="{{ site.url }}{{ site.baseurl }}/assets/images/Cc-by-nc-3.0-88x31.png" alt="cyberpunkstack"/> <span style="font-size:100px; margin-top:20px;">+</span>
+<img width="150px"   src="{{ site.url }}{{ site.baseurl }}/assets/images/Commercial-license-button.png" alt="cyberpunkstack"/>
 
 > For instance Creative Commons should take a principled stand on what exactly "fair use" is; make it easier for those who offer NC licenses to also offer a standard commercial license for common uses; and possibly creating a standard for what "fair rights" are in commercial license (i.e. fair to both the content creator and the content user).
 

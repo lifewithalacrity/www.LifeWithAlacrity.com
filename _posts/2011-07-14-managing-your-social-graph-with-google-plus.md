@@ -21,7 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /article/managing-your-social-graph-with-google-plus/
 ---
 
-<img width="250px" align="right"  src="../assets/images/061.jpg" alt="cyberpunkstack"/>
+<img width="250px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/061.jpg" alt="cyberpunkstack"/>
 With Google+ almost two weeks into its test phase, conversation about this new social network service seems to be going in circles.
 
 Literally.
@@ -43,7 +43,7 @@ Your Initial Set of Circles
 
 Google+ will present you with 4 suggested set of Circles: Friends, Family, Acquaintances, and Following.
 
-<img width="100%"   src="../assets/images/07.jpg" alt="cyberpunkstack"/>
+<img width="100%"   src="{{ site.url }}{{ site.baseurl }}/assets/images/07.jpg" alt="cyberpunkstack"/>
 
 Google+ also defines five special Circles: Two are only for reading: "Stream" which is everyone in any of your Circles; and "Incoming" which is are posts that are shared to you by people not in your Circles. Then are three special Circles managed by Google only for posting: "Your Circles" which is everyone in any of your Circles; “Extended” which is everyone in your Circles plus the people in _their_ Circles; and “Public” which is _anyone_.
 

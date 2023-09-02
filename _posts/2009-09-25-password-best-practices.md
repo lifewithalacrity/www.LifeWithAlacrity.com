@@ -48,7 +48,7 @@ In a moment, I'm going to suggest an excellent method for creating a secure pass
 
 So you've learned a lot about what makes a bad password. What makes a good password? The following suggests one method that you can use to create a password that's not easily breakable — but which is easily memorable.
 
-<img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/011.jpg" alt="cyberpunkstack"/>
+<img width="300px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/011.jpg" alt="cyberpunkstack"/>
 
 1.  Pick a short phrase, or an obscure but memorable long word. For example “amber waves” or “perspicacious”.
 2.  Shorten it to 7 characters, such as “ambrwvs” or “prspccus”.

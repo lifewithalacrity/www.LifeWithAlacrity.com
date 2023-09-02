@@ -26,13 +26,13 @@ In order to better define _who_ constitutes the tightly-knit "participant commun
 
 ## An Overview of Power Laws
 
-<a href="http://www.flickr.com/photos/christophera/3366611997/"><img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/community.jpg" alt="cyberpunkstack"/></a>
+<a href="http://www.flickr.com/photos/christophera/3366611997/"><img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/community.jpg" alt="cyberpunkstack"/></a>
 
 The best-known power law is probably the [Pareto principle](http://en.wikipedia.org/wiki/Pareto_principle), which is otherwise known as the "80/20 law." It's been overused throughout the years; Pareto's actual law only said that 80% of the wealth would be held by 20% of the population.
 
 However, it offers a fine example of how power laws work. They generally describe a discrepancy between intensity and population: inevitably, some people do a lot more of the work in any social situation. Other examples include [Zipf's Law](http://en.wikipedia.org/wiki/Zipf%27s_law), which suggests that the frequency of a word's usage is
 
-<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/3367563212_8aa7a62c6f_m.jpg" alt="cyberpunkstack"/></a>
+<a href="http://www.flickr.com/photos/christophera/3367563212/"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/3367563212_8aa7a62c6f_m.jpg" alt="cyberpunkstack"/></a>
 inversely proportionate to its ranking among words (making the second ranked word appear half as much, the third a quarter as much, etc), and the [long tail](http://en.wikipedia.org/wiki/The_Long_Tail), which talks about selling a very large number of it
 ems in a very small individual quantity.
 
@@ -40,7 +40,7 @@ For online communities, which have been the focus of most of my studies on the t
 
 ## Participation Inequality
 
-<a href="http://www.flickr.com/photos/christophera/3366764093/"><img width="200px" style=" margin-right:15px" align="left"  src="../assets/images/3366764093_29495ce5b4_m.jpg" alt="cyberpunkstack"/></a>
+<a href="http://www.flickr.com/photos/christophera/3366764093/"><img width="200px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/3366764093_29495ce5b4_m.jpg" alt="cyberpunkstack"/></a>
 This term comes from Will Hill of AT&T Laboratories, who said, "A major reason why user-contributed content rarely turns into a true community is that all aspects of Internet use are characterized by severe participation inequality." It's often equated with the 1% law, though I like to be more precise and say that 90% of an online community tends to be lurkers, 9% tends to be intermittent participants, and 1% tends to be active participants.
 
 These values heavily influence online community sizes that are larger than the tightly-knit communities group thresholds that I previously discussed.
@@ -63,13 +63,13 @@ The power laws can also help you to measure the number of leaders in a community
 
 I noted this in my first discussions of group threshold. In a group of 7 members, you can reasonably expect to have one higher level participant, and thus the one leader that we saw naturally appear. Similarly in a [Judas group of 13](/2008/09/group-threshold.html#Judas_Number), there's the opportunity for more than one leader to appear, creating the possibility for the first hierarchical conflicts.
 
-<img width="230px" style=" margin-right:15px" align="left"  src="../assets/images/3367609602_4445e5cfb9_m.jpg" alt="cyberpunkstack"/>
+<img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/3367609602_4445e5cfb9_m.jpg" alt="cyberpunkstack"/>
 
 Understanding your count of leaders can help you see how to grow groups. For example when I first created [iPhoneWebDev](http://www.iphonewebdev.com) I had to do an immense amount of effort to grow the community. This is because with Participation Inequality I had to grow the group by 10 members before I got the least amount of help increasing the content of the group and I had to grow it by 100 members before I had someone who was doing as much work as I was to create content.
 
 At 100 members, with my first active participant, we continued to grow, but we were both were working hard and felt rather lonely.
 
-<img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/3366786135_53f8ebcf47_m.jpg" alt="cyberpunkstack"/>I finally saw the group stabilize, then take off on its own, when it hit 600-700 members, and that shows how beautifully the power logs work hand-in-hand with the group thresholds. With 700 members, I could reasonably expect there to be 7 leaders. In other words, I had a committee of leaders: the perfect size for a starting [working group](/2008/09/group-threshold.html#Working_Group).
+<img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/3366786135_53f8ebcf47_m.jpg" alt="cyberpunkstack"/>I finally saw the group stabilize, then take off on its own, when it hit 600-700 members, and that shows how beautifully the power logs work hand-in-hand with the group thresholds. With 700 members, I could reasonably expect there to be 7 leaders. In other words, I had a committee of leaders: the perfect size for a starting [working group](/2008/09/group-threshold.html#Working_Group).
 
 From my experience with other online groups, if the iPhoneWebDev grows to over 10,000 members, I can expect that there will be some transition issues. As the core active community members exceed 100 people I will start having some [Non-Exclusive Dunbar Number](/2008/09/group-threshold.html#Non-Exclusive_Dunbar_Number) problems, typically social contract failures. These can be solved by either adding some hierarchy (appointing some people to be official "staff"), or by starting to break the group into sub-communities.
 
@@ -77,7 +77,7 @@ From my experience with other online groups, if the iPhoneWebDev grows to over 1
 
 In my first article, I noted that it's possible to expend additional energy to make tightly-knit groups able to function effectively at non-optimal sizes. It is similarly possible for the values of the participation inequality sized groups to change by expending more energy. Conversely, a drain on energy may decrease this ratio.
 
-<img width="300px" style=" margin-right:15px" align="right"  src="../assets/images/3367609374_3975fe9bf7_m.jpg" alt="cyberpunkstack"/>For example when I used to run AOL forums I would frequently reward first-time participants with free time (at that time worth $5 an hour) if they asked good questions or offered valuable input. CompuServe similarly offered constructive feedback by telling users how many responses they'd received to a new comment when they logged back in, encouraging them to leave lurker status. More energy in the community — driven either by the moderators, good social software design, or by a greater commitment by its members — can allow you to increase the active participant percentage, maybe times 2, or even 4, but even with a lot of effort not by an order of magnitude.
+<img width="300px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/3367609374_3975fe9bf7_m.jpg" alt="cyberpunkstack"/>For example when I used to run AOL forums I would frequently reward first-time participants with free time (at that time worth $5 an hour) if they asked good questions or offered valuable input. CompuServe similarly offered constructive feedback by telling users how many responses they'd received to a new comment when they logged back in, encouraging them to leave lurker status. More energy in the community — driven either by the moderators, good social software design, or by a greater commitment by its members — can allow you to increase the active participant percentage, maybe times 2, or even 4, but even with a lot of effort not by an order of magnitude.
 
 As a group grows in size, I believe the participation inequality worsens. A huge Yahoo! group with a million members might have moved from a 90/9/1 ratio to 95/4.5/.5. I suspect this is because the energy required to change the participation inequality numbers is so large as to not be economical.
 
@@ -87,7 +87,7 @@ There are also some interesting interrelations between the numbers of people at 
 
 Here is a close look at four online communities, using the [quantcast.com](http://www.quantcast.com/) metrics service, where you can see some participation inequality in action:
 
-<img width="100%" src="../assets/images/3367609306_023c85652f_o.jpg" alt="cyberpunkstack"/>
+<img width="100%" src="{{ site.url }}{{ site.baseurl }}/assets/images/3367609306_023c85652f_o.jpg" alt="cyberpunkstack"/>
 
 From this you can see a typical online community site shows the normal 90% 9% 1% participation inequality. RPGnet shows a slightly better then average participation inequality due to its longevity and the quality of the community. ObesityHealth shows evidence of a great community with its 4% active participants, probably because you have to be very committed if you are going to have bariatric surgery. Last, an example of relatively unhealthy community that is unable to sustain its active participants.
 

@@ -20,7 +20,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/managing-your-social-graph-with-google-plus/
 ---
 
-<img width="280px" align="right"   src="../assets/images/04.jpg" alt="Let's talk about food"/>
+<img width="280px" align="right"   src="{{ site.url }}{{ site.baseurl }}/assets/images/04.jpg" alt="Let's talk about food"/>
 Today is [Blog Action Day](http://blogactionday.org/ "Blog Action Day Website"), where each year a topic is chosen and bloggers and activists worldwide write about that topic in their blogs or post about it on Twitter and Facebook using the tags [#FOOD](http://twitter.com/search/%23food) and [#BAD11](http://twitter.com/search/%23bad11).
 
 This year's topic is [Food](http://blogactionday.org/why-food/ "Blog Action Day — Why Food?"), and this year many of my students of my [BGIedu](http://www.bgi.edu) class [Using the Social Web for Social Change](http://www.bgi.edu/voice-of-bgi/social-web-for-social-change/) are using the day to help kick off their "Beat Blog" assignments. The goal of Beat Blogs is for each student to choose a topic they are passionate about and blog about it at least weekly for two and a half months. Many students decide to keep their blogs going afterwards, am I'm always tickled when that happens.
@@ -50,7 +50,7 @@ Some of the blog posts by my students on the topic of Food:
 All of these bloggers are new to the blogosphere, but if you appreciate what they have to say, give a quick comment — it goes a long way to encourage them to continue.
 
 
-<img width="90%"  src="../assets/images/05.jpg" alt="Bainbridge Graduate Institute"/>
+<img width="90%"  src="{{ site.url }}{{ site.baseurl }}/assets/images/05.jpg" alt="Bainbridge Graduate Institute"/>
 
 [original layout]
 
