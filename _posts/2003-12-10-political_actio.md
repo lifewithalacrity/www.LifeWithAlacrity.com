@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/political_actio/
+permalink: /ephemera/political-action-and-visual-media/
 ---
 
 I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.

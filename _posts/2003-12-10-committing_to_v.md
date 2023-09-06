@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/committing_to_v/
+permalink: /ephemera/committing-to-vonage/
 ---
 
 In September I signed up for [Vonage](http://www.vonage.com), a VoIP (Voice-over-IP) service that using SIP (Session Initiation Protocol) that allows you to connect using the net to the analog POTS (Plain Old Telephone System) quite economically.

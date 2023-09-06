@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/blogger_pro_fre/
+permalink: /ephemera/blogger-pro-free-but-where-is-rss-syndication/
 ---
 
 I have been hesitating on committing to [Blogger](http://www.blogger.com) because ever time I check into availability of Blogger Pro, it was not available. Apparently now [Blogger Pro is Free](http://new.blogger.com/feature_giveaway/pro_email.pyra).

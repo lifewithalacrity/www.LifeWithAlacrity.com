@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/reinventing_ema/
+permalink: /ephemera/reinventing-email/
 ---
 
 As a user-interface designer in the 80's for companies like Apple Computer, and as old 'groupware' professional in the early 90's, I've been quite disappointed with how design of collaborative apps appears to have practically ceased since the introduction of the web.

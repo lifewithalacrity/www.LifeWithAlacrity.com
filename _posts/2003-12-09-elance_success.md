@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/elance_success/
+permalink: /ephemera/elance-success/
 ---
 
 I have been experimenting with [eLance](http://www.elance.com), which is a source of contractors for various web, graphic, and business related projects. So far I've put out bids for 4 projects, ranging from web programming with PHP, to graphics, and business competitive research. I've been amazed at the number of and quality of the bids I've been getting, as well as extremely reasonable prices for small project. I have my doubts regarding this system for big projects, but for well defined projects of under $5-10K, so far I highly recommend it.

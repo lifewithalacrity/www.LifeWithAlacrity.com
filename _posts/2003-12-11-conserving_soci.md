@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/conserving_soci/
+permalink: /ephemera/conserving-social-capital/
 ---
 
 A followup to my post yesterday [Social Software -- Problems & the Definition of "Friends"](#107108853847658748), I saw in [Scott Lofteness' blog](http://www.sjl.us/main/2003/12/social_networki.html) a reference to David Hornick's [VentureBlog: Conserving Social Capital](http://www.ventureblog.com/articles/indiv/2003/000214.html):

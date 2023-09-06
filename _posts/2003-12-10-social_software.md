@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/social_software/
+permalink: /ephemera/social-software-problems-and-the-definition-of-friends/
 ---
 
 I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.

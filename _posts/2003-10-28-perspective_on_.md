@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/perspective_on_/
+permalink: /ephemera/perspective-on-capital-to-market/
 ---
 
 Game Designer and Pundit [Greg Costikyan](http://www.costik.com/): wrote in his blog a thought I can't believe that I've not heard of before, it makes so much sense. But it is new to me:

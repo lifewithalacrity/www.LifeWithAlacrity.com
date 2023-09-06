@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/music_and_doubl/
+permalink: /ephemera/music-and-double-moral-hazard/
 ---
 
 A very interesting [article](http://www.bubblegeneration.com/level2.cfm?resource=musicrisk1) that has a different take on why the tussle of people who file share vs. the Music Industry. What I like is that it is taking a "behavioral economics" approach to understanding the problem.  

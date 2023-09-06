@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/fascinated_by_m/
+permalink: /ephemera/fascinated-by-melding-of-ethnic-music-styles/
 ---
 
 I'm fascinated by the melding of various ethic music styles with contemporary music, in particular, when the mix includes some middle-eastern or central-european infuences.

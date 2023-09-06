@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/editthispagephp/
+permalink: /ephemera/editthispagephp-lightweight-experimental-wiki/
 ---
 
 I have been working on some code for experimenting with some of my ideas regarding the future of wiki's, at [EditThisPagePHP](http://editthispagephp.sourceforge.net) which is hosted at [SourceForge](http://www.sourceforge.net).
