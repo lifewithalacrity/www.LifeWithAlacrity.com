@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/google_suggest_/
+permalink: /ephemera/google-suggest-dissected/
 ---
 
 As a former Macintosh developer, I've always been disappointed with the user-interface of web pages. The state of the art of UI design moved backwards with the advent of the browser -- we traded connectivity for ease-of-use. With the advent of pages written in Flash, some better user-interfaces were created, but at the important cost of things like being able to copy text, have semantic and meta-data information imbedded in web pages, searchability, etc.

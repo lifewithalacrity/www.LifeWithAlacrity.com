@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/iphonedevcamp-a/
+permalink: /ephemera/iphonedevcamp-and-hackathon/
 ---
 
 <a href="#"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/everyone.jpg" alt="Circle of Hands"/></a>

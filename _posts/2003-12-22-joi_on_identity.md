@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/joi_on_identity/
+permalink: /ephemera/joi-on-identity-and-size-of-networks/
 ---
 
 [Joi Ito's Web: Blogger's block, collapsing facets and the number 150](http://joi.ito.com/archives/2003/12/23/bloggers_block_collapsing_facets_and_the_number_150.html) offers some insights on two different topics:

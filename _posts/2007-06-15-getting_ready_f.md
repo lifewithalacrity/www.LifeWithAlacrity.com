@@ -3,6 +3,7 @@ layout: single
 title:  "Getting Ready for the iPhone"
 slug:  "Getting Ready for the iPhone"
 redirect_from:
+  - /2007/06/getting_ready_f.html
   - /2007/06/getting_ready_f/
 date:   2007-06-15 20:06:45 -0700
 image:  watereddown.jpg
@@ -16,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/a-spectrum-of-consent/
+permalink: /article/getting-ready-fpr-the iPhone/
 ---
 
 <a href="#"><img width="230px" style=" margin-left:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/watereddown.jpg" alt="watereddown"/></a>

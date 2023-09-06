@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/collective_choi/
+permalink: /article/collective-choice-with-rating-systems/
 ---
 <style>
   #writer{

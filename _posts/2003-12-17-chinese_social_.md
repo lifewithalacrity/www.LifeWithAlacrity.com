@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/chinese_social/
+permalink: /ephemera/chinese-social-network/
 ---
 
 [The Social Software Weblog](http://socialsoftware.weblogsinc.com/entry/6674682935746669/) discusses [DragonVenture Invests in Social Networking Platform in China](http://www.marketwire.com/mw/release_html_b1?release_id=61083):

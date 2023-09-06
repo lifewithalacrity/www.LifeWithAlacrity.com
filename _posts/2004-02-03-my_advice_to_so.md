@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/my_advice_to_so/
+permalink: /article/my-advice-to-social-networking-services/
 ---
 
 I have now had CEOs of three different social networks send me emails asking me to compare Orkut to their service. I've not had a chance to dig deeply into good answers for each specific one, but I did have some general advice that I wanted to offer given my [recent experiences with Orkut.com](/2004/01/insecurity_at_o.html), and my [evaluation](/2003/12/evaluating_soci.html) and [followup](/2003/12/followup_to_eva.html) on various social networking services in December.

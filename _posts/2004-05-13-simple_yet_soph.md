@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/simple_yet_soph/
+permalink: /article/simple-yet-sophisticated-group-page-editing/
 ---
 
 I have been leading the design of a new Open Source collaboration tool called [EditThisPagePHP](http://editthispagephp.sourceforge.net/home/index.php), which started [six months ago](/2003/12/editthispagephp.html) and now is in beta.

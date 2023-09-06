@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/looking_at_wiki/
+permalink: /article/looking-at-wiki/
 ---
 
 I've not just been spending time looking at social networking services, I've also been digging deeper into wiki. I've still got more to go, but some of these will be of interest to you if you are considering implementing a wiki for your community, or if you are a wiki developer.

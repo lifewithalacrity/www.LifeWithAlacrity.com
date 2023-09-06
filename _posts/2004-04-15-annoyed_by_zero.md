@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/annoyed_by_zero/
+permalink: /ephemera/annoyed-by-zero-degrees/
 ---
 
 As I'm studying social network software right now, I consider it my job to try many of the [hundred some odd social networks](http://socialsoftware.weblogsinc.com/entry/2241460714746671/) out there right now.

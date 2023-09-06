@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/jotspot_applica/
+permalink: /ephemera/jotspot-application-wiki/
 ---
 
 <img width="320px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/slide09.jpg" alt="slide09"/>

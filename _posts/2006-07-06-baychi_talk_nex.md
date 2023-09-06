@@ -1,6 +1,10 @@
 ---
 layout: single
-title:  Apple, AirVideo, and Immersive vs Ambient Media
+title:  "BayChi Talk Next Tuesday"
+slug: title:  "BayChi Talk Next Tuesday"
+redirect_from:
+  - /2006/07/baychi_talk_nex.html
+  - /2006/07/baychi_talk_nex/
 date:   2006-07-06 13:58:20 -0700
 image:  baychi_1.gif
 tags: 
@@ -14,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /news/baychi_talk_nex/
+permalink: /news/baychi-talk-next-tuesday/
 ---
 
 <img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/baychi_1.gif" alt="Baychi"/> I will be speaking next Tuesday (July 11th) at the monthly meeting of [BayCHI](http://www.baychi.org/calendar/20060711/), the San Francisco Bay Area Chapter of ACM SIGCHI (Computer Human Interface Special Interest Group), along with [Michael H. Goldhaber](http://www.goldhaber.org/).

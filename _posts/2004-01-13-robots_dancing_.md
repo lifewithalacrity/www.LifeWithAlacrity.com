@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/robots_dancing_/
+permalink: /ephemera/robots-dancing-in-the-uncanny-valley/
 ---
 
 At a recent unofficial gathering of [Future Salon'ers](http://finnern.com/future/), there was a discussion about a [demonstration of four robots doing a japanese fan dance to music](http://pc.watch.impress.co.jp/docs/2003/1218/sony_06.wmv) (I think it was seen at CES in Las Vegas last week). The remark was that it was vaguely disturbing because your intellect knows that they are just robots, but someplace deep in your brain you know that they are alive because of the way that they move.

@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/followup_to_eva/
+permalink: /article/followup-to-evaluating-social-network-services/
 ---
 
 I've received a number of replies and pointers after posting my [Evaluating Social Network Services](/2003/12/evaluating_soci.html) here last Tuesday. Here are a few:

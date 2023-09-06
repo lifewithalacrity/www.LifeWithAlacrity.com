@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/enterprise_soci/
+permalink: /ephemera/enterprise-social-networking/
 ---
 
 [InfoWorld](http://www.infoworld.com) has an article by [Ephraim Schwartz](http://www.infoworld.com/columnists/ephraim_reality.html) called ["Social Networking Targets the Enterprise"](http://www.infoworld.com/article/03/12/15/49NNsocial_1.html) that says that corporations are looking to use social networking service features in their CRM (customer relationship management) software. They mention a couple of companies that will be offering this, Contact Network, Interface Software, Spoke Software, and ZeroDegrees.

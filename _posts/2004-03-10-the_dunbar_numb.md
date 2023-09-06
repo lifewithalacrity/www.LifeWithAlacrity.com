@@ -10,6 +10,7 @@ tags:
   - Web/Tech
   - Social Software
   - Dunbar number
+  - Weblogs
 
 categories:
   - article
@@ -17,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/the_dunbar_numb/
+permalink: /article/the-dunbar-number-as-a-limit-to-group-sizes/
 ---
 
 Lately I've been noticing the spread of a meme regarding "Dunbar's Number" of 150 that I believe is misunderstanding of his ideas.

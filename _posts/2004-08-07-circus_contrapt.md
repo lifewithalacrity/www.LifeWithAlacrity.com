@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/circus_contrapt/
+permalink: /ephemera/circus-contraption-insf-during-august/
 ---
 
 In my [review](/2004/01/seven_fingers_o.html) last January of the amazing [Seven Fingers of the Hand Circus](http://www.les7doigtsdelamain.com/menu.html) I talk about why I like circuses that are more raw and intimate, i.e. more "human" then the pretentious and distancing style of [Cirque du Soleil](http://www.cirquedusoleil.com/CirqueDuSoleil/en/default.htm). However, I was disappointed that I saw the near-to-last show, so could not send my friends out to go see one of the great performances of the year.

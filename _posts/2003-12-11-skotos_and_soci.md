@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/skotos_and_soci/
+permalink: /ephemera/skotos-and-social-software/
 ---
 
 I've been interested for several years in the ability of "player-generated content" to create niche or small multiplayer online games, at a company I've invested in called [Skotos](http://www.skotos.net) . At this point its oldest game Castle Marrach is completely run by the players, and 7 more games are being developed by their customers. The company is at break-even, but is not yet a 'commercial success'. There are some learnings from the world of massively multiplayer online games that apply to other kinds of social networks.

@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/intimacy_gradie/
+permalink: /article/intimacy-gradient-and-other-lessons-from-architecture/
 ---
 
 A number of my posts have been about integrating different domains of knowledge in order to better understand how human behavior should be incorporated in the design of social software. I found [The Dunbar Number](/2004/03/the_dunbar_numb.html) in sociology, and both [Four Kinds of Privacy](/2004/04/four_kinds_of_p.html) and [Progressive Trust](/2004/08/progressive_tru.html) come from my work in the cryptography field. The topic of this post comes from the field of architecture.

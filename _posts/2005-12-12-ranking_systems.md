@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/ranking_systems/
+permalink: /article/collective-choice-competitive-ranking-systems/
 ---
 
 	

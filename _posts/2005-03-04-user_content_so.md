@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/user_content_so/
+permalink: /ephemera/user-content-social-software-and-online-games/
 ---
 
 <img width="130px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/shannon.jpeg" alt="shannon"/>Shannon Appelcline, my colleague at [Skotos](http://www.skotos.net) (an online game company that I founded in 1999), has been writing for several years a sometimes weekly, sometimes bi-weekly column on the topic of game design called [Trials, Triumphs & Trivialities](http://www.skotos.net/articles/TTnT_.shtml) (rss feed for all [Skotos Articles](http://www.skotos.net/articles/index.xml) including TT&T).

@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/extrapolative_h/
+permalink: /ephemera/extrapolative-hostility-in-the-online-medium/
 ---
 
 > _**Extrapolate**_

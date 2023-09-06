@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/sexism_social_s/
+permalink: /ephemera/sexism-social-software-and-the-blogospher/
 ---
 
 A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:

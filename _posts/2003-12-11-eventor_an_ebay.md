@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/eventor_an_ebay/
+permalink: /ephemera/eventor-an-ebay-for-events/
 ---
 
 I have been working the last couple of weeks on a business plan idea for a company tenatively called eVentor:

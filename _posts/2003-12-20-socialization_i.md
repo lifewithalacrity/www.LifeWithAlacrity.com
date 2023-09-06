@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/socialization_i/
+permalink: /ephemera/socialization-in-online-games/
 ---
 
 I've been playing around with a number of so-called Social Software/Social Networking sites for about six months.

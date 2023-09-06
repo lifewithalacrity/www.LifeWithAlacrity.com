@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/creating-shared-language-and-shared-artiifacts/
+permalink: /article/creating-shared-language-and-shared-artifacts/
 ---
 
 <img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/poem.jpg" alt="Poem: Language"/>

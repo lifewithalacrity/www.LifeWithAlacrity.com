@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/working_on_wiki/
+permalink: /ephemera/working-on-wiki-design-patterns/
 ---
 
 I've been working today on understand the [Design Pattern Language](http://www.designmatrix.com/pl/index.html) behind the Wiki concept. I've been making some postings at the Meatball Wiki site on this topic. These are the new topics that I have finished today.

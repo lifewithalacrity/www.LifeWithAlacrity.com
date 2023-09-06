@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/flames_emotiona/
+permalink: /article/flames-emotional-amplification-of-text/
 ---
 
 <img width="280px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/cycle_of_flames.jpg" alt="cycle_of_flames"/>

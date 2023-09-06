@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/speaking_about_/
+permalink: /ephemera/speaking-about-synchro-edit-at-wiki-wednesday/
 ---
 
 I will be speaking tonight at [WikiWednesday](http://www.socialtext.net/wikiwed/index.cgi?wiki_wednesdays) on the topic of _**Same Time, Different Place Editing**_, and will be demonstrating [SynchroEdit](http://www.synchroedit.com) integration with [MediaWiki](http://www.mediawiki.com) and [EditThisPagePHP](http://www.editthispage.net).

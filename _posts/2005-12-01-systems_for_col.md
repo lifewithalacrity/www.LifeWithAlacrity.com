@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/systems_for_col/
+permalink: /article/systems-for-collective-choice/
 ---
 
 By Christopher Allen & Shannon Appelcline

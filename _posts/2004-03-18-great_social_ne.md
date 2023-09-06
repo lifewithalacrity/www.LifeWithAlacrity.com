@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/great_social_ne/
+permalink: /article/great-social-networking-posts/
 ---
 
 While I've been out attending the [SXSW Music, Movie and Interactive Conference](http://www.sxsw.com) there has been a flurry of high-quality postings about Social Networking.

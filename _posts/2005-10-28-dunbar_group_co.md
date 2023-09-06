@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/dunbar_group_co/
+permalink: /article/dunbar-number-and-group-cohesion/
 ---
 
 There is some more excellent research this week by [Nick Yee](http://www.nickyee.com/) and [Nicolas Ducheneaut](http://www.parc.com/nicolas) in the [PlayOn](http://blogs.parc.com/playon/) blog. Again, their research provides good insight into social group dynamics as they appear in online games.

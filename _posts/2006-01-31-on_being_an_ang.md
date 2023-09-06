@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/on_being_an_ang/
+permalink: /article/on-being-an-angel/
 ---
 
 <a href="https://web.archive.org/web/20080219224023/http://www.alumni.unh.edu/connection/archives/12_03_04.html"><img width="250px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/angel_investor.gif" alt="angel_investor"/></a>

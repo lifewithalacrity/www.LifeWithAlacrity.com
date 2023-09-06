@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/holiday_over/
+permalink: /ephemera/holiday-over/
 ---
 
 I had a nice relaxing five day holiday -- good to get the creative juices flowing again.

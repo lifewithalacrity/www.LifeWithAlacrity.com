@@ -16,7 +16,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/politics_with_r/
+permalink: /ephemera/politics-with-respect/
 ---
 
 This is not a political blog, but like most bloggers I've been indundated with various discussions about the Bush Administration, Michael Moore, Red vs. Blue, etc. So much so that on some professional email lists we've had to ask the participants to use the text "\[POLITICS\]" in their subject lines so that we can filter out the overt political content.

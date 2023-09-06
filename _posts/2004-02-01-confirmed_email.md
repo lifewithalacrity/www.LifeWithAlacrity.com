@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/confirmed_email/
+permalink: /article/confirmed-email-privacy-hole-at-orkut/
 ---
 
 Another Orkut user and I have confirmed a privacy hole in Orkut whenever you send a message to someone via Orkut.

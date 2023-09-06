@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/collective_choi/
+permalink: /article/collective-choice-experimenting-with-ratings/
 ---
 <style>
   

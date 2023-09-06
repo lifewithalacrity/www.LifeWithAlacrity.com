@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/for_the_last_se/
+permalink: /ephemera/synchroEdit-simultaneous-editing-for-the-web/
 ---
 
 For the last several months I've been working on a new open source project that I've been calling [SynchroEdit](http://www.synchroedit.com). SynchroEdit is a browser-based simultaneous multiuser editor, useful for ["same-time" collaboration](http://www.it.bton.ac.uk/staff/rng/teaching/notes/CSCWgroupware.html).

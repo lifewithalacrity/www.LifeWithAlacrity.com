@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/using_5star_rat/
+permalink: /article/using-5-star-rating-systems/
 ---
 
 In [Collective Choice: Rating Systems](/2005/12/collective_choi.html) I discuss ratings scales of various sorts, from eBay's 3-point scale to RPGnet's double 5-point scale, and BoardGame Geek's 10-point scale.

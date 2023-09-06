@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/voluntary_healt/
+permalink: /ephemera/voluntary-health-associations-and-social-software/
 ---
 
 I'm a keynote speaker for the [FVHA (Future of Voluntary Health Associations) Conference](http://www.nvhainnovations.org/2005/index.htm) in Atlanta today. My job is to give to this community a gentle introduction and overview of concepts and products related to Social Software and Social Networking. ([My slides are here - 6.6MB .pdf](http://web.lifewithalacrity.com/christophera/FVHA_Social_Software_Keynote_Presentation.pdf))

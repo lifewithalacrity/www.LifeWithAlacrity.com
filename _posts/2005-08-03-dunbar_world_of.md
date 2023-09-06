@@ -20,7 +20,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/dunbar_world_of/
+permalink: /article/dunbar-world-of-warcraft/
 ---
 
 In my initial blog entry on the [Dunbar Number](/2004/03/the_dunbar_numb.html) I presented some statistics on group sizes based on the online game [Ultimata Online](http://www.uo.com). In it you could clearly see the power-law (pareto) curve, with diminishing returns at around 150, with most groups being 60 in size:

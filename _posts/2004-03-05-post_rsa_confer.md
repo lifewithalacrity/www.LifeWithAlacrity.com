@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/post_rsa_confer/
+permalink: /article/post-rsa-conference-wrapup/
 ---
 
 I spent most of last week at the RSA Conference in San Francisco.

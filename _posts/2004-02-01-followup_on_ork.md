@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/followup_on_ork/
+permalink: /article/followup-on-orkut/
 ---
 
 I've read of emails, Orkut messages, and blog postings since my [post yesterday](/2004/01/insecurity_at_o.html), so I thought I would share some with you.

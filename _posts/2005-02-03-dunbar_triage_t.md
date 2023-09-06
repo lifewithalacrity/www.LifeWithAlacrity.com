@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/dunbar_triage_t/
+permalink: /article/dunbar-triage-too-many-connections/
 ---
 
 <a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/ryzeblogtribefriends.gif"><img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/ryzeblogtribefriends.gif" alt="Ryzeblogtribefriends"/></a>

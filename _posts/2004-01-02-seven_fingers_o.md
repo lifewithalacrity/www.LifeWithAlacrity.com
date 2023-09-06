@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/seven_fingers_o/
+permalink: /ephemera/seven-fingers-of-the-hand/
 ---
 
 Yesterday I watched the amazing [Seven Fingers of the Hand Circus](http://www.les7doigtsdelamain.com/menu.html). There were parts of it that were so beautiful and meaningful that I cried.

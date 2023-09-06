@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/handcrafting_my/
+permalink: /article/handcrafting-my-foaf/
 ---
 
 While at [eTech](http://etech.weblogsinc.com/), I attended a number of "social software" sessions. One thing I heard was a persistent call from folk like [Marc Canter](http://blogs.it/0100198/) for all the vendors to support something called [FOAF](http://xmlns.com/foaf/0.1/). FOAF is a standard for "Friend of a Friend" files, and is an attempt to make _machine readable_ information about people, groups, companies, and other online resources. In particular, it is focused on representing the information that you might typically put on your personal home page in a form such that meta-data tools can interpret it.

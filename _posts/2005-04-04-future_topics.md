@@ -22,7 +22,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/future_topics/
+permalink: /article/future-topics/
 ---
 
 I've been working on an ambitious list of topics that I'd like to cover over the next year. I offer them to you here so you can have some idea the areas that I am thinking about.

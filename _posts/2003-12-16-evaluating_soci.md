@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/evaluating_soci/
+permalink: /article/evaluating-social-network-services/
 ---
 
 After a week where I met a number of bloggers and social network / social software people, I decided to try to update my various networks at [Ryze](http://www.ryze.com/), [Tribe.Net](http://www.tribe.net/), [LinkedIn](http://www.linkedin.com/), and [Friendster](http://www.friendster.com/).

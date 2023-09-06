@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/tracing_the_evo/
+permalink: /article/tracing-the-evolution-of-social-software/
 ---
 
 <a href="https://www.lifewithalacrity.com/previous/photos/uncategorized/evolution.jpg"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/evolution.jpg" alt="Evolution"/></a>

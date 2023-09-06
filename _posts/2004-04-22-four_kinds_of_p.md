@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/four_kinds_of_p/
+permalink: /article/four-kinds-of-privacy/
 ---
 
 I've been thinking about the nature of privacy a lot lately.

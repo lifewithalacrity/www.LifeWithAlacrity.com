@@ -3,7 +3,8 @@ layout: single
 title:  "Security & Cryptography:The Bad Business of Fear"
 slug:  "Security & Cryptography:The Bad Business of Fear"
 redirect_from:
-  - /2014/03/a-story-of-a-great-teacher/
+  - /2004/02/security_crypto.html
+  - /2004/02/security_crypto/
 date:   2004-02-22 14:12:29 -0700
 # image:  02.jpg
 tags: 
@@ -17,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/a-story-of-a-great-teacher/
+permalink: /article/security-and-cryptography-the-bad-business-of-fear/
 ---
 
 As I head out next week to the [RSA Conference](http://2004.rsaconference.com/) I realized that it has been 13 years since I attended the first one. I remember fondly the potential and power of cryptography technology in 1991 -- public keys, digital certificates, new possibilities for privacy, digital cash, etc.

@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/a-spectrum-of-consent/
+permalink: /ephemera/dunbar-number-presentation-at-meshforum-2006/
 ---
 
 <a href="http://www.flickr.com/photos/davegray/147934089/"><img width="300px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/christopher_allen_sketch_at_meshforum_20.jpg" alt="Sketch by Dave Gray"/></a>

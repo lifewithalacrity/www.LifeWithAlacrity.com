@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/for_the_last_fe/
+permalink: /ephemera/converting-typepad-complete/
 ---
 
 For the last few weeks I've been moving my blog from Blogger Pro over to the TypePad service, after a frustrating try to get WordPress to work. While I was at it, I moved my blog from my business server to this new domain.
