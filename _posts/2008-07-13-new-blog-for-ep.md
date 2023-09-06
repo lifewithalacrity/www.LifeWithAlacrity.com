@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/new-blog-for-ep/
+permalink: /ephemera/new-blog-for-ephemera/
 ---
 
 This blog has been quiet lately as I've been doing a lot of work in the last year on the iPhone. I've been speaking at conferences like eComm 2008 ([presentation](http://www.slideshare.net/eComm2008/christopher-allens-presentation-at-ecomm-2008), [video from panel](http://blogs.nmscommunications.com/communications/2008/05/heres-the-compl.html)), writing an book on the iPhone with my co-author Shannon Appelcline called [iPhone in Action: Introduction to Web and SDK Development](http://www.manning.com/callen) (first [two chapters](http://www.manning-source.com/books/callen/callen_meapch1-2.pdf) free), and I am one of the organizers for the upcoming [iPhoneDevCamp 2](http://www.iPhoneDevCamp.org), a MacHack style conference on August 1st-3rd, and I am working on some social software apps for the iPhone.

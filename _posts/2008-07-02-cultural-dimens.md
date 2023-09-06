@@ -13,7 +13,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/cultural-dimens/
+permalink: /ephemera/cultural-dimensions/
 ---
 
 

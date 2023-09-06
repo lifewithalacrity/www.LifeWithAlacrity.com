@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/in-seoul-for-th/
+permalink: /ephemera/in-seoul-for-the-social-web/
 ---
 
 <a href="http://www.flickr.com/photos/christophera/2610236112/"><img width="230px" style=" margin-left:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/seoul.jpg" alt="Downtown Seoul, South Korea, from Hotel Window"/></a>
