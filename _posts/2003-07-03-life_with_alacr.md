@@ -18,7 +18,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/life_with_alacrity-blog-using-blogger/
+permalink: /ephemera/life-with-alacrity-blog-using-blogger/
 ---
 
 I decided after years of reading blogs that it was time to start blogging.
