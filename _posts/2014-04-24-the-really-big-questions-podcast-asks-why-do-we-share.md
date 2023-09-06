@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/a-spectrum-of-consent/
+permalink: /ephemera/the-really-big-questions-podcast-asks-why-do-we-share/
 ---
 
 <img width="300" height="auto" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/SHARE_spot2_soup-300x300.jpg" alt="“The Really Big Questions” Podcast Asks “Why Do We Share?”"/> 

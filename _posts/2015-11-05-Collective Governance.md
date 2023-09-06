@@ -19,7 +19,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons-/
+permalink: /article/a-revised-ostroms-design-principles-for-collective-governance-of-the-commons/
 ---
 
 <img width="250" height="300" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Ostrom’s.png" alt="TA Revised “Ostrom’s Design Principles for Collective Governance of the Commons"/> 
