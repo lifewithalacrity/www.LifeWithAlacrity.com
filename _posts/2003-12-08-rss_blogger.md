@@ -2,7 +2,7 @@
 layout: single
 title:  "RSS & Blogger"
 redirect_from:
-  - /2003/12/rss_blogger/
+  - /2003/12/rss_blogger.html
   - /2003/12/rss_blogger/
 date:   2003-12-08 12:45:19 -0700
 # image:  02.jpg

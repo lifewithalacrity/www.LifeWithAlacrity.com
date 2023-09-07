@@ -3,7 +3,7 @@ layout: single
 title:  "iPhoneDevCamp and Hack-a-Thon"
 slug:  "iPhoneDevCamp and Hack-a-Thon"
 redirect_from:
-  - /2007/07/iphonedevcamp-a/
+  - /2007/07/iphonedevcamp-a.html
   - /2007/07/iphonedevcamp-a/
 date:   2007-07-08 23:19:52 -0700
 image:  everyone.jpg

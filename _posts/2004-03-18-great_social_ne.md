@@ -3,6 +3,7 @@ layout: single
 title:  "Great Social Networking Posts"
 slug:  "Great Social Networking Posts"
 redirect_from:
+  - /2004/03/great_social_ne.html
   - /2004/03/great_social_ne/
 date:   2004-03-18 08:05:31 -0700
 # image:  02.jpg
