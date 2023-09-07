@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "BayChi Talk Next Tuesday"
-slug: title:  "BayChi Talk Next Tuesday"
+slug: "BayChi Talk Next Tuesday"
 redirect_from:
   - /2006/07/baychi_talk_nex.html
   - /2006/07/baychi_talk_nex/
