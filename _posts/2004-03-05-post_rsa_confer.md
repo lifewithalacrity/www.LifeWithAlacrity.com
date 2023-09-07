@@ -3,6 +3,7 @@ layout: single
 title:  "Post RSA Conference Wrapup"
 slug:  "Post RSA Conference Wrapup"
 redirect_from:
+  - /2004/03/post_rsa_confer.html
   - /2004/03/post_rsa_confer/
 date:   2004-03-05 03:50:41 -0700
 # image:  02.jpg
