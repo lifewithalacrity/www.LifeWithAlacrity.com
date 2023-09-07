@@ -2,8 +2,7 @@
 layout: single
 title:  "“Forward Casting” Trust Services from 1988"
 slug:  "“Forward Casting” Trust Services from 1988"
-redirect_from:
-  - /2014/03/forward-casting-trust-services-from-1988/
+
 date:   2014-03-08 12:00:00 -0700
 # image:  02.jpg
 tags: 

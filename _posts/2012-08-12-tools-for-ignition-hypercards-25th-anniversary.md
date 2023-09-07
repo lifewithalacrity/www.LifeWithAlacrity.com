@@ -3,8 +3,8 @@ layout: single
 title:  "Tools for Ignition & HyperCard’s 25th Anniversary"
 slug:  "Tools for Ignition & HyperCard’s 25th Anniversary"
 redirect_from:
-  - /2011/10/bgiedu-students-post-for-blog-action-day.html
-  - /2011/10/bgiedu-students-post-for-blog-action-day/
+  - /2012/08/tools-for-ignition-hypercards-25th-anniversary.html
+  - /2012/08/tools-for-ignition-hypercards-25th-anniversary/
 date:   2012-08-12 16:27:42 -0700
 image:  ignition.jpg
 tags: 
@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/bgiedu-students-post-for-blog-action-day/
+permalink: /article/tools-for-ignition-hypercards-25th-anniversary/
 ---
 
 Over my lifetime I have encountered a number of “tools for ignition” — a phrase which I use to describe innovative products that have empowered people and created movements. On the 25th anniversary of Hypercard’s introduction, I want to take a look back at some of these tools.

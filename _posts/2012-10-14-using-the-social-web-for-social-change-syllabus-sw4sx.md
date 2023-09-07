@@ -3,8 +3,8 @@ layout: single
 title:  "Using the Social Web for Social Change (Syllabus#SW4SX)"
 slug:  "Using the Social Web for Social Change (Syllabus#SW4SX)"
 redirect_from:
-  - /2012/10/introduction-to-the-social-web-reading-list-sw4sx.html
-  - /2012/10/introduction-to-the-social-web-reading-list-sw4sx/
+  - /2012/10/using-the-social-web-for-social-change-syllabus-sw4sx.html
+  - /2012/10/using-the-social-web-for-social-change-syllabus-sw4sx/
 date:   2012-10-14 08:44:31 -0700
 # image:  02.jpg
 tags: 
@@ -17,7 +17,7 @@ class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/introduction-to-the-social-web-reading-list-sw4sx-change/
+permalink: /article/using-the-social-web-for-social-change-syllabus-sw4sx/
 ---
 
 This fall with be the 4th year, and the 5th time that I've taught the class [Using the Social Web for Social Change](http://www.bgi.edu/changing-business/social-web-for-social-change/) (hashtag #SW4SX) in the [MBA in Sustainable Systems](http://www.bgi.edu/academics/mbas/hybrid-mba/) program at [Bainbridge Graduate Institute](http://www.bgi.edu) (BGI.edu).

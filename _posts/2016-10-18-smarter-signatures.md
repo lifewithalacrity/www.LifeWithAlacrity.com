@@ -3,7 +3,7 @@ layout: single
 title:  "Smarter Signatures: Experiments in Verifications"
 slug: "Smarter Signatures: Experiments in Verifications"
 redirect_from:
-  - /2016/10/smarter-signatures-experiments-in-verifications/
+  - /2016/10/smarter-signatures-experiments-in-verifications.html
   - /2016/10/smarter-signatures-experiments-in-verifications/
 date:   2016-10-18 08:06:00 +0300
 tags: 
