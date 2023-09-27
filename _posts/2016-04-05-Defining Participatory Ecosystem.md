@@ -12,13 +12,13 @@ tags:
   - Defining
 
 categories:
-  - news
+  - article
 class:
   - wide
 
 excerpt_seperator: <!--more-->
 
-permalink: /news/defining-participatory-ecosystem-grow-the-pie-not-slice-it/
+permalink: /article/defining-participatory-ecosystem-grow-the-pie-not-slice-it/
 ---
 
 <img width="250" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/Participatory.jpeg" alt="Participatory"/>

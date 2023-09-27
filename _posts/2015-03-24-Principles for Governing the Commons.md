@@ -13,12 +13,12 @@ tags:
   - designs
 
 categories:
-  - news
+  - article
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /news/10-design-principles-for-governing-the-commons/
+permalink: /article/10-design-principles-for-governing-the-commons/
 ---
 
 <a href="#"><img width="350px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/resource_sharing.jpg" alt="Resource Sharing"/></a>
