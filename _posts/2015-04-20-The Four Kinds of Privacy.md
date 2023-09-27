@@ -20,7 +20,7 @@ permalink: /article/the-four-kinds-of-privacy/
 ---
 
 (This article has been cross-posted in [Medium](https://medium.com/@christophera/the-four-kinds-of-privacy-bf4b0bf222ac))
-
+<!--more-->
 Ssh by Katie Tegtmeyer CC-BY (crop2)
 
 <img width="370" height="350" align="right" src="{{ site.url }}{{ site.baseurl }}/assets/images/privacy.jpeg" alt="The Four Kinds of Privacy"/> 
