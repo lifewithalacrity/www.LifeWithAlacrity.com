@@ -12,12 +12,12 @@ tags:
   - iPhone
 
 categories:
-  - article
+  - news
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/getting-ready-fpr-the iPhone/
+permalink: /news/getting-ready-fpr-the iPhone/
 ---
 
 <a href="#"><img width="230px" style=" margin-left:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/watereddown.jpg" alt="watereddown"/></a>
