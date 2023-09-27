@@ -13,12 +13,12 @@ tags:
   - Privacy
   
 categories:
-  - article
+  - ephemera
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/confirmed-email-privacy-hole-at-orkut/
+permalink: /ephemera/confirmed-email-privacy-hole-at-orkut/
 ---
 
 Another Orkut user and I have confirmed a privacy hole in Orkut whenever you send a message to someone via Orkut.
