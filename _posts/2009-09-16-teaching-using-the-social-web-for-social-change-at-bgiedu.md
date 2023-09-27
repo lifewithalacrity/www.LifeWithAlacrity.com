@@ -12,12 +12,12 @@ tags:
   - Web/Tech
 
 categories:
-  - ephemera
+  - news
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/teaching-using-the-social-web-for-social-change-at-bgiedu/
+permalink: /news/teaching-using-the-social-web-for-social-change-at-bgiedu/
 ---
 
 <img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/Teaching.jpg" alt="Teaching"/>
