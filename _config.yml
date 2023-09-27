@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Life With Alacrity"
-baseurl: /lwa
+baseurl: /
 email:
 description: "A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen."
 twitter_username: ChristopherA
