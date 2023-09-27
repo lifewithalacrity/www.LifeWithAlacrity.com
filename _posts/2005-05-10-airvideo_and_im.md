@@ -14,12 +14,12 @@ tags:
   - iPod
 
 categories:
-  - article
+  - news
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/apple-airvideo-and-immersive-vs-ambient-media/
+permalink: /news/apple-airvideo-and-immersive-vs-ambient-media/
 ---
 
 I was reading on [Slashdot](http://slashdot.org/) a discussion about [iTune 4.8](http://slashdot.org/article.pl?sid=05/05/10/0235212) and its new capability to purchase videos from the iTunes Music Store, when I read two things that just made me say "duh" with their obviousness, yet I'd never thought of them before.
