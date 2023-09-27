@@ -14,12 +14,12 @@ tags:
   - Weblogs
 
 categories:
-  - article
+  - ephemera
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/too-many-social-network-services/
+permalink: /ephemera/too-many-social-network-services/
 ---
 
 In the last few weeks I've gotten more invitations to friends via [Orkut](http://www.orkut.com/Profile.aspx?uid=2789681602836776519) then I have from all the other social networks I've tried out. I currently have 61 friends there (and they are all people I know reasonably well), whereas in several months I have only 50 connections in [LinkedIn](http://www.linkedin.com/profile?viewProfile=&key=62844). Oddly, the number of friends I have in each of these is less the older they are. In [Ryze](http://www.ryze.com/go/ChristopherA) I have 36, and in [Tribe.Net](http://cluster.tribe.net/tribe/servlet/template/pub,pcard,PeopleCard.vm?personid=ce34093a-3c72-4954-b52f-3d6bc51884af) I have 32, and in my oldest FriendlyFavors, I have 5.
