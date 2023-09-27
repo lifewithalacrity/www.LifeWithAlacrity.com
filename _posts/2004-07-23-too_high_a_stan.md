@@ -12,12 +12,12 @@ tags:
   - 
 
 categories:
-  - article
+  - ephemera
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/too-high-a-standard/
+permalink: /ephemera/too-high-a-standard/
 ---
 
 I have for some time told people that one way that my blog was different was because I was focused on offering a [high signal-to-noise ratio](http://en.wikipedia.org/wiki/Signal-to-noise_ratio). I told them that they could subscribe to my blog safely, as I'd not inundate them with anything but the highest quality posts.
