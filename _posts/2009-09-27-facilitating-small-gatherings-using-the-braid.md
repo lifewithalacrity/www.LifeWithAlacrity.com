@@ -10,7 +10,7 @@ image:  small.png
 tags:
   - Software Security
   - Business
-
+  - Community by the numbers
 categories:
   - article
 class:

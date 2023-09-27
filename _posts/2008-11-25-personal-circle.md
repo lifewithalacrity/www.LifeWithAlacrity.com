@@ -10,7 +10,7 @@ image: sympathy.jpg
 tags: 
   - Personal
   - Software
-
+  - Community by the numbers
 categories:
   - article
 

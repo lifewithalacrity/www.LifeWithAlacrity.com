@@ -13,12 +13,12 @@ tags:
   - Conference
 
 categories:
-  - article
+  - news
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /article/post-rsa-conference-wrapup/
+permalink: /news/post-rsa-conference-wrapup/
 ---
 
 I spent most of last week at the RSA Conference in San Francisco.

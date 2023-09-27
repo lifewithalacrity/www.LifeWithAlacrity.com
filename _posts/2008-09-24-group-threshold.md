@@ -10,7 +10,7 @@ image: circle_of_hands.jpg
 tags: 
   - Social Software
   - Group threshold
-
+  - Community by the numbers
 categories:
   - article
 class:

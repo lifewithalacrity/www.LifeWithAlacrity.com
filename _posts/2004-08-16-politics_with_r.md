@@ -11,7 +11,7 @@ tags:
   - Politics
 
 categories:
-  - article
+  - ephemera
 class:
   - wide
 

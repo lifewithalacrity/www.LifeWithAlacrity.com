@@ -10,14 +10,14 @@ date:   2009-09-16 22:36:27 -0700
 tags: 
   - Bgiedu
   - Web/Tech
-
+  - Using the Social Web for Social Change
 categories:
-  - ephemera
+  - news
 class:
   - wide
 
 excerpt_seperator: <!--more-->
-permalink: /ephemera/teaching-using-the-social-web-for-social-change-at-bgiedu/
+permalink: /news/teaching-using-the-social-web-for-social-change-at-bgiedu/
 ---
 
 <img width="230px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/Teaching.jpg" alt="Teaching"/>

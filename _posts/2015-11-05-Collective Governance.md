@@ -10,8 +10,8 @@ date:   2015-11-05 08:15:23 +0300
 tags: 
   - Design
   - Ostrom
-  - Principles
   - government
+  - Commons
 
 categories:
   - article
