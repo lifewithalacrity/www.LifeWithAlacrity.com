@@ -8,9 +8,8 @@ redirect_from:
 date:   2015-03-24 14:51:07 +0300
 image:  principlas.png
 tags: 
-  - principles
-  - government
-  - designs
+  - Ostrom
+  - Commons
 
 categories:
   - article
