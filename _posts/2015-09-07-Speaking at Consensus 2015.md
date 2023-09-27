@@ -20,7 +20,7 @@ permalink: /news/speaking-at-consensus-2015/
 ---
 
 <img width="500px" height="300px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/consensus.png" alt="Speaking at Consensus 2015"/>
-
+<!--more-->
 Christopher Allen Internet Security Pioneer Speaking at [Consensus 10 Sep NYC](https://consensus.coindesk.com/){:target="_blank"}
 
 I'm heading out today to New York City to speak at [Consensus 2015](http://www.coindesk.com/events/consensus-2015/), where I am speaking on the panel *‘Bitcoin and its Antecedents: A Look at the History and Evolution of Digital Cash’:*
