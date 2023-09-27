@@ -48,7 +48,7 @@ layout: default
             <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>{% endif %}
           {% if site.writer %}<h6 id="writer" itemprop="headline">By 
-           <a href="/lwa/about"> {{ site.writer | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+           <a href="/about"> {{ site.writer | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h6>{% endif %}
           {% include page__meta.html %}
         </header>
