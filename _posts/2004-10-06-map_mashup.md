@@ -13,7 +13,7 @@ tags:
   - Map
 
 categories:
-  - article
+  - ephemera
 class:
   - wide
 
