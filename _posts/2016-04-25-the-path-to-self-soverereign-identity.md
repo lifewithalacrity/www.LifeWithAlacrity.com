@@ -27,7 +27,7 @@ At all of these events I want to share a vision for how we can enhance the abili
 Why do we need this vision now? Governments and companies are sharing an unprecedented amount of information, cross-correlating everything from viewing habits to purchases, to where people are located during the day, to where they sleep at night, and with whom they associate. In addition, as the Third World enters the computer age, digital citizenship is providing Third World residents with greater access to human rights and to the global economy. When properly designed and implemented, self-sovereign identity can offer these benefits while also protecting individuals from the ever-increasing control of those in power, who may not have the best interests of the individual at heart.
 
 But what exactly do I mean by “Self-Sovereign Identity”?
-
+<!--more-->
 ## You Can’t Spell Identity without an “I”
 
 Identity is a uniquely human concept. It is that ineffable “I” of self-consciousness, something that is understood worldwide by every person living in every culture. As René Descartes said, *Cogito ergo sum* — **I think, therefore I am**.
