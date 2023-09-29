@@ -20,9 +20,9 @@ permalink: /news/speaking-at-consensus-2015/
 ---
 
 <img width="500px" height="300px"  src="{{ site.url }}{{ site.baseurl }}/assets/images/consensus.png" alt="Speaking at Consensus 2015"/>
-<!--more-->
-Christopher Allen Internet Security Pioneer Speaking at [Consensus 10 Sep NYC](https://consensus.coindesk.com/){:target="_blank"}
 
+Christopher Allen Internet Security Pioneer Speaking at [Consensus 10 Sep NYC](https://consensus.coindesk.com/){:target="_blank"}
+<!--more-->
 I'm heading out today to New York City to speak at [Consensus 2015](http://www.coindesk.com/events/consensus-2015/), where I am speaking on the panel *‘Bitcoin and its Antecedents: A Look at the History and Evolution of Digital Cash’:*
 
 > Bitcoin is far from the first attempt at creating a form of digital money with the potential to upend existing systems. Our panelists will look at bitcoin's predecessors and close cousins. Nathaniel Popper wrote the book Digital Gold, which delves into bitcoin's genesis; Christopher Allen is an internet security expert who has been involved in digital cash systems including Digicash for decades, while Garrick Hileman is CoinDesk's lead analyst and an economic historian at the LSE, specializing in alternative and private monies.
