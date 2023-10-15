@@ -29,7 +29,7 @@ The traditional economic definition of [_**“the commons”**_](https://en.wiki
 My own personal definition for the commons is broader — any regenerative, self-organizing complex system that can be drawn upon for [deep wealth](https://www.artbrock.com/presentations/new-economy-new-wealth){:target="_blank"}. These can include traditional commons, such as lumber, fish, etc., but can also include other regenerative systems such as communities, markets, intellectual property, etc.
 
 In 2009, [Elinor Ostrom](https://en.wikipedia.org/wiki/Elinor_Ostrom){:target="_blank"} received the Nobel Prize in Economics for her “analysis of economic governance, especially the commons”. In that, she listed 8 principles for effectively managing against the tragedy of the commons.
-
+## Hello world
 However, I've found her original words — as well as many adaptions I've seen since — to be not very accessible. Also, since the original release of the list of 8 principles there also has been some research resulting in updates and clarifications to her original list.
 
 I also wanted to generalize her principles for broader use given my broader definition of the commons, and apply them to everything from how to manage an online community to how a business should function with competitors. I went to the original version, more contemporary research, as well as a number of modern adaptions to define a new set of design principles.
