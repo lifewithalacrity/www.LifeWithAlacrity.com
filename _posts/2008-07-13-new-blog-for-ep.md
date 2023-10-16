@@ -21,7 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/new-blog-for-ephemera/
 ---
 
-This blog has been quiet lately as I've been doing a lot of work in the last year on the iPhone. I've been speaking at conferences like eComm 2008 ([presentation](http://www.slideshare.net/eComm2008/christopher-allens-presentation-at-ecomm-2008), [video from panel](http://blogs.nmscommunications.com/communications/2008/05/heres-the-compl.html)), writing an book on the iPhone with my co-author Shannon Appelcline called [iPhone in Action: Introduction to Web and SDK Development](http://www.manning.com/callen) (first [two chapters](http://www.manning-source.com/books/callen/callen_meapch1-2.pdf) free), and I am one of the organizers for the upcoming [iPhoneDevCamp 2](http://www.iPhoneDevCamp.org), a MacHack style conference on August 1st-3rd, and I am working on some social software apps for the iPhone.
+This blog has been quiet lately as I've been doing a lot of work in the last year on the iPhone. I've been speaking at conferences like eComm 2008 ([presentation](http://www.slideshare.net/eComm2008/christopher-allens-presentation-at-ecomm-2008), [video from panel](http://blogs.nmscommunications.com/communications/2008/05/heres-the-compl.html)), writing an book on the iPhone with my co-author Shannon Appelcline called [iPhone in Action: Introduction to Web and SDK Development](http://www.manning.com/callen) (first [two chapters](https://web.archive.org/web/20110728064457/http://www.manning-source.com/books/callen/callen_meapch1-2.pdf) free), and I am one of the organizers for the upcoming [iPhoneDevCamp 2](http://www.iPhoneDevCamp.org), a MacHack style conference on August 1st-3rd, and I am working on some social software apps for the iPhone.
 
 I've been reluctant to post too many of these off posts on this blog, as I like the length, quality and high-signal-to-noise ratio of the posts that I've written for this blog. I do plan to continue to offer more social software and social media posts, including followups to my [Collective Choice](/2005/12/systems_for_col.html) articles, as well as updates on my popular [Dunbar Number](/2004/03/the_dunbar_numb.html) posts. But I don't want to spam my readers here with notes on iPhone Apps, my thoughts on movies, circuses, the odd conferences I speak at, etc.
 
@@ -31,12 +31,12 @@ I've been reluctant to post too many of these off posts on this blog, as I like 
 
 So I've been trying to figure out how to cover some of the other things that I am up to without loosing my readers here, so decided to a create a new blog for my shorter and more transitory thoughts: [Christopher Allen's Ephemera Blog](http://ephemera.LifeWithAlacrity.com). So far I have posted:
 
-* [Max 9 pages, thus Max 144 Apps on iPhone OS 2.0](http://ephemera.lifewithalacrity.com/2008/07/max-9-pages-thu.html)
+* [Max 9 pages, thus Max 144 Apps on iPhone OS 2.0](https://web.archive.org/web/20110313145140/http://ephemera.lifewithalacrity.com/2008/07/max-9-pages-thu.html)
 * [First Look at AirMe App for iPhone](http://ephemera.lifewithalacrity.com/2008/07/first-look-at-a.html)
-* [Trying Out TypePad's Blog It Web App](http://ephemera.lifewithalacrity.com/2008/07/trying-out-type.html)
+* [Trying Out TypePad's Blog It Web App](https://web.archive.org/web/20110203141709/http://ephemera.lifewithalacrity.com/2008/07/trying-out-type.html)
 * [iPhone TypePad App Second Pass](http://ephemera.lifewithalacrity.com/2008/07/iphone-typepa-1.html)
-* [iPhone TypePad App First Look](http://ephemera.lifewithalacrity.com/2008/07/iphone-typepad.html)
-* [Ephemera Blog](http://ephemera.lifewithalacrity.com/2008/07/ephemera-blog.html)
+* [iPhone TypePad App First Look](https://web.archive.org/web/20110127193231/http://ephemera.lifewithalacrity.com/2008/07/iphone-typepad.html)
+* [Ephemera Blog](https://web.archive.org/web/20110815183207/http://ephemera.lifewithalacrity.com/2008/07/ephemera-blog.html)
 
 The RSS feed for this blog is here [![](http://www.feedburner.com/fb/images/pub/feed-icon16x16.png)](http://feeds.feedburner.com/ChristopherAllensEphemeraBlog).
 

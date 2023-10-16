@@ -88,7 +88,7 @@ There is clearly some conflation and orthogonality in my list below of types of 
 
 **Dictatorship** — Executive authority exercised to ensure a monopoly of authority by its elected representative.
 
-(image credit: grant horwood, aka frymaster [CC BY-SA 2.5-2.0-1.0 ](https://creativecommons.org/licenses/by-sa/2.5-2.0-1.0){:target="_blank"})
+(image credit: grant horwood, aka frymaster [CC BY-SA 2.5-2.0-1.0 ](https://www.brokenhandsmedia.com/blog/2022/1/26/the-spectrum-of-consent){:target="_blank"})
 
 [original layout]
 
