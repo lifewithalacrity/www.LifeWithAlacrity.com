@@ -21,8 +21,6 @@ _This year I gave it a new try by authoring [an advanced-reading paper for RWOT 
 
 ## Data Minimization
 
-<a href="/musings.html"><img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png" width=200 height=200 style="border: 1px solid black; float: right;"></a>
-
 Data Minimization is the practice of limiting the amount of shared data to the minimum necessary: just enough for parties to successfully transact, accomplish a task, or otherwise meet a goal with each other, while minimizing risks to all parties by omitting unnecessary content. 
 
 Though essential as part of security best practices (along with [Least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege), a topic for a future musing), Minimimal Disclosure is, in particular, is mandated practice for maintaining the privacy of people using digital identities and thus requires special attention  when collecting and sharing, to curtail personal information to only that which is absolutely necessary.
