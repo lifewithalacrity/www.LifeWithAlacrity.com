@@ -1,6 +1,6 @@
 ---
-slug: "A New Approach to Building Trust in Decentralized Systems"
 title: "Musings of a Trust Architect: Progressive Trust"
+subtitle: "A New Approach to Building Trust in Decentralized Systems"
 excerpt_separator: "<!--more-->"
 categories:
   - article
