@@ -9,7 +9,6 @@ tags:
   - Trust
 classes:
   - wide
-image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
 ### A New Approach to Building Trust in Decentralized Systems
