@@ -1,22 +1,14 @@
 ---
-header:
-  overlay_color: "#00f"
-  overlay_filter: "0.35"
-  overlay_image: /images/blueprints.jpg
-  og_image: /images/musings-card.jpg
-  actions:
-    - label: "See All Musings"
-      url: /musings.html
 tagline: "Why We Need Alternatives before It's Too Late"
 title: "Musings of a Trust Architect: Problems of Cryptographic Agility"
-author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - Musings
+  - ARTICLE
 tags:
-  - Trust
+  - Musings
+  - CRYPTOGRAPHY
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
 ---
 
