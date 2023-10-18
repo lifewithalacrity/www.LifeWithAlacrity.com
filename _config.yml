@@ -23,6 +23,9 @@ github_username: ChristopherA
 search: true
 writer: Christopher Allen
 
+header:
+  overlay_image: /assets/images/lwa.png
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
