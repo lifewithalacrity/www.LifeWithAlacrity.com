@@ -5,13 +5,12 @@ hide_description: true
 classes:
   - wide
 permalink: /test/
+header:
+  overlay_image: /assets/images/lwa.png
 ---
 
 <ul>
-  {% for post in site.posts limit: 10 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
+{% for post in site.posts limit: 7 %}
+<li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 </ul>
