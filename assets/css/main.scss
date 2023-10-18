@@ -8,3 +8,6 @@ $max-width:90%;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$body-color: green;
+$background-color: green;
+$link-color: white;
