@@ -5,8 +5,6 @@ hide_description: true
 classes:
   - wide
 permalink: /test/
-header:
-  overlay_image: /assets/images/lwa.png
 ---
 
 <ul>
