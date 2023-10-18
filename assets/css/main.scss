@@ -8,29 +8,3 @@ $max-width:90%;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-# Green Skin
-
-/* ==========================================================================
-   Mint skin
-   ========================================================================== */
-
-/* Colors */
-$background-color: #f3f6f6;
-$text-color: #40514e;
-$muted-text-color: #40514e;
-$primary-color: #11999e;
-$border-color: mix(#fff, #40514e, 75%);
-$footer-background-color: #30e3ca;
-$link-color: #11999e;
-$masthead-link-color: $text-color;
-$masthead-link-color-hover: $text-color;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%);
-
-.page__footer {
-  color: #fff; // override
-}
-
-.page__footer-follow .social-icons i,
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
-}
