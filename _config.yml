@@ -93,7 +93,7 @@ defaults:
       share: true
       related: true
       header:
-        image: /assets/images/lwa.png
+        overlay_image: /assets/images/lwa.png
   # _pages
   - scope:
       path: "_pages"
@@ -102,7 +102,7 @@ defaults:
       layout: splash
       author_profile: true
       header:
-        image: /assets/images/lwa.png
+        overlay_image: /assets/images/lwa.png
 
 category_archive:
   type: liquid
