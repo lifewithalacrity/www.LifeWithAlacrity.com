@@ -16,6 +16,10 @@ $link-color: #008800;
   color: white;
 }
 
+.site-nav.greedy-nav {
+  color: #008800;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
