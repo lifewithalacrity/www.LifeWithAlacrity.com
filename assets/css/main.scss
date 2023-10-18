@@ -7,7 +7,7 @@ $max-width:90%;
 
 $footer-background-color: #008800;
 $link-color: #008800;
-
+$masthead-link-color: #008800;
 
 .page__footer-copyright,
 .page__footer a,
@@ -16,7 +16,8 @@ $link-color: #008800;
   color: white;
 }
 
-.masthead {
+.masthead,
+.masthead a {
   color: #008800;
 }
 
