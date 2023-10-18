@@ -22,6 +22,11 @@ $masthead-link-color: #008800;
   color: #008800;
 }
 
+.notice--success {
+    font-size: .9em !important; // Between type-size-5 and type-size-6
+}
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
