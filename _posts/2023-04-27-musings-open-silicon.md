@@ -1,23 +1,15 @@
 ---
-header:
-  overlay_color: "#00f"
-  overlay_filter: "0.35"
-  overlay_image: /images/blueprints.jpg
-  og_image: /images/musings-card.jpg
-  actions:
-    - label: "See All Musings"
-      url: /musings.html
 tagline: "Help Shape the Future of Open Secure Chips"
 title: "Musings of a Trust Architect: Open Silicon"
-author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - Musings
+  - article
 tags:
-  - Trust
-image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
+  - Musings
+  - Open Source
+  - Open Silicon
 ---
 
 > **ABSTRACT:** Drawing inspiration from Ken Thompson's seminal work, [Reflections on Trusting Trust](https://dl.acm.org/doi/pdf/10.1145/358198.358210), there are deep-rooted challenges in establishing trust in computing systems that require us to consider security down to the level of semiconductor design. Open silicon offers numerous benefits, however, the path to its adoption is fraught with challenges. Blockchain Commons' series of Silicon Salons fosters collaboration to address these challenges, advancing open and secure cryptographic semiconductor development.
