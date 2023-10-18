@@ -17,6 +17,10 @@ $masthead-link-color: #008800;
   color: white;
 }
 
+.page__title h1 {
+  text-decoration: none;
+}
+
 .author__urls.social-icons .svg-inline--fa,
 .masthead,
 .masthead a {
