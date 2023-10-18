@@ -10,7 +10,7 @@ permalink: /
 <b>Most Recent Post:</b>
 <ul>
 {% for post in site.posts limit: 1 %}
-<li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}
+<li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 {% endcapture%}
@@ -31,4 +31,4 @@ _Christopher is available for personal consulting engagements on decentralized d
 {% endfor %}
 </ul>
 
-_See all [Posts](/posts/)_
+_See all [Posts](/posts/)._
