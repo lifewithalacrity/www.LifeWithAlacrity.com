@@ -5,9 +5,7 @@ search: false
 
 $max-width:90%;
 
-masthead {
-  background-color: green;
-}
+$masthead-background-color: green;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
