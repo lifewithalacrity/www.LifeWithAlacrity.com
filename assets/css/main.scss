@@ -5,10 +5,9 @@ search: false
 
 $max-width:90%;
 
-$mygreen: #0f0
-$masthead-background-color: $mygreen;
-$footer-background-color: $mygreen;
-$link-color: $mygreen;
+$masthead-background-color: green;
+$footer-background-color: green;
+$link-color: green;
   
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
