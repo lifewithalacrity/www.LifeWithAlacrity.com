@@ -76,9 +76,12 @@ author:
 
 footer:
   links:
-    - label: "About"
+    - label: "Blockchain Commons"
       icon: "fas fa-info-circle"
-      url: "https://rebootthehague.com/"
+      url: "https://www.blockchaincommons.com/"
+    - label: "SmartCustody"
+      icon: "fas fa-info-circle"
+      url: "https://www.smartcustody.com/"
  
 defaults:
   # _posts
