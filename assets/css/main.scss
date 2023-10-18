@@ -7,6 +7,7 @@ $max-width:90%;
 
 $masthead-background-color: green;
 $footer-background-color: green;
+$footer-link-color: white;
 $link-color: green;
   
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
