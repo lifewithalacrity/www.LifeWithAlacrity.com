@@ -8,8 +8,11 @@ $max-width:90%;
 $masthead-background-color: green;
 $footer-background-color: green;
 $link-color: green;
-$footer-link-color: white;
-$footer-text-color: white;
+
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: white;
+}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
