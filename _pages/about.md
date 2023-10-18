@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "About Christopher Allen"
 permalink: /about/
 author_profile: true
