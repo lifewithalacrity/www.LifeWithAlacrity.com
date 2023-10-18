@@ -23,9 +23,6 @@ github_username: ChristopherA
 search: true
 writer: Christopher Allen
 
-header:
-  overlay_image: /assets/images/lwa.png
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -95,6 +92,8 @@ defaults:
       comments: true
       share: true
       related: true
+      header:
+        overlay_image: /assets/images/lwa.png
   # _pages
   - scope:
       path: "_pages"
@@ -102,6 +101,8 @@ defaults:
     values:
       layout: splash
       author_profile: true
+      header:
+        overlay_image: /assets/images/lwa.png
 
 category_archive:
   type: liquid
