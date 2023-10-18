@@ -37,4 +37,8 @@ Entrepreneur, Advisor & Technologist
 
 **Email:** [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com) (work)
 
+<hr>
+
 Life With Alacrity © Christopher Allen
+
+<a href="https://www.freepik.com/free-vector/ivy-climbing-plant-frame-composition-with-rectangular-illustration-empty-space-surrounded-by-branches-leaves-illustration_21077720.htm#query=ivy&position=4&from_view=keyword&track=sph">Ivy header image by macrovector</a> on Freepik
