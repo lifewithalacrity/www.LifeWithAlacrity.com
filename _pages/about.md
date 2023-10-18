@@ -2,7 +2,6 @@
 layout: splash
 title: "About Christopher Allen"
 permalink: /about/
-author_profile: true
 ---
 
 Christopher Allen is a world-renowned authority on decentralized digital trust, online collaboration, identity management, digital assets, smart contracts, and human-rights privacy. 
