@@ -4,7 +4,7 @@ title: Life with Alacrity
 hide_description: true
 classes:
   - wide
-permalink: /test/
+permalink: /
 ---
 
 {% capture notice-1 %}
