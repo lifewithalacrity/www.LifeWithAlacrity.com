@@ -17,10 +17,6 @@ $masthead-link-color: #008800;
   color: white;
 }
 
-.page__title h1 {
-  text-decoration: none !important;
-  text-decoration-line: none !important;
-}
 
 .author__urls.social-icons .svg-inline--fa,
 .masthead,
@@ -36,3 +32,7 @@ $masthead-link-color: #008800;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.page__title h1 {
+  text-decoration: none !important;
+  text-decoration-line: none !important;
+}
