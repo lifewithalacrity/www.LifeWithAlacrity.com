@@ -1,5 +1,4 @@
 ---
-layout: splash
 title: "About Christopher Allen"
 permalink: /about/
 ---
