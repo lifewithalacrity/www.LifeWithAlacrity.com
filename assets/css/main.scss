@@ -7,10 +7,15 @@ $max-width:90%;
 
 $masthead-background-color: green;
 $footer-background-color: green;
-$footer-link-color: white;
-$footer-text-color: white;
 $link-color: green;
-  
+
+.author__urls.social-icons i,
+.author__urls.social-icons .svg-inline--fa,
+.page__footer-follow .social-icons i,
+.page__footer-follow .social-icons .svg-inline--fa  {
+  color: inherit;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
