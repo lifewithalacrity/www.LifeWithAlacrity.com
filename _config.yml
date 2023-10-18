@@ -13,11 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Life With Alacrity"
-baseurl: /
-email:
+# title: "Life With Alacrity"
+# baseurl: /
+# email:
 description: "A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen."
-twitter_username: ChristopherA
+twitter:
+  username: ChristopherA
 github_username: ChristopherA
 # minimal_mistakes_skin: dark
 search: true
@@ -105,10 +106,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
-      share: false
-      related: false
       search: false
       header:
         overlay_image: /assets/images/lwa.png
