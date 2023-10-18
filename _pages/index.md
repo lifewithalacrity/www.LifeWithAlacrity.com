@@ -29,3 +29,5 @@ _Christopher is available for personal consulting engagements on decentralized d
 <li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
+_See all [Posts](/posts/)_
