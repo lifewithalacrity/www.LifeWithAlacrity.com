@@ -9,6 +9,7 @@ permalink: /
 
 {% capture notice-1 %}
 {% for post in site.posts limit: 1 %}
+<b>Most Recent Post:</b>
 <b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}
 {% endfor %}
 {% endcapture%}
