@@ -94,16 +94,20 @@ defaults:
       related: true
       header:
         overlay_image: /assets/images/lwa.png
+        show_overlay_excerpt: false
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
       header:
         overlay_image: /assets/images/lwa.png
-        show_overlay_excerpt: false
 
 category_archive:
   type: liquid
