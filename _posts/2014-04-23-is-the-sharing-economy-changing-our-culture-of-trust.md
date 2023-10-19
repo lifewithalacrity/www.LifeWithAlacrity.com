@@ -7,9 +7,9 @@ redirect_from:
   - /2014/04/is-the-sharing-economy-changing-our-culture-of-trust/
 date:   2014-04-23 12:01:00 +0300
 # image:  02.jpg
-tags:   Web/Tech
 tags: 
-  - Web/Tech
+  - Sharing
+  - Sharing Economy
   - Trust
 
 categories:

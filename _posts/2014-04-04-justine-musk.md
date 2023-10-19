@@ -8,7 +8,7 @@ redirect_from:
 date:   2014-04-04 12:00:00 -0700
 # image:  02.jpg
 tags: 
-  - Story
+  - Stories
 
 categories:
   - socialmedia

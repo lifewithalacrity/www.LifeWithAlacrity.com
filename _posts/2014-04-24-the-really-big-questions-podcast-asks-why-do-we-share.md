@@ -8,8 +8,7 @@ redirect_from:
 date:   2014-04-24 10:39:49 +0300
 # image:  02.jpg
 tags: 
-  - software
-  - spectrum
+  - Sharing
 
 categories:
   - ephemera

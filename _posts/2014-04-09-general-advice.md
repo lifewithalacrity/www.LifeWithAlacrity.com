@@ -8,8 +8,7 @@ date:   2014-04-09 11:15:24 -0700
 # image:  02.jpg
 tags: 
   - SSL
-  - General
-  - Advice
+  - Heartbleed
 
 categories:
   - socialmedia

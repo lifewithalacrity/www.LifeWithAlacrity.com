@@ -8,8 +8,7 @@ redirect_from:
 date:   2014-04-07 12:00:00 -0700
 # image:  02.jpg
 tags: 
-  - Danah-boyd
-  - Sexist
+  - Sexism
 
 categories:
   - socialmedia

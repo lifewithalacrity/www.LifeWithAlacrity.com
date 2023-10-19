@@ -8,8 +8,7 @@ redirect_from:
 date:   2014-06-18 08:20:58 +0300
 # image:  context.jpeg
 tags: 
-  - language
-  - context
+  - Language
 
 categories:
   - ephemera

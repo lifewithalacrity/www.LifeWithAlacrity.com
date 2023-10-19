@@ -8,8 +8,7 @@ redirect_from:
 date:   2014-04-05 12:00:00 -0700
 # image:  02.jpg
 tags: 
-  - Unpopular
-  - Opinion
+  - Opinions
 
 categories:
   - socialmedia

@@ -7,8 +7,6 @@ redirect_from:
   - /2014/03/a-story-of-a-great-teacher/
 date:   2014-03-22 12:00:00 -0700
 # image:  02.jpg
-tags: 
-  - Social Media
 
 categories:
   - socialmedia

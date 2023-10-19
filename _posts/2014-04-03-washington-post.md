@@ -7,8 +7,6 @@ redirect_from:
   - /2014/04/washington-post-says-us-tried-to-create-a-cuban-twitter/
 date:   2014-04-03 12:00:00 -0700
 # image:  02.jpg
-tags: 
-  - Social Media
 
 categories:
   - socialmedia

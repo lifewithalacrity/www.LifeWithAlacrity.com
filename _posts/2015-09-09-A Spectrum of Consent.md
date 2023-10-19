@@ -8,7 +8,8 @@ redirect_from:
 date:   2015-09-09 09:28-07 +0300
 # image:  spectrum.png
 tags:
-  - Consent
+  - Consensus
+  - Collective Choice
 
 categories:
   - article

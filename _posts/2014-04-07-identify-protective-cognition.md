@@ -8,8 +8,7 @@ redirect_from:
 date:   2014-04-07 11:15:24 -0700
 # image:  02.jpg
 tags: 
-  - Cognitive
-  - Identity
+  - Persuasion
 
 categories:
   - socialmedia

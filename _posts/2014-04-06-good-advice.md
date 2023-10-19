@@ -7,10 +7,6 @@ redirect_from:
   - /2014/04/good-advice-from-a-modern-designers-canvas/
 date:   2014-04-06 12:00:00 -0700
 # image:  02.jpg
-tags: 
-  - Advice
-  - Designer
-  - Canvas
 
 categories:
   - socialmedia

@@ -7,9 +7,6 @@ redirect_from:
   - /2014/04/world-backup-day/
 date:   2014-04-07 09:20:24 -0700
 # image:  02.jpg
-tags: 
-  - World
-  - Backup
 
 categories:
   - socialmedia
