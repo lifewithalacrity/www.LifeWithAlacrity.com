@@ -20,7 +20,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/conserving-social-capital/
 ---
 
-A followup to my post yesterday [Social Software -- Problems & the Definition of "Friends"](#107108853847658748), I saw in [Scott Lofteness' blog](http://www.sjl.us/main/2003/12/social_networki.html) a reference to David Hornick's [VentureBlog: Conserving Social Capital](http://www.ventureblog.com/articles/indiv/2003/000214.html):
+A followup to my post yesterday [Social Software -- Problems & the Definition of "Friends"](#107108853847658748), I saw in [Scott Lofteness' blog](https://web.archive.org/web/20040131223211/http://www.sjl.us/main/2003/12/social_networki.html) a reference to David Hornick's [VentureBlog: Conserving Social Capital](http://www.ventureblog.com/articles/indiv/2003/000214.html):
 
 > As social networking software grows more prevalent and an increasing number of people attempt to draw upon our social capital to make introductions, entertain business propositions, pass along resumes, etc., I believe we will all grow more guarded with our time and our relationships. If social capital is indeed capital, we will all soon be more careful about where we spend it and on whom.
 

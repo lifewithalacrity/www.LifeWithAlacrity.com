@@ -21,11 +21,11 @@ permalink: /ephemera/sexism-social-software-and-the-blogospher/
 
 A fascinating series of blog entries shows the promise and peril of social software and Blogs as a medium in a male-dominated technocracy:
 
-In [misbehaving.net: "sexist jokes and Orkut invites"](http://www.misbehaving.net/2004/02/sexist_jokes_an.html), Dana Boyd writes:
+In [misbehaving.net: "sexist jokes and Orkut invites"](https://web.archive.org/web/20050211011247/http://www.misbehaving.net/2004/02/sexist_jokes_an.html), Dana Boyd writes:
 
 > When i received this note, i simultaneously recognized the intended joke and felt the shudder of being so blatantly seen as an object.
 
-At [Radio Free Blogistan: "This social software stuff is tricky"](http://radiofreeblogistan.com/2004/02/04/this_social_software_stuff_is_tricky.html) Christian Crumlish apologizes:
+At [Radio Free Blogistan: "This social software stuff is tricky"](https://web.archive.org/web/20041121075155/http://radiofreeblogistan.com/2004/02/04/this_social_software_stuff_is_tricky.html) Christian Crumlish apologizes:
 
 > In my mind, I was cracking on the phenomenon of me being linked to so many other men. I wasn't sure if this had something to do with the population of Orkut or with my own subnetwork there.
 > 
@@ -42,7 +42,7 @@ In [Apophenia "Publically Processing Hurt](http://www.zephoria.org/thoughts/arch
 
 I have some understanding of Christian -- I consider myself a conscious feminist, but sometimes our male world-view sets us up for a clash. I could easily see myself in his situation, realizing that there are so few women among my connections, trying to fix that, and then falling flat on my face.
 
-I've run into this type of thing before at [Skotos](http://www.skotos.net/) \-\- one of our games [Castle Marrach](http://www.skotos.net/games/marrach/) is notable as a commercial game that has probably more women involved in it then men. This was a deliberate part of the game design, but when I talk about how and why we designed it that way it is easy for me to come across as sexist.
+I've run into this type of thing before at [Skotos](http://www.skotos.net/) \-\- one of our games [Castle Marrach](https://web.archive.org/web/20100310122233/http://www.skotos.net/games/marrach/) is notable as a commercial game that has probably more women involved in it then men. This was a deliberate part of the game design, but when I talk about how and why we designed it that way it is easy for me to come across as sexist.
 
 Also, the context is important. If this 'joke' had been spoken and in a semi-private medium where everyone knows and trusts each other, it would have come across very differently. Instead, it was sent to a circle of friends where everyone knew Christian, but not everyone knew each other. This is more proof that even 'friends of friends' can be a pretty distant connection. If the joke had been told at [Live Journal](http://www.livejournal.com), which is also dominated by women (64%), it also would have come across differently.
 

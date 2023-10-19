@@ -223,7 +223,7 @@ Summary
 
 Looking back, I wish I had this organization when I started on Google+ two weeks ago. By using some of these techniques from the beginning I would have made my life a lot easier. Over the next month I now have to go back and re-organize people and re-Circle them. I hope sharing these tips will make your use of Google+ simpler from the start!
 
-Also, I expect that Google will be adding new features to make Google+ easier. For instance I’m hoping for #hashtags (the ability to tag posts into topic categories), favorites (the ability to tag posts into a persistent archive, hopefully with an option tag), ordering Circles, concentric Circles, and better integration with Google Reader. (I share my favorite blog posts on [Google Reader](http://www.google.com/reader/shared/ChristopherA) at  and my best of best articles and posts in [Twitter Favorites](http://twitter.com/ChristopherA/favorites) or [Delicious](http://delicious.com/christophera).)
+Also, I expect that Google will be adding new features to make Google+ easier. For instance I’m hoping for #hashtags (the ability to tag posts into topic categories), favorites (the ability to tag posts into a persistent archive, hopefully with an option tag), ordering Circles, concentric Circles, and better integration with Google Reader. (I share my favorite blog posts on [Google Reader](https://web.archive.org/web/20130831045353/http://www.google.com/reader/about/) at  and my best of best articles and posts in [Twitter Favorites](http://twitter.com/ChristopherA/favorites) or [Delicious](https://web.archive.org/web/20160319042532/http://delicious.com/christophera).)
 
 As with any new online feature, people are finding out new things and coming up with new ideas every day. So what are _your_ methods for organizing your Circles and social graph?
 
@@ -247,7 +247,7 @@ As with any new online feature, people are finding out new things and coming up 
 > * [+Matt Stratton](https://plus.google.com/107631581023945167601/about): [How I Set Up My Circles in Google+](http://www.mattstratton.com/tech-tips/how-i-set-up-my-circles-in-google-plus)
 > * [+Anson Alex](https://plus.google.com/113551191017950459231/about): [Guide to Working with Circles in Google Plus](http://ansonalex.com/tutorials/managing-circles-in-google-plus/)
 > * [+Adina Levin](https://plus.google.com/101746196094367799224/about): [The promise of Google+ for organizing](http://www.alevin.com/?p=2616)
-> * [+Sterling Ledet](https://plus.google.com/104681313125038107957/about) [A Thought on Google+ Circles – Privacy vs. Relevance](http://www.weteachthecoolstuff.com/2011/07/09/a-thought-on-circles-privacy-vs-relevance/)
+> * [+Sterling Ledet](https://plus.google.com/104681313125038107957/about) [A Thought on Google+ Circles – Privacy vs. Relevance](https://web.archive.org/web/20110712141027/http://www.weteachthecoolstuff.com/2011/07/09/a-thought-on-circles-privacy-vs-relevance/)
 > * [+Dave Pollard](https://plus.google.com/118432652629200965858/about): [Google+: On Communities, Circles, Friendship and Love](http://howtosavetheworld.ca/2011/07/11/google-plus-on-communities-circles-friendship-and-love/)
 > * [+Beth Kanter](https://plus.google.com/107965826228461029730/about): [Are You Going To Adopt Google+ for Professional Learning/Networking? Why or Why Not?](http://www.bethkanter.org/np-google/)
 > * [+Damon Morda](https://plus.google.com/104181568670836761473/about): [Five Steps to Configuring Privacy on Google Plus (+)](http://www.brandedclever.com/five-steps-to-configuring-privacy-on-google-plus/)
@@ -262,10 +262,10 @@ As with any new online feature, people are finding out new things and coming up 
 > * [+Craig Kanalley](https://plus.google.com/103399926392582289066/about): [Tips & Thoughts on Google+](https://plus.google.com/103399926392582289066/posts/52dmpNDbWtp)
 > * [+Paul Goode](https://plus.google.com/105611903933875658496/about/): [Sketch on Google+](https://plus.google.com/105611903933875658496/posts/W9CaNrwku3x)
 > 
-> _**My bookmarks to various papers and websites on related to this topic are available at [delicious.com/ChristopherA](http://delicious.com/ChristopherA) under some of the following tags:**_
+> _**My bookmarks to various papers and websites on related to this topic are available at [delicious.com/ChristopherA](https://web.archive.org/web/20160319042532/http://delicious.com/christophera) under some of the following tags:**_
 > 
-> * [personal circles](http://delicious.com/ChristopherA/personal+circles) \- everything I have on the of personal limits.
-> * [familiar strangers](http://delicious.com/ChristopherA/personal+circles) \- those people you recognize by face.
+> * [personal circles](https://web.archive.org/web/20130310163641/https://delicious.com/ChristopherA/personal+circles) \- everything I have on the of personal limits.
+> * [familiar strangers](https://web.archive.org/web/20130310163641/https://delicious.com/ChristopherA/personal+circles) \- those people you recognize by face.
 > 
 > **_Illustration by [Nancy Margulies](http://www.nancymargulies.com), Many thanks to [+Elyn Andersson](https://plus.google.com/102320045646237908121/about) and [Shannon Appecline](http://www.skotos.net/about/staff/shannon_appelcline.php) for their assistance with this post._**  
 >

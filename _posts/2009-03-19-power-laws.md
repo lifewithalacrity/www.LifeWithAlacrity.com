@@ -132,7 +132,7 @@ Having been the leader in several groups, I can truly relate to Participation In
 
 It has been interesting to be part of a local blogging community and how it actually somewhat detracted from my overall bigger online community I was a part of before. I seemed to have kept only the most dedicated readers (1%) from just simply joining a local group.
 
-[logtar](http://blog.logtar.com) 2009-05-18T11:49:00-07:00
+[logtar](https://web.archive.org/web/20080725024340/http://blog.logtar.com/) 2009-05-18T11:49:00-07:00
 
 Chris - this was a really great series of 3 posts - it is outlined as well as anything I've seen on the subject. In the course of your experience have you seen much of a difference between the style of content produced in communities and how that impacts the power law? A few years ago I started a project to create an open source methodology for information management http://www.openmethodology.org, which worked in concert with corporate solutions also built in a collaborative fashion. At least in this case, we have found the power law threshold to be even higher when creating a more structured, method-based approach to collaboration. We did feel there was a need to put some controls in place for an "open method" and have experimented with different ways to build a collaborative commmunity. Some good progress has been made, but its been tough going! We also applied this same approach to sustainability http://www.open-sustainability.org. Once again, very hard work to build the community but some slow steps are being made. Do you have any thoughts around more structured collaboration and how it can negatively impact community growth in readership and contributions? Any recommendations on ways to improve it?
 

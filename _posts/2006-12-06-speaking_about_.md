@@ -17,7 +17,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/speaking-about-synchro-edit-at-wiki-wednesday/
 ---
 
-I will be speaking tonight at [WikiWednesday](http://www.socialtext.net/wikiwed/index.cgi?wiki_wednesdays) on the topic of _**Same Time, Different Place Editing**_, and will be demonstrating [SynchroEdit](http://www.synchroedit.com) integration with [MediaWiki](http://www.mediawiki.com) and [EditThisPagePHP](http://www.editthispage.net).
+I will be speaking tonight at [WikiWednesday](https://www.synchroedit.com/) on the topic of _**Same Time, Different Place Editing**_, and will be demonstrating [SynchroEdit](http://www.synchroedit.com) integration with [MediaWiki](http://www.mediawiki.com) and [EditThisPagePHP](https://web.archive.org/web/20110819075152/http://editthispage.net/home/index.php).
 
 If you are interested, see you tonight (Wednesday) at 6-8pm, [at Socialtext](http://maps.google.com/maps?oi=map&q=655+High+Street,+Palo+Alto,+CA).
 

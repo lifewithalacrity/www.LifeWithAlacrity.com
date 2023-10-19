@@ -29,9 +29,9 @@ Of course supporting the global economy. USA products are sold everywhere in the
 
 [Mark Daniels](http://www.supportuniverse.com) 2004-10-03T08:44:46-07:00
 
-Support as you see fit. A new, similar site, www.ultrabizz.com is aimed at bigger projects, providing a built in contract system and a job requirements area.
+Support as you see fit. A new, similar site, https://web.archive.org/web/20111029072816/http://ultrabizz.com/ is aimed at bigger projects, providing a built in contract system and a job requirements area.
 
-[Visitor](http://www.ultrabizz.com) 2005-02-11T00:47:53-07:00
+[Visitor](https://web.archive.org/web/20111029072816/http://ultrabizz.com/) 2005-02-11T00:47:53-07:00
 
 [original layout]
 

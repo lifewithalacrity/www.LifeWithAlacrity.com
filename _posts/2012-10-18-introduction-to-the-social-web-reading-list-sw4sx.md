@@ -19,7 +19,7 @@ excerpt_seperator: <!--more-->
 permalink: /article/introduction-to-the-social-web-reading-list-sw4sx/
 ---
 
-These are the initial required readings for the first two weeks of my [Using the Social Web for Social Change](http://www.bgi.edu/changing-business/social-web-for-social-change/) class (hashtag #SW4SX) that I teach in the [MBA in Sustainable Systems](http://www.bgi.edu/academics/mbas/hybrid-mba/) program at [Bainbridge Graduate Institute](http://www.bgi.edu).
+These are the initial required readings for the first two weeks of my [Using the Social Web for Social Change](https://web.archive.org/web/20130627164630/http://www.bgi.edu/changing-business/social-web-for-social-change/) class (hashtag #SW4SX) that I teach in the [MBA in Sustainable Systems](https://web.archive.org/web/20110317105916/http://www.bgi.edu/academics/mbas/hybrid-mba/) program at [Bainbridge Graduate Institute](http://www.bgi.edu).
 
 The goal of this portion of the class is to cover an introduction and overview of the landscape of the Social Web, establish among the students the beginning of a shared language about the medium, and introduce a process toward a collaborative culture that we will use for the rest of the course. Students are also kicking off their Beat blogs on sustainability topics, with the goal of helping them move toward having an authentic online voice.
 
@@ -33,7 +33,7 @@ _**When I designed this class four years ago, I was inspired by Michael Wesch's 
     
     * BLOGPOST:[http://mediatedcultures.net/ksudigg/?p=119](http://mediatedcultures.net/ksudigg/?p=119)
     
-    * HI-RES VIDEO:[http://www.mediafire.com/?3xbhmdmsfmd](http://www.mediafire.com/?3xbhmdmsfmd)
+    * HI-RES VIDEO:[http://www.mediafire.com/?3xbhmdmsfmd](https://web.archive.org/web/20130112223601/http://www.mediafire.com/?3xbhmdmsfmd)
     * KEYQUOTE: “This video was created by me and the 200 students enrolled in ANTH 200: Introduction to Cultural Anthropology at Kansas State University, Spring 2007. It began as a brainstorming exercise, thinking about how students learn, what they need to learn for their future, and how our current educational system fits in.”
 
 **TOPIC: Shared Language**
@@ -46,7 +46,7 @@ _**When I designed this class four years ago, I was inspired by Michael Wesch's 
     * KEYQUOTE: “Without a shared language there will be no clarity on mutual goals — whether it involves working together, transacting a trade, or creating something…However, some facilitators have learned that one of the best ways to help a group form a shared language is by having the group create together a shared artifact…It allows the individuals participating to ask the questions: "Is this what you mean when…"
 
 * Pinker, Steven "Book Excerpt: Steven Pinker: Words Don't Mean What They Mean" Time Magazine, 2007-09-06
-    * ARTICLE: [http://www.time.com/time/magazine/article/0,9171,1659772,00.html](http://www.time.com/time/magazine/article/0,9171,1659772,00.html)
+    * ARTICLE: [http://www.time.com/time/magazine/article/0,9171,1659772,00.html](https://web.archive.org/web/20120217012210/http://www.time.com/time/magazine/article/0,9171,1659772,00.html)
     * KEYQUOTE: "Why don't people just say what they mean? The reason is that conversational partners are not modems downloading information into each other's brains. People are very, very touchy about their relationships. Whenever you speak to someone, you are presuming the two of you have a certain degree of familiarity--which your words might alter. So every sentence has to do two things at once: convey a message and continue to negotiate that relationship."
 
 * Kim, Eugene Eric "Developing Shared Language" eeKim.com, 2006-06-09
@@ -159,7 +159,7 @@ _**When I designed this class four years ago, I was inspired by Michael Wesch's 
 **SUB-TOPIC: The Dark Side: Information Overload, Attention, Multitasking**
 
 * Shirky, Clay "It's Not Information Overload. It's Filter Failure" Web 2.0 Expo
-    * VIDEO:[http://web2expo.blip.tv/file/1277460/](http://web2expo.blip.tv/file/1277460/)
+    * VIDEO:[http://web2expo.blip.tv/file/1277460/](https://web.archive.org/web/20120105200023/http://blip.tv/web2expo/web-2-0-expo-ny-clay-shirky-shirky-com-it-s-not-information-overload-it-s-filter-failure-1283699)
     * (ALTVIDEO:[http://www.youtube.com/watch?v=LabqeJEOQyI](http://www.youtube.com/watch?v=LabqeJEOQyI) )
     * KEYQUOTE: "What we're dealing with now is not the problem of information overload, because we're always dealing (and always have been dealing) with information overload...Thinking about information overload isn't accurately describing the problem; thinking about filter failure is."
 
@@ -184,7 +184,7 @@ _**When I designed this class four years ago, I was inspired by Michael Wesch's 
     * KEYQUOTE: "My thoughts have now gelled sufficiently to make some observations about privacy. When people speak about privacy, they may actually be talking about very different forms of privacy: defensive privacy, human-rights privacy, personal privacy, and contextual privacy."
 
 * Madden, Mary "Privacy management on social media sites: Summary of Findings" Pew Internet 2012-02-24
-    * SUMMARY OF FINDINGS: [http://pewinternet.org/Reports/2012/Privacy-management-on-social-media/Summary-of-findings.aspx](http://pewinternet.org/Reports/2012/Privacy-management-on-social-media/Summary-of-findings.aspx)
+    * SUMMARY OF FINDINGS: [http://pewinternet.org/Reports/2012/Privacy-management-on-social-media/Summary-of-findings.aspx](https://web.archive.org/web/20120323204320/http://pewinternet.org/Reports/2012/Privacy-management-on-social-media/Summary-of-findings.aspx)
     * KEYQUOTE: "Social media users who are college graduates are significantly more likely than those with lower levels of education to say that they experience some difficulty in managing the privacy controls on their profiles. … 11% of SNS users have posted content they regret."
 
 * Consumer Reports "Facebook & your privacy — Who sees the data you share on the biggest social network?" Consumer Reports Magazone, 2012-06

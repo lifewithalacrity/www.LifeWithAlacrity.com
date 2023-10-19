@@ -49,11 +49,11 @@ Chris, we see a lot of this sort of thing in the Indian online world - at social
 
 (I found you via Sharon Boggon's http://www.inaminuteago.com/mindtracks/ blog)...I like Spinoza's theory, and would just simplify it: where there is heat, there is personal projection of some kind of unfinished business. Sometimes it is worth deciphering, sometimes not. I loved what Dina Mehta said about the online world "encourages an even-playing field for free speech". It has got to be a force for increased understanding among all people, flammage along the way or not.
 
-[Allison Aller](http://www.allisonaller.com) 2005-07-24T07:21:31-07:00
+[Allison Aller](https://web.archive.org/web/20060804000037/http://www.allisonaller.com/) 2005-07-24T07:21:31-07:00
 
 Hey, Chris, your post reminded me of the concept of "egocasting" which I blogged about earlier this year. "egocasting: the act of using your ability to personalize and filter intermediated experience to make your world match who you already are" As our technology continues to get better at helping us filter the world to fit our preferences, does our ability to understand and tolerate difference atrophy? Are there ways to teach and encourage appreciation of difference through design of technology? Or expand online messages to increase comprehension? I agree with the comment above that this part of the nature of our subjective experience. We all face the challenge of understanding each other regardless of the communication medium.
 
-[Owen Davis](http://blog.whatbox.biz/?p=3) 2005-07-27T14:16:57-07:00
+[Owen Davis](https://web.archive.org/web/20060104162229/http://blog.whatbox.biz/?p=3) 2005-07-27T14:16:57-07:00
 
 URL: I suspect I may find a reference to Cialdini's book, "Influence: the Psychology of Persuasion" someplace on this blog, but I haven't yet, so I am going to throw it out there as good reading on the psychology of all this ("an innocent association with either bad things or good things will influence how people feel about us"). Pete
 
@@ -61,7 +61,7 @@ URL: I suspect I may find a reference to Cialdini's book, "Influence: the Psycho
 
 Christopher, I got to your blog from an endorsement on your LinkedIn profile. Thank you for sharing this wonderful piece from Mick LaSalle. I blogged about it too on my business networking blog. I also noticed that in your list of Social Networks on the sidebar, you haven't mentioned openBC - http://www.openbc.com , which is one of my two favorites for online networking \[ the other being LinkedIn \]. Best Regards, Naina Redhu
 
-[Naina Redhu](http://www.aside.in/blog/networking) 2005-11-30T23:07:18-07:00
+[Naina Redhu](https://web.archive.org/web/20090127061520/http://www.aside.in/blog/networking/) 2005-11-30T23:07:18-07:00
 
 [original layout]
 

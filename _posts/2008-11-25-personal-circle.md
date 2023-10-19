@@ -48,13 +48,13 @@ An interesting issue with the Sympathy Circle is that as a personal limit, 10-15
 
 In pre-Friendster days the Trust Circle would be those people that you considered your "friends", however today the meaning of that term has begun to change. In my own usage, your Trust Circle are people that you have strong ties to and that in some measure you can trust. I have also called the Trust Circle your personal "intimate social network".
 
-The size of different individuals' Trust Circles can vary widely (40-200), but [some studies](http://delicious.com/christophera/trustcircle) show that the mean is on the low side of 150. This has led a number of researchers to compare this number with the Exclusive Dunbar Number of 150. However, I believe that this is a mistake; they are related, but in today's society members of your Trust Circle are rarely in the same mutual group.
+The size of different individuals' Trust Circles can vary widely (40-200), but [some studies](https://web.archive.org/web/20130310163710/http://delicious.com/christophera/trustcircle) show that the mean is on the low side of 150. This has led a number of researchers to compare this number with the Exclusive Dunbar Number of 150. However, I believe that this is a mistake; they are related, but in today's society members of your Trust Circle are rarely in the same mutual group.
 
 **The Emotional Circle**
 
 I personally define your Emotional Circle as the total number of people that you can have some type of non-mutual emotional connection with, most likely spread across numerous groups of all sorts. You "like" them in some way, but do not necessarily have to have strong ties to them.
 
-In academia this threshold is called "social channel capacity". A [study](http://delicious.com/ChristopherA/channel+capacity+christophermccarty) using two different methods to estimate, both suggest that it falls right around 290. However, I like to describe this number as "just short of 300." As I wrote in [Dunbar Triage](/2005/02/dunbar_triage_t.html), many people confuse this number with the Dunbar Number (and in fact I have in some of my older pieces). However, like the Trust Circle, it's a distinct entity.
+In academia this threshold is called "social channel capacity". A [study](https://web.archive.org/web/20130310163714/http://delicious.com/ChristopherA/channel+capacity+christophermccarty) using two different methods to estimate, both suggest that it falls right around 290. However, I like to describe this number as "just short of 300." As I wrote in [Dunbar Triage](/2005/02/dunbar_triage_t.html), many people confuse this number with the Dunbar Number (and in fact I have in some of my older pieces). However, like the Trust Circle, it's a distinct entity.
 
 Emotional Circle size can vary quite a bit from individual to individual. Some people might have half the average capacity, and others considerably more — which is much more variation than you see among the sizes of smaller personal thresholds.
 
@@ -62,7 +62,7 @@ Some of those variations are individual, but some are societal. As I wrote in [C
 
 Is our Emotional Circle smaller today because of TV or is it higher because online communities can help to remind us of our emotional connections to other people? That's a topic that probably deserves more study.
 
-An interesting point to make is that the people who are in your Emotional Circle, but are not in your Trust Circle, are your "weak ties" in social network terms. What is important about weak ties is that [studies show](http://www.journals.uchicago.edu/doi/abs/10.1086/225469) ([pdf](http://www.stanford.edu/dept/soc/people/mgranovetter/documents/granstrengthweakties.pdf)) that opportunities and knowledge flow to you much more through weak ties than through the more insular strong ties of your trust circle.
+An interesting point to make is that the people who are in your Emotional Circle, but are not in your Trust Circle, are your "weak ties" in social network terms. What is important about weak ties is that [studies show](http://www.journals.uchicago.edu/doi/abs/10.1086/225469) ([pdf](https://web.archive.org/web/20120120044636/http://www.stanford.edu/dept/soc/people/mgranovetter/documents/granstrengthweakties.pdf)) that opportunities and knowledge flow to you much more through weak ties than through the more insular strong ties of your trust circle.
 
 **The Familiar Stranger**
 
@@ -142,11 +142,11 @@ I cannot agree more, actually I wrote a similar post weeks ago Edward Frontier B
 
 The Information and findings about familiar strangers really inspired me a lot. I have the same experiences and I totally accept this point of view about feeling unsecured about taking risk at place where you have no familiar strangers.
 
-[Candace Bogert](http://www.guitarhype.com/) 2009-03-03T03:39:32-07:00
+[Candace Bogert](https://web.archive.org/web/20100711045753/http://www.guitarhype.com/) 2009-03-03T03:39:32-07:00
 
 I'm just getting started reading your blog (first two articles of the By The Numbers series), and I'm very interested. A few random reactions so far: - You speak of "circles", but you diagram spirals. Would it be useful to recognize the differences and similarities? - In "Bowling Alone", Robert Putnam speaks of two kinds of social capital: bonding (that holds groups together) and bridging (that relates a group to "others"). Would this distinction be useful in your model(s)? - I've got a tentative start at a project intended to explore all aspects of communities, in particular the aspects that affect a community's health, resilience, and relationships to its environment (including other communities, of course). See my URL from this comment. I suspect I'll be referencing your work.
 
-[Dwig](http://dwigki.wikispaces.com) 2009-04-06T20:49:10-07:00
+[Dwig](https://web.archive.org/web/20080831074109/http://dwigki.wikispaces.com/) 2009-04-06T20:49:10-07:00
 
 URL: The different kind of 'circles' we have in the social networking are included in the reality friends we have now.The thing is, people don't really go out much now, but instead they are just trying to connect with these 'circles' we have in order to communicate. Some are really risking to go out beyond circles to explore. And this what social networking can do. Thanks, great read!
 

@@ -19,7 +19,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/cheers-belongingness-and-para-social-relationships/
 ---
 
-In yesterday's [All Things Considered](http://www.npr.org/templates/rundowns/rundown.php?prgId=2), NPR commentator [Jake Halpern](http://jakehalpern.com/news.html) questions why you feel like you have a relationship with the characters in your favorite TV shows. His answer: "That's because you do." This idea is interesting not just to help us understand how we relate to imaginary characters, but also to correlate with our own understanding of [Dunbar Number](/2004/03/the_dunbar_numb.html) relationship limits and how they might relate to this concept.
+In yesterday's [All Things Considered](http://www.npr.org/templates/rundowns/rundown.php?prgId=2), NPR commentator [Jake Halpern](https://web.archive.org/web/20060221070811/http://jakehalpern.com/news.html) questions why you feel like you have a relationship with the characters in your favorite TV shows. His answer: "That's because you do." This idea is interesting not just to help us understand how we relate to imaginary characters, but also to correlate with our own understanding of [Dunbar Number](/2004/03/the_dunbar_numb.html) relationship limits and how they might relate to this concept.
 
 In his [commentary](http://www.npr.org/templates/story/story.php?storyId=4772145), Bostonian Jake Halpern considers two academic ideas, "belongingness theory" and "para-social relationships", and how they affect the relationships we develop with television characters. He puts it all in the context of the 1990s TV show _Cheers_:
 
@@ -29,7 +29,7 @@ In his [commentary](http://www.npr.org/templates/story/story.php?storyId=4772145
 > 
 > _The likely result of all this evolutionary selection is the creation of an internal mechanism that makes human beings crave social acceptance. The way I figured it, my irrational fondness for_ Cheers the Bar _was just my belongingness mechanism kicking. I just wanted to be part of the gang."_
 
-Belongingness theory seems to have a good scientific basis. In [Baumeister](http://www.psy.fsu.edu/faculty/baumeist.dp.html) & Leary's 1995 paper on Belongingness Theory, [The Need to Belong](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&a%20mp;list_uids=7777651&dopt=Abstract), they stated that in order for belongingness to be considered a fundamental human motivation (as opposed to a want), it would have to be universal, affect a broad range of behaviors, lead to ill effects when thwarted, and elicit goal-oriented behavior designed to satisfy it. They found evidence for all of these.
+Belongingness theory seems to have a good scientific basis. In [Baumeister](https://web.archive.org/web/20060218215759/http://www.psy.fsu.edu/faculty/baumeist.dp.html) & Leary's 1995 paper on Belongingness Theory, [The Need to Belong](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&a%20mp;list_uids=7777651&dopt=Abstract), they stated that in order for belongingness to be considered a fundamental human motivation (as opposed to a want), it would have to be universal, affect a broad range of behaviors, lead to ill effects when thwarted, and elicit goal-oriented behavior designed to satisfy it. They found evidence for all of these.
 
 Personally, I'm quite comfortable with the idea that evolution has encouraged us to have a number of "social emotions", and that these may include a strong desire to belong.
 
@@ -47,7 +47,7 @@ Halpern continues in his commentary with a discussion of _para-social relationsh
 > 
 > _If I'm being honest with myself, I have to admit that at times, Norm, Cliff, Carla, and Sam have formed, well, a kind of para-family to which I yearn to belong. I suppose that hideously hackneyed as it sounds, it's just like the show's theme song goes:_ "Sometimes you want to go where everybody knows your name, and they're always glad you came." _Only, they **don't** know your name, and they really don't know you came."_
 
-Jake's description of Horton & Wohl's theory on [para-social relationships](http://www.aber.ac.uk/media/Modules/TF33120/horton_and_wohl_1956.html) definitely parallels my thoughts in a previous post [Dunbar Triage: Too Many Connections](/2005/02/dunbar_triage_t.html) where I ask _"How do I maintain meaningful relationships with over 300 people?"_ As Jake said, it's difficult because you have to make the effort: the phone calls, the emails, meeting in person, and all the rest.
+Jake's description of Horton & Wohl's theory on [para-social relationships](https://web.archive.org/web/20110629054950/http://www.aber.ac.uk/media/Modules/TF33120/horton_and_wohl_1956.html) definitely parallels my thoughts in a previous post [Dunbar Triage: Too Many Connections](/2005/02/dunbar_triage_t.html) where I ask _"How do I maintain meaningful relationships with over 300 people?"_ As Jake said, it's difficult because you have to make the effort: the phone calls, the emails, meeting in person, and all the rest.
 
 However, the concept of having real relationships with television characters might give us enlightenment into some other relationship issues. I personally find it difficult to reconcile the mismatch between my number of connections and my own limits due to the [Dunbar Number](/2004/03/the_dunbar_numb.html); intuitively I feel that limiting my television watching can help. This is because these TV relationships are what I call "junk relationships". Sometimes when I talk about the concept of the [Dunbar Number](/2004/03/the_dunbar_numb.html), I said that we may have difficulty even reaching the Dunbar limit of 150 people because of the "junk relationships" we maintain.
 
@@ -77,7 +77,7 @@ How did the link to this blog get into the blog on server side browser. That blo
 
 What about characters in books? Should I stop reading the Diskworld series?
 
-[Ford](http://blog.lib.umn.edu/denis036/thisweekinevolution/) 2008-02-01T10:20:18-07:00
+[Ford](https://web.archive.org/web/20080106142159/http://blog.lib.umn.edu/denis036/thisweekinevolution/) 2008-02-01T10:20:18-07:00
 
 [original layout]
 

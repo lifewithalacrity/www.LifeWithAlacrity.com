@@ -20,7 +20,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/annoyed-by-zero-degrees/
 ---
 
-As I'm studying social network software right now, I consider it my job to try many of the [hundred some odd social networks](http://socialsoftware.weblogsinc.com/entry/2241460714746671/) out there right now.
+As I'm studying social network software right now, I consider it my job to try many of the [hundred some odd social networks](https://web.archive.org/web/20040803181851/http://socialsoftware.weblogsinc.com/entry/2241460714746671/) out there right now.
 
 I just joined [Zero Degrees](http://www.zerodegrees.com), and like many others, it asked me to upload my address book. I've done this before and usually it just finds those who already have joined these networks and links us together. Typically I delete my address book at this point, and don't bother to invite contacts that are not already members of that particular network.
 

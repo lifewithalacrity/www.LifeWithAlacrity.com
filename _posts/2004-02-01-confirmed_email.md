@@ -40,12 +40,12 @@ One of the essential problems that Orkut needs to fix very soon is how to report
 
 For instance, right now there are 6 Orkut groups about Orkut:
 
-* [What Should Orkut Do?](http://www.orkut.com/Community.aspx?cmm=617)
-* [Flaws in Orkut](http://www.orkut.com/Community.aspx?cmm=2026)
-* [Orkut](http://www.orkut.com/Community.aspx?cmm=3982)
-* [Orkut Design](http://www.orkut.com/Community.aspx?cmm=1289)
-* [Orkut: Tips, Feedback, ?'s](http://www.orkut.com/Community.aspx?cmm=781)
-* [Orkut Members](http://www.orkut.com/Community.aspx?cmm=4556)
+* [What Should Orkut Do?](https://web.archive.org/web/20070503092153/http://www.orkut.com/GLogin.aspx?done=http%3A%2F%2Fwww.orkut.com%2FCommunity.aspx%3Fcmm%3D617)
+* [Flaws in Orkut](https://web.archive.org/web/20141224171504/https://orkut.google.com/)
+* [Orkut](https://web.archive.org/web/20071106015829/https://www.google.com/accounts/ServiceLogin?service=orkut&continue=http%3A%2F%2Fwww.orkut.com%2FRedirLogin.aspx%3Fmsg%3D0%26page%3Dhttp%253A%252F%252Fwww.orkut.com%252FCommunity.aspx%253Fcmm%253D3982&hl=en-US&rm=false&passive=true)
+* [Orkut Design](https://web.archive.org/web/20070202233602/http://www.orkut.com/GLogin.aspx?done=http://www.orkut.com/Community.aspx?cmm=1289)
+* [Orkut: Tips, Feedback, ?'s](https://web.archive.org/web/20070525001632/http://www.orkut.com/GLogin.aspx?done=http%3A%2F%2Fwww.orkut.com%2FCommunity.aspx%3Fcmm%3D781)
+* [Orkut Members](https://web.archive.org/web/20070525001632/http://www.orkut.com/GLogin.aspx?done=http%3A%2F%2Fwww.orkut.com%2FCommunity.aspx%3Fcmm%3D781)
 
 Which groups should I post this problem to? Which will will be read by the Orkut staff?
 
@@ -57,7 +57,7 @@ As I've said in another of my blog postings [Followup on Orkut](/2004/02/followu
 > 
 > None of this is happening at this time, which means that people get frustrated, which also makes it easy rumors and conspiracy to spread. I want to be a constructive critic, but Orkut makes it hard for me to be so.
 
-For now, I recommend that these type of bug reports go into [Orkut Beta](http://www.orkut.com/Community.aspx?cmm=6048). Why not in "Flaws in Orkut" or in one of the other groups? Because I feel that focusing on 'Flaws' is too strongly negative, and none of the others quite fit. I've been a software developer -- everything is a compromise and good design is hard. By staying on the topics of current features, feature requests, bugs, suggestions, and by encouraging constructive critism and a balance of both positive and negative feedback, this group will be the best community for us to help Orkut until they offer us better alternatives.  
+For now, I recommend that these type of bug reports go into [Orkut Beta](https://web.archive.org/web/20070525001632/http://www.orkut.com/GLogin.aspx?done=http%3A%2F%2Fwww.orkut.com%2FCommunity.aspx%3Fcmm%3D781). Why not in "Flaws in Orkut" or in one of the other groups? Because I feel that focusing on 'Flaws' is too strongly negative, and none of the others quite fit. I've been a software developer -- everything is a compromise and good design is hard. By staying on the topics of current features, feature requests, bugs, suggestions, and by encouraging constructive critism and a balance of both positive and negative feedback, this group will be the best community for us to help Orkut until they offer us better alternatives.  
 
 ### Comments
 

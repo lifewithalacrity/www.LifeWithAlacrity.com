@@ -25,7 +25,7 @@ In 2009, [Elinor Ostrom](http://en.wikipedia.org/wiki/Elinor_Ostrom "Wikipedia P
 
 Since then I've seen a number of different versions of her list of the 8 principles for effectively managing against [the tragedy of the commons](http://en.wikipedia.org/wiki/Tragedy_of_the_commons "Wikipedia Page for The Tragedy of the Commons"). However, I've found her original words — as well as many adaptions I've seen since — to be not very accessible. Also, since the original release of the list of 8 principles there has been some research resulting in updates and clarifications to her original list.
 
-This last weekend, at two very different events — one on the [future of working](http://www.futureofworking.org "Future of Working Summit") and the other on the [future of the block chain](http://crypto.sabir.cc/?page_id=237) (used by technologies like bitcoin) — I wanted to share these principles. However, I was unable to effectively articulate them.
+This last weekend, at two very different events — one on the [future of working](https://web.archive.org/web/20160323004046/http://www.futureofworking.org/"Future of Working Summit") and the other on the [future of the block chain](https://web.archive.org/web/20150405071955/http://crypto.sabir.cc/?page_id=237) (used by technologies like bitcoin) — I wanted to share these principles. However, I was unable to effectively articulate them.
 
 So I decided to take an afternoon to re-read the original, as well as more contemporary adaptions, to see if I could summarize this into a list of effective design principles. I also wanted to generalize them for broader use as I often apply them to everything from how to manage an online community to how a business should function with competitors.
 
