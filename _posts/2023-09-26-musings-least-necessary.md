@@ -8,6 +8,7 @@ categories:
   - article
 tags:
   - Musings
+  - Data Minimization
   - Self-Sovereign Identity
   - Verifiable Credentials
 ---

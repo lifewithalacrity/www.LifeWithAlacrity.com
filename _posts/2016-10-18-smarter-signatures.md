@@ -7,8 +7,7 @@ redirect_from:
   - /2016/10/smarter-signatures-experiments-in-verifications/
 date:   2016-10-18 08:06:00 +0300
 tags: 
-  - Experiments
-  - Signature
+  - Signatures
 
 categories:
   - article

@@ -5,11 +5,11 @@ excerpt_separator: "<!--more-->"
 classes:
   - wide
 categories:
-  - ARTICLE
+  - article
 tags:
   - Musings
-  - CRYPTOGRAPHY
-image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/musings.png
+  - Cryptography
+  - Agility
 ---
 
 > **ABSTRACT:** Cryptographic agility was once seen as a desirable goal for computer security, but increasingly problems such as high costs, bad interactions, and downgrade attacks show the flaws of the methodology. We need to thoughtfully adopt alternatives such as cipher suites, methods, or just careful layering, to make sure that the new wave of digital identity and asset projects being released *now* doesn't repeat the mistakes of the past.

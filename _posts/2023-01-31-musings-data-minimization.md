@@ -9,6 +9,7 @@ categories:
 tags:
   - Musings
   - Data Minimization
+  - Trust
 ---
 
 _I have been struggling for a while to communicate my framing of definitions for Data Minimization and Selective Disclosure, which are privacy-focused data-protection techniques that Blockchain Commons is now incorporating into [Gordian Envelope](https://www.blockchaincommons.com/introduction/Envelope-Intro/)._

@@ -8,8 +8,8 @@ redirect_from:
 date:   2016-04-05 08:06:00 +0300
 tags: Web/Tech
 tags: 
-  - Ecosystem
-  - Defining
+  - Participatory Ecosystem
+  - Ostrom
 
 categories:
   - article

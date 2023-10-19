@@ -8,7 +8,7 @@ redirect_from:
 date:   2015-04-19 18:30-07 +0300
 # image:  privacy.jpeg
 tags: 
-  - privacy
+  - Privacy
 
 categories:
   - article

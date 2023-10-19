@@ -7,9 +7,8 @@ redirect_from:
   - /2015/09/a-spectrum-of-consent/
 date:   2015-09-09 09:28-07 +0300
 # image:  spectrum.png
-tags: 
-  - consent
-  - spectrum
+tags:
+  - Consent
 
 categories:
   - article

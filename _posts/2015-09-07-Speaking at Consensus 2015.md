@@ -7,8 +7,8 @@ redirect_from:
   - /2015/09/speaking-at-consensus-2015/
 date:   2015-09-06 23:54-07 +0300
 tags: 
-  - consensus
-  - speaking
+  - Conference
+  - Cryptography
 
 categories:
   - news

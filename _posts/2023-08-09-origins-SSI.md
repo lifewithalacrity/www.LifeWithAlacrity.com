@@ -8,7 +8,10 @@ categories:
   - article
 tags:
   - Musings
+  - Commons
   - Self-Sovereign Identity
+  - Living Systems Theory
+  - Ostrom
   - RWOT
 ---
 

@@ -7,9 +7,6 @@ redirect_from:
   - /2015/03/mini-resume-card-for-conference-season/
 date:   2015-03-22 08:23:55 +0300
 # image:  mini-resume.png
-tags: 
-  - Conference
-  - Resume
 
 categories:
   - ephemera

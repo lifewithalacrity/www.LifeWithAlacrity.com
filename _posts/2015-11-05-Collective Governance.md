@@ -8,10 +8,9 @@ redirect_from:
 date:   2015-11-05 08:15:23 +0300
 # image:  Ostrom’s.png
 tags: 
-  - Design
   - Ostrom
-  - government
   - Commons
+  - Collective Governance
 
 categories:
   - article
