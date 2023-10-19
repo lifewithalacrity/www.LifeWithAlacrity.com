@@ -7,7 +7,7 @@ redirect_from:
   - /2016/04/the-path-to-self-soverereign-identity/
 date: "2016-04-25T17:00:23-07:00"
 tags: 
-  - Self Sovereign Identity
+  - Self-Sovereign Identity
   - History
   
 categories:
