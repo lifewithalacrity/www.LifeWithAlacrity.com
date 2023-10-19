@@ -25,7 +25,7 @@ permalink: /ephemera/dunbar-number-presentation-at-meshforum-2006/
 
  Last May I did an abbreviated version of my [Dunbar Number](/2004/03/the_dunbar_numb.html) talk at MeshForum 2006. A MP3 podcast of that talk is now available at [IT Conversations](http://www.itconversations.com/shows/detail1072.html)[](http://www.itconversations.com/shows/detail1072.html) or can be [downloaded here (10mb)](http://www.itconversations.com/audio/download/itconversations-1072.mp3).
 
-If you'd like to follow along, here is a pdf copy of my [presentation sides (10mb)](http://web.lifewithalacrity.com/christophera/MeshForum_2006_Dunbar_Number.pdf).
+If you'd like to follow along, here is a pdf copy of my [presentation sides (10mb)](https://web.archive.org/web/20120121011930/http://web.lifewithalacrity.com/christophera/MeshForum_2006_Dunbar_Number.pdf).
 
 Biggest addition to what I've written about before is some discussion about different kinds of social software and what what size groups they seem to be appropriate for.
 

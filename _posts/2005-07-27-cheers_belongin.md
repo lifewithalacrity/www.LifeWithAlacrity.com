@@ -21,7 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/cheers-belongingness-and-para-social-relationships/
 ---
 
-In yesterday's [All Things Considered](http://www.npr.org/templates/rundowns/rundown.php?prgId=2), NPR commentator [Jake Halpern](http://jakehalpern.com/news.html) questions why you feel like you have a relationship with the characters in your favorite TV shows. His answer: "That's because you do." This idea is interesting not just to help us understand how we relate to imaginary characters, but also to correlate with our own understanding of [Dunbar Number](/2004/03/the_dunbar_numb.html) relationship limits and how they might relate to this concept.
+In yesterday's [All Things Considered](http://www.npr.org/templates/rundowns/rundown.php?prgId=2), NPR commentator [Jake Halpern](https://web.archive.org/web/20060221070811/http://jakehalpern.com/news.html) questions why you feel like you have a relationship with the characters in your favorite TV shows. His answer: "That's because you do." This idea is interesting not just to help us understand how we relate to imaginary characters, but also to correlate with our own understanding of [Dunbar Number](/2004/03/the_dunbar_numb.html) relationship limits and how they might relate to this concept.
 
 In his [commentary](http://www.npr.org/templates/story/story.php?storyId=4772145), Bostonian Jake Halpern considers two academic ideas, "belongingness theory" and "para-social relationships", and how they affect the relationships we develop with television characters. He puts it all in the context of the 1990s TV show _Cheers_:
 
@@ -31,7 +31,7 @@ In his [commentary](http://www.npr.org/templates/story/story.php?storyId=4772145
 > 
 > _The likely result of all this evolutionary selection is the creation of an internal mechanism that makes human beings crave social acceptance. The way I figured it, my irrational fondness for_ Cheers the Bar _was just my belongingness mechanism kicking. I just wanted to be part of the gang."_
 
-Belongingness theory seems to have a good scientific basis. In [Baumeister](http://www.psy.fsu.edu/faculty/baumeist.dp.html) & Leary's 1995 paper on Belongingness Theory, [The Need to Belong](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&a%20mp;list_uids=7777651&dopt=Abstract), they stated that in order for belongingness to be considered a fundamental human motivation (as opposed to a want), it would have to be universal, affect a broad range of behaviors, lead to ill effects when thwarted, and elicit goal-oriented behavior designed to satisfy it. They found evidence for all of these.
+Belongingness theory seems to have a good scientific basis. In [Baumeister](https://web.archive.org/web/20060218215759/http://www.psy.fsu.edu/faculty/baumeist.dp.html) & Leary's 1995 paper on Belongingness Theory, [The Need to Belong](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&a%20mp;list_uids=7777651&dopt=Abstract), they stated that in order for belongingness to be considered a fundamental human motivation (as opposed to a want), it would have to be universal, affect a broad range of behaviors, lead to ill effects when thwarted, and elicit goal-oriented behavior designed to satisfy it. They found evidence for all of these.
 
 Personally, I'm quite comfortable with the idea that evolution has encouraged us to have a number of "social emotions", and that these may include a strong desire to belong.
 

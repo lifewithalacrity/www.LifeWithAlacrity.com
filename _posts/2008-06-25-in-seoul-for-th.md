@@ -24,7 +24,7 @@ permalink: /ephemera/in-seoul-for-the-social-web/
 
 <a href="http://www.flickr.com/photos/christophera/2610236112/"><img width="230px" style=" margin-left:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/seoul.jpg" alt="Downtown Seoul, South Korea, from Hotel Window"/></a>
 
-I'm in Seoul, South Korea this week for the [13th Global Forum on Business Driven Action Learning and Executive Development](http://www.globalforumactionlearning.com/), where I'm presenting on the topic of the how to get involved with the Social Web.
+I'm in Seoul, South Korea this week for the [13th Global Forum on Business Driven Action Learning and Executive Development](https://web.archive.org/web/20160307235139/http://www.globalforum-actionlearning.com/), where I'm presenting on the topic of the how to get involved with the Social Web.
 
 My presentation is an offshoot of an odd sideline of mine, executive blog and social web coaching. Basically, many times over the last couple of years I've been asked by colleagues and friends to help them with the social web. I've always been honored to spend the time to teach them how to blog, better manage the noise of the web by using a feed reader, how to participate in social networks, and how to improve their personal brand.
 
