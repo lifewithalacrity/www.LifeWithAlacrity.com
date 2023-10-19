@@ -8,9 +8,8 @@ redirect_from:
 date:   2005-07-27 16:35:17 -0700
 image:  bcs_1.png
 tags: 
-  - Social Software
-  - Web/Tech
-  - User Interface
+  - Collective Choice
+  - Ratings
 
 categories:
   - article

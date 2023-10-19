@@ -8,8 +8,7 @@ redirect_from:
 date:   2006-02-13 13:07:32 -0700
 image:  cycle_of_flames.jpg
 tags: 
-  - Social Software
-  - Web/Tech
+  - Social Media
 
 categories:
   - article

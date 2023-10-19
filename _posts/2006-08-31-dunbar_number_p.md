@@ -8,9 +8,6 @@ redirect_from:
 date:   2006-08-31 11:52:49 -0700
 image:  christopher_allen_sketch_at_meshforum_20.jpg
 tags: 
-  - Web/Tech
-  - Dunbar number
-  - Science
 
 categories:
   - ephemera

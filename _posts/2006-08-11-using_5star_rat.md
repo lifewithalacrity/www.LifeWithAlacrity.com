@@ -8,8 +8,8 @@ redirect_from:
 date:   2006-08-31 11:52:49 -0700
 image:  stars_1.gif
 tags:   
-  - Social 
-  - Software 
+  - Collective Choice
+  - Ratings
 
 categories:
   - article

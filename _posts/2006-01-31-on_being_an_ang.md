@@ -8,9 +8,7 @@ redirect_from:
 date:   2006-01-31 18:17:47 -0700
 # image:  02.jpg
 tags: 
-  - Social Software
-  - Business
-  - Web/Tech
+  - Investment
 
 categories:
   - article

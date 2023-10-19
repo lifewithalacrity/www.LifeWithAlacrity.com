@@ -7,10 +7,6 @@ redirect_from:
   - /2006/12/speaking_about_/
 date:   2006-12-06 14:34:38 -0700
 # image:  02.jpg
-tags: 
-  - User Interface
-  - Web/Tech
-  - Social Software
 
 categories:
   - ephemera

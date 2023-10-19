@@ -7,10 +7,6 @@ redirect_from:
   - /2006/07/baychi_talk_nex/
 date:   2006-07-06 13:58:20 -0700
 image:  baychi_1.gif
-tags: 
-  - Baychi
-  - iPhone
-  - Social Software
 
 categories:
   - news

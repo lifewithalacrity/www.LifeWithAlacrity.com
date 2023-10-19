@@ -8,9 +8,8 @@ redirect_from:
 date:   2006-09-14 16:28:58 -0700
 image:  shannon_appelcline.jpg
 tags: 
-  - Social Software
-  - User Interface
-  - Web/Tech
+  - Ratings
+  - Collective Choice
 
 categories:
   - article
