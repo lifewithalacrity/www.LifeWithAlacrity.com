@@ -8,9 +8,7 @@ redirect_from:
 date: 2003-12-17 15:24:59 -0700
 # image: 02.jpg
 tags: 
-  - Enterprise
-  - Network
-  - Social
+  - Social Media
 
 categories:
   - ephemera

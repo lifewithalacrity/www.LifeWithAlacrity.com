@@ -8,8 +8,7 @@ redirect_from:
 date:   2003-07-03 17:16:38 -0700
 # image:  02.jpg
 tags: 
-  - Comics
-  - BitPass
+  - Micropayments
 
 categories:
   - ephemera

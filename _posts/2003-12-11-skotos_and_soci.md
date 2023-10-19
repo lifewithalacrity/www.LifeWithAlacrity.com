@@ -8,9 +8,9 @@ redirect_from:
 date:   2003-12-11 15:53:52 -0700
 # image:  02.jpg
 tags: 
-  - Social Software
-  - Web/tech
-  - Skotos
+  - Community
+  - Online Games
+  - Creativity
 
 categories:
   - ephemera

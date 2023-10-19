@@ -7,10 +7,6 @@ redirect_from:
   - /2003/07/life_with_alacr/
 date:   2003-07-03 12:49:02 -0700
 # image:  02.jpg
-tags: 
-  - Blogger
-  - Web/Tech
-  - Life of Alacrity
 
 categories:
   - ephemera

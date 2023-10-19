@@ -8,9 +8,7 @@ redirect_from:
 date:   2003-12-16 15:11:56 -0700
 # image:  02.jpg
 tags: 
-  - Social
-  - Network
-  - Social Software
+  - Social Media
 
 categories:
   - article

@@ -9,9 +9,9 @@ date: 2003-12-22 17:52:48 -0700
 # image: 02.jpg
 tags: 
   - Identity
-  - Web/Tech
-  - Networks
-
+  - Social Media
+  - Community
+  
 categories:
   - ephemera
 class:

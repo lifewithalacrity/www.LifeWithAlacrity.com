@@ -8,8 +8,8 @@ redirect_from:
 date:   2003-12-10 12:35:38 -0700
 # image:  02.jpg
 tags: 
-  - Web/Tech
-  - Social Software
+  - Social Media
+  - Relationships
 
 categories:
   - ephemera

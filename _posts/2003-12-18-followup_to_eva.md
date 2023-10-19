@@ -8,9 +8,7 @@ redirect_from:
 date: 2003-12-18 00:19:52 -0700
 # image: 02.jpg
 tags: 
-  - Network
-  - Services
-  - 
+  - Social Media
 
 categories:
   - article

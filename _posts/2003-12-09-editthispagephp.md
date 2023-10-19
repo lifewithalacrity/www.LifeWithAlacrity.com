@@ -8,7 +8,7 @@ redirect_from:
 date:   2003-12-09 13:12:26 -0700
 # image:  02.jpg
 tags: 
-  - Wiki
+  - Collaborative Tools
 
 categories:
   - ephemera

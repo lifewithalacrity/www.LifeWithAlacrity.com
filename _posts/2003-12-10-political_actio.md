@@ -8,8 +8,7 @@ redirect_from:
 date:   2003-12-10 11:42:47 -0700
 # image:  02.jpg
 tags: 
-  - Web/Tech
-  - Politics
+  - Social Media
 
 categories:
   - ephemera

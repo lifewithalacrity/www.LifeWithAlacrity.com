@@ -8,8 +8,8 @@ redirect_from:
 date:   2003-12-09 16:00:56 -0700
 # image:  02.jpg
 tags: 
-  - Email
-  - Reinventing
+  - User Interface
+  - Collaborative Tools
 
 categories:
   - ephemera

@@ -9,7 +9,8 @@ date:   2005-05-10 12:25:27 -0700
 # image:  02.jpg
 tags: 
   - Media
-
+  - Music
+  
 categories:
   - news
 class:

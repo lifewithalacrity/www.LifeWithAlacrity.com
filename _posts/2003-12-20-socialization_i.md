@@ -8,9 +8,8 @@ redirect_from:
 date: 2003-12-20 04:32:03 -0700
 # image: 02.jpg
 tags: 
-  - Social
-  - Social Software
-
+  - Online Games
+  - Social Media
 
 categories:
   - ephemera

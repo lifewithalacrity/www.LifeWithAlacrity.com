@@ -8,7 +8,7 @@ redirect_from:
 date:   2003-12-11 15:45:48 -0700
 # image:  02.jpg
 tags: 
-  - Ebay
+  - Sharing Economy
 
 categories:
   - ephemera

@@ -8,8 +8,7 @@ redirect_from:
 date:   2003-10-28 15:26:19 -0700
 # image:  02.jpg
 tags: 
-  - Games
-  - Design
+  - Creativity
 
 categories:
   - ephemera

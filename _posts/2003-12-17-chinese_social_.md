@@ -8,9 +8,7 @@ redirect_from:
 date:   2003-12-17 12:58:00 -0700
 # image:  02.jpg
 tags: 
-  - Chinese
-  - Social 
-  - Network
+  - Social Media
 
 categories:
   - ephemera

@@ -8,9 +8,8 @@ redirect_from:
 date: 2003-12-30 16:40:52 -0700
 # image: 02.jpg
 tags: 
-   - Social Software 
-   - Web/Tech
-   - Wiki
+   - Collaborative Tools
+   - Design Patterns
 
 categories:
   - ephemera

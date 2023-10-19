@@ -8,8 +8,7 @@ redirect_from:
 date:   2003-12-09 13:13:50 -0700
 # image:  02.jpg
 tags: 
-  - Elance
-  - Success
+  - Sharing Economy
 
 categories:
   - ephemera

@@ -8,7 +8,8 @@ redirect_from:
 date:   2003-12-11 01:17:16 -0700
 # image:  02.jpg
 tags: 
-  - Social Software
+  - Social Media
+  - Social Capital
 
 categories:
   - ephemera

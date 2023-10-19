@@ -7,8 +7,6 @@ redirect_from:
   - /2003/10/teleseminars/
 date:   2003-10-16 10:46:00 -0700
 # image:  02.jpg
-tags: 
-  - Teleseminars
 
 categories:
   - ephemera
