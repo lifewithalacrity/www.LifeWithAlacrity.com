@@ -23,11 +23,11 @@ permalink: /ephemera/jotspot-application-wiki/
 ---
 
 <img width="320px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/slide09.jpg" alt="slide09"/>
-[Joe Kraus](http://www.jotspot.com/about/index.php), one of the co-founders of Excite, and new [blogger](http://bnoopy.typepad.com/bnoopy/) has long been [rumored](http://owt.typepad.com/blog/2004/09/wiki_and_then_s.html) to be working on a new wiki tool. Today at the [Web 2.0](http://www.web2con.com/pub/w/32/program.html) conference Joe finally unveiled [JotSpot](http://www.jotspot.com), a new type of wiki that they have named an "Application Wiki". JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.
+[Joe Kraus](https://web.archive.org/web/20060107184647/http://www.jot.com/about/index.php), one of the co-founders of Excite, and new [blogger](http://bnoopy.typepad.com/bnoopy/) has long been [rumored](https://web.archive.org/web/20060513142332/http://owt.typepad.com/blog/2004/09/wiki_and_then_s.html) to be working on a new wiki tool. Today at the [Web 2.0](https://web.archive.org/web/20180430172117/http://www.web2con.com/pub/w/32/program.html) conference Joe finally unveiled [JotSpot](http://www.jotspot.com), a new type of wiki that they have named an "Application Wiki". JotSpot appears to be not only an advanced wiki, but it also moves the predominantly text-based wiki toward being able to handle structured data and web application development.
 
-![](http://www.jotspot.com/tours/advanced/img/slide09.jpg)At the JotSpot website there is an page on [How JotSpot is Different](http://jot.com/compare/index.php) and an [Advanced Tour](http://jot.com/tours/advanced/1.php) of this wiki's database capabilities.
+![Jot Slider](https://web.archive.org/web/20061101002249/http://www.jotspot.com/tours/advanced/img/slide09.jpg)At the JotSpot website there is an page on [How JotSpot is Different](https://web.archive.org/web/20050320030239/http://jot.com/compare/index.php) and an [Advanced Tour](https://web.archive.org/web/20051001024043/http://www.jot.com/tours/advanced/1.php) of this wiki's database capabilities.
 
-Better, however, is a demonstration that Joe Kraus and Graham Spencer gave InfoWorld reporter [Jon Udell](http://weblog.infoworld.com/udell/2004/10/06.html#a1090) an early [demo of JotSpot](http://weblog.infoworld.com/udell/gems/jot.swf), which Jon screen-captured and has released as a 23-minute, 32MB Flash presentation. This demo is very impressive: in addition to incremental improvements to wiki, such as WYSIWYG editing, email support, indexed attachments, RSS and web page importing, etc. Kraus and Spencer also demonstrate a very powerful forms templating interface that is very much like creating HTML forms with Javascript, and demonstrated integration with a [SalesForce.com](http://www.salesforce.com) web application using SOAP. It appears that JotSpot leverages the unstructured and adhoc advantages that are a strength of wiki, yet allows structure to be added later such that the data in the wiki can be integrated with other non-wiki applications.
+Better, however, is a demonstration that Joe Kraus and Graham Spencer gave InfoWorld reporter [Jon Udell](https://web.archive.org/web/20060102112101/http://weblog.infoworld.com/udell/2004/10/06.html) an early [demo of JotSpot](http://weblog.infoworld.com/udell/gems/jot.swf), which Jon screen-captured and has released as a 23-minute, 32MB Flash presentation. This demo is very impressive: in addition to incremental improvements to wiki, such as WYSIWYG editing, email support, indexed attachments, RSS and web page importing, etc. Kraus and Spencer also demonstrate a very powerful forms templating interface that is very much like creating HTML forms with Javascript, and demonstrated integration with a [SalesForce.com](http://www.salesforce.com) web application using SOAP. It appears that JotSpot leverages the unstructured and adhoc advantages that are a strength of wiki, yet allows structure to be added later such that the data in the wiki can be integrated with other non-wiki applications.
 
 The discussion during the demo is also very interesting. Jon Udell made an observation about JotSpot entering into Lotus Notes territory, and Kraus and Spencer discuss how JotSpot makes web application development more accessible, and expressed their desire to create a marketplace for small developers to create tools using JotSpot.
 
@@ -37,7 +37,7 @@ Joe Kraus also announced today that they have received a $5.2M funding round fro
 
 More information:
 
-* Press Release: [JotSpot Launches, Unveils Application Wiki](http://www.jotspot.com/news/jotspot_launch.php)  
+* Press Release: [JotSpot Launches, Unveils Application Wiki](https://web.archive.org/web/20051019001931/http://www.jot.com/news/jotspot_launch.php)  
     
 * Article: [Business Week: Do-It-Yourself Software for All?](http://www.businessweek.com/technology/content/oct2004/tc2004106_2351.htm)  
     
@@ -47,15 +47,15 @@ More information:
     
 * Blog posting: [JotSpot: The Application Wiki](http://softtechvc.blogs.com/software_only/2004/10/jotspot_the_app_1.html) by Jeff Clavier  
     
-* Blog posting: [Joe Kraus talks about Jotspot](http://blogs.salon.com/0000014/2004/10/06.html#a686) by Scott Rosenberg  
+* Blog posting: [Joe Kraus talks about Jotspot](https://web.archive.org/web/20110729040223/http://blogs.salon.com/0000014/2004/10/06.html) by Scott Rosenberg  
     
 * Blog posting: [WikiWiki Warfare In The Enterprise Leading To Situational Software?](http://www.davidmattison.ca/wordpress/index.php?p=801) by David Mattison  
     
-* Blog posting: [JotSpot - Lego Style Wiki?](http://socialsoftware.weblogsinc.com/entry/6448891678944212/) by Judith Meskill  
+* Blog posting: [JotSpot - Lego Style Wiki?](https://web.archive.org/web/20041012074422/http://socialsoftware.weblogsinc.com/entry/6448891678944212/) by Judith Meskill  
     
 * Blog posting: Jot Wiki kicks ass… (Live from Web 2.0 conference in San Fran) \- by Jason Calacanis  
     
-* Audio: [Audio archive of JotSpot demo at Web 2.0 Conference](http://calacanis.weblogsinc.com/common/videos/jason/jot.mp3) recorded by Jason Calacanis  
+* Audio: [Audio archive of JotSpot demo at Web 2.0 Conference](https://web.archive.org/web20160406071821/http://www.aol.com/) recorded by Jason Calacanis  
     
 ### Comments
 
@@ -69,7 +69,7 @@ Hi, If you like the notion of ApplicationWikis, you should have a look at the op
 
 Thanks for the wriet up Christopher. I thinkyou asked for a beta. We're trying to provisionaccounts as rapidly as we can (while makingsure that things are scaling ok). I should beable to guarantee you get provisioned in thenext 2-3 days. If there any questions I cananswer, don't hesitate to ask.
 
-[Joe Kraus](http://www.jot.com)2004-10-08T20:05:14-07:00
+[Joe Kraus](https://web.archive.org/web/20070225180057/http://www.jot.com/)2004-10-08T20:05:14-07:00
 
 JotSpot is way behind other open source 'wikis'like TWiki and ZWiki already well into thisspace.
 

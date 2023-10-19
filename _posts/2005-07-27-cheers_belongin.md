@@ -49,7 +49,7 @@ Halpern continues in his commentary with a discussion of _para-social relationsh
 > 
 > _If I'm being honest with myself, I have to admit that at times, Norm, Cliff, Carla, and Sam have formed, well, a kind of para-family to which I yearn to belong. I suppose that hideously hackneyed as it sounds, it's just like the show's theme song goes:_ "Sometimes you want to go where everybody knows your name, and they're always glad you came." _Only, they **don't** know your name, and they really don't know you came."_
 
-Jake's description of Horton & Wohl's theory on [para-social relationships](http://www.aber.ac.uk/media/Modules/TF33120/horton_and_wohl_1956.html) definitely parallels my thoughts in a previous post [Dunbar Triage: Too Many Connections](/2005/02/dunbar_triage_t.html) where I ask _"How do I maintain meaningful relationships with over 300 people?"_ As Jake said, it's difficult because you have to make the effort: the phone calls, the emails, meeting in person, and all the rest.
+Jake's description of Horton & Wohl's theory on [para-social relationships](https://web.archive.org/web/20110629054950/http://www.aber.ac.uk/media/Modules/TF33120/horton_and_wohl_1956.html) definitely parallels my thoughts in a previous post [Dunbar Triage: Too Many Connections](/2005/02/dunbar_triage_t.html) where I ask _"How do I maintain meaningful relationships with over 300 people?"_ As Jake said, it's difficult because you have to make the effort: the phone calls, the emails, meeting in person, and all the rest.
 
 However, the concept of having real relationships with television characters might give us enlightenment into some other relationship issues. I personally find it difficult to reconcile the mismatch between my number of connections and my own limits due to the [Dunbar Number](/2004/03/the_dunbar_numb.html); intuitively I feel that limiting my television watching can help. This is because these TV relationships are what I call "junk relationships". Sometimes when I talk about the concept of the [Dunbar Number](/2004/03/the_dunbar_numb.html), I said that we may have difficulty even reaching the Dunbar limit of 150 people because of the "junk relationships" we maintain.
 
@@ -79,7 +79,7 @@ How did the link to this blog get into the blog on server side browser. That blo
 
 What about characters in books? Should I stop reading the Diskworld series?
 
-[Ford](http://blog.lib.umn.edu/denis036/thisweekinevolution/) 2008-02-01T10:20:18-07:00
+[Ford](https://web.archive.org/web/20080106142159/http://blog.lib.umn.edu/denis036/thisweekinevolution/) 2008-02-01T10:20:18-07:00
 
 [original layout]
 

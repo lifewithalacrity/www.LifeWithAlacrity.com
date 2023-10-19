@@ -21,7 +21,7 @@ permalink: /ephemera/committing-to-vonage/
 
 In September I signed up for [Vonage](http://www.vonage.com), a VoIP (Voice-over-IP) service that using SIP (Session Initiation Protocol) that allows you to connect using the net to the analog POTS (Plain Old Telephone System) quite economically.
 
-I've had for a while a Cisco VoIP phone that is connected to the [PCH](http://www.pch.net/) (Packet Clearing House) experimental [INOC-DBA Phone Hotline](http://www.pch.net/inoc-dba/). This is a private telephone network for the internet that directly connects to internet operators and sysadmins at various ISPs and hosting sites, allowing them to communicate and share problems. I've been very pleased with the quality of the connections -- if anything, better then POTS in most cases.
+I've had for a while a Cisco VoIP phone that is connected to the [PCH](http://www.pch.net/) (Packet Clearing House) experimental [INOC-DBA Phone Hotline](https://web.archive.org/web/20070107052224/http://www.pch.net/inoc-dba/). This is a private telephone network for the internet that directly connects to internet operators and sysadmins at various ISPs and hosting sites, allowing them to communicate and share problems. I've been very pleased with the quality of the connections -- if anything, better then POTS in most cases.
 
 Given the quality of the Cisco VoIP phone, I thought it worth investigating to see if I could justify a VoIP system for Alacrity and closely related companies like Skotos, but discovered that hosting our own Cisco-based system would probably be too expensive. Then I heard about Vonage.
 

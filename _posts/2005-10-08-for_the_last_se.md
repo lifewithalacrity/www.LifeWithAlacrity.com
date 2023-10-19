@@ -37,7 +37,7 @@ I personally believe that that this capability should be a fundamental feature o
 
 The challenge with offering SynchroEdit as open source is finding a business model -- unlike an application like [SubEthaEdit](http://www.codingmonkeys.de/subethaedit/) or a service like [JotLive](http://www.jotlive.com), it is difficult to get revenues from individual users. Instead, we ask for contributions from companies that might find the tool useful, we offer consulting to customize it for specific purposes, and we give these companies public credit for their contributions to the common good.
 
-The first company to step up to the plate is [SocialText](http://www.socialtext.com), an enterprise wiki company. Clearly, being able to offer this capability to their customers will give them added value, and they already have a history of using open source with their support of [Kwiki](http://www.kwiki.org/) and [Wikiwyg](http://www.wikiwyg.net/).
+The first company to step up to the plate is [SocialText](http://www.socialtext.com), an enterprise wiki company. Clearly, being able to offer this capability to their customers will give them added value, and they already have a history of using open source with their support of [Kwiki](https://web.archive.org/web/20060218155110/http://www.kwiki.org/) and [Wikiwyg](http://www.wikiwyg.net/).
 
 The second supporter is venture capitalist and blogger [Joichi Ito](http://joi.ito.com/). He is is particularly well known for his own experiments with "same-time" collaboration. He runs a continuous #joiito IRC chat room, active 24 hours a day with hundreds of his friends. He also has done many live "same-time" experiments with chat backchannel during his talks at various conferences.
 
@@ -47,9 +47,9 @@ The development of SynchroEdit is being led by Kalle Alm, a young Swedish coder 
 
 We are seeking more financial contributions so that we can accelerate development. Currently SynchroEdit only works in Mozilla/Firefox, and I anticipate that making it work with Internet Explorer may be quite difficult, so we'll need more partners to help.
 
-<img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/christopher_allen_web2point1_brainjam.png" alt="christopher_allen_web2point1_brainjam"/>I did a demo of last year's open source project, [EditThisPage](http://www.EditThisPage.net), and of the SynchroEdit alpha at [Web 2.1 BrainJam](http://www.web2point1.org/) last week; there are two videos available from Enric Teller's vBlog: [Presentation](http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/) and [Q&A](http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/). 
+<img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/christopher_allen_web2point1_brainjam.png" alt="christopher_allen_web2point1_brainjam"/>I did a demo of last year's open source project, [EditThisPage](http://www.EditThisPage.net), and of the SynchroEdit alpha at [Web 2.1 BrainJam](https://web.archive.org/web/20110716153309/http://www.web2point1.org/) last week; there are two videos available from Enric Teller's vBlog: [Presentation](https://web.archive.org/web/20100212125833/http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-presentation/) and [Q&A](http://www.cirne.com/vlog/2005/10/10/web-21-a-brainjam-christopher-allen-qa/). 
 
-If you are interested in learning more, visit the [SynchroEdit website](http://www.synchroedit.com). We have additional information on the program, a [developers wiki](http://wiki.synchroedit.com), as well as a sandbox that you can play in to demonstrate SynchroEdit in use.
+If you are interested in learning more, visit the [SynchroEdit website](http://www.synchroedit.com). We have additional information on the program, a [developers wiki](https://web.archive.org/web/20080215000133/http://wiki.synchroedit.com/index.php/Main_Page), as well as a sandbox that you can play in to demonstrate SynchroEdit in use.
 
 ### Comments
 

@@ -19,7 +19,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/simple-yet-sophisticated-group-page-editing/
 ---
 
-I have been leading the design of a new Open Source collaboration tool called [EditThisPagePHP](http://editthispagephp.sourceforge.net/home/index.php), which started [six months ago](/2003/12/editthispagephp.html) and now is in beta.
+I have been leading the design of a new Open Source collaboration tool called [EditThisPagePHP](https://web.archive.org/web/20040705043949/http://editthispagephp.sourceforge.net/home/index.php), which started [six months ago](/2003/12/editthispagephp.html) and now is in beta.
 
 My goal with EditThisPagePHP attempt to come close to [Dave Winer's](http://www.scripting.com/) [visionary statement](http://davenet.scripting.com/discuss/msgReader$641?mode=topic) back in May of 1999:
 

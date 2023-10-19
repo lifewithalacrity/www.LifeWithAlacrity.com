@@ -22,7 +22,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/voluntary-health-associations-and-social-software/
 ---
 
-I'm a keynote speaker for the [FVHA (Future of Voluntary Health Associations) Conference](http://www.nvhainnovations.org/2005/index.htm) in Atlanta today. My job is to give to this community a gentle introduction and overview of concepts and products related to Social Software and Social Networking. ([My slides are here - 6.6MB .pdf](http://web.lifewithalacrity.com/christophera/FVHA_Social_Software_Keynote_Presentation.pdf))
+I'm a keynote speaker for the [FVHA (Future of Voluntary Health Associations) Conference](https://web.archive.org/web/20060207050443/http://www.nvhainnovations.org/2005/index.htm) in Atlanta today. My job is to give to this community a gentle introduction and overview of concepts and products related to Social Software and Social Networking. ([My slides are here - 6.6MB .pdf](https://web.archive.org/web/20060629075731/http://web.lifewithalacrity.com/christophera/FVHA_Social_Software_Keynote_Presentation.pdf))
 
 In my research about this community, I find that they have some unique and interesting problems.
 
@@ -50,7 +50,7 @@ I think this blog is very nice one and I appreciate the purpose for which it has
 
 This is something very beneficial for humanity. Helping people voluntrary is not an easy job but FVHA (Future of Voluntary Health Associations) is doing it easily and people are helping this association.
 
-[Stacy](http://www.safehealthdirect.com) 2005-10-13T07:20:15-07:00
+[Stacy](https://web.archive.org/web/20051210025044/http://www.safehealthdirect.com/) 2005-10-13T07:20:15-07:00
 
 [original layout]
 

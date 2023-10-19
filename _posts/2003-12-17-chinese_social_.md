@@ -25,7 +25,7 @@ permalink: /ephemera/chinese-social-network/
 
 > "If you think Friendster was slow with four million members imagine if a tens of millions, or hundreds of millions, of the two billion people in China join eFriendsnet.com! Why hasn't Friendster or Tribe.net launched international sites?!"
 
-This reminds of a quote I heard this last weekend from Tom Melcher, former CNET exec, and who has [recently left](http://www.wired.com/news/print/0,1294,60960,00.html) [There](http://www.there.com) to live and work in China:
+This reminds of a quote I heard this last weekend from Tom Melcher, former CNET exec, and who has [recently left](https://web.archive.org/web/20040204033822/http://www.wired.com/news/print/0,1294,60960,00.html) [There](http://www.there.com) to live and work in China:
 
 > There are now more people in China on the Internet then there are members of the Chinese Communist Party.
 

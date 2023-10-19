@@ -35,7 +35,7 @@ The audience arrives over 30 minutes and the 7 players act as if we are guests o
 
 Then as everyone is seated, a fabulous DJ (who besides being able to scratch can also sing and play various instruments) is introduced, and the show begins.
 
-It is really difficult for me to describe the show itself -- there were over a dozen "acts" but they were all integrated together in such a way as to introduce the personalities and humanness of the players. I'll instead point you to these [reviews](http://www.circuscenter.org/7Fingers/Reviews.htm) which describe it better then I can.
+It is really difficult for me to describe the show itself -- there were over a dozen "acts" but they were all integrated together in such a way as to introduce the personalities and humanness of the players. I'll instead point you to these [reviews](https://web.archive.org/web/20040202234736/http://www.circuscenter.org/7Fingers/Reviews.htm) which describe it better then I can.
 
 However, I can talk about what moved me -- first off, there was of course the beauty and athleticism of the players. In particular, there was the double 'tissu' act, a solo by the contortionist Isabele Chasse, hanging from two red silk curtain 20 feet above the stage, while the DJ played music on the theme of temptation.
 

@@ -54,7 +54,7 @@ So you've learned a lot about what makes a bad password. What makes a good passw
 2.  Shorten it to 7 characters, such as “ambrwvs” or “prspccus”.
 3.  Convert a letter other then first to a number. You can use those obvious substitutions here (e.g., A=4, B=8, E=3, G=6, I=1, L=1, O=0, R=2, S=5, T=7), since they're not your only method of security. This might produce “ambrwv5” or “pr5pccus”.
 4.  The next part is the key trick: use a specific letter from the domain name for the last character for your password and capitalize it. For example, you might add the third o from google, producing “ambrwv5O” or “pr5pccusO” for a GMail password. This ensures that even if you use your password at multiple sites, anyone who steals the password can't use it another website unless they know the trick. You can also use this trick with your computer's password by choosing the third letter from the name you use for the computer, or for a password required for a software application, by using the third letter from the app's name.
-5.  You should check the quality of your example password at [Password Meter](http://www.passwordmeter.com/) \-\- “ambrwv5O” weight is 54%, which is pretty good for an 8-character password, “pr5pccusO” is 44%, which is OK, but both are significantly better because they will be different at every site.
+5.  You should check the quality of your example password at [Password Meter](https://web.archive.org/web/20230306050616/http://www.passwordmeter.com/) \-\- “ambrwv5O” weight is 54%, which is pretty good for an 8-character password, “pr5pccusO” is 44%, which is OK, but both are significantly better because they will be different at every site.
 
 The same technique can be used with longer words to create more secure financial passwords. These might be easier to remember if you use the first letters from a sentence or poem that you can remember to generate the initial phrase. For example, “My first pet's name was Arthur the Valiant Dog” would generate “MfpnwAtVD”. Again, you convert one or more letters to a number (“Mfpnw4tVD”). 
 
@@ -102,7 +102,7 @@ Thank you Chris for the detailed article on password best practices. I like to u
 
 Very nice post. I especially like the unique-per-site approach. One thing you didn't mention was OpenID, which I with gurgling joy register with whenever the opportunity arises. I wish the world used OpenID so I could just have one gigantically monstrous password to rule my world with.
 
-[Kalle Alm](http://kallewoof.com) 2010-02-23T09:12:08-07:00
+[Kalle Alm](https://web.archive.org/web/20060716043803/http://kallewoof.com/) 2010-02-23T09:12:08-07:00
 
 [original layout]
 

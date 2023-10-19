@@ -31,7 +31,7 @@ So I've taught all my staffers over the years my ideas on what causes the cycle 
 
 This happens for several different reasons:
 
-Since text is lacking tonal and visual context, we have a tendency to over-interpret any emotional content that does exist [(link to paper)](http://citeseer.ist.psu.edu/context/1589611/0). In fact, we may have [no better than a random chance of correctly interpreting the emotional tone](http://www.wired.com/news/technology/0,70179-0.html?tw=wn_index_2) of ironic vs sincere text in a message ([link to Epley/Kruger paper](http://gsbwww.uchicago.edu/fac/nicholas.epley/EpleyKruger.pdf)).
+Since text is lacking tonal and visual context, we have a tendency to over-interpret any emotional content that does exist [(link to paper)](https://web.archive.org/web/20060613195228/http://citeseer.ist.psu.edu/context/1589611/0). In fact, we may have [no better than a random chance of correctly interpreting the emotional tone](http://www.wired.com/news/technology/0,70179-0.html?tw=wn_index_2) of ironic vs sincere text in a message ([link to Epley/Kruger paper](https://web.archive.org/web/20060605133220/http://gsbwww.uchicago.edu/fac/nicholas.epley/EpleyKruger.pdf)).
 
 In addition, we tend to respond to someone's emotional state by expressions of similar intensity (this phenomenon is known as [Emotional Contagion](http://www.amazon.co.uk/exec/obidos/ASIN/0521449480/202-9000930-0565465)). And the higher the level of intensity of our emotions, the less our ability to be empathetic ([link to paper](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8436029&dopt=Abstract)).
 

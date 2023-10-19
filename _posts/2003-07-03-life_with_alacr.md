@@ -27,7 +27,7 @@ Why Blogger? I wanted an easy web interface, but also I wanted it hosted on my s
 
 But the clincher was the new [Google Toolbar](http://toolbar.google.com/).
 
-My only SNAFU so far is that I've got my new [Kitchen TWiki](http://twiki.alacritymanagement.com/bin/view/Kitchen) working to send and receive RSS, however, the signup for [Blogger Pro](http://pro.blogger.com/) has the note "Blogger Pro ordering is currently offline while we retool. Sorry for the inconvenience. Please check back next week."
+My only SNAFU so far is that I've got my new [Kitchen TWiki](https://web.archive.org/web/20110811110156/http://twiki.alacritymanagement.com/bin/view/Kitchen) working to send and receive RSS, however, the signup for [Blogger Pro](https://web.archive.org/web/20030130101247/http://pro.blogger.com/) has the note "Blogger Pro ordering is currently offline while we retool. Sorry for the inconvenience. Please check back next week."
 
 [original layout]
 

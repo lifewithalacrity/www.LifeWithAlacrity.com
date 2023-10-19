@@ -212,17 +212,17 @@ Blaskovich, J.L. (2008) _Exploring the Effect of Distance: An Experimental Inves
 
 Day, E.A., Arthur, W., Bell, S.T., Edwards, B.D., Bennett, W., Mendoza, J.L., & Tubre, T.C. (2005). _Ability -based pairing strategies in the team-based training of a complex skill; Does the intelligence of your training partner matter?_ Intelligence, 33, 39-65. [(http://www.sciencedirect.com/science/article/pii/S0160289604000972)](http://www.sciencedirect.com/science/article/pii/S0160289604000972)
 
-De Cremer, D., Leonardelli, G. J. (2003). _Cooperation in Social Dilemmas and the Need to Belong: The Moderating Effect of Group Size_. Group Dynamics: Theory, Research and Practice, 2, 168-174 [(http://www.rotman.utoronto.ca/geoffrey.leonardelli/2003GD.pdf)](http://www.rotman.utoronto.ca/geoffrey.leonardelli/2003GD.pdf)
+De Cremer, D., Leonardelli, G. J. (2003). _Cooperation in Social Dilemmas and the Need to Belong: The Moderating Effect of Group Size_. Group Dynamics: Theory, Research and Practice, 2, 168-174 [(http://www.rotman.utoronto.ca/geoffrey.leonardelli/2003GD.pdf)](https://web.archive.org/web/20080803101706/http://www.rotman.utoronto.ca/geoffrey.leonardelli/2003GD.pdf)
 
-Laughlin, P.R., Hatch, E.C., Silver, J.S., Boh, L. (2006) _Groups perform better than the best individuals on letters-to-numbers problems: effects of group size_. Journal of Personality and Social Psychology, 4. 644-651. [(http://www.agileadvice.com/archives/Research%20on%20Group%20Effectiveness%20vs%20Individuals.pdf)](http://www.agileadvice.com/archives/Research%20on%20Group%20Effectiveness%20vs%20Individuals.pdf)
+Laughlin, P.R., Hatch, E.C., Silver, J.S., Boh, L. (2006) _Groups perform better than the best individuals on letters-to-numbers problems: effects of group size_. Journal of Personality and Social Psychology, 4. 644-651. [(http://www.agileadvice.com/archives/Research%20on%20Group%20Effectiveness%20vs%20Individuals.pdf)](https://web.archive.org/web/20110909155022/http://www.agileadvice.com/archives/Research%20on%20Group%20Effectiveness%20vs%20Individuals.pdf)
 
 Markam, S.E., Dansereau, F. Jr., Alutto, J.A. (1982) _Group size and Absenteeism Rates: A Longitudinal Analysis_. Academy of Management Journal, 25 921-927. [(http://www.jstor.org/pss/256108)](http://www.jstor.org/pss/256108)
 
-Seibold, D., Kang, P., Gailliard, B., Jahn, J.. _Communication that Damages Teamwork: The Dark Side of Teams_. Conference Papers - International Communication Association; 2008 Annual Meeting. 1-32. [(http://citation.allacademic.com//meta/p\_mla\_apa\_research\_citation/2/3/0/5/1/pages230513/p230513-2.php)](http://citation.allacademic.com//meta/p_mla_apa_research_citation/2/3/0/5/1/pages230513/p230513-2.php)
+Seibold, D., Kang, P., Gailliard, B., Jahn, J.. _Communication that Damages Teamwork: The Dark Side of Teams_. Conference Papers - International Communication Association; 2008 Annual Meeting. 1-32. [(http://citation.allacademic.com//meta/p\_mla\_apa\_research\_citation/2/3/0/5/1/pages230513/p230513-2.php)](https://web.archive.org/web/20130628181944/http://citation.allacademic.com//meta/p_mla_apa_research_citation/2/3/0/5/1/pages230513/p230513-2.php)
 
 Smith, S. and Haythorn, W.W. (1972) _Effects of Compatibility, Crowding, Group Size, and leadership seniority on stress, anxiety hostility and annoyance in isolated groups_. Journal of Personality and Social Psychology, 22, 67-79 [(http://psycnet.apa.org/index.cfm?fa=buy.optionToBuy&id=1972-24882-001)](http://psycnet.apa.org/index.cfm?fa=buy.optionToBuy&id=1972-24882-001)
 
-Taylor, R. B. De Soto, C.B., Lieb, R., _Sharing Secrets: Disclosure and Discretion in Dyads and Triads_. Journal of Personality and Social Psychology, 37, 1196-1203. [(http://www.rbtaylor.net/pub\_jpsp\_1979.pdf)](http://www.rbtaylor.net/pub_jpsp_1979.pdf)
+Taylor, R. B. De Soto, C.B., Lieb, R., _Sharing Secrets: Disclosure and Discretion in Dyads and Triads_. Journal of Personality and Social Psychology, 37, 1196-1203. [(http://www.rbtaylor.net/pub\_jpsp\_1979.pdf)](https://web.archive.org/web/20130831044749/http://www.rbtaylor.net/pub_jpsp_1979.pdf)
 
 ### Comments
 

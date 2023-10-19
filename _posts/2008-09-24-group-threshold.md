@@ -36,7 +36,7 @@ Groups can clearly exist at any size, from a partnership of two, on upward. Howe
 I'm also specifically talking about groups that are both tightly-knit and participatory communities. Clearly Ford Motor Company, with 250,000 employees, doesn't match any of these group thresholds. But any self-contained community within Ford probably will (and in fact, it will probably be either a "Working Group" or a "Non-Exclusive Dunbar Group", both terms I'll explain below). Similarly, a non-corporate community that doesn't _require_ everyone to participate won't work quite the same as a community that does require participation from each member (though that's again the topic of the third article in this series).
 
 <a href="https://www.singers.com/jazz/group7.html"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/group7.jpg" alt="Circle of Hands"/></a>
- **7, "The Working Group".**  This community size probably runs from about 4-9 members, but 7 is a pretty good average, and one that shows up in [multiple studies](http://delicious.com/ChristopherA/workinggroup). This number may well relate to the general [rule of seven](http://en.wikipedia.org/wiki/Rule_of_seven) ([original paper](http://www.musanim.com/miller1956/)), which suggests that 7 is a number that the brain can easily and intuitively comprehend.
+ **7, "The Working Group".**  This community size probably runs from about 4-9 members, but 7 is a pretty good average, and one that shows up in [multiple studies](https://web.archive.org/web/20130310163734/https://delicious.com/ChristopherA/workinggroup). This number may well relate to the general [rule of seven](http://en.wikipedia.org/wiki/Rule_of_seven) ([original paper](http://www.musanim.com/miller1956/)), which suggests that 7 is a number that the brain can easily and intuitively comprehend.
 
 It has become increasingly clear that a tightly-knit group of 7 is the first group size which is truly an optimal community size. Groups below this size can function effectively, but risk not having enough manpower to deliver a result that everyone is happy with, or having insufficient viewpoints to avoid group think.
 
@@ -79,7 +79,7 @@ I've found this to be true when growing a small business — where it is too sma
 <a href="#"><img width="200px" style=" margin-right:15px" align="right"  src="{{ site.url }}{{ site.baseurl }}/assets/images/legion_2.jpg" alt="legion_2"/></a>
 Another illustration of the Dunbar Valley is the history of the ancient Roman "century", a grouping that was originally 100 soldiers. However, as the years went by, centuries tended to decrease in numbers to only include 70 or 80 soldiers. This might well be due to Non-Exclusive Dunbar constraints: even in a very devoted group of military men, there was still the need for relationships with other century groups, with support staff, and with camp followers, ultimately lowering the attention that could be spent on the century itself.
 
-**150—"The Exclusive Dunbar Number".** Robin Dunbar got much of the discussion of group thresholds started with his [article](http://www.isrl.uiuc.edu/~amag/langev/paper/dunbar93coevolutionOf.html), "Co-Evolution Of Neocortex Size, Group Size And Language In Humans." However, as I've written [previously](/2004/03/the_dunbar_numb.html), and as I've described in this article, Dunbar's group threshold of 150 applies more to groups that are highly incentivized and relatively exclusive and whose goal is survival.
+**150—"The Exclusive Dunbar Number".** Robin Dunbar got much of the discussion of group thresholds started with his [article](https://web.archive.org/web/20110807061338/http://www.isrl.illinois.edu/~amag/langev/paper/dunbar93coevolutionOf.html), "Co-Evolution Of Neocortex Size, Group Size And Language In Humans." However, as I've written [previously](/2004/03/the_dunbar_numb.html), and as I've described in this article, Dunbar's group threshold of 150 applies more to groups that are highly incentivized and relatively exclusive and whose goal is survival.
 
 Dunbar makes this obvious by the statement that such a grouping "would require as much as 42% of the total time budget to be devoted to social grooming."
 
@@ -129,7 +129,7 @@ In my [next article](/2008/11/personal-circle.html) I'm going to talk about thre
 
 This view of group size dynamics has a lot of potential implications for all kinds of things including management science and more specifically/interesting to me startup dynamics. Namely, you're proposing an outline that can be mapped to company size and funding levels, amounts of management required/deployable etc. Have you thought of making a stronger connection in this area?
 
-[Mike Edwards](http://michaeledwards.com/) 2008-09-30T20:09:05-07:00
+[Mike Edwards](https://web.archive.org/web/20040403094559/http://michaeledwards.com/) 2008-09-30T20:09:05-07:00
 
 Hey Christopher, Have you thought about turning this into a general outline for managing startup growth, funding levels, and exit scenarios? --Mike
 

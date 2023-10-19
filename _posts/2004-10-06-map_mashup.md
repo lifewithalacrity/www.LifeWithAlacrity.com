@@ -31,7 +31,7 @@ This trick is done completely in Javascript, located in [global.js](http://www.m
 
 There are probably many more other innovative uses of this type of transparency overlay tracking to the cursor that can be helpful in other web tools.
 
-\[original link via [Futurismic](http://www.futurismic.com/2004/10/magical-maps.html)\]
+\[original link via [Futurismic](https://web.archive.org/web/20041204090151/http://www.futurismic.com/2004/10/magical-maps.html)\]
 
 \[[Jeffery To](http://www.thingsthemselves.com/) adds some more detail about this Javascript technique in this post's [comments](/2004/10/map_mashup.html#comments).\]
 

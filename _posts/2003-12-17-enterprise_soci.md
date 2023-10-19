@@ -21,7 +21,7 @@ excerpt_seperator: <!--more-->
 permalink: /ephemera/enterprise-social-networking/
 ---
 
-[InfoWorld](http://www.infoworld.com) has an article by [Ephraim Schwartz](http://www.infoworld.com/columnists/ephraim_reality.html) called ["Social Networking Targets the Enterprise"](http://www.infoworld.com/article/03/12/15/49NNsocial_1.html) that says that corporations are looking to use social networking service features in their CRM (customer relationship management) software. They mention a couple of companies that will be offering this, Contact Network, Interface Software, Spoke Software, and ZeroDegrees.
+[InfoWorld](http://www.infoworld.com) has an article by [Ephraim Schwartz](https://web.archive.org/web/20061022084339/http://www.infoworld.com/archives/t.jsp?N=c&V=Reality%20Check&F=2003) called ["Social Networking Targets the Enterprise"](https://web.archive.org/web/20070127065211/http://www.infoworld.com/article/03/12/15/49NNsocial_1.html) that says that corporations are looking to use social networking service features in their CRM (customer relationship management) software. They mention a couple of companies that will be offering this, Contact Network, Interface Software, Spoke Software, and ZeroDegrees.
 
 > For example, the ZeroDegrees dashboard would allow a person in furniture sales to be alerted when a large company leases more space or places ads for employees, thus indicating expansion and the need to furnish new office space, said Jas Dhillon, CEO of ZeroDegrees.  
 > ...  
@@ -39,7 +39,7 @@ permalink: /ephemera/enterprise-social-networking/
 
 It will be interesting to see how this intersection of CRM, sales support software, and social network services will play out. At least there is a decent business model here.
 
-[original layout](/previous/2003/12/enterprise_soci.html)
+[original layout](https://web.archive.org/web/20190225202356/https://www.lifewithalacrity.com/previous/2003/12/enterprise_soci.html)
 
 [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
 
