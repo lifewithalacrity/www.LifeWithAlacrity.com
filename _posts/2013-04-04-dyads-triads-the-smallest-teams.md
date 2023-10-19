@@ -10,9 +10,8 @@ date:   2013-04-04 14:16:52 -0700
 tags: 
   - Triads
   - Dyads
-  - Business
-  - Social Software
-  - Community by the numbers
+  - Community
+  - Community by the Numbers
 categories:
   - article
 class:

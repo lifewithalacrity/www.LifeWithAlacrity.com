@@ -8,8 +8,7 @@ redirect_from:
 date:   2012-08-12 16:27:42 -0700
 image:  ignition.jpg
 tags: 
-  - Hypermedia
-  - Web/Tech
+  - Hypercard
 
 categories:
   - article

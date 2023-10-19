@@ -8,8 +8,7 @@ redirect_from:
 date:   2012-10-14 08:44:31 -0700
 # image:  02.jpg
 tags: 
-  - Web/Tech
-  - Social Software
+  - MBA in Sustainable Systems
   - Using the Social Web for Social Change
 categories:
   - article

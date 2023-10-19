@@ -7,7 +7,8 @@ redirect_from:
   - /2015/04/the-four-kinds-of-privacy/
 date:   2015-04-19 18:30-07 +0300
 # image:  privacy.jpeg
-tags: 
+tags:
+  - MBA in Sustainable Systems
   - Privacy
 
 categories:

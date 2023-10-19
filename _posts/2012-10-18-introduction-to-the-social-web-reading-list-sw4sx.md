@@ -8,8 +8,7 @@ redirect_from:
 date:   2013-04-04 14:16:52 -0700
 # image:  02.jpg
 tags: 
-  - Weblogs
-  - Social Software
+  - MBA in Sustainable Systems
   - Using the Social Web for Social Change
 categories:
   - article
