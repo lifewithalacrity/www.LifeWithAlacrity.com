@@ -8,9 +8,8 @@ redirect_from:
 date:   2009-10-15 23:59:37 -0700
 image:  small.png
 tags:
-  - Software Security
-  - Business
-  - Community by the numbers
+  - Community by the Numbers
+  - Community
 categories:
   - article
 class:

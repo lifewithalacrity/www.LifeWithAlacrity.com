@@ -8,8 +8,7 @@ redirect_from:
 date:   2009-09-16 22:36:27 -0700
 # image:  Teaching.jpg
 tags: 
-  - Bgiedu
-  - Web/Tech
+  - MBA in Sustainable Systems
   - Using the Social Web for Social Change
 categories:
   - news

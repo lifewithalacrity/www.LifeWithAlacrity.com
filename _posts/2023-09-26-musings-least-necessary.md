@@ -7,7 +7,7 @@ classes:
 categories:
   - article
 tags:
-  - Musings
+  - Musings of a Trust Architect
   - Data Minimization
   - Self-Sovereign Identity
   - Verifiable Credentials

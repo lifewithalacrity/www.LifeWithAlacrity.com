@@ -8,9 +8,10 @@ redirect_from:
 date:   2011-10-16 17:35:27 -0700
 # image:  BGIedu.png
 tags: 
-  - Weblogs
-  - Social
-
+  - Blog Action Day
+  - MBA in Sustainable Systems
+  - Using the Social Web for Social Change
+  
 categories:
   - ephemera
 class:

@@ -8,9 +8,7 @@ redirect_from:
 date:  2009-09-25 01:29:32 -0700
 # image:  02.jpg
 tags:  
-  - Home
-  - Web/Tech
-  - Security
+  - Passwords
 
 categories:
   - article

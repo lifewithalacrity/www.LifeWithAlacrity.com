@@ -5,7 +5,7 @@ excerpt_separator: "<!--more-->"
 categories:
   - article
 tags:
-  - Musings
+  - Musings of a Trust Architect
   - Trust
 classes:
   - wide

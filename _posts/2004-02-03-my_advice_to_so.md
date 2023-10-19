@@ -8,11 +8,13 @@ redirect_from:
 date:   2004-02-03 11:39:47 -0700
 # image:  02.jpg
 tags: 
-  - Software
-  - Social Software
-  - Network
-  - Security
-
+  - Social Media
+  - Reciprocity
+  - Privacy
+  - Community
+  - Ratings
+  - Reputation
+  
 categories:
   - article
 class:

@@ -8,8 +8,8 @@ redirect_from:
 date: 2009-09-14 13:55:42 -0700
 image: Creative.jpg
 tags: 
-  - Creating
-  - Social Software
+  - Creative Commons
+  - Licenses
 
 categories:
   - ephemera

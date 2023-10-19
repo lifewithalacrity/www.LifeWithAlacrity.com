@@ -7,7 +7,7 @@ classes:
 categories:
   - article
 tags:
-  - Musings
+  - Musings of a Trust Architect
   - Cryptography
   - Agility
 ---

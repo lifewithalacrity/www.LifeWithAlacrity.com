@@ -5,7 +5,7 @@ date:   2010-10-13 11:28:12 -0700
 # image:  02.jpg
 tags: 
   - Persuasion
-  - Errors
+  - Bias
 
 categories:
   - ephemera

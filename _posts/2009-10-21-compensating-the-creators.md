@@ -4,7 +4,7 @@ title:  Compensating the Creators
 date:   2009-10-21 15:33:22 -0700
 # image:  02.jpg
 tags: 
-  - Creators
+  - Creativity
 
 categories:
   - ephemera

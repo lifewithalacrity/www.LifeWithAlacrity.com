@@ -8,8 +8,8 @@ redirect_from:
 date:   2009-11-22 00:59:46 -0700
 # image:  paying.jpg
 tags: 
-  - Film
-  - Business
+  - Favors
+  - Reciprocity
 
 categories:
   - ephemera

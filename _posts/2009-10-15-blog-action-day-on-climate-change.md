@@ -8,9 +8,11 @@ redirect_from:
 date:   2009-10-15 23:59:37 -0700
 # image:  02.jpg
 tags: 
-  - Change
-  - Bgiedu
-
+  - Blog Action Day
+  - MBA in Sustainable Systems
+  - Using the Social Web for Social Change
+  - Climate Change
+  
 categories:
   - ephemera
 class:

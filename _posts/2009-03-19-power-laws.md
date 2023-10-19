@@ -8,9 +8,8 @@ redirect_from:
 date: 2009-09-14 13:55:42 -0700
 image: community.jpg
 tags: 
-  - Web/Tech
-  - Social Software
-  - Community by the numbers
+  - Community
+  - Community by the Numbers
 categories:
   - article
 class:

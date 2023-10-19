@@ -9,8 +9,7 @@ date:   2009-09-17 01:13:10 -0700
 image:  poem.jpg
 tags: 
   - Language
-  - Creating
-
+  - Shared Artifacts
 categories:
   - article
 class:
