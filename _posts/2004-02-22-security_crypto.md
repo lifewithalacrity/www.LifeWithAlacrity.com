@@ -8,8 +8,7 @@ redirect_from:
 date:   2004-02-22 14:12:29 -0700
 # image:  02.jpg
 tags: 
-  - Business
-  - Social
+  - Cryptography
   - Security
 
 categories:

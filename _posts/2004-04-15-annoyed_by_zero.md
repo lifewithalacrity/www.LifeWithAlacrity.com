@@ -8,8 +8,8 @@ redirect_from:
 date:   2004-04-15 00:27:05 -0700
 # image:  02.jpg
 tags: 
-  - Social Software
-  - Web/Tech
+  - Social Media
+  - User Interface
 
 categories:
   - ephemera

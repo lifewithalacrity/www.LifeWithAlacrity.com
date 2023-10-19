@@ -8,10 +8,7 @@ redirect_from:
 date:   2004-10-07 00:39:29 -0700
 # image:  02.jpg
 tags: 
-  - Social Software
-  - User Interface
-  - Web/Tech
-  - Wiki
+  - Collaborative Tools
 
 categories:
   - ephemera

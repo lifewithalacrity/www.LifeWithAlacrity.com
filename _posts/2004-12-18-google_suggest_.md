@@ -9,9 +9,6 @@ date:   2004-12-18 08:44:31 -0700
 # image:  logo_google_suggest.gif
 tags: 
   - User Interface
-  - Google
-  - Javascript
-  - Web/Tech
 
 categories:
   - ephemera

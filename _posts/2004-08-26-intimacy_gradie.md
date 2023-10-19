@@ -8,10 +8,8 @@ redirect_from:
 date:   2004-08-26 16:56:26 -0700
 # image:  02.jpg
 tags: 
-  - Security
-  - Social Software
-  - Wiki
-  - Web/Tech
+  - Privacy
+  - Architecture
 
 categories:
   - article

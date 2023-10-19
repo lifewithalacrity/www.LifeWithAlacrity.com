@@ -8,10 +8,7 @@ redirect_from:
 date: 2004-01-30 19:20:14 -0700
 # image: 02.jpg
 tags: 
-  - Social Software
-  - Web/Tech
-  - Services
-  - Weblogs
+  - Social Media
 
 categories:
   - ephemera

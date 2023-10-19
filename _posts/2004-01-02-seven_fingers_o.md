@@ -7,9 +7,6 @@ redirect_from:
   - /2004/01/seven_fingers_o/
 date: 2004-01-02 12:15:31 -0700
 # image: 02.jpg
-tags: 
-  - Web/Tech
-  - Circus
 
 categories:
   - ephemera

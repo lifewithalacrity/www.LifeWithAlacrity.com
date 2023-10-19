@@ -8,7 +8,8 @@ redirect_from:
 date: "2016-04-25T17:00:23-07:00"
 tags: 
   - Self Sovereign Identity
-
+  - History
+  
 categories:
   - article
 class:

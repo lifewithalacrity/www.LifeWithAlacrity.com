@@ -8,9 +8,7 @@ redirect_from:
 date:   2004-02-05 14:37:38 -0700
 # image:  02.jpg
 tags: 
-  - Society
-  - Weblogs
-  - Social Software
+  - Sexism
 
 categories:
   - ephemera

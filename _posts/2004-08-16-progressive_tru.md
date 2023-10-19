@@ -8,9 +8,8 @@ redirect_from:
 date:   2004-08-16 23:42:15 -0700
 # image:  02.jpg
 tags: 
-  - Business
-  - Security
-  - Social Software
+  - Trust
+  - Progressive Trust
 
 categories:
   - article

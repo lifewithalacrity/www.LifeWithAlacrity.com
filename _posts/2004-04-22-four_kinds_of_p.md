@@ -9,7 +9,6 @@ date:   2004-04-22 02:00:51 -0700
 # image:  02.jpg
 tags: 
   - Privacy
-  - Freedom
 
 categories:
   - article

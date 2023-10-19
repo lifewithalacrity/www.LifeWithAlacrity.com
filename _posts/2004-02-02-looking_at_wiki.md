@@ -8,9 +8,7 @@ redirect_from:
 date:   2004-02-19 16:25:05 -0700
 # image:  02.jpg
 tags: 
-  - Wiki
-  - Social
-  - Social Software
+  - Collaborative Tools
 
 categories:
   - article

@@ -9,7 +9,8 @@ date:   2004-08-26 16:56:26 -0700
 # image:  02.jpg
 tags: 
   - Politics
-
+  - Opinions
+  
 categories:
   - ephemera
 class:

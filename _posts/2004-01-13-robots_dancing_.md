@@ -8,10 +8,10 @@ redirect_from:
 date: 2004-01-13 15:21:07 -0700
 # image: 02.jpg
 tags: 
-  - Web/Tech
-  - Apple
-  - Design
-
+  - User Interface
+  - Uncanny Valley
+  - Robots
+  
 categories:
   - ephemera
 class:

@@ -7,9 +7,6 @@ redirect_from:
   - /2004/08/circus_contrapt/
 date:   2004-08-07 14:03:41 -0700
 # image:  02.jpg
-tags: 
-  - Web/Tech
-  - Soft Software
 
 categories:
   - ephemera

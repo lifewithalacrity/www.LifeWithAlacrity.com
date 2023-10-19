@@ -9,7 +9,7 @@ date: 2004-02-01 17:12:22 -0700
 # image: 02.jpg
 tags: 
   - Security
-  - Social Software
+  - Social Media
   - Privacy
   
 categories:

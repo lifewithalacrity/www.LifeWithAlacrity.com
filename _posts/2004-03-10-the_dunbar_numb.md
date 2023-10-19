@@ -7,11 +7,9 @@ redirect_from:
   - /2004/03/the_dunbar_numb/
 date:   2004-03-10 14:17:52 -0700
 tags: 
-  - Web/Tech
-  - Social Software
-  - Dunbar number
-  - Weblogs
-
+  - Dunbar's Number
+  - Community
+  
 categories:
   - article
 class:

@@ -9,8 +9,10 @@ date:   2014-04-11 12:01:00 +0300
 # image:  02.jpg
 tags: 
   - SSL
+  - Security
   - Heartbleed
-
+  - History
+  
 categories:
   - ephemera
 class:

@@ -8,8 +8,7 @@ redirect_from:
 date: 2004-01-31 13:58:38 -0700
 # image: 02.jpg
 tags: 
-  - Social
-  - Social Software
+  - Social Media
   - Security
 
 categories:

@@ -8,11 +8,9 @@ redirect_from:
 date:   2004-10-13 23:40:10 -0700
 image:  evolution.jpg
 tags:   
-  - Social
-  - Software
-  - Web/Tech
-  - Evolution
-
+  - Social Software
+  - History
+  
 categories:
   - article
 class:

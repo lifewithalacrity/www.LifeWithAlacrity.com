@@ -8,8 +8,7 @@ redirect_from:
 date:   2004-03-18 08:05:31 -0700
 # image:  02.jpg
 tags: 
-  - Social Software
-  - Web/Tech 
+  - Relationships
 
 categories:
   - article

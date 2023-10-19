@@ -9,8 +9,6 @@ date:   2004-10-07 00:39:29 -0700
 image:  mapmashup_1.gif
 tags: 
   - User Interface
-  - Web/Tech
-  - Map
 
 categories:
   - ephemera

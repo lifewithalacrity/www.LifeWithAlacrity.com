@@ -8,9 +8,7 @@ redirect_from:
 date:   2004-02-19 16:25:05 -0700
 # image:  02.jpg
 tags: 
-  - Social Software
-  - Security
-  
+  - Web of Trust
 
 categories:
   - article

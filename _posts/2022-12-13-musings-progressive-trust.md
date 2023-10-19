@@ -7,6 +7,8 @@ categories:
 tags:
   - Musings of a Trust Architect
   - Trust
+  - Progressive Trust
+  
 classes:
   - wide
 ---

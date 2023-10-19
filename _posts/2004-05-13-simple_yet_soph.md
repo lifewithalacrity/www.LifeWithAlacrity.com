@@ -8,7 +8,7 @@ redirect_from:
 date:   2004-05-13 14:58:39 -0700
 # image:  02.jpg
 tags: 
-  - Web/Tech
+  - Collaborative Tools
 
 categories:
   - ephemera
