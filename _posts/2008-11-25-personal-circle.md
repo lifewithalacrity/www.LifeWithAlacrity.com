@@ -10,6 +10,9 @@ image: sympathy.jpg
 tags: 
   - Community by the Numbers
   - Community
+  - Dunbar's Number
+  - Relationships
+  
 categories:
   - article
 

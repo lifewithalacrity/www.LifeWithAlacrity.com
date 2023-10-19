@@ -8,10 +8,7 @@ redirect_from:
 date:   2005-05-10 12:25:27 -0700
 # image:  02.jpg
 tags: 
-  - Music
-  - Web/Tech
-  - iTunes
-  - iPod
+  - Media
 
 categories:
   - news

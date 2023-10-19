@@ -8,10 +8,11 @@ redirect_from:
 date:   2005-12-01 16:03:26 -0700
 image:  peoplearoundthesun.gif
 tags: 
-  - Social Software
-  - Web/Tech
   - Collective Choice
-
+  - Ratings
+  - Rankings
+  - Opinions
+  
 categories:
   - article
 class:

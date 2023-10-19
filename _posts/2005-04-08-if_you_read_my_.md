@@ -7,10 +7,6 @@ redirect_from:
   - /2005/04/if_you_read_my_/
 date:   2005-05-10 12:25:27 -0700
 # image:  02.jpg
-tags: 
-  - Web/Tech
-  - Social Software
-  - User Interface
 
 categories:
   - ephemera

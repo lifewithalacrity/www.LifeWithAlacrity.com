@@ -8,11 +8,8 @@ redirect_from:
 date:   2005-10-28 16:16:17 -0700
 # image:  02.jpg
 tags: 
-  - Social Software
-  - Games
-  - Web/Tech
-  - Dunbar number
-  - Recreation
+  - Dunbar's Number
+  - Online Games
 
 categories:
   - article

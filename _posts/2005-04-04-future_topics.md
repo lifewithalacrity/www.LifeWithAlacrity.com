@@ -7,14 +7,6 @@ redirect_from:
   - /2005/04/future_topics/
 date:   2005-04-04 01:08:16 -0700
 # image:  02.jpg
-tags: 
-  - Business
-  - User Interface
-  - Social Software
-  - Web/Tech
-  - Weblogs
-  - Security
-  - Science
 
 categories:
   - article

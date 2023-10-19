@@ -8,9 +8,7 @@ redirect_from:
 date:   2005-07-27 16:35:17 -0700
 image:  cheers.jpg
 tags: 
-  - Recreation
-  - Television
-  - Social Software
+  - Relationships
 
 categories:
   - ephemera

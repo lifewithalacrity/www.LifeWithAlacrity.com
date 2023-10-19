@@ -8,10 +8,9 @@ redirect_from:
 date:   2005-10-28 16:16:17 -0700
 # image:  02.jpg
 tags: 
-  - Dunbar number
-  - Social Software
-  - Web/Tech
-
+  - Dunbar's Number
+  - Community
+  
 categories:
   - article
 class:

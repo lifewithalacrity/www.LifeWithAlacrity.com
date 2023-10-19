@@ -8,10 +8,8 @@ redirect_from:
 date:   2005-07-18 14:13:15 -0700
 # image:  02.jpg
 tags: 
-  - Film
-  - Social Software
-  - Web/Tech
-  - Weblogs
+  - Social Media
+  - Opinions
 
 categories:
   - ephemera

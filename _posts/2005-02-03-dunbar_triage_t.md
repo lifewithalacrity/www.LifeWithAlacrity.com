@@ -8,10 +8,9 @@ redirect_from:
 date:   2005-02-03 15:05:50 -0700
 image:  ryzeblogtribefriends.gif
 tags: 
-  - Social Software
-  - Web/Tech
-  - Dunbar number
-
+  - Dunbar's Number
+  - Relationships
+  
 categories:
   - article
 class:

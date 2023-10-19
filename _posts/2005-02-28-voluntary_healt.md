@@ -8,10 +8,7 @@ redirect_from:
 date:   2005-02-28 11:20:01 -0700
 image:  acsrelay.jpg
 tags:   
-  - Games 
-  - Social
-  - Software
-  - Web/Tech
+  - Social Software
 
 categories:
   - ephemera

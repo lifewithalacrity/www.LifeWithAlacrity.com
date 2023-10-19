@@ -8,9 +8,7 @@ redirect_from:
 date:   2005-03-17 11:38:19 -0700
 # image:  02.jpg
 tags: 
-  - Science
-  - Social Software
-  - Dunbar number
+  - Dunbar's Number
 
 categories:
   - article

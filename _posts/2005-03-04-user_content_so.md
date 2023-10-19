@@ -8,10 +8,9 @@ redirect_from:
 date:   2005-03-04-17 15:17:14 -0700
 image:  shannon.jpeg
 tags:  
-  - Games 
-  - Social 
-  - Software 
-  - Web/Tech
+  - Social Software
+  - Creativity
+  - Online Games
 
 categories:
   - ephemera
