@@ -8,10 +8,9 @@ redirect_from:
 date:   2007-07-08 23:19:52 -0700
 image:  everyone.jpg
 tags: 
-  - Games
+  - Hackathon
   - iPhone
-  - Social Software
-
+  
 categories:
   - ephemera
 class:

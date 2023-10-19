@@ -8,10 +8,8 @@ redirect_from:
 date:   2007-01-01 22:38:15 -0700
 # image:  02.jpg
 tags: 
-  - Collective rating
-  - Social Software
-  - Web/Tech
-  - User Interface
+  - Collective Choice
+  - Ratings
 
 categories:
   - article

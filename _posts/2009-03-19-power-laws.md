@@ -10,6 +10,7 @@ image: community.jpg
 tags: 
   - Community
   - Community by the Numbers
+  - Dunbar's Number
 categories:
   - article
 class:

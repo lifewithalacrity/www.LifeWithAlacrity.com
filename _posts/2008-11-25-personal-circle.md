@@ -8,9 +8,8 @@ redirect_from:
 date: 2009-09-14 13:55:42 -0700
 image: sympathy.jpg
 tags: 
-  - Personal
-  - Software
-  - Community by the numbers
+  - Community by the Numbers
+  - Community
 categories:
   - article
 

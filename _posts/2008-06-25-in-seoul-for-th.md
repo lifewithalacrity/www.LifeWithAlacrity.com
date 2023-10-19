@@ -8,11 +8,9 @@ redirect_from:
 date:   2008-06-25 01:18:39 -0700
 image:  seoul.jpg
 tags: 
-  - Seoul
-  - South Korea
-  - Social Software
-  - Weblogs
-
+  - Conference
+  - Social Media
+  
 categories:
   - ephemera
 class:

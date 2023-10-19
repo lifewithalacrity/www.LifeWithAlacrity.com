@@ -8,9 +8,9 @@ redirect_from:
 date: 2009-09-14 13:55:42 -0700
 image: circle_of_hands.jpg
 tags: 
-  - Social Software
-  - Group threshold
-  - Community by the numbers
+  - Community by the Numbers
+  - Community
+  - Dunbar's Number
 categories:
   - article
 class:

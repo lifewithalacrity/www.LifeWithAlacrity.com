@@ -8,7 +8,6 @@ redirect_from:
 date:   2007-06-15 20:06:45 -0700
 image:  watereddown.jpg
 tags: 
-  - Social Software
   - iPhone
 
 categories:

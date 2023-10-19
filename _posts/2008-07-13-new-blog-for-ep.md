@@ -7,10 +7,6 @@ redirect_from:
   - /2008/07/new-blog-for-ep/
 date: 2008-07-13 13:22:55 -0700
 image: ephemerablogthumb.png
-tags: Weblogs
-tags: 
-  - Weblogs
-  - Social Software
 
 categories:
   - ephemera
