@@ -13,9 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title: "Life With Alacrity"
+title: "Life With Alacrity"
 # baseurl: /
 # email:
+subtitle: "Velocity and Celerity"
+
 description: "A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen."
 twitter:
   username: ChristopherA
@@ -26,7 +28,7 @@ writer: Christopher Allen
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# theme                    : "minimal-mistakes-jekyll"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
