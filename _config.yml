@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Life With Alacrity"
-# baseurl: /
+baseurl: "www.LifeWithAlacrity.com"
 # email:
 subtitle: "Velocity and Celerity"
 logo: "/assets/images/apple-touch-icon1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"

@@ -1,5 +1,5 @@
 body{
-    background: url(/assets/images/image-background.png);
+    background: url({{site.baseurl}}/assets/images/image-background.png);
    /* Full height */
 
   /* Center and scale the image nicely */
