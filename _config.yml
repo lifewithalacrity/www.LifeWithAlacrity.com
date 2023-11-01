@@ -66,28 +66,68 @@ author:
   avatar : "/assets/images/1516163297842.jpeg"
   bio    : "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
   links:
-  
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.LifeWithAlacrity.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ChristopherA"
+      color: 00acee
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      color: 00acee
+      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ChristopherA"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/christophera/"
+      url: "https://github.com/"
+      color: 6cc644
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://instagram.com/"
+      color: 0072b1
+  footer_links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      color: 00acee
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+      color: 6cc644
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://instagram.com/"
+      color: 0072b1
 
+# Site Footer
 footer:
   links:
     - label: "Blockchain Commons"
       icon: "fab fa-creative-commons-sampling-plus"
       url: "https://www.blockchaincommons.com/"
+      color: 00aee6
     - label: "SmartCustody"
       icon: "fas fa-info-circle"
       url: "https://www.smartcustody.com/"
+      color: ffa500
+ 
+info:
+  links:
+    - label: "Email Address"
+      icon: "fas fa-at"
+      url: "ChristopherA@LifeWithAlacrity.com"
+      color: 2754ba
+    - label: "Home page"
+      icon: "fas fa-home"
+      url: "/about"
+      color: ffa500
+    - label: "Tags"
+      icon: "fas fa-tags"
+      url: "/tags-archive"
+      color: 03a5ce
+    - label: "Category"
+      icon: "fas fa-layer-group"
+      url: "/category-archive-grid"
+      color: e0336f
  
 defaults:
   # _posts

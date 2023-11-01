@@ -5,12 +5,16 @@ classes:
   - wide
 permalink: /
 author_profile: false
-# toc: false
-# toc_label: "Unique Title"
-# toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc: false
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+excerpt: "Defining the cause for Decentralised Identities"
 header:
+  overlay_image: /assets/images/unsplash-image-1.jpg
   overlay_filter: rgba(0, 255, 0, 0.8) # same as adding an opacity of 0.5 to a black background
-
+  # actions:
+  #   - label: "More Info"
+  #     url: "https://unsplash.com"
 ---
 
 > ___Alacrity, noun.__ From the Latin alacritas meaning promptitude. Similar in meaning to its synonyms Velocity and Celerity, all three mean quickness in action or movement. Alacrity stresses promptness in response to a suggestion or command, cheerful and eager willingness, appropriate quickness, and in general the beginning of fast movement._
@@ -44,8 +48,8 @@ _Christopher is available for personal consulting engagements on decentralized d
 </ul>
 
 _See all [Posts](/posts/)._
-<!-- <figure class="half">
+<figure class="half">
     <a href="/assets/images/foo-bar-identity.jpg"><img src="/assets/images/foo-bar-identity.jpg"></a>
     <a href="/assets/images/foo-bar-identity-th.jpg"><img src="/assets/images/foo-bar-identity-th.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
-</figure> -->
+</figure>

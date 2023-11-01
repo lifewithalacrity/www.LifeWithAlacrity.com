@@ -1,6 +1,7 @@
 body{
-    background: url(/www.LifeWithAlacrity.com/assets/images/image-background.png);
+    background: url(/assets/images/image-background.png);
    /* Full height */
+  height: 100%;
 
   /* Center and scale the image nicely */
   
@@ -73,3 +74,86 @@ body{
         clear: both;
     }
 }
+footer{
+    background: url(/assets/images/mm-single-header-orlay-fill-example.jpg);
+   /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+}
+.page__footer-follow{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+    color: white;
+  }
+  .side-1{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+  }
+  .side-2{
+    flex: 1;
+    margin-left: 150px;
+  }
+  .side-3{
+    flex: 1;
+  }
+
+  .side-first-1{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+  }
+  .side-2 span {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .side-3 span {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  .side-second-2{
+    margin-left: 30px;
+  }
+  .side-second-1 button{
+    width: 120px;
+    height: 50px;
+    background-color: #84c04e;
+    border: 1px solid #3b5326;
+    color: white;
+    border-radius: 5px;
+  }
+  .side-second-1 button:hover{
+    background-color: #63ab24;
+  }
+   .side-2 ul{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    margin-top: 1rem;
+  }
+  .side-3 ul{
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    margin-top: 1rem;
+  }
+   .side-3 ul li{
+   font-size: 0.7rem;
+  }
+  .side-3 ul li:nth-child(1){
+    margin-left: 5px;
+   }
+   .side-2 ul li:nth-child(1){
+    margin-left: 5px;
+   }
