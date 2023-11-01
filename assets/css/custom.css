@@ -1,5 +1,5 @@
 body{
-    background: url({{ /assets/images/image-background.png | relative_url }});
+    background: url(/www.LifeWithAlacrity.com/assets/images/image-background.png);
    /* Full height */
   height: 100%;
 
