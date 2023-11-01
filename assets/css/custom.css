@@ -1,5 +1,5 @@
 body{
-    background: url(/assets/images/image-background.png);
+    background: url({{ /assets/images/image-background.png | relative_url }});
    /* Full height */
   height: 100%;
 
