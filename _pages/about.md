@@ -1,4 +1,5 @@
 ---
+layout: custom_about
 title: "About Christopher Allen"
 permalink: /about/
 ---

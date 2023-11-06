@@ -14,33 +14,34 @@
     {% include head/custom.html %}
   </head>
 <style>
-  @media screen and (max-width: 1050px){
-    .author__avatar img {
-    max-width: 100px !important;
-    border-radius: 50%;
-    margin-top: 10px;
-    margin-left: 0px !important;
+  @media screen and (min-width: 80em) {
+  .sidebar {
+    width: calc(300px - 1em);
+    margin-left: 0px;
 }
-  }
-    
-  .wrapper .page__title{
-      text-decoration: none !important;
-  }
-   .author__avatar img {
-    max-width: 140px;
-    border-radius: 50%;
-    margin-left: 45px;
+.page {
+    padding-right: 0px !important;
 }
-.archive{
-  padding: 0px 70px 0px 10px !important;
+.page {
+    width: calc(100% - 295px);
+    padding-right: 300px;
 }
-.page__hero--overlay{
-  background-color: #4a9bb1c7;
-  background-size: cover;
-  background-position: center;
-  background-blend-mode: multiply;
-  color: #fff;
+#main{
+  margin-left: 115px;
 }
+
+.author__content {
+    display: block;
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 0;
+}
+.author__urls-wrapper {
+    display: block;
+    margin-left: 20px;
+}
+}
+</style>
 </style>
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}

@@ -3,20 +3,10 @@ layout: default
 author_profile: true
 ---
 <style>
-  
-  .wrapper .page__title{
-      text-decoration: none !important;
-  }
-  a.reversefootnote{
-    color: black !important;
-  }
-  .footnotes ol, .footnotes li, .footnotes p{
-    color: #0092CA;
-  }
-  .page{
-    padding-right: 0px !important;
-  }
-  @media screen and (min-width: 80em) {
+   .author__avatar img {
+    border: 2px solid #05A069;
+   }
+@media screen and (min-width: 80em) {
   .sidebar {
     width: calc(300px - 1em);
     margin-left: 0px;
@@ -92,7 +82,6 @@ author_profile: true
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
