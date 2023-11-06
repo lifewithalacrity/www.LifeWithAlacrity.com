@@ -27,6 +27,11 @@ header:
     margin-left: -41px;
 }
 }
+@media screen and (max-width: 42em) {
+  .sidebar {
+    display: none;
+}
+}
 </style>
 
 > ___Alacrity, noun.__ From the Latin alacritas meaning promptitude. Similar in meaning to its synonyms Velocity and Celerity, all three mean quickness in action or movement. Alacrity stresses promptness in response to a suggestion or command, cheerful and eager willingness, appropriate quickness, and in general the beginning of fast movement._
