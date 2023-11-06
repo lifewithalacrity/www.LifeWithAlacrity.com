@@ -4,6 +4,15 @@ title: "About Christopher Allen"
 permalink: /about/
 ---
 
+{% capture notice-2 %}
+Christopher Allen is a world-renowned authority on decentralized digital trust, online collaboration, identity management, digital assets, smart contracts, and human-rights privacy. 
+
+Recognized as a “Top 100 Influencer in Identity,” Christopher provides strategic advice to governments worldwide, including the Wyoming legislature, successfully championing laws to uphold digital civil liberties and human rights.
+
+{% endcapture%}
+
+<div class="notice--success introduction">{{ notice-2 | markdownify }}</div>
+
 Christopher Allen is a world-renowned authority on decentralized digital trust, online collaboration, identity management, digital assets, smart contracts, and human-rights privacy. 
 
 Recognized as a “Top 100 Influencer in Identity,” Christopher provides strategic advice to governments worldwide, including the Wyoming legislature, successfully championing laws to uphold digital civil liberties and human rights.
@@ -24,6 +33,7 @@ In the rapidly evolving tech landscape, guidance is the bridge between innovatio
 
 <hr>
 
+{% capture notice-2 %}
 Entrepreneur, Advisor & Technologist
 ------------------------------------
 
@@ -35,6 +45,9 @@ Entrepreneur, Advisor & Technologist
 
 
 **Email:** [ChristopherA@LifeWithAlacrity.com](mailto:ChristopherA@LifeWithAlacrity.com) (work)
+{% endcapture%}
+
+<div class="notice--success">{{ notice-2 | markdownify }}</div>
 
 <hr>
 
