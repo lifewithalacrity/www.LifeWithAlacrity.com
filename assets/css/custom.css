@@ -38,7 +38,7 @@ background-blend-mode: multiply;
 }
 .greedy-nav .hidden-links{
 width: 200px;
-background-color: #11ca89;
+background-color: #252525;
 box-shadow: 4px 4px 15px #0a5b3f;
 }
 .greedy-nav .hidden-links a{
@@ -47,8 +47,8 @@ color: #fff;
 text-align: center;
 }
 .greedy-nav__toggle.close:before {
-opacity: 0.55;
-background: #d2ffee;
+opacity: 0.65;
+background: #3f3f3f;
 }
 @media screen and (max-width: 1050px){
 .author__avatar img {
@@ -182,6 +182,9 @@ background-blend-mode: multiply;
  }
  .taxonomy__index a {
   background-color: #5cf9c2;
+  border: 1px dashed #05A069;
+  border-radius: 3px;
+  padding: 0px 10px 0px 10px;
  }
  .author__avatar img {
   border: 2px solid #05A069;
@@ -189,6 +192,12 @@ background-blend-mode: multiply;
  /* Responsive design */
 
  @media screen and (max-width: 42rem) {
+  .archive{
+    margin: 0px -106px 0px 50px;
+    padding: 0px 0px 0px 0px !important;
+      
+  }
+
   #main {
     clear: both;
     margin-left: auto;
