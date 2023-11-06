@@ -37,14 +37,14 @@ background-blend-mode: multiply;
   color: #0a5b3f;;
 }
 .greedy-nav .hidden-links{
-width: 200px;
-background-color: #252525;
-box-shadow: 4px 4px 15px #0a5b3f;
+  width: 130px;
+  background-color: #252525;
+  box-shadow: 4px 4px 15px #0a5b3f;
 }
 .greedy-nav .hidden-links a{
-font-size: 15em;
-color: #fff;
-text-align: center;
+  font-size: 11em;
+  color: #fff;
+  text-align: center;
 }
 .greedy-nav__toggle.close:before {
 opacity: 0.65;
