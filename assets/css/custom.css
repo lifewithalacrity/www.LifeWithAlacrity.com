@@ -1,5 +1,5 @@
 body{
-  background: url(/www.LifeWithAlacrity.com/assets/images/image-background.png);
+  background: url(/www.LifeWithAlacrity.com/assets/images/image-background.png);;
  /* Full height */
 height: 100%;
 
@@ -37,18 +37,21 @@ background-blend-mode: multiply;
   color: #0a5b3f;;
 }
 .greedy-nav .hidden-links{
-  width: 130px;
-  background-color: #252525;
-  box-shadow: 4px 4px 15px #0a5b3f;
+width: 130px;
+background-color: #252525;
+box-shadow: 4px 4px 15px #0a5b3f;
 }
 .greedy-nav .hidden-links a{
-  font-size: 11em;
-  color: #fff;
-  text-align: center;
+font-size: 11em;
+color: #fff;
+text-align: center;
 }
 .greedy-nav__toggle.close:before {
 opacity: 0.65;
 background: #3f3f3f;
+}
+.site-title .site-title-span{
+font-size: 34px;
 }
 @media screen and (max-width: 1050px){
 .author__avatar img {
@@ -56,6 +59,13 @@ max-width: 100px !important;
 border-radius: 50%;
 margin-top: 10px;
 margin-left: 0px !important;
+}
+.site-title .site-title-span{
+  font-size: 22px;
+  }
+  .site-subtitle {
+    display: block;
+    font-size: 8px;
 }
 }
 
@@ -71,12 +81,12 @@ margin-left: 45px;
 padding: 0px 70px 0px 10px !important;
 }
 .page__hero--overlay{
-background-color: #4a9bb1c7;
+background-color: #747474c7;
 background-size: cover;
 background-position: center;
 background-blend-mode: multiply;
 color: #fff;
-padding: 100px 0px 100px 100px;
+padding: 35px 0px 0px 85px;
 }
 .page__hero--overlay .wrapper a{
 background-color: transparent;
