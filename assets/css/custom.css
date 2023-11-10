@@ -56,6 +56,12 @@ font-size: 34px;
 .site-subtitle {
   display: block;
 }
+.verified{
+  width: 50px !important;
+  height: auto !important;
+  position: absolute;
+  margin: 100px 0px 0px 200px
+}
 @media screen and (max-width: 1050px){
 .author__avatar img {
 max-width: 100px !important;
@@ -69,6 +75,12 @@ margin-left: 0px !important;
   .site-subtitle {
     display: block;
     font-size: 8px;
+}
+.verified {
+  width: 22px !important;
+  height: auto !important;
+  position: absolute;
+  margin: 5px 0px 0px 91px;
 }
 }
 .wrapper .page__title {
