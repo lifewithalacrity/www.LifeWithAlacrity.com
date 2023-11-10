@@ -11,7 +11,7 @@ toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 excerpt: "Defining the cause for Decentralised Identities"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/lwa.png
   overlay_filter: rgba(0, 255, 0, 0.8) # same as adding an opacity of 0.5 to a black background
   actions:
     - label: "Get Started!!"
