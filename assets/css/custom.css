@@ -73,12 +73,12 @@ margin-left: 0px !important;
 }
 .wrapper .page__title {
   text-decoration: none !important;
-  text-shadow: 6px 6px 15px #000000;
+  text-shadow: 6px 6px 40px #000000;
   font-size: 46px;
 }
-  .page__hero--overlay .page__lead {
-    max-width: 768px;
-    text-shadow: 6px 6px 15px #000000;
+.page__hero--overlay .page__lead {
+  max-width: 768px;
+  text-shadow: 6px 6px 40px #000000;
 }
 .author__avatar img {
 max-width: 140px;
@@ -94,7 +94,7 @@ background-size: cover;
 background-position: center;
 background-blend-mode: multiply;
 color: #fff;
-padding: 35px 0px 0px 85px;
+padding: 75px 0px 60px 80px;
 }
 .page__hero--overlay .wrapper a{
 background-color: transparent;
