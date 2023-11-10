@@ -109,6 +109,14 @@ background-color: #08835834;
 .introduction{
   font-size: 20px !important;
 }
+.page__related {
+  clear: both;
+  float: left;
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #1d2424;
+  margin-left: 78px;
+}
 footer{
   background: url(/assets/images/mm-single-header-orlay-fill-example.jpg);
  /* Full height */
