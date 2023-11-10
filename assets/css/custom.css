@@ -60,7 +60,7 @@ font-size: 34px;
   width: 50px !important;
   height: auto !important;
   position: absolute;
-  margin: 100px 0px 0px 200px
+  margin: 20px 0px 0px 155px
 }
 @media screen and (max-width: 1050px){
 .author__avatar img {
