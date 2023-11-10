@@ -61,7 +61,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 ## All Recent Posts
 
-<ul>
+<ul style="font-weight: bold">
 {% for post in site.posts limit: 7 %}
 <li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
