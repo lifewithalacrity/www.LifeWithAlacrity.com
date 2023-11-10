@@ -266,6 +266,12 @@ background-blend-mode: multiply;
     width: 100%;
     clear: both;
 }
+.wrapper .page__title {
+  text-shadow: 0px 0px 0px #000000;
+}
+.page__hero--overlay .page__lead {
+  text-shadow: 0px 0px 0px #000000;
+}
 .page__hero--overlay{
   padding: 50px 0px 50px 20px;
 }
