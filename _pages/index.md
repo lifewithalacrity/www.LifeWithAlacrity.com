@@ -1,5 +1,4 @@
 ---
-layout: single
 cover: true
 title: Life with Alacrity
 classes:
@@ -9,19 +8,24 @@ author_profile: false
 toc: false
 toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
-excerpt: "Defining the cause for Decentralised Identities"
+excerpt: "Design Patterns for Digital Collaboration & Trust"
 header:
   overlay_image: /assets/images/lwa.png
-  overlay_filter: rgba(0, 255, 0, 0.8) # same as adding an opacity of 0.5 to a black background
-  actions:
-    - label: "Get Started!!"
-      url: "/"
-      
+  overlay_filter: rgba(0, 255, 0, 0.8) # same as adding an opacity of 0.5 to a black background      
 ---
 <style>
 @media screen and (min-width: 80em) {
   .sidebar {
     display: none;
+}
+.wrapper .page__title {
+  text-decoration: none !important;
+  text-shadow: 6px 6px 15px #000000;
+}
+  .page__hero--overlay .page__lead {
+    max-width: 768px;
+    font-size: 20px; 
+    text-shadow: 6px 6px 15px #000000;
 }
 #main {
     margin-left: -41px;

@@ -1,5 +1,5 @@
 body{
-  background: url(/www.LifeWithAlacrity.com/assets/images/background.png);;
+  background: url(/www.LifeWithAlacrity.com/assets/images/background.png);
  /* Full height */
 height: 100%;
 
@@ -53,6 +53,10 @@ background: #3f3f3f;
 .site-title .site-title-span{
 font-size: 34px;
 }
+.site-subtitle {
+  display: block;
+  font-size: 12px !important;
+}
 @media screen and (max-width: 1050px){
 .author__avatar img {
 max-width: 100px !important;
@@ -68,9 +72,13 @@ margin-left: 0px !important;
     font-size: 8px;
 }
 }
-
-.wrapper .page__title{
+.wrapper .page__title {
   text-decoration: none !important;
+  text-shadow: 6px 6px 15px #000000;
+}
+  .page__hero--overlay .page__lead {
+    max-width: 768px;
+    text-shadow: 6px 6px 15px #000000;
 }
 .author__avatar img {
 max-width: 140px;
