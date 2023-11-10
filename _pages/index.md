@@ -24,7 +24,6 @@ header:
 }
   .page__hero--overlay .page__lead {
     max-width: 768px;
-    font-size: 20px; 
     text-shadow: 6px 6px 15px #000000;
 }
 #main {
