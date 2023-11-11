@@ -114,7 +114,7 @@ info:
   links:
     - label: "Email Address"
       icon: "fas fa-at"
-      url: "ChristopherA@LifeWithAlacrity.com"
+      url: "mailto:ChristopherA@LifeWithAlacrity.com"
       color: 2754ba
     - label: "Home page"
       icon: "fas fa-home"
