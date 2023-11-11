@@ -73,3 +73,6 @@ _See all [Posts](/posts/)._
     <a href="/assets/images/foo-bar-identity-th.jpg"><img src="/assets/images/foo-bar-identity-th.jpg"></a>
     <figcaption>Caption describing these two images.</figcaption>
 </figure> -->
+<br>
+<br>
+<a class="twitter-timeline" data-lang="en" data-width="auto" data-height="500px" data-tweet-limit="3" data-theme="dark" href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">Tweets by ChristopherA</a>
