@@ -13,9 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-# title: "Life With Alacrity"
-# baseurl: /
+title: "Life With Alacrity"
+baseurl: /
 # email:
+subtitle: "Design Patterns for Digital Collaboration & Trust"
+logo: "/assets/images/apple-touch-icon1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+
 description: "A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen."
 twitter:
   username: ChristopherA
@@ -26,7 +29,8 @@ writer: Christopher Allen
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+# theme                    : "minimal-mistakes-jekyll"
+remote_theme             : mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -62,28 +66,66 @@ author:
   avatar : "/assets/images/1516163297842.jpeg"
   bio    : "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
   links:
-  
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.LifeWithAlacrity.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
+      color: 00acee
       url: "https://twitter.com/ChristopherA"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ChristopherA"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      color: 6cc644
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/christophera/"
+      color: 0072b1
+      
+  footer_links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      color: 00acee
+      url: "https://twitter.com/ChristopherA"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ChristopherA"
+      color: 6cc644
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/christophera/"
+      color: 0072b1
 
+# Site Footer
 footer:
   links:
     - label: "Blockchain Commons"
       icon: "fab fa-creative-commons-sampling-plus"
       url: "https://www.blockchaincommons.com/"
+      color: 00aee6
     - label: "SmartCustody"
       icon: "fas fa-info-circle"
       url: "https://www.smartcustody.com/"
+      color: ffa500
+ 
+info:
+  links:
+    - label: "Email Address"
+      icon: "fas fa-at"
+      url: "mailto:ChristopherA@LifeWithAlacrity.com"
+      color: 2754ba
+    - label: "Home page"
+      icon: "fas fa-home"
+      url: "/"
+      color: ffa500
+    - label: "Tags"
+      icon: "fas fa-tags"
+      url: "/tags/"
+      color: 03a5ce
+    - label: "Category"
+      icon: "fas fa-layer-group"
+      url: "/category-archive-grid"
+      color: e0336f
  
 defaults:
   # _posts
