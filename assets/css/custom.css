@@ -109,18 +109,18 @@ display: block;
 font-size: 12px !important;
 }
 .page__hero--overlay {
-  background-color: green;
+  background-color: green !important;
   background-size: cover;
   background-position: center;
   background-blend-mode: multiply;
   color: #fff;
-  padding: 45px 0px 45px 85px;
-  opacity: 0.8;
+  padding: 45px 0px 45px 85px !important;
+  opacity: 0.8 !important;
 }
 .wrapper .page__title {
   text-decoration: none !important;
   text-shadow: 6px 6px 15px #000000;
-  font-size: 45px;
+  font-size: 45px !important;
 }
 .verified{
 width: 50px !important;
