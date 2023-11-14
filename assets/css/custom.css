@@ -145,6 +145,15 @@ font-size: 20px;
 .verified {
  display: none;
 }
+.page__hero--overlay {
+  background-color: green !important;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+  color: #fff;
+  padding: 45px 0px 45px 15px !important;
+  opacity: 1 !important;
+}
 }
 
 .author__avatar img {
