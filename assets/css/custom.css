@@ -108,6 +108,20 @@ font-size: 34px;
 display: block;
 font-size: 12px !important;
 }
+.page__hero--overlay {
+  background-color: green;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: multiply;
+  color: #fff;
+  padding: 45px 0px 45px 85px;
+  opacity: 0.8;
+}
+.wrapper .page__title {
+  text-decoration: none !important;
+  text-shadow: 6px 6px 15px #000000;
+  font-size: 45px;
+}
 .verified{
 width: 50px !important;
 height: auto !important;
@@ -135,9 +149,7 @@ position: absolute;
 margin: 5px 0px 0px 91px;
 }
 }
-.wrapper .page__title{
-  text-decoration: none !important;
-}
+
 .author__avatar img {
 max-width: 140px;
 border-radius: 50%;
@@ -164,10 +176,7 @@ padding: 15px 30px 15px 30px;
 .page__hero--overlay .wrapper a:hover{
 background-color: #08835834;
 }
-.wrapper .page__title {
-text-decoration: none !important;
-text-shadow: 6px 6px 15px #000000;
-}
+
 .page__hero--overlay .page__lead {
   max-width: 768px;
   text-shadow: 6px 6px 15px #000000;
