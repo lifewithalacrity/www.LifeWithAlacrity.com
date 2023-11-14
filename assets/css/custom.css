@@ -114,7 +114,7 @@ font-size: 12px !important;
   background-position: center;
   background-blend-mode: multiply;
   color: #fff;
-  padding: 45px 0px 45px 85px !important;
+  padding: 45px 0px 40px 85px !important;
   opacity: 1 !important;
 }
 .wrapper .page__title {
@@ -248,6 +248,10 @@ background-blend-mode: multiply;
   border: 1px solid #3b5326;
   color: white;
   border-radius: 5px;
+}
+.side-second-1 button a:hover{
+  text-decoration: none !important;
+  text-align: center
 }
 .side-second-1 button:hover{
   background-color: #63ab24;
