@@ -124,7 +124,7 @@ info:
       color: 03a5ce
     - label: "Category"
       icon: "fas fa-layer-group"
-      url: "/category-archive-grid"
+      url: "/category"
       color: e0336f
  
 defaults:
