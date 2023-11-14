@@ -1,5 +1,5 @@
 body{
-  background: url(/www.LifeWithAlacrity.com/assets/images/background.png);
+  background: url(/assets/images/background.png);
  /* Full height */
 height: 100%;
 
@@ -143,10 +143,7 @@ font-size: 20px;
   font-size: 8px;
 }
 .verified {
-width: 22px !important;
-height: auto !important;
-position: absolute;
-margin: 5px 0px 0px 91px;
+ display: none;
 }
 }
 

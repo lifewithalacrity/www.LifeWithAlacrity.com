@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Life With Alacrity"
-baseurl: "/www.LifeWithAlacrity.com"
+baseurl: /
 # email:
 subtitle: "Design Patterns for Digital Collaboration & Trust"
 logo: "/assets/images/apple-touch-icon1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -72,30 +72,28 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       color: 00acee
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      color: 00acee
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ChristopherA"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ChristopherA"
       color: 6cc644
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/christophera/"
       color: 0072b1
+      
   footer_links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       color: 00acee
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ChristopherA"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ChristopherA"
       color: 6cc644
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://instagram.com/"
+      url: "https://www.linkedin.com/in/christophera/"
       color: 0072b1
 
 # Site Footer
@@ -118,11 +116,11 @@ info:
       color: 2754ba
     - label: "Home page"
       icon: "fas fa-home"
-      url: "/about"
+      url: "/"
       color: ffa500
     - label: "Tags"
       icon: "fas fa-tags"
-      url: "/tags-archive"
+      url: "/tags/"
       color: 03a5ce
     - label: "Category"
       icon: "fas fa-layer-group"
