@@ -95,7 +95,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 <ol class="post-catalog_order" style="font-weight: bold">
 {% for post in site.posts limit: 7 %}
-<li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a><p>{{post.excerpt}}</p></li>
+<li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ol>
 
