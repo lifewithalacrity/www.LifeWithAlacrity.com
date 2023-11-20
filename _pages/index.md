@@ -55,9 +55,8 @@ images:
     margin: 0px 0px 20px 0px;
     border-radius: 5px;
     box-shadow: 2px 2px 8px #dadada;
-    width: 70% !important;
-    height: auto !important;
-    margin-left: 70px !important;
+    width: 100% !important;
+
 }
 }
 
@@ -85,6 +84,10 @@ images:
   box-shadow: 10px 10px 20px #b6e7d6;
   border-radius: 5px;
 }
+.definition a{
+  color: black;
+  font-weight: bold;
+}
 .recent-post__first{
   margin-top: 50px;
   background-color: rgb(212, 255, 241);
@@ -92,6 +95,9 @@ images:
   border: 1px dashed #49b9de;
   box-shadow: 10px 10px 20px #b6e7d6;
   border-radius: 5px;
+}
+.recent-post__first a{
+  font-weight: bold;
 }
 .about_website{
   background: linear-gradient(to right, #d3e8f6, #aeffd6); /* You can adjust the color stops as needed */
@@ -147,6 +153,10 @@ font-size: 1.2rem;
   border: 1px dashed #49b9de;
   box-shadow: 10px 10px 20px #b6e7d6;
   border-radius: 5px;
+}
+.see-all_text a{
+  color: black;
+  font-weight: bold;
 }
 </style>
 {% capture notice-1 %}
