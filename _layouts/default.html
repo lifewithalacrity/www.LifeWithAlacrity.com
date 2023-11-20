@@ -66,5 +66,33 @@
 
     {% include scripts.html %}
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script>
+      $(document).ready(function() {
+        var previousScroll = 0;
+    
+        $(window).scroll(function() {
+          var currentScroll = $(this).scrollTop();
+    
+          // Check the scroll direction
+          if (currentScroll > previousScroll) {
+            // Scrolling down
+            if (!$('.masthead').hasClass('hide')) {
+              $('.masthead').addClass('hide');
+            }
+          } else {
+            // Scrolling up
+            if ($('.masthead').hasClass('hide')) {
+              $('.masthead').removeClass('hide');
+            }
+          }
+    
+          // Update previousScroll after checking the scroll direction
+          previousScroll = currentScroll;
+        });
+      });
+    </script>
+    
+    
+    
   </body>
 </html>
