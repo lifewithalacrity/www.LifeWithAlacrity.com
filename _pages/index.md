@@ -150,7 +150,7 @@ See all [Posts](/posts/) <i style="color: #05A069;" class="far fa-eye"></i>
 <h3 class="image-author">Christopher Allen's Twitter Archive</h3>
 {% capture notice-5 %}
 {% for image in page.images %}
-    <img class="image-timeline" width="250px" height="200px"  src="/twitterarchive/ChristopherA/tweets_media/{{ image }}" />
+    <img class="image-timeline" width="250px" height="200px"  src="./twitterarchive/ChristopherA/tweets_media/{{ image }}" />
 {% endfor %}
 
 {% endcapture%}
