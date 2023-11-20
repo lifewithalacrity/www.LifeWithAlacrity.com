@@ -61,6 +61,93 @@ images:
 }
 }
 
+/* Complete styling for the index page */
+
+.image-timeline:nth-child(n){
+  margin: 0px 0px 20px 0px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 8px #dadada;
+  width: 250px;
+  height: 200px;
+}
+.recent-post__text, .image-author{
+  font-family: sans-serif;
+  background-color: #a8edd5;
+  border: 1px dashed #05A069;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+.definition{
+  background-color: rgb(212, 242, 255);
+  padding: 10px 20px 10px 20px;
+  border: 1px solid #05A069;
+  box-shadow: 10px 10px 20px #b6e7d6;
+  border-radius: 5px;
+}
+.recent-post__first{
+  margin-top: 50px;
+  background-color: rgb(212, 255, 241);
+  padding: 10px 20px 10px 20px;
+  border: 1px dashed #49b9de;
+  box-shadow: 10px 10px 20px #b6e7d6;
+  border-radius: 5px;
+}
+.about_website{
+  background: linear-gradient(to right, #d3e8f6, #aeffd6); /* You can adjust the color stops as needed */
+  padding: 20px 40px 20px 40px;
+  border-radius: 5px;
+  box-sizing:10px 10px 20px #b6e7d6 ;
+  margin-bottom: 40px;
+  border: 1px dashed #05A069;
+}
+
+
+.post-catalog_order {
+padding: 0;
+margin: 0;
+max-width: 100%;
+position: relative;
+}
+
+.post-catalog_order::before {
+content: '';
+width: 0.5rem;
+height: 100%;
+position: absolute;
+top: 0;
+left: 8%;
+background: rgb(212, 255, 241);
+z-index: -1;
+}
+
+.post-catalog_list {
+padding: 0.5rem 1.5rem 1rem;
+border-radius: 10px;
+background: rgb(212, 255, 241);
+  border: 1px dashed #05A069;
+}
+
+.post-catalog_list + .post-catalog_list {
+margin-top: 1rem;
+  border: 1px dashed #05A069;
+}
+
+.post-catalog_list::marker {
+font-weight: 600;
+color: #05A069;
+font-size: 1.2rem;
+}
+
+.see-all_text{
+  display: block;
+  margin-top: 30px;
+  background-color: rgb(212, 255, 241);
+  padding: 10px 20px 10px 20px;
+  border: 1px dashed #49b9de;
+  box-shadow: 10px 10px 20px #b6e7d6;
+  border-radius: 5px;
+}
 </style>
 {% capture notice-1 %}
  ___Alacrity, noun.__ From the Latin alacritas meaning promptitude. Similar in meaning to its synonyms Velocity and Celerity, all three mean quickness in action or movement. Alacrity stresses promptness in response to a suggestion or command, cheerful and eager willingness, appropriate quickness, and in general the beginning of fast movement._
