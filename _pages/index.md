@@ -56,7 +56,9 @@ images:
     border-radius: 5px;
     box-shadow: 2px 2px 8px #dadada;
     width: 100% !important;
-
+}
+.image-makeover-1{
+  display: none;
 }
 }
 
@@ -161,17 +163,13 @@ font-size: 1.2rem;
 .notice--info a {
     color: #0950bb;
 }
-.image-makeover-1{
-  display: none;
-}
-}
 .line-intro{
     display: block;
     margin: 1em 0;
     border: 9;
     border-radius: 2px;
     border-top: 5px solid #05A069;
-    margin-top: -20px
+    margin-top: -20px;
 }
 
 .image-makeover-1{
