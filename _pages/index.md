@@ -56,9 +56,7 @@ images:
     border-radius: 5px;
     box-shadow: 2px 2px 8px #dadada;
     width: 100% !important;
-}
-.image-makeover-1, .image-makeover-2, .image-makeover-3, .image-makeover-4, .image-makeover-5{
-  display: none;
+
 }
 }
 
@@ -163,45 +161,6 @@ font-size: 1.2rem;
 .notice--info a {
     color: #0950bb;
 }
-.line-intro{
-    display: block;
-    margin: 1em 0;
-    border: 9;
-    border-radius: 2px;
-    border-top: 5px solid #05A069;
-    margin-top: -20px
-}
-
-.image-makeover-1{
-  width: 200px;
-  height: auto;
-  left: -28%;
-  position: absolute;
-}
-.image-makeover-2{
-  width: 200px;
-  height: auto;
-  left: 105%;
-  position: absolute;
-}
-.image-makeover-3{
-  width: 200px;
-  height: auto;
-  left: -28%;
-  position: absolute;
-}
-.image-makeover-4{
-  width: 200px;
-  height: auto;
-  left: 105%;
-  position: absolute;
-}
-.image-makeover-5{
-  width: 200px;
-  height: auto;
-  left: -28%;
-  position: absolute;
-}
 </style>
 <hr class="line-intro">
 
@@ -224,7 +183,7 @@ font-size: 1.2rem;
 
 <div class="notice--sucesss recent-post__first">{{ notice-2 | markdownify }}</div>
 
-  <img class="image-makeover-2" src="/assets/images/apple-touch-icon1.png" alt="">
+
 
 {% capture notice-3 %}
 ***Life with Alacrity*** is the personal blog of [Christopher Allen](/about/), covering topics of community, decentralized identity, collective choice, online privacy, and more. Popular articles include ["The Path to Self-Sovereign Identity"](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), ["The Dunbar Number as a Limit to Group Size"](https://www.lifewithalacrity.com/article/the-dunbar-number-as-a-limit-to-group-sizes/), ["Dunbar & World of Warcraft"](https://www.lifewithalacrity.com/article/dunbar-world-of-warcraft/), and the [Community by the Numbers series](https://www.lifewithalacrity.com/tags/#community-by-the-numbers).
@@ -234,7 +193,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 <div class="notice--info about_website introduction">{{ notice-3 | markdownify}}</div>
 
-  <img class="image-makeover-3" src="/assets/images/apple-touch-icon1.png" alt="">
+
 
 <h3 class="recent-post__text">All Recent Posts</h3>
 
@@ -250,18 +209,16 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 <span class="see-all_text">See all [Posts](/posts/) <i style="color: #05A069;" class="far fa-eye"></i></span>
 
-  <img class="image-makeover-4" src="/assets/images/apple-touch-icon1.png" alt="">
 
 <h3 class="image-author">Christopher Allen's Twitter Archive</h3>
 {% capture notice-5 %}
 {% for image in page.images %}
-    <img class="image-timeline" src="/images/{{ image }}" />
+    <img class="image-timeline" src="./twitterarchive/ChristopherA/tweets_media/{{ image }}" />
 {% endfor %}
 
 {% endcapture%}
 <div class="twitter-timeline">{{ notice-5 | raw }}</div>
 
-  <img class="image-makeover-5" src="/assets/images/apple-touch-icon1.png" alt="">
 
 
 <br>
