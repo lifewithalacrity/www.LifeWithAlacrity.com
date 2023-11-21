@@ -85,7 +85,7 @@ images:
   border-radius: 5px;
 }
 .definition a{
-  color: black;
+  color: black !important;
   font-weight: bold;
 }
 .recent-post__first{
@@ -157,6 +157,9 @@ font-size: 1.2rem;
 .see-all_text a{
   color: black;
   font-weight: bold;
+}
+.notice--info a {
+    color: #0950bb;
 }
 </style>
 {% capture notice-1 %}
