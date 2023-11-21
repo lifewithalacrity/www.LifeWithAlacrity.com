@@ -181,7 +181,7 @@ font-size: 1.2rem;
 </style>
 <hr class="line-intro">
 
-  <img class="image-makeover-1" src="/assets/images/apple-touch-icon1.png" alt="">
+  <img class="image-makeover-1" src="./assets/images/apple-touch-icon1.png" alt="">
 
 {% capture notice-1 %}
  ___Alacrity, noun.__ From the Latin alacritas meaning promptitude. Similar in meaning to its synonyms Velocity and Celerity, all three mean quickness in action or movement. Alacrity stresses promptness in response to a suggestion or command, cheerful and eager willingness, appropriate quickness, and in general the beginning of fast movement._
