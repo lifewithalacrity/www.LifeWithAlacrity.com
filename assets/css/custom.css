@@ -391,5 +391,6 @@ background-blend-mode: multiply;
 .sidebar.sticky {
     overflow-y: auto;
     max-height: calc(100vh - 1em - 2em);
+    opacity: 1 !important;
 }
 }
