@@ -161,6 +161,25 @@ font-size: 1.2rem;
 .notice--info a {
     color: #0950bb;
 }
+.image-makeover-1{
+  display: none;
+}
+}
+.line-intro{
+    display: block;
+    margin: 1em 0;
+    border: 9;
+    border-radius: 2px;
+    border-top: 5px solid #05A069;
+    margin-top: -20px
+}
+
+.image-makeover-1{
+  width: 180px;
+  height: auto;
+  left: -28%;
+  position: absolute;
+}
 </style>
 <hr class="line-intro">
 
@@ -201,7 +220,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 <ul class="post-catalog_order" style="font-weight: bold">
 {% for post in site.posts limit: 7 %}
-<li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a><p>{{post.excerpt}}</p></li>
+<li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
