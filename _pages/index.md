@@ -75,4 +75,8 @@ _See all [Posts](/posts/)._
 </figure> -->
 <br>
 <br>
-<a class="twitter-timeline" data-lang="en" data-width="auto" data-height="500px" data-tweet-limit="3" data-theme="dark" href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">Tweets by ChristopherA</a>
+
+<a class="twitter-timeline" data-lang="en" data-width="auto" data-height="500px" data-tweet-limit="3" data-theme="dark" href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">Tweets by ChristopherA</a> 
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
