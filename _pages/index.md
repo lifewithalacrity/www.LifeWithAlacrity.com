@@ -13,15 +13,15 @@ header:
   overlay_image: /assets/images/lwa.png
   overlay_filter: rgba(0, 255, 0, 0.8) # same as adding an opacity of 0.5 to a black background  
   actions:
-    - label: "FIND OUT MORE"
-      url: "/"   
-images:
-  - 385228851317440512-BVibmVqCcAAAyvc.jpg
-  - 131216876364775424-AdItDciCQAAKJqk.jpg
-  - 131799095508598784-AdQ-lD3CAAAfsdk.jpg
-  - 227948859786158080-AynWR77CYAA2cfq.jpg
-  - 474662062900391938-BpZWoW4CAAAbU41.jpg
-  - 474640379149438976-BpZC6KhCMAAlywq.jpg
+    - label: "About Author"
+      url: "/about"   
+# images:
+#   - 385228851317440512-BVibmVqCcAAAyvc.jpg
+#   - 131216876364775424-AdItDciCQAAKJqk.jpg
+#   - 131799095508598784-AdQ-lD3CAAAfsdk.jpg
+#   - 227948859786158080-AynWR77CYAA2cfq.jpg
+#   - 474662062900391938-BpZWoW4CAAAbU41.jpg
+#   - 474640379149438976-BpZC6KhCMAAlywq.jpg
 ---
 <style>
 /* CSS code must be placed here to differentiate index page from other pages */
@@ -116,6 +116,7 @@ padding: 0;
 margin: 0;
 max-width: 100%;
 position: relative;
+list-style: none;
 }
 
 .post-catalog_order::before {
@@ -227,7 +228,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 <span class="see-all_text">See all [Posts](/posts/) <i style="color: #05A069;" class="far fa-eye"></i></span>
 
 
-<h3 class="image-author">Christopher Allen's Twitter Archive</h3>
+<!-- <h3 class="image-author">Christopher Allen's Twitter Archive</h3>
 {% capture notice-5 %}
 {% for image in page.images %}
     <img class="image-timeline" src="./twitterarchive/ChristopherA/tweets_media/{{ image }}" />
@@ -235,7 +236,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 {% endcapture%}
 <div class="twitter-timeline">{{ notice-5 | raw }}</div>
-
+ -->
 
 
 <br>
