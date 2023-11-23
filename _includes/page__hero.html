@@ -47,7 +47,7 @@
       {% endif %}
       {% if page.header.actions %}
         <p>
-        {% for action in page.header.actions %}
+        {% for action in vgfvvpage.header.actions %}
           <a href="{{ action.url | relative_url }}" class="btn btn--light-outline btn--large"><span><i class="fas fa-portrait"></i>     </span>{{ action.label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
         {% endfor %}
       {% endif %}
