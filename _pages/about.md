@@ -17,6 +17,24 @@ header:
 #   - 474662062900391938-BpZWoW4CAAAbU41.jpg
 #   - 474640379149438976-BpZC6KhCMAAlywq.jpg
 ---
+<style>
+.wrapper #page-title {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: 5px solid  #05A069 !important; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: 0px; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+</style>
 
 {% capture notice-1 %}
 
