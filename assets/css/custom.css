@@ -468,6 +468,7 @@ background-blend-mode: multiply;
   padding: 10px 20px 10px 20px;
   border: 1px dashed #49b9de;
   border-radius: 5px;
+  box-shadow: 2px 2px 10px #d2f8eb;
 }
 .h-entry h3{
   display: block;
@@ -476,19 +477,18 @@ background-blend-mode: multiply;
   padding: 10px 20px 10px 20px;
   border: 1px dashed #49b9de;
   border-radius: 5px;
+  box-shadow: 2px 2px 20px #b6e7d6;
 }
 .h-entry li strong{
-  display: block;
-  margin-top: 30px;
   background-color: rgb(212, 255, 241);
-  padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
-  border-radius: 5px;
+  border: 1px dashed #05A069;
+  border-radius: 3px;
+  padding: 0px 10px 0px 10px; 
 }
 .h-entry li::marker{
   color: #05A069;
 }
-.h-entry blockquote{
+blockquote{
   margin-top: 30px;
   background-color: rgb(212, 255, 241);
   padding: 10px 20px 10px 20px;
