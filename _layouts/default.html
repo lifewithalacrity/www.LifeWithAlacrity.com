@@ -41,6 +41,21 @@
     margin-left: 20px;
 }
 }
+.fa-arrow-alt-circle-up {
+        margin-left: 90%;
+        font-size: xx-large;
+        padding: 8px;
+        border: 1px solid #04ff4baa;
+        background-color: #1c88bb;
+        border-radius: 6px;
+        position: fixed;
+        bottom: 0;
+        margin-bottom: 30px;
+        box-shadow: 2px 2px 5px #6eb5eb;
+    }
+    .arrow-anchor{
+        color: white !important;
+    }
 </style>
 </style>
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -50,6 +65,7 @@
     <div class="initial-content">
       {{ content }}
     </div>
+
 
     {% if site.search == true %}
       <div class="search-content">
@@ -63,7 +79,7 @@
         {% include_cached footer.html %}
       </footer>
     </div>
-
+<a class="arrow-anchor" href="#"><i class="far fa-arrow-alt-circle-up"></i></a>
     {% include scripts.html %}
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     <script>
@@ -90,6 +106,24 @@
           previousScroll = currentScroll;
         });
       });
+      var checkbox = document.querySelector('input[name=mode]');
+
+checkbox.addEventListener('change', function() {
+    if(this.checked) {
+        trans()
+        document.documentElement.setAttribute('data-theme', 'dark')
+    } else {
+        trans()
+        document.documentElement.setAttribute('data-theme', 'light')
+    }
+})
+
+let trans = () => {
+    document.documentElement.classList.add('transition');
+    window.setTimeout(() => {
+        document.documentElement.classList.remove('transition');
+    }, 1000)
+}
     </script>
     
     
