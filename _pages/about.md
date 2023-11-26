@@ -48,7 +48,7 @@ With a rich entrepreneurial background, Christopher has held roles such as Princ
 
 In the rapidly evolving tech landscape, guidance is the bridge between innovation and obsolescence. Christopher's expertise ensures your enterprise remains relevant at the forefront. Beneficiaries of his counsel have streamlined pivots and transformations, enhanced security, and harnessed decentralized technologies. Engage with Christopher to ensure a secure, innovative, and human-centric digital future.
 
-<a href="https://www.linkedin.com/in/christophera/" class="see-more-button"> <span>See more      </span> <i style="color: white;" class="far fa-eye"></i></a>
+<a href="https://www.linkedin.com/in/christophera/" class="see-more-button"> <span>See more      </span> <i style="color: #05A069;" class="far fa-eye"></i></a>
 
 <hr>
 
