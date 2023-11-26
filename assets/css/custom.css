@@ -477,6 +477,26 @@ background-blend-mode: multiply;
   border: 1px dashed #49b9de;
   border-radius: 5px;
 }
+.h-entry li strong{
+  display: block;
+  margin-top: 30px;
+  background-color: rgb(212, 255, 241);
+  padding: 10px 20px 10px 20px;
+  border: 1px dashed #49b9de;
+  border-radius: 5px;
+}
+.h-entry li::marker{
+  color: #05A069;
+}
+.h-entry blockquote{
+  margin-top: 30px;
+  background-color: rgb(212, 255, 241);
+  padding: 10px 20px 10px 20px;
+  border: 1px dashed #49b9de;
+  border-radius: 5px;
+  box-shadow: 10px 10px 20px #b6e7d6;
+}
+
 .page__meta .page__taxonomy-item{
   background-color: #5cf9c2;
   border: 1px dashed #05A069;
