@@ -3,7 +3,6 @@ layout: custom_about
 title: "About Christopher Allen"
 permalink: /about/
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
-excerpt: "Design Patterns for Digital Collaboration & Trust"
 header:
   overlay_image: /assets/images/lwa.png
   overlay_filter: rgba(0, 255, 0, 0.8) # same as adding an opacity of 0.5 to a black background  
