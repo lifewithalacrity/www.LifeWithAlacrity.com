@@ -504,9 +504,8 @@ background-blend-mode: multiply;
   padding: 0px 10px 0px 10px; 
 }
 .page__date strong, .dt-published{
-  margin-top: 30px;
-  background-color: rgb(212, 255, 241);
-  padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
-  border-radius: 5px;
+  background-color: #5cf9c2;
+  border: 1px dashed #05A069;
+  border-radius: 3px;
+  padding: 0px 10px 0px 10px; 
 }
