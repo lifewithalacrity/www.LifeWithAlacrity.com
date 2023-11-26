@@ -457,10 +457,9 @@ background-blend-mode: multiply;
 
 .page__content h2 h3{
   display: block;
-  margin-top: 30px;
-  background-color: rgb(212, 255, 241);
-  padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
-  box-shadow: 10px 10px 20px #b6e7d6;
+  margin-top: 30px !important;
+  background-color: rgb(212, 255, 241) !important;
+  padding: 10px 20px 10px 20px !important;
+  border: 1px dashed #49b9de !important;
   border-radius: 5px;
 }
