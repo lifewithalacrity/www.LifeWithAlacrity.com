@@ -984,6 +984,12 @@ background-blend-mode: multiply;
   border-radius: 5px;
   box-shadow: 2px 2px 20px #b6e7d6;
 }
+.h-entry img{
+    border: 1px dashed #49b9de;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px #b6e7d6;
+    margin: 10px;
+}
 .h-entry li strong{
   background-color: rgb(212, 255, 241);
   border: 1px dashed #05A069;
