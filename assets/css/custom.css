@@ -453,3 +453,14 @@ background-blend-mode: multiply;
   background-color: #2fcd96;
 }
 
+/* Post styling */
+
+.page__content h2 h3{
+  display: block;
+  margin-top: 30px;
+  background-color: rgb(212, 255, 241);
+  padding: 10px 20px 10px 20px;
+  border: 1px dashed #49b9de;
+  box-shadow: 10px 10px 20px #b6e7d6;
+  border-radius: 5px;
+}
