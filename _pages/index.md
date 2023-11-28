@@ -70,18 +70,19 @@ header:
   width: 250px;
   height: 200px;
 }
-.recent-post__text, .image-author{
+.recent-post__text{
   font-family: sans-serif;
   background-color: #a8edd5;
   border: 1px dashed #05A069;
   padding: 10px 20px 10px 20px;
   margin-bottom: 30px;
   border-radius: 5px;
+  box-shadow: 10px 10px 20px #b6e7d6;
 }
 .definition{
   background-color: rgb(212, 242, 255);
   padding: 10px 20px 10px 20px;
-  border: 1px solid #05A069;
+  border: 1px dashed #05A069;
   box-shadow: 10px 10px 20px #b6e7d6;
   border-radius: 5px;
 }
@@ -104,7 +105,7 @@ header:
   background: linear-gradient(to right, #d3e8f6, #aeffd6); /* You can adjust the color stops as needed */
   padding: 20px 40px 20px 40px;
   border-radius: 5px;
-  box-sizing:10px 10px 20px #b6e7d6 ;
+  box-shadow: 10px 10px 20px #b6e7d6 ;
   margin-bottom: 40px;
   border: 1px dashed #05A069;
 }
@@ -125,7 +126,7 @@ height: 100%;
 position: absolute;
 top: 0;
 left: 8%;
-background: rgb(212, 255, 241);
+background: rgb(212, 255, 230);
 z-index: -1;
 }
 
@@ -133,7 +134,8 @@ z-index: -1;
 padding: 0.5rem 1.5rem 1rem;
 border-radius: 10px;
 background: rgb(212, 255, 241);
-  border: 1px dashed #05A069;
+border: 1px dashed #05A069;
+  box-shadow: 10px 10px 20px #b6e7d6;
 }
 
 .post-catalog_list + .post-catalog_list {
@@ -157,7 +159,7 @@ font-size: 1.2rem;
   border-radius: 5px;
 }
 .see-all_text a{
-  color: black;
+  color: #2e6ac5;
   font-weight: bold;
 }
 .notice--info a {
@@ -177,8 +179,14 @@ font-size: 1.2rem;
   height: auto;
   left: -28%;
   position: absolute;
-}
 
+}
+.page__inner-wrap img{
+    border: 0px dashed #49b9de !important;
+    border-radius: 0px;
+    box-shadow: 0px 0px 0px #b6e7d6;
+    margin: 0px;
+}
 </style>
 <hr class="line-intro">
 
@@ -200,8 +208,6 @@ font-size: 1.2rem;
 {% endcapture%}
 
 <div class="notice--sucesss recent-post__first">{{ notice-2 | markdownify }}</div>
-
-
 
 {% capture notice-3 %}
 ***Life with Alacrity*** is the personal blog of [Christopher Allen](/about/), covering topics of community, decentralized identity, collective choice, online privacy, and more. Popular articles include ["The Path to Self-Sovereign Identity"](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), ["The Dunbar Number as a Limit to Group Size"](https://www.lifewithalacrity.com/article/the-dunbar-number-as-a-limit-to-group-sizes/), ["Dunbar & World of Warcraft"](https://www.lifewithalacrity.com/article/dunbar-world-of-warcraft/), and the [Community by the Numbers series](https://www.lifewithalacrity.com/tags/#community-by-the-numbers).
@@ -241,6 +247,5 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 <br>
 <br>
-<a class="twitter-timeline" data-lang="en" data-width="auto" data-height="500px" data-tweet-limit="3" data-theme="dark" href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">Tweets by Christopher Allen </a>
-
+<a class="twitter-timeline" data-lang="en" data-width="auto" data-height="500px" data-tweet-limit="3" data-theme="dark" href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">Tweets by ChristopherA </a>
 

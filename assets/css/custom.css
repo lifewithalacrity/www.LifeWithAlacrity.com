@@ -146,6 +146,17 @@ font-size: 20px;
 .verified {
  display: none;
 }
+.side-second-1 button{
+  width: 130px !important;
+  height: 50px;
+  background-color: #84c04e;
+  border: 1px solid #3b5326;
+  color: white;
+  border-radius: 5px;
+}
+.side-second-1 button:hover{
+  background-color: #63ab24;
+}
 .page__hero--overlay {
   background-color: green !important;
   background-size: cover;
@@ -243,17 +254,7 @@ background-blend-mode: multiply;
 .side-second-2{
   margin-left: 30px;
 }
-.side-second-1 button{
-  width: 120px;
-  height: 50px;
-  background-color: #84c04e;
-  border: 1px solid #3b5326;
-  color: white;
-  border-radius: 5px;
-}
-.side-second-1 button:hover{
-  background-color: #63ab24;
-}
+
  .side-2 ul{
   display: flex;
   flex-direction: column;
@@ -749,7 +750,7 @@ background-blend-mode: multiply;
   margin-left: 30px;
 }
 .side-second-1 button{
-  width: 120px;
+  width: 170px;
   height: 50px;
   background-color: #84c04e;
   border: 1px solid #3b5326;
@@ -803,6 +804,21 @@ background-blend-mode: multiply;
     padding: 0px 0px 0px 0px !important;
       
   }
+  .fa-arrow-alt-circle-up {
+    margin-left: 85% !important;
+    font-size: xx-large;
+    padding: 8px;
+    border: 1px solid #04ff4baa;
+    background-color: #1c88bb;
+    border-radius: 6px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 5px #6eb5eb;
+}
+.arrow-anchor{
+    color: white !important;
+}
 
   #main {
     clear: both;
@@ -966,30 +982,7 @@ background-blend-mode: multiply;
   border-radius: 3px;
   padding: 0px 10px 0px 10px;
 }
-.h-entry h2{
-  display: block;
-  margin-top: 30px;
-  background-color: rgb(212, 255, 241);
-  padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
-  border-radius: 5px;
-  box-shadow: 2px 2px 10px #d2f8eb;
-}
-.h-entry h3{
-  display: block;
-  margin-top: 30px;
-  background-color: rgb(212, 255, 241);
-  padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
-  border-radius: 5px;
-  box-shadow: 2px 2px 20px #b6e7d6;
-}
-.h-entry img{
-    border: 1px dashed #49b9de;
-    border-radius: 5px;
-    box-shadow: 2px 2px 20px #b6e7d6;
-    margin: 10px;
-}
+
 .h-entry li strong{
   background-color: rgb(212, 255, 241);
   border: 1px dashed #05A069;
@@ -1025,4 +1018,11 @@ blockquote{
   border: 1px dashed #05A069;
   border-radius: 3px;
   padding: 0px 10px 0px 10px; 
+}
+
+/* Styling for search page */
+form {
+  margin: 70px 0 0px 0 !important;
+  padding: 1em;
+  background-color: #f2f3f3;
 }
