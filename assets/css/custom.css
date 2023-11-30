@@ -999,6 +999,7 @@ background-blend-mode: multiply;
 }
 blockquote{
   margin-top: 30px;
+  background: linear-gradient(to right, #d3e8f6, #aeffd6); /* You can adjust the color stops as needed */
   background-color: rgb(212, 255, 241);
   padding: 10px 20px 10px 20px;
   border: 1px dashed #49b9de;
