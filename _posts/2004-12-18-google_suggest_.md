@@ -65,7 +65,6 @@ This is another case where people are astonished to learn that there isn't any b
 
 [alexei](http://www.alexeiwhite.com) 2005-06-12T22:31:34-07:00
 
-[original layout]
 <!-- 
 [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [google](/tags/google/) [web](/tags/web/) [user-interface](/tags/user-interface/) [javascript](/tags/javascript/) [web service](/tags/web-service/) [wiki](/tags/wiki/)
  -->

@@ -19,8 +19,6 @@ permalink: /ephemera/holiday-over/
 
 I had a nice relaxing five day holiday -- good to get the creative juices flowing again.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

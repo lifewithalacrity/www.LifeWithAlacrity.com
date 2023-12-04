@@ -225,8 +225,6 @@ URL: Thanks for this candid insider account of angel investing from the trench. 
 
 [Joshua Zhao](#) 2007-01-11T16:40:28-07:00
 
-[original layout]
-
 <!-- [Business](/tags/business/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [venture capital](/tags/venture-capital/) [investment](/tags/investment/) [angel](/tags/angel/) [VC](/tags/vc/) [reinvention](/tags/reinvention/) [alacrity ventures](/tags/alacrity-ventures/) [carry](/tags/carry/) [liquidation preferences](/tags/liquidation-preferences/) [fund](/tags/fund/) [return](/tags/return/) [IRR](/tags/irr/) [gifford pinchot](/tags/gifford-pinchot/) [harold shattuck](/tags/harold-shattuck/) [scott loftesness](/tags/scott-loftesness/) [jim bidzos](/tags/jim-bidzos/) [lessons](/tags/lessons/) [advice](/tags/advice/) [entrepreneur](/tags/entrepreneur/) [founders dilemmas](/tags/founders-dilemmas/) [bainbridge graduate institute](/tags/bainbridge-graduate-institute/) -->
 
 Life With Alacrity

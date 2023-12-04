@@ -67,8 +67,6 @@ or
 
 **ALT 8. COORDINATE WITH RELATED SYSTEMS:** For groups that are part of larger social systems, there must be appropriate coordination among relevant groups. Every sphere of activity has an optimal scale. Large scale governance requires finding the optimal scale for each sphere of activity and appropriately coordinating the activities, a concept called polycentric governance. A related concept is subsidiarity, which assigns governance tasks by default to the lowest jurisdiction, unless this is explicitly determined to be ineffective.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

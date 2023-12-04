@@ -25,9 +25,6 @@ Game Designer and Pundit [Greg Costikyan](http://www.costik.com/): wrote in his 
 > 
 > And whoever figures out how to market effectively online is going to be worth.... well, more money than I shall ever see in one place."  
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

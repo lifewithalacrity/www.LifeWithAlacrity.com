@@ -279,8 +279,6 @@ This article is based on an original post written in 2004 in Christopher's blog 
 
 See the following post [The Four Kinds of Privacy: Appendices & Bibliography](https://medium.com/@christophera/the-four-kinds-of-privacy-appendices-bibliography-d2b75b269d2d).
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

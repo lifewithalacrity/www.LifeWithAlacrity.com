@@ -35,9 +35,6 @@ Closely related, I also recommend last week's repeat podcast on the topic of "Th
 
 **Freedom to Fail & Freakonomics podcast “Failure is Your Friend”**
 
-
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

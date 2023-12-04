@@ -100,8 +100,6 @@ Thanks, the image is corrected to be g-3.
 
 [Christopher Allen](http://www.LifeWithAlacrity.com) 2006-04-14T05:23:55-07:00
 
-[original layout]
-
 <!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [nick yee](/tags/nick-yee/) [nicolas ducheneau](/tags/nicolas-ducheneau/) [playon](/tags/playon/) [social software](/tags/social-software/) [group dynamics](/tags/group-dynamics/) [online games](/tags/online-games/) [guilds](/tags/guilds/) [WoW](/tags/wow/) [world of warcraft](/tags/world-of-warcraft/) [group cohesion](/tags/group-cohesion/) [cohesiveness](/tags/cohesiveness/) [co-presence](/tags/co-presence/) [co-location](/tags/co-location/) [subgraph size](/tags/subgraph-size/) -->
 
 Life With Alacrity

@@ -34,8 +34,6 @@ Other then the fact that I learned about it late, I'm reasonably pleased by the 
 
 There are a lot of things at this website which will be a good jumping off point for my students to think about as they work on their on blogs on sustainability, and their future Social Change media projects.
 
-[original layout]
-
 <!-- [blog action day](/tags/blog-action-day/) [climate change](/tags/climate-change/) [bgiedu](/tags/bgiedu/) -->
 
 Life With Alacrity

@@ -136,8 +136,6 @@ Blogharbor.com also has a FOAF file. I didn't know it was its own protocol. My F
 
 [elamb](http://elamb.blogharbor.com) 2005-04-24T10:10:12-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

@@ -38,8 +38,6 @@ So why is distribution dominating earnings, when given the changes caused by the
 
 Help me answer this question, and maybe I can help the creators so that they can deliver to you amazing stories, songs, and art.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

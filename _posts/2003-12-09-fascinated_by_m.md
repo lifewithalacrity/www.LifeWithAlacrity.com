@@ -39,9 +39,7 @@ For instance, listen to these:
     
 * Not quite sure how to categorize it -- a real ethnic mongrel: [Ethnosphere](http://he1.magnatune.com/all/11%20-%20Ethnosphere%20-%20Shiva%20In%20Exile.mp3) by [Shiva in Exile](http://www.magnatune.com/artists/shiva_in_exile) on their album [Ethnic](http://www.magnatune.com/artists/music/World/Shiva%20in%20Exile/Ethnic/).  
     (stream complements of by the "We are not Evil" [MagnaTune](http://www.magnatune.com)).
-    
-[original layout]
-    
+   
 Life With Alacrity
 
 © Christopher Allen

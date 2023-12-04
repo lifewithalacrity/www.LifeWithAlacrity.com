@@ -54,8 +54,6 @@ There are also problems in the area of attribution, as all Creative Commons lice
 
 All are interesting problems that I hope Creative Commons will address in the future.
 
-[original layout]
-
 <!-- [Social Software](/tags/social-software/) [noncommercial](/tags/noncommercial/) [creative commons](/tags/creative-commons/) [cc](/tags/cc/) [cc by nc](/tags/cc-by-nc/) [content](/tags/content/) [use](/tags/use/) [users](/tags/users/) [creation](/tags/creation/) [creators](/tags/creators/) [license](/tags/license/) [report](/tags/report/) [data](/tags/data/) [survey](/tags/survey/) [focus group](/tags/focus-group/) [ugc](/tags/ugc/) [user-generated content](/tags/user-generated-content/) [commercial use](/tags/commercial-use/) [attribution](/tags/attribution/) -->
 
 Life With Alacrity

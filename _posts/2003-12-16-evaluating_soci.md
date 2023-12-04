@@ -138,8 +138,6 @@ URL: I need a company that can build me a social networking platform. Can anyone
 
 [dan](#) 2008-01-28T23:52:45-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

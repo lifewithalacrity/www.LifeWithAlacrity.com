@@ -89,8 +89,6 @@ URL: The SSL story would be interesting..
 
 [cyberhill](#) 2005-05-13T08:10:30-07:00
 
-[original layout]
-
 <!-- [Business](/tags/business/) [Games](/tags/games/) [Science](/tags/science/) [Security](/tags/security/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [Wiki](/tags/wiki/) [office architecture](/tags/office-architecture/) [innovation](/tags/innovation/) [requisite variety](/tags/requisite-variety/) [cybernetcs](/tags/cybernetcs/) [control systems](/tags/control-systems/) [meme](/tags/meme/) [wiki editing dichotomy](/tags/wiki-editing-dichotomy/) [neuroeconomics](/tags/neuroeconomics/) [risk](/tags/risk/) [rationality](/tags/rationality/) [persuasion](/tags/persuasion/) [cognitive dissonance](/tags/cognitive-dissonance/) [ethics](/tags/ethics/) [conversation](/tags/conversation/) [communications](/tags/communications/) [social emtions](/tags/social-emtions/) [glances](/tags/glances/) [strokes](/tags/strokes/) [transactional analysis](/tags/transactional-analysis/) [weak links](/tags/weak-links/) [negativity](/tags/negativity/) [time economy](/tags/time-economy/) [group life cycle](/tags/group-life-cycle/) [groupthink](/tags/groupthink/) [thresholds](/tags/thresholds/) [knowledge](/tags/knowledge/) [intimacy](/tags/intimacy/) [social games](/tags/social-games/) [Castle Marrach](/tags/castle-marrach/) [facilitation](/tags/facilitation/) [mental disorders](/tags/mental-disorders/) [augmentation](/tags/augmentation/) [primate](/tags/primate/) [smart contracts](/tags/smart-contracts/) [club system](/tags/club-system/) [cryptographic security](/tags/cryptographic-security/) [ssl](/tags/ssl/) -->
 
 Life With Alacrity

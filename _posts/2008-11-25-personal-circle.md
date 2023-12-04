@@ -152,8 +152,6 @@ URL: The different kind of 'circles' we have in the social networking are includ
 
 [bebes](#) 2009-04-22T22:26:44-07:00
 
-[original layout]
-
 <!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [personal limits](/tags/personal-limits/) [community numbers](/tags/community-numbers/) [support circle](/tags/support-circle/) [sympathy circle](/tags/sympathy-circle/) [trust circle](/tags/trust-circle/) [emotional circle](/tags/emotional-circle/) [familiar strangers](/tags/familiar-strangers/) [size](/tags/size/) -->
 
 Life With Alacrity

@@ -38,8 +38,6 @@ The RSS feed for this blog is here [![](http://www.feedburner.com/fb/images/pub/
 
 If you are interested in some of the other things I am looking at, you can follow my [del.icio.us](http://del.icio.us/ChristopherA) bookmarks, or read my [Google Shared Items](https://www.thedisciplesofdesign.com/blog/tag/Ephemera), watch my [Twitter](http://twitter.com/ChristopherA) posts, or see them all combined together in either [FriendFeed](http://friendfeed.com/christophera) or [Plaxo Pulse](https://web.archive.org/web/20101204060349/http://pulse.plaxo.com/pulse/profile/show/93189?pk=5c10c629b99e837f0bc276c0e24ffffe1aed8799).
 
-[original layout]
-
 <!-- [Weblogs](/tags/weblogs/) [iphone](/tags/iphone/) [emphemera](/tags/emphemera/) [post](/tags/post/) [signal-to-noise ratio](/tags/signal-to-noise-ratio/) [quality](/tags/quality/) [social software](/tags/social-software/) [social media](/tags/social-media/) -->
 
 Life With Alacrity

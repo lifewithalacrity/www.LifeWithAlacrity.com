@@ -396,8 +396,6 @@ In a way, any sort of computer-mediated communication can be called social softw
 
 [dorkey](http://www.treatmentcenters.org/michigan) 2008-08-05T05:14:35-07:00
 
-[original layout]
-
 <!-- [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [social software](/tags/social-software/) [evolution](/tags/evolution/) [history](/tags/history/) [memex](/tags/memex/) [vannevar bush](/tags/vannevar-bush/) [arpa. licklider](/tags/arpa.-licklider/) [engelbart](/tags/engelbart/) [augmentation](/tags/augmentation/) [augmented](/tags/augmented/) [NLS](/tags/nls/) [office automation](/tags/office-automation/) [EIES](/tags/eies/) [groupware](/tags/groupware/) [johnson-lenz](/tags/johnson-lenz/) [CSCW](/tags/cscw/) [greif](/tags/greif/) [cash](/tags/cash/) [drexer](/tags/drexer/) [nanotechnology](/tags/nanotechnology/) [social computing](/tags/social-computing/) -->
 
 Life With Alacrity

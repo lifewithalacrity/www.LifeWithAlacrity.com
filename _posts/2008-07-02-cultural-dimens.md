@@ -33,8 +33,6 @@ South Korea's highest Hofstede Dimension is Uncertainty Avoidance (UAI) at 85, i
 
 The last Geert Hofstede Dimension for the US is Uncertainty Avoidance (UAI), with a ranking of 46, compared to the world average of 64. A low ranking in the Uncertainty Avoidance Dimension is indicative of a society that has fewer rules and does not attempt to control all outcomes and results. It also has a greater level of tolerance for a variety of ideas, thoughts, and beliefs.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

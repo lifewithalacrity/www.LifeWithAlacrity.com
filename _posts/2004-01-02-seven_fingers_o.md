@@ -48,8 +48,6 @@ While looking for show tickets for a present I accidentally found out this troup
 
 [Seb](http://seb.notlong.com) 2005-12-29T05:42:28-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

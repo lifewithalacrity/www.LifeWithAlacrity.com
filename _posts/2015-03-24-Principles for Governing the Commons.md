@@ -62,8 +62,6 @@ Excellent version. I think a critical adaptation is the active voice, as you've 
 
 [Howard Silverman](http://www.solvingforpattern.org/) 2015-04-11T11:34:38-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

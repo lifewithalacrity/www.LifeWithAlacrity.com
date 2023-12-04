@@ -32,8 +32,6 @@ I'm also interested in what I call "social games" for online games. I don't beli
 * [Social Gaming Interactions, Part Two: Competition](http://www.skotos.net/articles/TTnT_137.phtml)  
     
 * Part three isn't available until next Thursday, but is on non-competitive social interactions.
-    
-[original layout]
 
 Life With Alacrity
 

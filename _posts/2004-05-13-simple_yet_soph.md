@@ -49,9 +49,6 @@ URL: I'm amused at the talk of prior art and 1999 visions, the very first web cl
 
 [alex](#) 2005-12-06T10:59:45-07:00
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

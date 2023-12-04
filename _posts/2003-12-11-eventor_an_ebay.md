@@ -29,8 +29,6 @@ What eVentor wants to do is similar -- lower the barriers of entry for small eve
 
 At this point the idea has just myself behind it -- call it an "entrepreneur-in-residence exercise". I will be running this business plan by a few possible contributors and/or partners in the next few weeks, as well as investigating partnerships with some of the new social software companies that don't have a business model. Ultimatately I plan to present this business plan to a couple of Angel Investors and VCs in January.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

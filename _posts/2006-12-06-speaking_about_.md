@@ -21,8 +21,6 @@ I will be speaking tonight at [WikiWednesday](https://www.synchroedit.com/) on t
 
 If you are interested, see you tonight (Wednesday) at 6-8pm, [at Socialtext](http://maps.google.com/maps?oi=map&q=655+High+Street,+Palo+Alto,+CA).
 
-[original layout]
-
 <!-- [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [synchroedit](/tags/synchroedit/) [sametime](/tags/sametime/) [social software](/tags/social-software/) [synchroedit](/tags/synchroedit/) [mediawiki](/tags/mediawiki/) [editthispagephp](/tags/editthispagephp/) -->
 
 Life With Alacrity

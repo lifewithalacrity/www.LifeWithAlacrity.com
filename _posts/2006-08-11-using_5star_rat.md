@@ -207,6 +207,5 @@ URL: Thanks for writing this article. I found another view on 5 point music rati
 
 [Jonathan](#) 2008-02-06T00:33:36-07:00
 
-original layout
 
-[Music](/tags/music/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [rating](/tags/rating/) [ratings](/tags/ratings/) [rating system](/tags/rating-system/) [rating scale](/tags/rating-scale/) [collective choice](/tags/collective-choice/) [itunes](/tags/itunes/) [music](/tags/music/) [songs](/tags/songs/) [smart playlists](/tags/smart-playlists/) [ipod](/tags/ipod/) [amazon](/tags/amazon/) [books](/tags/books/) [distinctiveness](/tags/distinctiveness/) [social software](/tags/social-software/) [incentives](/tags/incentives/) [rpgnet](/tags/rpgnet/) [gaming index](/tags/gaming-index/)
+<!-- [Music](/tags/music/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [rating](/tags/rating/) [ratings](/tags/ratings/) [rating system](/tags/rating-system/) [rating scale](/tags/rating-scale/) [collective choice](/tags/collective-choice/) [itunes](/tags/itunes/) [music](/tags/music/) [songs](/tags/songs/) [smart playlists](/tags/smart-playlists/) [ipod](/tags/ipod/) [amazon](/tags/amazon/) [books](/tags/books/) [distinctiveness](/tags/distinctiveness/) [social software](/tags/social-software/) [incentives](/tags/incentives/) [rpgnet](/tags/rpgnet/) [gaming index](/tags/gaming-index/) -->

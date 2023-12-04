@@ -47,8 +47,6 @@ Sounds like fun. Hmmm, I wonder what they do with all the clueless parents who s
 
 [steveb](https://web.archive.org/web/20070823152401/http://begleyconsulting.com/mediatraininginsights/weblog.php) 2004-08-27T13:29:23-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

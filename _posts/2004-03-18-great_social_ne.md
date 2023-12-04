@@ -133,8 +133,6 @@ Great Post, Chris. I linked to it and added a comment. [http://eureksterblog.blo
 
 [Peter](http://www.whizspark.com/pete) 2004-03-18T08:21:26-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

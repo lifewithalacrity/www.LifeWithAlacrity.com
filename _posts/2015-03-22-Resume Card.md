@@ -26,8 +26,6 @@ Not as pretty as my old Life With Alacrity cards, but effective in getting acros
 
 As someone who teaches Personal Branding in my courses at BGI@Pinchot.edu, I always find it hard to practice as I preach to ask for advice and suggestions. In this case I'm trying to tame my three-headed Cerebus of a profession with Privacy/Crypto/Developer Community, an Innovative Business Educator/Instructional Designer head, and my Collaborative Tools, Processes, Games and Play head. All come tied together in my body as ultimately being about collaboration, but it is hard to explain some of the correspondences.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

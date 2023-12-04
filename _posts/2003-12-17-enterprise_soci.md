@@ -37,9 +37,8 @@ permalink: /ephemera/enterprise-social-networking/
 
 It will be interesting to see how this intersection of CRM, sales support software, and social network services will play out. At least there is a decent business model here.
 
-[original layout](https://web.archive.org/web/20190225202356/https://www.lifewithalacrity.com/previous/2003/12/enterprise_soci.html)
 
-[Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/)
+<!-- [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) -->
 
 Life With Alacrity
 

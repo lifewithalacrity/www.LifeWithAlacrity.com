@@ -48,8 +48,6 @@ Thus Bria and I invite you to show your insights with us and participate in whit
 
 (photo credit: AlexPears in "Yahoo Employee Volunteers" using CC-SA)
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

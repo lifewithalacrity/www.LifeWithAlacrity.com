@@ -49,9 +49,7 @@ In the same vein and for "heavier" stuff: http://www.kevembuangga.com/hwk/ Alas,
 
 [Kevembuangga](http://www.kevembuangga.com/hwk/) 2005-04-21T21:51:31-07:00
 
-[original layout]
-<!-- 
-[Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [tiddlywiki](/tags/tiddlywiki/) [wiki](/tags/wiki/) [microcontent](/tags/microcontent/) [user-interface](/tags/user-interface/) [page history](/tags/page-history/) [javascript](/tags/javascript/) -->
+<!-- [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [tiddlywiki](/tags/tiddlywiki/) [wiki](/tags/wiki/) [microcontent](/tags/microcontent/) [user-interface](/tags/user-interface/) [page history](/tags/page-history/) [javascript](/tags/javascript/) -->
 
 Life With Alacrity
 

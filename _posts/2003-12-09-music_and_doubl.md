@@ -35,9 +35,7 @@ URL: The gist of the article is that file-sharing is a form of risk-sharing by m
 
 [Larry Bister](#) 2005-12-29T14:34:32-07:00
 
-[original layout](/previous/2003/12/music_and_doubl.html)
-
-[Music](/tags/music/) [Web/Tech](/tags/web/tech/)
+<!-- [Music](/tags/music/) [Web/Tech](/tags/web/tech/) -->
 
 Life With Alacrity
 

@@ -164,8 +164,6 @@ We still have a long way to go to offer all that HyperCard offered. We support b
 
 Bill Atkinson once [explained what motivated him to create HyperCard:](http://archive.org/details/hypercard_2) "A lot of people are going to get opened up, enabled, empowered to control their computer. That's really what we're trying to do.” And that is exactly what we are trying to do on the iPad with Infinite Canvas.
 
-[original layout]
-
 <!-- [Web/Tech](/tags/web/tech/) [hypercard25th](/tags/hypercard25th/) [#hypercard25th](/tags/%23hypercard25th/) [hypercard](/tags/hypercard/) [bill atkinson](/tags/bill-atkinson/) [bill gates](/tags/bill-gates/) [basic](/tags/basic/) [hypermedia](/tags/hypermedia/) [infinite canvas](/tags/infinite-canvas/) [bbs](/tags/bbs/) [ward christensen](/tags/ward-christensen/) [cbbs](/tags/cbbs/) [macpaint](/tags/macpaint/) [mac](/tags/mac/) [open standards](/tags/open-standards/) [iosdevcamp](/tags/iosdevcamp/) [inspiration](/tags/inspiration/) [passion](/tags/passion/) [anniversary](/tags/anniversary/) [ssl](/tags/ssl/) [story](/tags/story/) [stories creative](/tags/stories-creative/) [creativity](/tags/creativity/) -->
 
 Life With Alacrity

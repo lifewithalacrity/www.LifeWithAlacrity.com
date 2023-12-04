@@ -240,8 +240,6 @@ _**When I designed this class four years ago, I was inspired by Michael Wesch's 
 
 I welcome your thoughts for additional or replacement Social Web introductory readings that we can use in the next class in the Spring of 2013.
 
-[original layout]
-
 <!-- 
 [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) -->
 

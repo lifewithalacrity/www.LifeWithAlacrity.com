@@ -30,8 +30,6 @@ Thus in general I've been reluctantly participating in the current political dia
 
 Not quite as respectful, but done with conviction is a song by UK artist [Jont](http://www.waragainstsleep.com/) that I like called [World Gone Blind (MP3 format)](https://web.archive.org/web/20120112051756/http://www.yi-tan.com/mp3s/Jont-WorldGoneBlind.mp3), and is freely distributable under a Creative Commons' Attribution-NonCommercial-NoDerivitives License. I first heard him play at one of Jerry's Retreats. The song is very hip and elegant.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

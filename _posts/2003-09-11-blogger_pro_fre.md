@@ -23,9 +23,6 @@ My remaining concern is that the [new feature list](https://web.archive.org/web/
 
 If RSS syndication is not available soon, I will likely switch to some other software, in spite of the ease of Blogger Pro.
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

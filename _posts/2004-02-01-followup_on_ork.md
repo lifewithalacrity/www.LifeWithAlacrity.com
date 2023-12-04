@@ -142,8 +142,6 @@ URL: Well,from my first impressions of orkut,what i gather is that,u have to be 
 
 [Kiran](#) 2006-07-12T06:46:11-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

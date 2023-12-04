@@ -28,8 +28,6 @@ Actually, the implication of the study is that argument, as the term is conventi
 
 [S.M. Stirling](http://www.smstirling.com/) 2014-06-04T16:18:36-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

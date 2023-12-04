@@ -49,8 +49,6 @@ This is something very beneficial for humanity. Helping people voluntrary is not
 
 [Stacy](https://web.archive.org/web/20051210025044/http://www.safehealthdirect.com/) 2005-10-13T07:20:15-07:00
 
-[original layout]
-
 <!-- [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [Wiki](/tags/wiki/) [social software](/tags/social-software/) [social networks](/tags/social-networks/) [voluntary health associations](/tags/voluntary-health-associations/) [conference](/tags/conference/) [american cancer society.](/tags/american-cancer-society./) -->
 
 Life With Alacrity

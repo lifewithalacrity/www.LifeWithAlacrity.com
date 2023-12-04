@@ -52,8 +52,6 @@ Yes, I got the invitation from you so I tried it out myself. Now everyone in my 
 
 [Jason Banico](http://www.funchain.com) 2004-04-15T18:11:03-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

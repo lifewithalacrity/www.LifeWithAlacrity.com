@@ -218,9 +218,6 @@ URL: Some guy named Junaid from Karachi, Pakistan put up my cell no. on orkut in
 
 [Maheen](#) 2005-03-23T05:09:00-07:00
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

@@ -49,8 +49,6 @@ We have experimented with VoIP software since 1992 -- and, of course, nothing wo
 
 [Cliff Allen](http://www.allen.com) 2004-07-18T09:55:40-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

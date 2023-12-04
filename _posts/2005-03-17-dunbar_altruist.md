@@ -85,8 +85,6 @@ is the supposed cognitive limit to the number of individuals with whom any one p
 
 [Busby seo challenge](http://www.edivergent.com) 2008-07-26T23:03:57-07:00
 
-[original layout]
-
 <!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Science](/tags/science/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [150](/tags/150/) [altruistic punishment](/tags/altruistic-punishment/) [charity](/tags/charity/) [prisoner's dilemma](/tags/prisoners-dilemma/) [meta-moderation](/tags/meta-moderation/) [game theory](/tags/game-theory/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [simulation](/tags/simulation/) [group size threshold](/tags/group-size-threshold/) [group satisfaction](/tags/group-satisfaction/) [trust metrics](/tags/trust-metrics/) [attention](/tags/attention/) [slashdot](/tags/slashdot/) -->
 
 Life With Alacrity

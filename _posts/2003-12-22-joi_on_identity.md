@@ -35,8 +35,6 @@ Joi attributes this collapse of context due to the size of groups:
 
 I'm also convinced that the nature of the size of groups affects the group dynamics of those groups, and your relationship with others in those groups. I may disagree on the exact ranges of sizes (my observations map the creative team/family/committee 5-9, tribe/clan 25-81, association 125-300 (note the gaps)) but the I agree with the basic principle.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

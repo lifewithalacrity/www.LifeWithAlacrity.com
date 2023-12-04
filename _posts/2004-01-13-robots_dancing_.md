@@ -43,8 +43,6 @@ URL: I think you may have slightly missed the meaning of the uncanny valley with
 
 [Sam Klink](#) 2005-08-25T08:09:55-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

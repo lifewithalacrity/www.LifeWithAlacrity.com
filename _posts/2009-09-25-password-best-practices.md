@@ -102,8 +102,6 @@ Very nice post. I especially like the unique-per-site approach. One thing you di
 
 [Kalle Alm](https://web.archive.org/web/20060716043803/http://kallewoof.com/) 2010-02-23T09:12:08-07:00
 
-[original layout]
-
 <!-- [Security](/tags/security/) [Web/Tech](/tags/web/tech/) -->
 
 Life With Alacrity

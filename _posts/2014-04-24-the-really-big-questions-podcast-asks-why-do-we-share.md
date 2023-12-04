@@ -33,8 +33,6 @@ A blog on social software, collaboration, trust, security, privacy, and internet
 
 **“The Really Big Questions” Podcast Asks “Why Do We Share?”**
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

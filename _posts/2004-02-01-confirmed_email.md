@@ -89,9 +89,6 @@ URL: i don't know much more about orkut i just want to know what this side about
 
 [nawin](#) 2004-10-12T00:51:10-07:00
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

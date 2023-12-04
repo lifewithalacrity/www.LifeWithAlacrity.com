@@ -43,9 +43,6 @@ I'm very interested in the idea of micropayments ($1 to $2) to sell "printable" 
 
 [Maria](https://web.archive.org/web/20070125143259/http://www.marialanger.com/) 2008-04-10T11:49:22-07:00
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

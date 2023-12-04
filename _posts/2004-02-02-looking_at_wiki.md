@@ -83,9 +83,6 @@ The canonical list of wikis is at: [http://www.c2.com/cgi/wiki?WikiEngines](http
 
 [Zbigniew Lukasiak](http://zby.aster.net.pl/kwiki) 2004-03-14T06:58:16-07:00
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

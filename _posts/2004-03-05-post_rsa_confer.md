@@ -98,9 +98,6 @@ Sorry Yakov! I've corrected the attribution above.
 
 [Christopher Allen](http://www.lifewithalacrity.com/) 2004-03-05T23:19:47-07:00
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

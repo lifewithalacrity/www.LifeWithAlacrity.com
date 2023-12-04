@@ -32,8 +32,6 @@ intuitive errors: inattention blindness, believe that our memories are more reli
 
 http://en.wikipedia.org/wiki/List_of_cognitive_biases
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

@@ -171,8 +171,6 @@ I just had a minor realization: when we speak of "dropping" someone from our per
 
 [Eric Scheid](http://IAwiki.net/) 2005-07-30T01:53:38-07:00
 
-[original layout]
-
 <!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [social networks](/tags/social-networks/) [social network services](/tags/social-network-services/) [social software](/tags/social-software/) [connections](/tags/connections/) [friends](/tags/friends/) [limits](/tags/limits/) [amplification](/tags/amplification/) [attenuation](/tags/attenuation/) -->
 
 Life With Alacrity

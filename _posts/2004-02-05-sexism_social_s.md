@@ -54,8 +54,6 @@ Also, how differently would it come across if women started a "cute geek guy" ra
 
 [Adina Levin](http://www.alevin.com/weblog) 2004-02-07T10:18:33-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

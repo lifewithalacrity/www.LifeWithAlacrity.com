@@ -54,8 +54,6 @@ So as I continue exploration of the nature of work, I offer Buckminster Fuller &
 
 (photos courtesy Matt Taylor)
 
-original layout
-
 Life With Alacrity
 
 © Christopher Allen

@@ -156,8 +156,6 @@ URL: So then one day this guy discovers the answer to the Reimann Conjecture and
 
 [Joe](#) 2004-09-07T06:23:57-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

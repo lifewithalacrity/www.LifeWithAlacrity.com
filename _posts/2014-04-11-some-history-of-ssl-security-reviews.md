@@ -32,8 +32,6 @@ It may be time for CAs to require vendors to pay for implementation security rev
 
 The amazing Tim Dierks , author of SSLRef, the reference implementation of SSL 3.0, co-author IETF TLS 1.0 standard and subsequent updates, and later creator of Google Wallet, did all of these reviews for us back then. Any memories, comments, or suggestion to add?
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

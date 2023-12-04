@@ -57,8 +57,6 @@ I came across this post looking for an information taxonomy in general and a tax
 
 [ebhdoc](http://drhassen.blogspot.com) 2006-06-01T10:20:36-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

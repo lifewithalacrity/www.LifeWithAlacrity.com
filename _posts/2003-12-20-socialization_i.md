@@ -37,9 +37,7 @@ I've identified a few problems:
 * Last, but probably most important -- I'm not getting enough value from them for the effort. I do have a friend that say that she has gotten good business from it, but I think that is more because she is a single woman and because she attended some live events sponsored by the social network. Maybe my problem is that I'm a decent networker by myself, and don't need the extra help of the service?
     
 All that I've joined feel just a bit off -- but yet I still believe there is something useful in Social Software to learn that I just have to puzzle out.
-    
-[original layout]
-    
+  
 Life With Alacrity
 
 © Christopher Allen

@@ -36,9 +36,6 @@ Impatience is part of human nature, especially the younger you are and the newer
 
 A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen.
 
-
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

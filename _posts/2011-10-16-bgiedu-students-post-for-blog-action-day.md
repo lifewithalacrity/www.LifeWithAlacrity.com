@@ -54,8 +54,6 @@ All of these bloggers are new to the blogosphere, but if you appreciate what the
 
 <img width="90%"  src="{{ site.url }}{{ site.baseurl }}/assets/images/05.jpg" alt="Bainbridge Graduate Institute"/>
 
-[original layout]
-
 <!-- [Weblogs](/tags/weblogs/) [blog action day](/tags/blog-action-day/) [bgiedu](/tags/bgiedu/) [bad11](/tags/bad11/) [#bad11](/tags/%23bad11/) [food](/tags/food/) [#food](/tags/%23food/) [student](/tags/student/) [blogs](/tags/blogs/) [sustainability](/tags/sustainability/) [green](/tags/green/) [environment](/tags/environment/) [local](/tags/local/) [empowerment](/tags/empowerment/) [permaculture](/tags/permaculture/) [organic](/tags/organic/) [health](/tags/health/) [start](/tags/start/) [blogosphere)](/tags/blogosphere/) -->
 
 Life With Alacrity

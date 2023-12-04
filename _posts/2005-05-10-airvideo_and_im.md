@@ -114,8 +114,6 @@ I hope this blog does not mind I 've a put an extended post at http://blog.start
 
 [startup](http://www.startup.gr) 2005-09-10T04:30:02-07:00
 
-[original layout]
-
 <!-- [Web/Tech](/tags/web/tech/) [Apple Computer](/tags/apple-computer/) [iTunes](/tags/itunes/) [video](/tags/video/) [music](/tags/music/) [slashdot](/tags/slashdot/) [iPod](/tags/ipod/) [airport express](/tags/airport-express/) [AirTunes](/tags/airtunes/) [AirVideo](/tags/airvideo/) [immersive media](/tags/immersive-media/) [ambient media](/tags/ambient-media/) -->
 
 Life With Alacrity

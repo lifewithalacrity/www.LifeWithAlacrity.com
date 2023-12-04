@@ -64,8 +64,6 @@ URL: I like your 1/3 rule. It makes more sense and it seems fair.
 
 [Lance Puig](#) 2010-02-24T15:43:38-07:00
 
-[original layout]
-
 <!-- [Business](/tags/business/) [Entrepreneuring](/tags/entrepreneuring/) [Film](/tags/film/) [film business](/tags/film-business/) [budget](/tags/budget/) [virtual budget](/tags/virtual-budget/) [entrepreneuring](/tags/entrepreneuring/) [percentages](/tags/percentages/) [knowledge](/tags/knowledge/) [resources](/tags/resources/) [brand](/tags/brand/) [work](/tags/work/) [money](/tags/money/) [sharing](/tags/sharing/) [residuals](/tags/residuals/) [joss whedon](/tags/joss-whedon/) [dr. horrible](/tags/dr.-horrible/) [equity](/tags/equity/) [participation](/tags/participation/) -->
 
 Life With Alacrity

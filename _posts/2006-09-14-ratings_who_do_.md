@@ -67,8 +67,6 @@ URL: My first pass system just used a different multiplier for weight based on t
 
 [Shannon Appelcline](#) 2006-10-16T15:39:53-07:00
 
-[original layout]
-
 <!-- [Games](/tags/games/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [Weblogs](/tags/weblogs/) [rating](/tags/rating/) [ratings](/tags/ratings/) [collective choice](/tags/collective-choice/) [reliability](/tags/reliability/) [weight](/tags/weight/) [weighing](/tags/weighing/) [trust](/tags/trust/) [volume](/tags/volume/) [depth](/tags/depth/) [user content](/tags/user-content/) [rpgnet](/tags/rpgnet/) [inedex](/tags/inedex/) [creativity](/tags/creativity/) [skotos](/tags/skotos/) [shannon appelcline](/tags/shannon-appelcline/) -->
 
 Life With Alacrity

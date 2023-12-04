@@ -38,8 +38,6 @@ I've also been doing a survey of the features of various versions of Wiki that h
 
 More to come...
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

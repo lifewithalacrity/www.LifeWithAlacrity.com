@@ -52,8 +52,6 @@ _**Another post about Shared Language:**_
 
 * [2000-09: Creating Shared Language and Shared Artifacts](/2009/09/creating-shared-language-and-shared-artiifacts.html)
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

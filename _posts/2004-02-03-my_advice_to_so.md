@@ -207,9 +207,6 @@ Thanks for posting this your section about privacy is very useful. There are som
 
 [Vince](http://scribblesheet.co.uk/article/can_i_have_my_life_back_please) 2008-02-27T14:15:18-07:00
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen

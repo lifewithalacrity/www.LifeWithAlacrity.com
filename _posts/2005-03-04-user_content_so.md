@@ -44,8 +44,6 @@ URL: As we introduce user content systems into games, filtering it will become t
 
 [nameloso](#) 2005-06-17T06:14:04-07:00
 
-[original layout]
-
 <!-- [Games](/tags/games/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [user content](/tags/user-content/) [social software](/tags/social-software/) [online games](/tags/online-games/) [social game](/tags/social-game/) [moderation](/tags/moderation/) [facilitation](/tags/facilitation/) [filtering](/tags/filtering/)
  -->
 

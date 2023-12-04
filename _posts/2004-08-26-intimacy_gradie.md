@@ -139,8 +139,6 @@ Thanks for the great summary and roundup of key concepts, theories and technique
 
 [Sean Savage](http://www.cheesebikini.com) 2006-07-05T22:04:01-07:00
 
-[original layout]
-
 <!-- [Security](/tags/security/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [Wiki](/tags/wiki/) [intimacy gradient](/tags/intimacy-gradient/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [wiki](/tags/wiki/) [socialtext](/tags/socialtext/) [interface design](/tags/interface-design/) [sociology](/tags/sociology/) [architecture](/tags/architecture/) [design](/tags/design/) -->
 
 Life With Alacrity

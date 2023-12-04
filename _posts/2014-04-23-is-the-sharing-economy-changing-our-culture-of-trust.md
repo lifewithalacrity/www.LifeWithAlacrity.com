@@ -26,8 +26,6 @@ I like this meme. I hope that positive changes to attitudes about trust is a tru
 
 KEYQUOTE: "The sharing economy has come on so quickly and powerfully that regulators and economists are still grappling to understand its impact. But one consequence is already clear: Many of these companies have us engaging in behaviors that would have seemed unthinkably foolhardy as recently as five years ago. We are hopping into strangers’ cars (Lyft, Sidecar, Uber), welcoming them into our spare rooms (Airbnb), dropping our dogs off at their houses (DogVacay, Rover), and eating food in their dining rooms (Feastly). We are letting them rent our cars (RelayRides, Getaround), our boats (Boatbound), our houses (HomeAway), and our power tools (Zilok). We are entrusting complete strangers with our most valuable possessions, our personal experiences—and our very lives. In the process, we are entering a new era of Internet-enabled intimacy."
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

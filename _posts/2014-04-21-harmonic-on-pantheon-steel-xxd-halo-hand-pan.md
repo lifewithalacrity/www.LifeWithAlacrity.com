@@ -29,8 +29,6 @@ If you like hand pans, I have an extensive playlist of good quality hand pan per
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/videoseries?list=PLJ0DUQTMYEC7dBN1mjI9X1L_iS20kMUoo" frameborder="0" allowfullscreen></iframe>
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

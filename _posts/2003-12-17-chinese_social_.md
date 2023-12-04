@@ -29,8 +29,6 @@ This reminds of a quote I heard this last weekend from Tom Melcher, former CNET 
 
 I wonder how well explicit social networks will take off in China, given a history of repression and recent censoring of the Internet. I could see it easily becoming a tool that could be abused by their government.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

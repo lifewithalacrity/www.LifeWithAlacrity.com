@@ -53,8 +53,6 @@ Very much on the same note, I wrote this entry ([http://wetware.hjalli.com/00057
 
 [Hjalmar Gislason](http://wetware.hjalli.com) 2004-03-13T17:18:54-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

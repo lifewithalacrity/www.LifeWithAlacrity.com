@@ -178,8 +178,6 @@ _Weekly Deliverables:_ Delivery of draft student personal brand portfolio, deliv
 * Post-mortem 10%
     * Total: 100%
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

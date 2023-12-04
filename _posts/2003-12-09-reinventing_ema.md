@@ -28,8 +28,6 @@ However, I saw in in Slashdot today that IBM has some web pages demonstrating a 
 
 I hope some people like the [Evolution](http://www.gnome.org/projects/evolution/) team, or the [Mozilla Thunderbird](http://www.mozilla.org/products/thunderbird/) team, or some new entrepreneur make available.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

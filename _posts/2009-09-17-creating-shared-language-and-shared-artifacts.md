@@ -84,8 +84,6 @@ URL: Shared artifacts are also known as models; the best form of understanding o
 
 [Dave Carter](#) 2011-05-05T04:15:41-07:00
 
-[original layout]
-
 <!-- [shared language](/tags/shared-language/) [shared artifact](/tags/shared-artifact/) [conversation](/tags/conversation/) [language](/tags/language/) [meaning](/tags/meaning/) [english](/tags/english/) [vocabulary](/tags/vocabulary/) [context](/tags/context/) [group formation](/tags/group-formation/) [trust building](/tags/trust-building/) [communication](/tags/communication/) [collaboration](/tags/collaboration/) [creation](/tags/creation/) [goal clarification](/tags/goal-clarification/) [commitment](/tags/commitment/) [shared object](/tags/shared-object/) [shared space](/tags/shared-space/) [constraint](/tags/constraint/) [social network](/tags/social-network/) [tagging](/tags/tagging/) [culture](/tags/culture/) [bgimgt566sx](/tags/bgimgt566sx/) -->
 
 Life With Alacrity

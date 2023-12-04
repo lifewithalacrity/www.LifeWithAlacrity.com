@@ -278,8 +278,6 @@ URL: 0-10 scale is too large for most relevant human ratings systems. maybe i sh
 
 [Grumpy](#) 2007-12-18T10:24:24-07:00
 
-[original layout]
-
 <!-- [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [rating](/tags/rating/) [review](/tags/review/) [ratings](/tags/ratings/) [collective choice](/tags/collective-choice/) [selection system](/tags/selection-system/) [statistics](/tags/statistics/) [bayesian](/tags/bayesian/) [rpg](/tags/rpg/) [gaming index](/tags/gaming-index/) [user content](/tags/user-content/) -->
 
 Life With Alacrity

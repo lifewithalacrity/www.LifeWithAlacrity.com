@@ -18,8 +18,6 @@ permalink: /ephemera/rss-blogger/
 
 RSS is **finally** available to Blogger members, so as soon as I've figured it out I'll be adding it here.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

@@ -36,8 +36,6 @@ Biggest addition to what I've written about before is some discussion about diff
 > * [2005-07: Cheers: Belongingness and Para-Social Relationships](/2005/07/cheers_belongin.html)
 > * [2005-08: Dunbar & World of Warcraft](/2005/08/dunbar_world_of.html)
 
-[original layout]
-
 <!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Science](/tags/science/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [dunbar number](/tags/dunbar-number/) [itconversations](/tags/itconversations/) [podcast](/tags/podcast/) [mp3](/tags/mp3/) [presentation](/tags/presentation/) [meshforum2006](/tags/meshforum2006/) [group size](/tags/group-size/) [robin dunbar](/tags/robin-dunbar/) [anthropology](/tags/anthropology/) [social software](/tags/social-software/) -->
 
 Life With Alacrity

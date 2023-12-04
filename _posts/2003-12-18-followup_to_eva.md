@@ -131,8 +131,6 @@ Scott Loftesness wrote me back after my [evaluation](/2003/12/evaluating_soci.ht
 
 There are quite a few other services that I haven't explored yet, like Spoke Software and Zero Degrees, and there are other software or services like Contact Network, InterAction, Plaxo, Skype, Eurekster, Tickle, MeetUp. I hope to take a look at a few of them and report back soon. I don't think that I'll be looking at the dating sites such as Match.com, American Singles, Yahoo Personals, etc.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

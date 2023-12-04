@@ -138,8 +138,6 @@ Chris - this was a really great series of 3 posts - it is outlined as well as an
 
 [Sean McClowry](http://www.openmethodology.org) 2009-07-15T15:33:05-07:00
 
-[original layout]
-
 <!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [participation inequality](/tags/participation-inequality/) [dunbar number](/tags/dunbar-number/) [group sizes](/tags/group-sizes/) [online communities](/tags/online-communities/) [particiation](/tags/particiation/) [group thresholds](/tags/group-thresholds/) [pareto principle](/tags/pareto-principle/) [zipf's law](/tags/zipfs-law/) -->
 
 Life With Alacrity

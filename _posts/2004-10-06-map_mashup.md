@@ -39,8 +39,6 @@ The Javascript in http://www.multimap.com/static/global.js only sets the clippin
 
 [Jeffery To](http://www.thingsthemselves.com/) 2004-10-10T11:31:41-07:00
 
-[original layout]
-
 <!-- [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [user interface](/tags/user-interface/) [web](/tags/web/) [map](/tags/map/) [graphic](/tags/graphic/) [overlay](/tags/overlay/) [transparency](/tags/transparency/) [cursor](/tags/cursor/) -->
 
 Life With Alacrity

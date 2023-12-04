@@ -42,8 +42,6 @@ Hi Christopher, We've done a lot of work in this area in the past couple of year
 
 [Robert Q. Benedict](http://www.changemakers.com) 2009-09-17T07:43:34-07:00
 
-[original layout]
-
 <!-- [Web/Tech](/tags/web/tech/) [bgi](/tags/bgi/) [bgiedu](/tags/bgiedu/) [bgimgt566sx](/tags/bgimgt566sx/) [bainbridge graduate institute](/tags/bainbridge-graduate-institute/) [mba](/tags/mba/) [course](/tags/course/) [class](/tags/class/) [pedagogy](/tags/pedagogy/) [channel rock](/tags/channel-rock/) [bainbridge island](/tags/bainbridge-island/) [islandwood](/tags/islandwood/) [hybrid](/tags/hybrid/) [syllabus](/tags/syllabus/) [course plan](/tags/course-plan/) [presentations](/tags/presentations/) [elective](/tags/elective/) [green](/tags/green/) [sustainable](/tags/sustainable/) -->
 
 Life With Alacrity

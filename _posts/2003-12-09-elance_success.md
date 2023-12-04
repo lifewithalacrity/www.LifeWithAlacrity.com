@@ -33,8 +33,6 @@ Support as you see fit. A new, similar site, https://web.archive.org/web/2011102
 
 [Visitor](https://web.archive.org/web/20111029072816/http://ultrabizz.com/) 2005-02-11T00:47:53-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

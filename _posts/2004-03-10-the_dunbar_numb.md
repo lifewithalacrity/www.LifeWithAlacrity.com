@@ -259,8 +259,6 @@ URL: What a nice collection of reflections on the Dunbar Number. I would like to
 
 [Mike Robinson](#) 2010-02-24T12:55:43-07:00
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

@@ -33,8 +33,6 @@ Scott also mentions his own experience with Social Software:
 
 Yet it is interesting that all of us are giving it a real try. There may still be a 'there' there, but if it is, it is currently being obscured.
 
-[original layout]
-
 Life With Alacrity
 
 © Christopher Allen

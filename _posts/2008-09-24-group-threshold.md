@@ -139,8 +139,6 @@ URL: Reading : "These optimal and sub-optimal community sizes appear in strata, 
 
 [Louis-Martin Michaud](#) 2010-07-30T08:05:27-07:00
 
-[original layout]
-
 <!-- [Community by the Numbers](/tags/community-by-the-numbers/) [Social Software](/tags/social-software/) [Web/Tech](/tags/web/tech/) [group threshold](/tags/group-threshold/) [group size](/tags/group-size/) [workinggroup](/tags/workinggroup/) [committee](/tags/committee/) [community](/tags/community/) [size](/tags/size/) [dunbar number](/tags/dunbar-number/) [judas number](/tags/judas-number/) [social dynamics](/tags/social-dynamics/) [small group](/tags/small-group/) [tribe](/tags/tribe/) [band](/tags/band/) [robin dunbar](/tags/robin-dunbar/) [magic number](/tags/magic-number/) -->
 
 Life With Alacrity

@@ -36,8 +36,6 @@ During the evenings I've had a chance to wander the streets of downtown Seoul. I
 
 I return on Monday, and I'll make a copy of my final presentation available here.
 
-[original layout]
-
 <!-- [Weblogs](/tags/weblogs/) [seoul](/tags/seoul/) [korea](/tags/korea/) [global forum](/tags/global-forum/) [blog coach](/tags/blog-coach/) [blog coaching](/tags/blog-coaching/) [social web coaching](/tags/social-web-coaching/) [social web](/tags/social-web/) [coaching](/tags/coaching/) [executive training](/tags/executive-training/) [executive development](/tags/executive-development/) [action learning](/tags/action-learning/) [business culture](/tags/business-culture/) [international culture](/tags/international-culture/) [social network](/tags/social-network/) [personal brand](/tags/personal-brand/) -->
 
 Life With Alacrity

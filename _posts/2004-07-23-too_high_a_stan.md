@@ -61,9 +61,6 @@ When I first started paying serious attention to blogs I thought they were blogg
 
 [Sherri](http://shreela.f2o.org/blog/) 2004-08-09T04:19:16-07:00
 
-[original layout]
-
-
 Life With Alacrity
 
 © Christopher Allen
