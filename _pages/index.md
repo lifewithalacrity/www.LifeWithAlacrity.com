@@ -59,6 +59,12 @@ header:
 .image-makeover-1{
   display: none;
 }
+.twitter-timeline{
+  display: none;
+}
+.twitter-widget-0{
+  display: none;
+}
 }
 
 /* Complete styling for the index page */
