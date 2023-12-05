@@ -251,6 +251,6 @@ _Christopher is available for personal consulting engagements on decentralized d
  -->
 
 
+<!-- <br>
 <br>
-<br>
-<a class="twitter-timeline" data-lang="en" data-width="auto" data-height="500px" data-tweet-limit="3" data-theme="dark" href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">Tweets by ChristopherA </a>
+<a class="twitter-timeline" style="display: none;" data-lang="en" data-width="auto" data-height="500px" data-tweet-limit="3" data-theme="dark" href="https://twitter.com/ChristopherA?ref_src=twsrc%5Etfw">Tweets by ChristopherA </a> -->
