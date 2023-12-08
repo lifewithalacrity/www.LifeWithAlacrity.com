@@ -114,9 +114,8 @@ font-size: 12px !important;
   background-position: center;
   background-blend-mode: multiply;
   color: #fff;
-  padding: 45px 0px 40px 85px !important;
+  padding: 45px 0px 45px 85px !important;
   opacity: 1 !important;
-  margin-top: 0px;
 }
 .wrapper .page__title {
   text-decoration: none !important;
@@ -165,7 +164,6 @@ font-size: 20px;
   color: #fff;
   padding: 45px 0px 45px 15px !important;
   opacity: 1 !important;
-  margin-top: 70px;
 }
 }
 
@@ -386,12 +384,7 @@ background-blend-mode: multiply;
     color: #557f80;
   }
  }
- @media (min-width: 64em){
-.sidebar.sticky {
-    overflow-y: auto;
-    max-height: calc(100vh - 1em - 2em);
-}
-}
+ 
 @media (min-width: 64em){
   .sidebar.sticky {
       overflow-y: auto;
@@ -635,7 +628,15 @@ height: auto !important;
 position: absolute;
 margin: 20px 0px 0px 155px
 }
-@media screen and (max-width: 1050px){
+@media screen and (min-width: 42em){
+  .sidebar{
+    margin-left: 4em !important;
+  }
+}
+@media screen and (max-width: 64em){
+  .sidebar.sticky{
+    margin-left: 4em !important;
+  }
 .author__avatar img {
 max-width: 100px !important;
 border-radius: 50%;
@@ -660,7 +661,14 @@ font-size: 20px;
   color: #fff;
   padding: 45px 0px 45px 15px !important;
   opacity: 1 !important;
-  margin-top: 70px;
+}
+.page .page__inner-wrap {
+  float: left;
+  margin-top: 1em;
+  margin-left: 5rem;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
 }
 }
 
@@ -756,10 +764,6 @@ background-blend-mode: multiply;
   border: 1px solid #3b5326;
   color: white;
   border-radius: 5px;
-}
-.side-second-1 button a:hover{
-  text-decoration: none !important;
-  text-align: center
 }
 .side-second-1 button:hover{
   background-color: #63ab24;
@@ -910,21 +914,29 @@ background-blend-mode: multiply;
     color: #557f80;
   }
  }
- @media (min-width: 64em){
-.sidebar.sticky {
-    overflow-y: auto;
-    max-height: calc(100vh - 1em - 2em);
-    opacity: 1 !important;
-}
-}
+
 @media (min-width: 64em){
   .sidebar.sticky {
       overflow-y: auto;
       max-height: calc(100vh - 1em - 2em);
       opacity: 1 !important;
+      margin-left: 4em;
   }
   }
 
+  @media (min-width: 80em){
+    .sidebar.sticky {
+        overflow-y: auto;
+        max-height: calc(100vh - 1em - 2em);
+        opacity: 1 !important;
+        margin-left: 5em !important;
+    }
+    .page {
+      float: right;
+      width: calc(100% - 430px) !important;
+      padding-right: 400px;
+  }
+    }
 /* About us styling */
 .about-div {
   background-image: linear-gradient(#b2f4dd, rgb(141, 252, 232));
@@ -999,7 +1011,6 @@ background-blend-mode: multiply;
 }
 blockquote{
   margin-top: 30px;
-  background: linear-gradient(to right, #d3e8f6, #aeffd6); /* You can adjust the color stops as needed */
   background-color: rgb(212, 255, 241);
   padding: 10px 20px 10px 20px;
   border: 1px dashed #49b9de;
@@ -1024,11 +1035,4 @@ blockquote{
   border: 1px dashed #05A069;
   border-radius: 3px;
   padding: 0px 10px 0px 10px; 
-}
-
-/* Styling for search page */
-form {
-  margin: 70px 0 0px 0 !important;
-  padding: 1em;
-  background-color: #f2f3f3;
 }

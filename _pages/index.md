@@ -26,18 +26,21 @@ header:
 /* CSS code must be placed here to differentiate index page from other pages */
 @media screen and (min-width: 80em) {
   .sidebar {
-    display: none;
+    display: none !important;
+}
+.image-makeover-1{
+  display: none !important;
+}
+}
+@media screen and (min-width: 64em) {
+ .sidebar.sticky {
+    overflow-y: auto;
+    max-height: calc(100vh - 1em - 2em);
+}
 }
 
-#main {
-    margin-left: -50px;
-}
-}
-@media screen and (max-width: 42em) {
-  .sidebar {
-    display: none;
-}
-}
+
+
 /* Media query for tablets */
 @media (max-width: 768px) {
     .post-list {
@@ -46,7 +49,7 @@ header:
 }
 
 /* Media query for mobile */
-@media (max-width: 1050px) {
+@media (max-width: 42em) {
     .post-list {
         grid-template-columns: 1fr;
     }
@@ -56,14 +59,52 @@ header:
     box-shadow: 2px 2px 8px #dadada;
     width: 100% !important;
 }
-.image-makeover-1{
-  display: none;
+#main {
+    clear: both;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 0em;
+    padding-right: 0em;
+    -webkit-animation: intro .3s both;
+    animation: intro .3s both;
+    max-width: 100%;
+    -webkit-animation-delay: .15s;
+    animation-delay: .15s;
 }
-.twitter-timeline{
-  display: none;
+ .sidebar.sticky {
+    display: none !important;
 }
-.twitter-widget-0{
-  display: none;
+.page .page__inner-wrap {
+    float: left;
+    margin-top: 1em;
+    margin-left: 0rem !important;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+}
+}
+/* Media query for mobile */
+@media (max-width: 64em) {
+    .post-list {
+        grid-template-columns: 1fr;
+    }
+   .image-timeline:nth-child(n){
+    margin: 0px 0px 20px 0px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 8px #dadada;
+    width: 100% !important;
+}
+#main {
+    clear: both;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 0em;
+    padding-right: 0em;
+    -webkit-animation: intro .3s both;
+    animation: intro .3s both;
+    max-width: 100%;
+    -webkit-animation-delay: .15s;
+    animation-delay: .15s;
 }
 }
 
@@ -196,7 +237,7 @@ font-size: 1.2rem;
 </style>
 <hr class="line-intro">
 
-  <img class="image-makeover-1" src="./assets/images/apple-touch-icon1.png" alt="">
+  <!-- <img class="image-makeover-1" src="./assets/images/apple-touch-icon1.png" alt=""> -->
 
 {% capture notice-1 %}
  ___Alacrity, noun.__ From the Latin alacritas meaning promptitude. Similar in meaning to its synonyms Velocity and Celerity, all three mean quickness in action or movement. Alacrity stresses promptness in response to a suggestion or command, cheerful and eager willingness, appropriate quickness, and in general the beginning of fast movement._
