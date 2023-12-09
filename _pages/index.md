@@ -24,23 +24,18 @@ header:
 ---
 <style>
 /* CSS code must be placed here to differentiate index page from other pages */
-@media screen and (min-width: 80em) {
-  .sidebar {
-    display: none !important;
-}
-.image-makeover-1{
-  display: none !important;
-}
-}
-@media screen and (min-width: 64em) {
- .sidebar.sticky {
-    overflow-y: auto;
-    max-height: calc(100vh - 1em - 2em);
-}
+.sidebar.sticky {
+   display: none !important;
 }
 
 
-
+@media (min-width: 1025px) {
+  .page {
+    float: none;
+    width: calc(100% - 80px) !important;
+    margin-left: 145px !important;
+}
+}
 /* Media query for tablets */
 @media (max-width: 768px) {
     .post-list {
@@ -71,9 +66,7 @@ header:
     -webkit-animation-delay: .15s;
     animation-delay: .15s;
 }
- .sidebar.sticky {
-    display: none !important;
-}
+ 
 .page .page__inner-wrap {
     float: left;
     margin-top: 1em;
@@ -88,6 +81,11 @@ header:
     .post-list {
         grid-template-columns: 1fr;
     }
+    .page {
+    float: none;
+    width: calc(100% - 80px) !important;
+    margin-left: 40px !important;
+}
    .image-timeline:nth-child(n){
     margin: 0px 0px 20px 0px;
     border-radius: 5px;
