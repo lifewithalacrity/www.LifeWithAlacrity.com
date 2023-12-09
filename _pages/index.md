@@ -33,7 +33,7 @@ header:
   .page {
     float: none;
     width: calc(100% - 80px) !important;
-    margin-left: 145px !important;
+    margin-left: 95px !important;
 }
 }
 /* Media query for tablets */
