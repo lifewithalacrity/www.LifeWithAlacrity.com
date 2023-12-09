@@ -133,8 +133,9 @@ max-width: 140px;
 border-radius: 50%;
 margin-left: 45px;
 }
-.archive{
-padding: 0px 70px 0px 10px !important;
+.archive {
+  width: calc(100% - 401px);
+  padding-right: 300px;
 }
 .page__hero--overlay{
 background-color: #747474c7;
@@ -253,11 +254,9 @@ background-blend-mode: multiply;
  /* Responsive design */
 
  @media screen and (max-width: 42rem) {
-  .archive{
-    margin: 0px -106px 0px 50px;
-    padding: 0px 0px 0px 0px !important;
-      
-  }
+  .archive {
+    margin: 0px -131px 0px 50px;
+}
 
   #main {
     clear: both;
@@ -300,7 +299,7 @@ background-blend-mode: multiply;
 }
 .page .page__inner-wrap {
     float: left;
-    margin-top: 1em;
+    margin-top: -3em !important;
     margin-left: 5rem;
     margin-right: 0;
     width: 100%;
@@ -803,11 +802,6 @@ background-blend-mode: multiply;
 
  @media screen and (max-width: 42rem) {
   
-  .archive{
-    margin: 0px -106px 0px 50px;
-    padding: 0px 0px 0px 0px !important;
-      
-  }
   .fa-arrow-alt-circle-up {
     margin-left: 85% !important;
     font-size: xx-large;
@@ -835,7 +829,7 @@ background-blend-mode: multiply;
     max-width: 100%;
     -webkit-animation-delay: .15s;
     animation-delay: .15s;
-    margin-left: -40px;
+    margin-left: -90px;
   }
   .greedy-nav {
     position: relative;

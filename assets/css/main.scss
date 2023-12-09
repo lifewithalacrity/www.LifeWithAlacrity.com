@@ -35,21 +35,4 @@ a:visited {
 .notice--success {
     font-size: .9em !important; // Between type-size-5 and type-size-6
 }
-#main {
-  clear: both;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 0em;
-  padding-right: 9em;
-  -webkit-animation: intro .3s both;
-  animation: intro .3s both;
-  max-width: 100%;
-  -webkit-animation-delay: .15s;
-  animation-delay: .15s;
-}
-@media (min-width: 80em){
-.page {
-    width: calc(100% - 280px);
-    padding-right: 300px;
-}
-}
+
