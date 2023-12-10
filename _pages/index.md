@@ -55,6 +55,7 @@ header:
     width: 100% !important;
 }
 #main {
+    margin-top: 35px !important;
     clear: both;
     margin-left: 10%;
     margin-right: 10%;
@@ -95,7 +96,7 @@ header:
 #main {
     clear: both;
     margin-top: 120px !important;
-    margin-left: 10%;
+    margin-left: 10% !important;
     margin-right: 10%;
     padding-left: 0em;
     padding-right: 0em;
@@ -233,9 +234,16 @@ font-size: 1.2rem;
     box-shadow: 0px 0px 0px #b6e7d6;
     margin: 0px;
 }
+@media (min-width: 64em){
+#main {
+    margin-left: -50px !important;
+    padding-left: 3em !important;
+    padding-right: 3em !important;
+}
+}
 @media (min-width: 80em) {
     #main{
-      margin-left: 30px !important;
+      margin-left: -50px !important;
     }
 }
 </style>
