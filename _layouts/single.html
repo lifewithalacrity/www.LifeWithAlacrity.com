@@ -66,8 +66,42 @@ author_profile: true
   border-radius: 5px;
   box-shadow: 2px 2px 20px #b6e7d6;
 }
-
+@media screen and (max-width: 64em){
+.page .page__inner-wrap {
+    float: left;
+    margin-top: 1em;
+    margin-left: 5rem;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+}
+.author__avatar img {
+    max-width: 120px !important;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 0px !important;
+}
+.verified{
+  display: none !important;
+}
+}
+@media screen and (max-width: 64em){
+  .sidebar.sticky {
+    margin-left: 6em !important;
+}
+.sidebar.sticky .verified {
+    display: inline !important;
+    margin-left: 108px;
+}
+.sidebar.sticky .h-card {
+    margin-right: 20px;
+}
+.sidebar.sticky .h-card .author__avatar  {
+    margin-left: 20px;
+}
+}
 </style>
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}

@@ -27,8 +27,6 @@ header:
 .sidebar.sticky {
    display: none !important;
 }
-
-
 @media (min-width: 1025px) {
   .page {
     float: none;
@@ -70,8 +68,8 @@ header:
  .page {
     float: none;
     width: calc(100% - 0px) !important;
-    margin-left: -45px !important;
-    margin-top: -5em;
+    margin-left: -15px !important;
+    margin-top: 6em;
 }
 
 }
@@ -98,6 +96,14 @@ header:
     max-width: 100%;
     -webkit-animation-delay: .15s;
     animation-delay: .15s;
+}
+.page .page__inner-wrap {
+    float: left;
+    margin-top: -4em;
+    margin-left: 4rem;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
 }
 }
 

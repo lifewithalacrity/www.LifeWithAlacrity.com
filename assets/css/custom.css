@@ -252,7 +252,7 @@ background-blend-mode: multiply;
 
  @media screen and (max-width: 42rem) {
   .archive{
-    margin: 0px -106px 0px 65px;      
+    margin: 0px -100px 0px 60px !important;      
   }
 
   #main {
