@@ -70,7 +70,7 @@ header:
  .page {
     float: none;
     width: calc(100% - 0px) !important;
-    margin-left: -25px !important;
+    margin-left: -45px !important;
     margin-top: -5em;
 }
 
