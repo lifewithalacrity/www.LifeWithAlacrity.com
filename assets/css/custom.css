@@ -589,7 +589,7 @@ font-size: 12px !important;
 }
 @media screen and (max-width: 64em){
   .archive{
-    margin: 0px 110px 0px 0px;      
+    margin: 0px 0px 0px 70px;      
   }
 
   #main{
@@ -607,8 +607,8 @@ font-size: 12px !important;
 .author__avatar img {
 max-width: 120px !important;
 border-radius: 50%;
-margin-top: 10px;
-margin-left: 70px !important;
+margin-top: 0px;
+margin-left: 0px !important;
 }
 .author__content{
   margin-left: 20px;

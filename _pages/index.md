@@ -57,7 +57,7 @@ header:
 #main {
     margin-top: 35px !important;
     clear: both;
-    margin-left: 10%;
+    margin-left: 10% !important;
     margin-right: 10%;
     padding-left: 0em;
     padding-right: 0em;
@@ -67,26 +67,19 @@ header:
     -webkit-animation-delay: .15s;
     animation-delay: .15s;
 }
- 
-.page .page__inner-wrap {
-    float: left;
-    margin-top: 1em;
-    margin-left: 0rem !important;
-    margin-right: 0;
-    width: 100%;
-    clear: both;
+ .page {
+    float: none;
+    width: calc(100% - 0px) !important;
+    margin-left: -25px !important;
+    margin-top: -5em;
 }
+
 }
 /* Media query for mobile */
 @media (max-width: 64em) {
     .post-list {
         grid-template-columns: 1fr;
     }
-    .page {
-    float: none;
-    width: calc(100% - 80px) !important;
-    margin-left: 40px !important;
-}
    .image-timeline:nth-child(n){
     margin: 0px 0px 20px 0px;
     border-radius: 5px;
@@ -96,7 +89,7 @@ header:
 #main {
     clear: both;
     margin-top: 120px !important;
-    margin-left: 10% !important;
+    margin-left: -5% !important;
     margin-right: 10%;
     padding-left: 0em;
     padding-right: 0em;
@@ -234,17 +227,18 @@ font-size: 1.2rem;
     box-shadow: 0px 0px 0px #b6e7d6;
     margin: 0px;
 }
+@media (min-width: 80em) {
+    #main{
+      margin-left: -50px !important;
+      margin-top: 6em; 
+    }
+}
 @media (min-width: 64em){
 #main {
     margin-left: -50px !important;
     padding-left: 3em !important;
     padding-right: 3em !important;
 }
-}
-@media (min-width: 80em) {
-    #main{
-      margin-left: -50px !important;
-    }
 }
 </style>
 <hr class="line-intro">

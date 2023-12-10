@@ -17,7 +17,54 @@ header:
 #   - 474662062900391938-BpZWoW4CAAAbU41.jpg
 #   - 474640379149438976-BpZC6KhCMAAlywq.jpg
 ---
+<style>
+.h-entry h2 {
+    display: block;
+    margin-top: 30px;
+    background-color: rgb(212, 255, 241);
+    padding: 10px 20px 10px 20px;
+    border: 0px dashed #49b9de;
+    border-radius: 5px;
+    box-shadow: 0px 0px 0px #d2f8eb;
+}
+@media (max-width: 64em){
+.page .page__inner-wrap {
+    float: left;
+    margin-top: 1em;
+    margin-left: 4rem;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+}
 
+.author__avatar img {
+    max-width: 140px;
+    border-radius: 50%;
+    margin-left: 0px !important;
+}
+.verfied{
+  display: none !important;
+}
+}
+
+@media (min-width: 64em){
+.page {
+    float: right;
+    width: calc(100% - 399px);
+    padding-right: 0px;
+}
+}
+@media (min-width: 80em){
+.page .page__inner-wrap {
+    float: left;
+    margin-top: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+}
+}
+</style>
 
 {% capture notice-1 %}
 
