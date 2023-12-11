@@ -3,8 +3,20 @@ layout: default
 author_profile: true
 ---
 <style>
-
-@media screen and (min-width: 80em) {
+  
+  .wrapper .page__title{
+      text-decoration: none !important;
+  }
+  a.reversefootnote{
+    color: black !important;
+  }
+  .footnotes ol, .footnotes li, .footnotes p{
+    color: #0092CA;
+  }
+  .page{
+    padding-right: 0px !important;
+  }
+  @media screen and (min-width: 80em) {
   .sidebar {
     width: calc(300px - 1em);
     margin-left: 0px;
@@ -29,36 +41,82 @@ author_profile: true
     display: block;
     margin-left: 20px;
 }
-.author__avatar img {
-    border: 2px solid #05A069;
-   }
-}
-@media (min-width: 961px){
-.sidebar .verfied{
-  display: none !important;
-}
-}
-@media (max-width: 64em){
 .page .page__inner-wrap {
     float: left;
-    margin-top: 1em;
-    margin-left: 4rem;
+    margin-top: 0em;
+    margin-left: 0;
     margin-right: 0;
     width: 100%;
     clear: both;
 }
-
+}
+.page__inner-wrap img{
+    border: 1px dashed #49b9de;
+    border-radius: 5px;
+    box-shadow: 2px 2px 20px #b6e7d6;
+    margin: 10px;
+}
+.page__inner-wrap h2{
+  display: block;
+  margin-top: 30px;
+  background-color: rgb(137, 237, 204);
+  padding: 10px 20px 10px 20px;
+  border: 1px dashed #49b9de;
+  border-radius: 5px;
+  box-shadow: 2px 2px 10px #d2f8eb;
+}
+.page__inner-wrap h3{
+  display: block;
+  margin-top: 30px;
+  background-color: rgb(137, 237, 204);
+  padding: 10px 20px 10px 20px;
+  border: 1px dashed #49b9de;
+  border-radius: 5px;
+  box-shadow: 2px 2px 20px #b6e7d6;
+}
+@media screen and (max-width: 64em){
+.page .page__inner-wrap {
+    float: left;
+    margin-top: 1em;
+    margin-left: 5rem;
+    margin-right: 0;
+    width: 100%;
+    clear: both;
+}
 .author__avatar img {
-    max-width: 0px;
+    max-width: 130px !important;
     border-radius: 50%;
+    margin-top: 10px;
     margin-left: 0px !important;
 }
-.verfied{
+.verified{
   display: none !important;
-  width: 0px !important;
+}
+}
+@media screen and (max-width: 64em){
+  .sidebar.sticky {
+    margin-left: 6em !important;
+}
+.sidebar.sticky .verified {
+    display: inline !important;
+    margin-left: 135px;
+}
+.sidebar.sticky .h-card {
+    margin-right: 20px;
+}
+.sidebar.sticky .h-card .author__avatar  {
+    margin-left: 40px;
+}
+}
+@media (max-width: 64em){
+.page {
+    float: right;
+    width: calc(100% - 400px) !important;
+    padding-right: 0px;
 }
 }
 </style>
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% elsif page.header.video.id and page.header.video.provider %}
@@ -108,6 +166,7 @@ author_profile: true
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
+
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -125,29 +184,16 @@ author_profile: true
       {% include comments.html %}
     {% endif %}
   </article>
-
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
-      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You may Also Enjoy" }}</h2>
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:4 %}
           {% include archive-single.html type="grid" %}
         {% endfor %}
       </div>
     </div>
-  {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
-  {% elsif page.id and page.related %}
-    <div class="page__related">
-      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
-      <div class="grid__wrapper">
-        {% for post in site.posts limit:4 %}
-          {% if post.id == page.id %}
-            {% continue %}
-          {% endif %}
-          {% include archive-single.html type="grid" %}
-        {% endfor %}
-      </div>
-    </div>
+ 
   {% endif %}
 </div>
