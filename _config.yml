@@ -152,6 +152,16 @@ defaults:
       search: false
       header:
         overlay_image: /assets/images/lwa.png
+  # _tweet-md
+  - scope:
+      path: ""
+      type: tweets-md
+    values:
+      layout: single
+      author_profile: true
+      search: false
+      header:
+        overlay_image: /assets/images/lwa.png
 
 category_archive:
   type: liquid
@@ -159,5 +169,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
   og_image: /assets/images/rwot-logo.png
+
+# Collections
+collections:
+  tweets-md:
+    output: true
+    permalink: /:collection/:path/
+

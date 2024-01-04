@@ -3,6 +3,8 @@ main:
     url: /    
   - title: "About"
     url: /about/
+  - title: "Tweets"
+    url: "/tweets/"
   - title: "Posts"
     url: "/posts/"
   - title: "Search"
