@@ -157,7 +157,7 @@ defaults:
       path: ""
       type: tweets-md
     values:
-      layout: single
+      layout: single_tweets
       author_profile: true
       search: false
       header:
