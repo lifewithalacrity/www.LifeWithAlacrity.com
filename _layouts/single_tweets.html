@@ -18,16 +18,127 @@ layout: default
   {% endunless %}
 {% endif %}
 <style>
-  hr {
+hr {
     display: block;
     margin-top: 4em;
     border: 0;
     border-top: 1px solid #596060;
 }
+body{
+    background-color: #121b37 !important;
+    color: white;
+    overflow-x: hidden;
+  }
+    /* main strollbar */
+
+/* width */
+::-webkit-scrollbar {
+width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+background: #f1f1f1; 
+border: 1px solid #05A069;
+border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: #121b37; 
+border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: #172448; 
+}
+
+/* sidebar strollbar */
+
+/* width */
+.sidebar::-webkit-scrollbar {
+width: 5px;
+}
+
+/* Track */
+.sidebar::-webkit-scrollbar-track {
+background: #f1f1f1; 
+}
+.sidebar::-webkit-scrollbar-track {
+border-radius: 10px;
+border: 1px solid #05A069;
+}
+
+/* Handle */
+.sidebar::-webkit-scrollbar-thumb {
+background: #121b37; 
+border-radius: 10px;
+}
+
+/* Handle on hover */
+.sidebar::-webkit-scrollbar-thumb:hover {
+background: #172448; 
+}
+.page__hero--overlay{
+  background-color: #3466ff;
+}
+
+  .taxonomy__index a {
+    background-color: #0c2f72;
+    border: 1px dashed #15d38f;
+    border-radius: 3px;
+    padding: 0px 10px 0px 10px;
+}
+
+.taxonomy__section .archive__subtitle {
+    clear: both;
+    border: 0;
+    color: white;
+}
+.page__footer{
+  background-color: #0c1327 !important;
+  border-top: 1px solid white;
+}
+.side-second-1 button {
+    background-color: #121b37;
+    border: 1px solid #0b2048;
+}
+.side-second-1 button:hover {
+    background-color: #162143;
+}
+.fa-arrow-alt-circle-up {
+    margin-left: 90%;
+    font-size: xx-large;
+    padding: 8px;
+    border: 1px solid #193722aa;
+    background-color: #121b37;
+    border-radius: 6px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 5px #172448;
+}
+blockquote {
+    margin-top: 30px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+
+blockquote {
+    margin-top: 30px;
+    background-color: rgb(14 24 43);
+    padding: 10px 20px 10px 20px;
+    border: 1px dashed #49b9de;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgb(24 32 48);
+}
+.page__content a{
+    color: #7fa6e1 ;
+}
 </style>
 <div id="main" role="main">
   {% include sidebar.html %}
-
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
@@ -38,7 +149,6 @@ layout: default
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
-            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>{% endif %}
           {% include page__meta.html %}
         </header>
