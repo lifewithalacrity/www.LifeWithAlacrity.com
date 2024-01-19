@@ -1,0 +1,127 @@
+---
+layout: archive
+---
+
+<style>
+  body{
+    background-color: #121b37 !important;
+    color: white;
+  }
+    /* main strollbar */
+
+/* width */
+::-webkit-scrollbar {
+width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+background: #f1f1f1; 
+border: 1px solid #05A069;
+border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: #121b37; 
+border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: #172448; 
+}
+
+/* sidebar strollbar */
+
+/* width */
+.sidebar::-webkit-scrollbar {
+width: 5px;
+}
+
+/* Track */
+.sidebar::-webkit-scrollbar-track {
+background: #f1f1f1; 
+}
+.sidebar::-webkit-scrollbar-track {
+border-radius: 10px;
+border: 1px solid #05A069;
+}
+
+/* Handle */
+.sidebar::-webkit-scrollbar-thumb {
+background: #121b37; 
+border-radius: 10px;
+}
+
+/* Handle on hover */
+.sidebar::-webkit-scrollbar-thumb:hover {
+background: #172448; 
+}
+.page__hero--overlay{
+  background-color: #3466ff;
+}
+
+  .taxonomy__index a {
+    background-color: #0c2f72;
+    border: 1px dashed #15d38f;
+    border-radius: 3px;
+    padding: 0px 10px 0px 10px;
+}
+
+.taxonomy__section .archive__subtitle {
+    clear: both;
+    border: 0;
+    color: white;
+}
+.page__footer{
+  background-color: #0c1327 !important;
+  border-top: 1px solid white;
+}
+.side-second-1 button {
+    background-color: #121b37;
+    border: 1px solid #0b2048;
+}
+.side-second-1 button:hover {
+    background-color: #162143;
+}
+.fa-arrow-alt-circle-up {
+    margin-left: 90%;
+    font-size: xx-large;
+    padding: 8px;
+    border: 1px solid #193722aa;
+    background-color: #121b37;
+    border-radius: 6px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 5px #172448;
+}
+</style>
+
+{{ content }}
+
+<ul class="taxonomy__index">
+  {% assign postsInYear = site.tweets-md | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in postsInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign postsByYear = site.tweets-md | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsByYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for post in year.items %}
+        {% include archive-single.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}

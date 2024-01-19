@@ -1,0 +1,212 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% assign breadcrumbs_enabled = site.breadcrumbs %}
+{% if page.breadcrumbs != null %}
+  {% assign breadcrumbs_enabled = page.breadcrumbs %}
+{% endif %}
+{% if page.url != "/" and breadcrumbs_enabled %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+<style>
+hr {
+    display: block;
+    margin-top: 4em;
+    border: 0;
+    border-top: 1px solid #596060;
+}
+body{
+    background-color: #121b37 !important;
+    color: white;
+    overflow-x: hidden;
+  }
+    /* main strollbar */
+
+/* width */
+::-webkit-scrollbar {
+width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+background: #f1f1f1; 
+border: 1px solid #05A069;
+border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: #121b37; 
+border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: #172448; 
+}
+
+/* sidebar strollbar */
+
+/* width */
+.sidebar::-webkit-scrollbar {
+width: 5px;
+}
+
+/* Track */
+.sidebar::-webkit-scrollbar-track {
+background: #f1f1f1; 
+}
+.sidebar::-webkit-scrollbar-track {
+border-radius: 10px;
+border: 1px solid #05A069;
+}
+
+/* Handle */
+.sidebar::-webkit-scrollbar-thumb {
+background: #121b37; 
+border-radius: 10px;
+}
+
+/* Handle on hover */
+.sidebar::-webkit-scrollbar-thumb:hover {
+background: #172448; 
+}
+.page__hero--overlay{
+  background-color: #3466ff;
+}
+
+  .taxonomy__index a {
+    background-color: #0c2f72;
+    border: 1px dashed #15d38f;
+    border-radius: 3px;
+    padding: 0px 10px 0px 10px;
+}
+
+.taxonomy__section .archive__subtitle {
+    clear: both;
+    border: 0;
+    color: white;
+}
+.page__footer{
+  background-color: #0c1327 !important;
+  border-top: 1px solid white;
+}
+.side-second-1 button {
+    background-color: #121b37;
+    border: 1px solid #0b2048;
+}
+.side-second-1 button:hover {
+    background-color: #162143;
+}
+.fa-arrow-alt-circle-up {
+    margin-left: 90%;
+    font-size: xx-large;
+    padding: 8px;
+    border: 1px solid #193722aa;
+    background-color: #121b37;
+    border-radius: 6px;
+    position: fixed;
+    bottom: 0;
+    margin-bottom: 30px;
+    box-shadow: 2px 2px 5px #172448;
+}
+blockquote {
+    margin-top: 30px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+
+blockquote {
+    margin-top: 30px;
+    background-color: rgb(14 24 43);
+    padding: 10px 20px 10px 20px;
+    border: 1px dashed #49b9de;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px rgb(24 32 48);
+}
+.page__content a{
+    color: #7fa6e1 ;
+}
+</style>
+<div id="main" role="main">
+  {% include sidebar.html %}
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
+    {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date_to_xmlschema }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      {% unless page.header.overlay_color or page.header.overlay_image %}
+        <header>
+          {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+          </h1>{% endif %}
+          {% include page__meta.html %}
+        </header>
+      {% endunless %}
+
+      <section class="page__content e-content" itemprop="text">
+        {% if page.toc %}
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
+            <nav class="toc">
+              <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
+              {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
+            </nav>
+          </aside>
+        {% endif %}
+        {{ content }}
+        {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+      </section>
+
+      <footer class="page__meta">
+        {% if site.data.ui-text[site.locale].meta_label %}
+          <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
+        {% endif %}
+        {% include page__taxonomy.html %}
+        {% include page__date.html %}
+      </footer>
+
+      {% if page.share %}{% include social-share.html %}{% endif %}
+
+      {% include post_pagination.html %}
+    </div>
+
+    {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+      {% include comments.html %}
+    {% endif %}
+  </article>
+
+  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
+  {% if page.id and page.related and site.related_posts.size > 0 %}
+    <div class="page__related">
+      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+      <div class="grid__wrapper">
+        {% for post in site.related_posts limit:4 %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% comment %}<!-- otherwise show recent posts if no related when `related: true` -->{% endcomment %}
+  {% elsif page.id and page.related %}
+    <div class="page__related">
+      <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
+      <div class="grid__wrapper">
+        {% for post in site.posts limit:4 %}
+          {% if post.id == page.id %}
+            {% continue %}
+          {% endif %}
+          {% include archive-single.html type="grid" %}
+        {% endfor %}
+      </div>
+    </div>
+  {% endif %}
+</div>
