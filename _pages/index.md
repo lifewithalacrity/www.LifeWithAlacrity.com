@@ -296,7 +296,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 <ul class="post-catalog_order" style="font-weight: bold">
 {% for post in site.tweets-md limit: 7 %}
-<li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ tweets-md.url }}">{{ tweets-md.title }}</a></li>
+<li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
