@@ -250,10 +250,7 @@ font-size: 1.2rem;
   background-color: #121b37;
   color: white;
 }
-.post-catalog_order__social-media{
-  background-color: #121b37 !important;
-  color: white;
-}
+
 </style>
 <hr class="line-intro">
 
