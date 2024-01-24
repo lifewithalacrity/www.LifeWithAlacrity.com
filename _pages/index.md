@@ -246,6 +246,11 @@ font-size: 1.2rem;
     padding-right: 3em !important;
 }
 }
+.recent-post__text-social-media{
+  background-color: #121b37;
+  color: white;
+}
+
 </style>
 <hr class="line-intro">
 
@@ -291,6 +296,18 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 
 <span class="see-all_text">See all [Posts](/posts/) <i style="color: #05A069;" class="far fa-eye"></i></span>
+
+----
+
+<h3 class="recent-post__text recent-post__text-social-media">All Recent Social Media Posts</h3>
+
+<ul class="post-catalog_order post-catalog_order__social-media" style="font-weight: bold">
+{% for post in site.tweets-md limit: 7 %}
+<li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+
+<span class="see-all_text">See all [Social Media Posts](/tweets/) <i style="color: #05A069;" class="far fa-eye"></i></span>
 
 
 <!-- <h3 class="image-author">Christopher Allen's Twitter Archive</h3>
