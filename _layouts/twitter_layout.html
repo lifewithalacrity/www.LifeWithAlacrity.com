@@ -122,7 +122,7 @@ background: #172448;
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
-      {% for post in year.items %}
+      {% for post in year.items | reverse %}
         {% include archive-single_tweet.html type=entries_layout %}
       {% endfor %}
     </div>
