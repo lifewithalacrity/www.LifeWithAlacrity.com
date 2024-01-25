@@ -118,7 +118,7 @@ background: #172448;
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYear = site.tweets-md | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-{% for year in postsByYear | reverse %}
+{% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
