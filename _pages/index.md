@@ -306,7 +306,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 <span class="see-all_text">See all [Posts](/posts/) <i style="color: #05A069;" class="far fa-eye"></i></span>
 
-----
+<hr class="line-intro">
 
 <h3 class="recent-post__text recent-post__text-social-media">All Recent Social Media Posts</h3>
 
