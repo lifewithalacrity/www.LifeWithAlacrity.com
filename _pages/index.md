@@ -311,7 +311,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 <h3 class="recent-post__text recent-post__text-social-media">All Recent Social Media Posts</h3>
 
 <ul class="post-catalog_order post-catalog_order__social-media" style="font-weight: bold">
-{% assign postsByYear = site.tweets-md | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' | reverse %}
+{% assign postsByYear = site.tweets-md  | reverse %}
 {% for post in postsByYear limit: 10 %}
 <li class="post-catalog_list post-catalog_list__social-media"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
