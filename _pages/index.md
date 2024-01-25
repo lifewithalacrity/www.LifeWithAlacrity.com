@@ -247,8 +247,17 @@ font-size: 1.2rem;
 }
 }
 .recent-post__text-social-media{
-  background-color: #121b37;
-  color: white;
+  background-color: #121b37 !important;
+  color: white !important;
+}
+.post-catalog_list__social-media{
+  background-color: #0e203d !important;
+  color: white !important;
+
+}
+.see-all_text__social-media{
+  background-color: #0e203d !important;
+  color: white !important;
 }
 
 </style>
@@ -302,12 +311,13 @@ _Christopher is available for personal consulting engagements on decentralized d
 <h3 class="recent-post__text recent-post__text-social-media">All Recent Social Media Posts</h3>
 
 <ul class="post-catalog_order post-catalog_order__social-media" style="font-weight: bold">
-{% for post in site.tweets-md limit: 7 | reverse %}
-<li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% assign postsByYear = site.tweets-md | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' | reverse %}
+{% for post in postsByYear limit: 10 %}
+<li class="post-catalog_list post-catalog_list__social-media"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
-<span class="see-all_text">See all [Social Media Posts](/tweets/) <i style="color: #05A069;" class="far fa-eye"></i></span>
+<span class="see-all_text see-all_text__social-media ">See all [Social Media Posts](/tweets/) <i style="color: #05A069;" class="far fa-eye"></i></span>
 
 
 <!-- <h3 class="image-author">Christopher Allen's Twitter Archive</h3>
