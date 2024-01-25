@@ -302,7 +302,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 <h3 class="recent-post__text recent-post__text-social-media">All Recent Social Media Posts</h3>
 
 <ul class="post-catalog_order post-catalog_order__social-media" style="font-weight: bold">
-{% for post in site.tweets-md limit: 7 %}
+{% for post in site.tweets-md limit: 7 | reverse %}
 <li class="post-catalog_list"><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
