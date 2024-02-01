@@ -93,7 +93,7 @@ background-color: #252525;
 box-shadow: 4px 4px 15px #0a5b3f;
 }
 .greedy-nav .hidden-links a{
-font-size: 11em;
+font-size: 1em;
 color: #fff;
 text-align: center;
 }
@@ -540,7 +540,7 @@ background-color: #252525;
 box-shadow: 4px 4px 15px #0a5b3f;
 }
 .greedy-nav .hidden-links a{
-font-size: 11em;
+font-size: 1em;
 color: #fff;
 text-align: center;
 }
