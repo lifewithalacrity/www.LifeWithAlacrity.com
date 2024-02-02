@@ -1059,6 +1059,13 @@ blockquote{
     display: none !important;
   }
   }
+  @media screen and (max-width: 672px) {
+    .greedy-nav .hidden-links a {
+      font-size: 11em;
+      color: #fff;
+      text-align: center;
+  }
+  }
   @media screen and (max-width: 64em){
     .sidebar.sticky {
       margin-left: 6em !important;
