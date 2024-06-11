@@ -286,6 +286,10 @@ _Christopher is available for personal consulting engagements on decentralized d
 <p>{{ post.content }}</p>
 {% endfor %}
 
+<br><br>
+<hr class="line-intro">
+<br>
+
 <h3 class="recent-post__text">All Recent Posts</h3>
 
 
