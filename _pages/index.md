@@ -294,6 +294,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 {% for post in site.posts limit: 1 %}
 <b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a>
+<p>{{ post.content }}</p>
 {% endfor %}
 
 <h3 class="recent-post__text">All Recent Posts</h3>
