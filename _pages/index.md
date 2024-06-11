@@ -271,17 +271,6 @@ font-size: 1.2rem;
 
 <div class="definition">{{ notice-1 | markdownify }}</div>
 
-{% capture notice-2 %}
-<b>Most Recent Post:</b>
-<ul>
-{% for post in site.posts limit: 1 %}
-<li><b>{{ post.date | date: "%Y-%m-%d" }}:</b> <a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
-{% endcapture%}
-
-<div class="notice--sucesss recent-post__first">{{ notice-2 | markdownify }}</div>
-
 {% capture notice-3 %}
 ***Life with Alacrity*** is the personal blog of [Christopher Allen](/about/), covering topics of community, decentralized identity, collective choice, online privacy, and more. Popular articles include ["The Path to Self-Sovereign Identity"](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), ["The Dunbar Number as a Limit to Group Size"](https://www.lifewithalacrity.com/article/the-dunbar-number-as-a-limit-to-group-sizes/), ["Dunbar & World of Warcraft"](https://www.lifewithalacrity.com/article/dunbar-world-of-warcraft/), and the [Community by the Numbers series](https://www.lifewithalacrity.com/tags/#community-by-the-numbers).
 
