@@ -62,9 +62,9 @@ Progressive trust also maps well to an user-interface design technique called [P
 
 > _**Some other posts about the Progressive Trust:**_
 > 
-> {% for post in site.tags.'Progressive Trust' %} {% if post.url %} {{ post.date | date: '%B %d, %Y' }}: {{ post.title }} {% endif %} {% endfor %}> 
+> {% for post in site.tags.Progressive Trust %} {% if post.url %} {{ post.date | date: '%B %d, %Y' }}: {{ post.title }} {% endif %} {% endfor %}> 
 >
-> _**My links to various papers and websites on this topic are available in my persional [GitHub Gists](http://gists.github.com/ChristopherA) under some of the following tags:**_
+> _**My links to various papers and websites on this topic are available in my persional collection of [Annotated Links]([http://gists.github.com/ChristopherA](https://gist.github.com/search?q=user%3AChristopherA+%23links)) under some of the following tags:**_
 > 
 > * [#ProgressiveTrust](https://gist.github.com/search?q=user%3AChristopherA+%23progressivetrust)
 
