@@ -66,6 +66,7 @@ Progressive trust also maps well to an user-interface design technique called [P
 {% for tag in site.tags %}
   {% assign tagName = tag | first %}
 <li>{{ tagName }}</li>
+{% endfor %}  
 </ul>
 
 {% for post in site.tags."Progressive Trust" %}
