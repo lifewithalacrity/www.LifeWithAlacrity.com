@@ -65,7 +65,9 @@ Progressive trust also maps well to an user-interface design technique called [P
 <ul>
 {% for post in site.tags["Progressive Trust"] %}
   {% if post.url %}
-<li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li> {{ page.url }}
+    {% unless post.url == page.url %}
+<li><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}: {{ post.title }}</a></li>
+    {% endunless %}
   {% endif %}
 {% endfor %}
 </ul>
