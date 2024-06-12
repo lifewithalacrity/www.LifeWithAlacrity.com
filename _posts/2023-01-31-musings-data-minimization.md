@@ -9,6 +9,7 @@ categories:
 tags:
   - Musings of a Trust Architect
   - Data Minimization
+  - Progessive Trust
   - Trust
 ---
 
