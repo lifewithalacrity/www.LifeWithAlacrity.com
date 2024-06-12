@@ -64,12 +64,12 @@ Progressive trust also maps well to an user-interface design technique called [P
 
 <ul>
 {% for tag in site.tags %}
-  {% assign tagName = tag | first %}
+  {% assign tagName = tag | where:first,"Progressive Trust" %}
 <li>{{ tagName }}</li>
 {% endfor %}  
 </ul>
 
-{% for post in site.tags."Progressive Trust" %}
+{% for post in site.tags.{{tagName}} %}
   {% if post.url %}
     {{ post.date | date: '%B %d, %Y' }}: {{ post.title }}
   {% endif %}
