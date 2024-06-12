@@ -58,17 +58,27 @@ Thus progressive trust is a useful conceptual model for understanding how trust 
 
 Progressive trust also maps well to an user-interface design technique called [Progressive Disclosure](http://c2.com/cgi/wiki?ProgressiveDisclosure). It sequences information and actions across several different windows in order not overwhelm the user. You disclose basic information and choices first, then revealing progressively more complex information and choices. Thus you help the user manage the complexity of the application. Navigating group interactions and culture is also complex, thus progressive trust allows you to hide some of initial complexity of the trust model behind your tools, and thus lower barriers of entry to your software.
 
+* * *
+
+> _**Some other posts about the Progressive Trust:**_
+> 
+> {% for post in site.tags.'Progressive Trust' %} {% if post.url %} {{ post.date | date: '%B %d, %Y' }}: {{ post.title }} {% endif %} {% endfor %}> 
+>
+> _**My links to various papers and websites on this topic are available in my persional [GitHub Gists](http://gists.github.com/ChristopherA) under some of the following tags:**_
+> 
+> * [#ProgressiveTrust](https://gist.github.com/search?q=user%3AChristopherA+%23progressivetrust)
+
 ### Comments
 
-Ash Maurya's thought provoking Venn diagram in "Beyond Social Networking" (see http://www.wiredjournal.com/archives/000008.html) lists a number of modes or contexts that enable trust buildig in a relationship.
+Ash Maurya's thought provoking Venn diagram in ["Beyond Social Networking"](http://www.wiredjournal.com/archives/000008.html) [[archive link](https://web.archive.org/web/20041207024259/http://www.wiredjournal.com:80/archives/000008.html)] lists a number of modes or contexts that enable trust buildig in a relationship.
 
 [Sean Murphy](http://www.skmurphy.com/) 2004-08-20T00:42:48-07:00
 
-Very cogent post, Christopher. I think you've hit upon what makes blogs so useful and novel in the computing world. I wrote a response in my own blog: http://frassle.rura.org/christopherAllenGets
+Very cogent post, Christopher. I think you've hit upon what makes blogs so useful and novel in the computing world. I wrote a response in my own blog: [Christopher Allen gets it: Trust](http://frassle.rura.org/christopherAllenGets]) [[archive link](https://web.archive.org/web/20050103125927/http://frassle.rura.org/christopherAllenGets)]
 
 [Shimon Rura](http://frassle.rura.org/Directory/index?feed=1) 2004-08-26T08:39:54-07:00
 
-<!-- [Business](/tags/business/) [Security](/tags/security/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [progressive trust](/tags/progressive-trust/) [groups](/tags/groups/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [behavior](/tags/behavior/) [confidentiality](/tags/confidentiality/) [credentials](/tags/credentials/) [authentications](/tags/authentications/) [SET](/tags/set/) [HTTPS](/tags/https/) [SSL](/tags/ssl/) [progressive disclosure](/tags/progressive-disclosure/) -->
+<!-- [Progressive Trust](/tags/progressive-trust) [ProgressiveTrust](/tags/progressivetrust] [Business](/tags/business/) [Security](/tags/security/) [Social Software](/tags/social-software/) [User Interface](/tags/user-interface/) [Web/Tech](/tags/web/tech/) [progressive trust](/tags/progressive-trust/) [groups](/tags/groups/) [social software](/tags/social-software/) [collaboration](/tags/collaboration/) [behavior](/tags/behavior/) [confidentiality](/tags/confidentiality/) [credentials](/tags/credentials/) [authentications](/tags/authentications/) [SET](/tags/set/) [HTTPS](/tags/https/) [SSL](/tags/ssl/) [progressive disclosure](/tags/progressive-disclosure/)-->
 
 Life With Alacrity
 
