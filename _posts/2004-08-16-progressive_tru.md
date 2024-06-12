@@ -63,11 +63,7 @@ Progressive trust also maps well to an user-interface design technique called [P
 > _**Some other posts on the topic of Progressive Trust:**_
 > 
 
-{% for thistag in site.tags %}
-  {{ thistag }}<br>
-{% endfor %}
-  
-{% for post in site.tags.Progressive-Trust %}
+{% for post in site.tags.Progressive_Trust %}
   {% if post.url %}
     {{ post.date | date: '%B %d, %Y' }}: {{ post.title }}
   {% endif %}
