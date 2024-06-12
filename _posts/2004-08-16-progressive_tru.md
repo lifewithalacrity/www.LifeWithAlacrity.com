@@ -62,13 +62,13 @@ Progressive trust also maps well to an user-interface design technique called [P
 
 > _**Some other posts on the topic of Progressive Trust:**_
 
-<div class="tags-expo-section">
-    {% for tag in site.tags %}
-    <h2 id="{{ tag[0] | slugify }}">{{ tag | first }}</h2>
-    {% endfor %}
-  </div>
+<ul>
+{% for tag in site.tags %}
+  {% assign tagName = tag | first %}
+<li>{{ tagName }}</li>
+</ul>
 
-{% for post in site.tags.progressive_trust %}
+{% for post in site.tags."Progressive Trust" %}
   {% if post.url %}
     {{ post.date | date: '%B %d, %Y' }}: {{ post.title }}
   {% endif %}
