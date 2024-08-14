@@ -113,11 +113,17 @@
   // Get the image and insert it inside the modal
   var modalImg = document.getElementById("lightbox-img");
 
-  // Find all images to apply the lightbox feature
-  var images = document.querySelectorAll("img");
+  // Find all images within .page__content to apply the lightbox feature
+  var images = document.querySelectorAll(".page__content img");
 
   images.forEach(function(image) {
-    image.addEventListener("click", function() {
+    image.addEventListener("click", function(event) {
+      // Check if the image is inside a link
+      if (this.closest('a')) {
+        return; // Do nothing if the image is wrapped in a link
+      }
+
+      // Otherwise, open the modal with the image
       modal.style.display = "block";
       modalImg.src = this.src;
     });
@@ -138,7 +144,6 @@
     }
   });
 });
-
     </script>
     
     
