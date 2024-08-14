@@ -1,5 +1,5 @@
 @media (prefers-color-scheme: dark) {
-  .theme-a.adaptive {
+  body {
     background: black !important;
     color: #fff !important;
   }
