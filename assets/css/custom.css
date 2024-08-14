@@ -53,6 +53,7 @@ blockquote {
   margin-top: 30px;
   background-color: #0a885b !important;
   margin: 10px auto;
+  padding: 15px;
   border: 0px dashed #05A069 !important;
   border-radius: 5px;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
@@ -155,7 +156,7 @@ blockquote {
   border-radius: 7px;
   padding: 25px 20px 15px 20px;
   background-color: #0000 !important;
-  box-shadow: 10px 10px 40px #caf1e3;
+  box-shadow: 0px 0px 0px #caf1e3 !important;
 }
 .added-intro{
   border: 0px dashed #097d54 !important;
@@ -631,6 +632,7 @@ blockquote{
   margin-top: 30px;
   background-color: rgb(212, 255, 241);
   margin: 10px auto;
+  padding: 15px;
   border: 1px dashed #05A069;
   border-radius: 5px;
   box-shadow: 10px 10px 20px #b6e7d6;
@@ -1215,6 +1217,7 @@ blockquote{
   margin-top: 30px;
   background-color: rgb(212, 255, 241);
   margin: 10px auto;
+  padding: 15px;
   border: 1px dashed #05A069;
   border-radius: 5px;
   box-shadow: 10px 10px 20px #b6e7d6;
