@@ -142,6 +142,59 @@ blockquote {
   border-radius: 3px;
   padding: 0px 10px 0px 10px;
 }
+/* About us styling */
+.about-div {
+  background-image: linear-gradient(#000000, rgb(0, 0, 0)) !important;
+  border: 2px dashed #097d54 !important;
+  padding: 25px 20px 25px 20px;
+  border-radius: 7px;
+  box-shadow: 0px 0px 0px #caf1e3 !important;
+}
+.introduction{
+  border: 0px dashed #097d54 !important;
+  border-radius: 7px;
+  padding: 25px 20px 15px 20px;
+  background-color: #0000 !important;
+  box-shadow: 10px 10px 40px #caf1e3;
+}
+.added-intro{
+  border: 0px dashed #097d54 !important;
+  border-radius: 7px;
+  padding: 0px 20px 15px 20px;
+  margin-bottom: 20px;
+  background-color: #000000 !important;
+  box-shadow: 0px 0px 0px #caf1e3 !important;
+}
+.added-intro h2{
+  border: 1px dashed #097d54;
+  padding: 10px 10px 10px 10px;
+  border-radius: 7px;
+}
+.added-intro li{
+  background-color: #000000 !important;
+  border: 2px dashed #097d54;
+  padding: 10px 10px 10px 10px;
+  border-radius: 7px;
+ margin-left: -20px;
+}
+.line-intro{
+  display: block;
+  margin: 1em 0;
+  border: 9;
+  border-radius: 2px;
+  border-top: 5px solid #05A069;
+  margin-top: 30px;
+}
+
+.see-more-button{
+  padding: 10px 10px 10px 10px;
+  background-color: #000000;
+  color: white;
+  border-radius: 5px;
+}
+.see-more-button:hover{
+  background-color: #262626;
+}
 }
 body{
   background: url(/assets/images/background.png);
