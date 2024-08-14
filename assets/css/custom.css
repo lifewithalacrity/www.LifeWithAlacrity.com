@@ -8,12 +8,12 @@
     margin-top: 30px;
     background-color: rgb(0 0 0) !important;
     padding: 10px 20px 10px 20px;
-    border: 2px dashed #49b9de !important;
+    border: 2p1 dashed #05A069 !important;
     border-radius: 5px;
     box-shadow: 0px 0px 0px #b6e7d6 !important;
 }
 .page__inner-wrap img {
-  border: 2px dashed #49b9de !important;
+  border: 0px dashed #05A069 !important;
   border-radius: 5px;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
   margin: 10px;
@@ -21,7 +21,7 @@
 .definition {
   background-color: rgb(0 0 0) !important;
   padding: 10px 20px 10px 20px;
-  border: 2px dashed #05A069 !important;
+  border: 1px dashed #05A069 !important;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
   border-radius: 5px;
 }
@@ -31,7 +31,7 @@
   border-radius: 5px;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
   margin-bottom: 40px;
-  border: 2px dashed #49b9de !important;
+  border: 1px dashed #05A069 !important;
   color: white !important;
 }
 .page__inner-wrap h2 {
@@ -39,13 +39,13 @@
   margin-top: 30px;
   background-color: rgb(0 0 0) !important;
   padding: 10px 20px 10px 20px;
-  border: 2px dashed #49b9de !important;
+  border: 1px dashed #05A069 !important;
   border-radius: 5px;
   box-shadow: 0px 0px 1px #d2f8eb !important;
 }
 .h-entry li strong {
   background-color: rgb(0 0 0) !important;
-  border: 1px dashed #49b9de !important;
+  border: 1px dashed #05A069 !important;
   border-radius: 3px;
   padding: 0px 10px 0px 10px;
 }
@@ -53,7 +53,7 @@ blockquote {
   margin-top: 30px;
   background-color: rgb(0 0 0) !important;
   padding: 10px 20px 10px 20px;
-  border: 2px dashed #49b9de !important;
+  border: 1px dashed #05A069 !important;
   border-radius: 5px;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
 }
@@ -62,7 +62,7 @@ blockquote {
   margin-top: 30px;
   background-color: rgb(0, 0, 0) !important;
   padding: 10px 20px 10px 20px;
-  border: 2px dashed #49b9de !important;
+  border: 1px dashed #05A069 !important;
   border-radius: 5px;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
 }
@@ -70,7 +70,7 @@ blockquote {
   padding: 0.5rem 1.5rem 1rem;
   border-radius: 10px;
   background: black !important;
-  border: 2px dashed #05A069 !important;
+  border: 1px dashed #05A069 !important;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
 }
 .post-catalog_order::before {
@@ -81,14 +81,14 @@ blockquote {
   margin-top: 30px;
   background-color: rgb(0 0 0) !important;
   padding: 10px 20px 10px 20px;
-  border: 2px dashed #49b9de !important;
+  border: 1px dashed #05A069 !important;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
   border-radius: 5px;
 }
 .page__taxonomy strong {
   margin-right: 10px;
   background-color: #000000;
-  border: 1px dashed #49b9de;
+  border: 1px dashed #05A069;
   border-radius: 3px;
   padding: 0px 10px 0px 10px;
   color: rgb(234, 234, 234) !important;
@@ -100,8 +100,8 @@ body{
   background: url(/assets/images/background.png);
  /* Full height */
 height: 100%;
+overflow-wrap: break-word;
 /* Center and scale the image nicely */
-
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -505,7 +505,7 @@ background-blend-mode: multiply;
   margin-top: 30px;
   background-color: rgb(212, 255, 241);
   padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
+  border: 1px dashed #05A069;
   border-radius: 5px;
   box-shadow: 2px 2px 10px #d2f8eb;
 }
@@ -514,7 +514,7 @@ background-blend-mode: multiply;
   margin-top: 30px;
   background-color: rgb(212, 255, 241);
   padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
+  border: 1px dashed #05A069;
   border-radius: 5px;
   box-shadow: 2px 2px 20px #b6e7d6;
 }
@@ -531,7 +531,7 @@ blockquote{
   margin-top: 30px;
   background-color: rgb(212, 255, 241);
   padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
+  border: 1px dashed #05A069;
   border-radius: 5px;
   box-shadow: 10px 10px 20px #b6e7d6;
 }
@@ -1115,7 +1115,7 @@ blockquote{
   margin-top: 30px;
   background-color: rgb(212, 255, 241);
   padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
+  border: 1px dashed #05A069;
   border-radius: 5px;
   box-shadow: 10px 10px 20px #b6e7d6;
 }
