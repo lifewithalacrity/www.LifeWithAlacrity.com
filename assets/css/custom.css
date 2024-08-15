@@ -833,6 +833,20 @@ margin-left: 0px !important;
 .author__content{
   margin-left: 20px;
 }
+.author__urls {
+  display: none;
+  position: absolute;
+  right: 0;
+  margin-top: 95px !important;
+  padding: 10px;
+  list-style-type: none;
+  border: 1px solid #f2f3f3;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  cursor: default;
+  background-color: black !important;
+}
 .site-title .site-title-span{
 font-size: 20px;
 }
