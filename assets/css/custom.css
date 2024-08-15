@@ -788,6 +788,26 @@ font-size: 12px !important;
   }
 }
 @media screen and (max-width: 64em){
+  .author__content {
+    display: table-cell;
+    vertical-align: top;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    line-height: 1;
+    width: 400px !important;
+}
+.author__avatar img {
+  max-width: 130px !important;
+  border-radius: 50%;
+  margin-top: 15px !important;
+  margin-left: 0px !important;
+}
+.btn--inverse {
+  background-color: #fff;
+  color: #3d4144;
+  border: 1px solid #f2f3f3;
+  display: none !important;
+}
   .archive{
     margin: 0px 0px 0px 70px;      
   }
