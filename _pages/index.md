@@ -87,7 +87,7 @@ header:
 #main {
     clear: both;
     margin-top: 120px !important;
-    margin-left: -6% !important;
+    margin-left: -7% !important;
     margin-right: 10%;
     padding-left: 0em;
     padding-right: 0em;
