@@ -1321,14 +1321,10 @@ blockquote{
   @media (min-width: 768px) and (max-width: 1024px) {
     #main {
       margin-left: -75px !important;
-      padding-left: 2em !important;
+      padding-left: 0em !important;
       padding-right: 0em !important;
   }
-  .archive {
-    float: right;
-    width: calc(100% - 370px) !important;
-    padding-right: 1px;
-}
+
 .author__avatar img {
   max-width: 130px !important;
   border-radius: 50%;
