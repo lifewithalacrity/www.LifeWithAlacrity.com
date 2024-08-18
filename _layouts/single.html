@@ -186,15 +186,16 @@ author_profile: true
       padding-right: 1px;
     }
     .sidebar.sticky {
-      margin-left: 8em !important;
+      margin-left: 5em !important;
       margin-right: -4em !important;
+      margin-bottom: 5em;
     }
     
     }
     @media (min-width: 950px) and (max-width: 1024px) {
       .sidebar {
         float: left;
-        width: calc(300px - -22em) !important;
+        width: calc(300px - -22em);
         opacity: 1;
         -webkit-transition: opacity 0.2s ease-in-out;
         transition: opacity 0.2s ease-in-out;
@@ -206,6 +207,20 @@ author_profile: true
         margin-left: 200px;
         width: 100%;
     }
+    .sidebar.sticky {
+        margin-left: 3em ;
+        margin-right: -4em ;
+    }
+    .btn--inverse {
+        background-color: #fff;
+        color: #3d4144;
+        border: 1px solid #f2f3f3;
+        position: absolute;
+        margin-left: 33rem;
+        margin-top: -1.5em;
+        display: block;
+    }
+
     }
 </style>
 
