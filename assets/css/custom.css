@@ -1325,7 +1325,7 @@ blockquote{
   border-radius: 50%;
   margin-top: 10px;
   margin-left: 0px !important;
-  width: 100px;
+  width: 75px !important;
 }
 .archive {
   float: right;
@@ -1364,7 +1364,7 @@ blockquote{
     border-radius: 50%;
     margin-top: 10px;
     margin-left: 0px !important;
-    width: 130px;
+    width: 100px !important;
   }
   .archive {
     float: right;
