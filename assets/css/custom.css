@@ -1327,4 +1327,22 @@ blockquote{
   margin-left: 0px !important;
   width: 100px !important;
 }
+.sticky {
+  clear: both;
+  position: relative !important;
+  position: -webkit-sticky;
+  top: 2em;
+}
+.archive {
+  float: right;
+  width: calc(100% - 100px);
+  padding-right: 1px;
+}
+.sidebar.sticky {
+  margin-left: 8em !important;
+  margin-right: -4em !important;
+}
+.author__bio {
+  margin: 35px;
+}
 }
