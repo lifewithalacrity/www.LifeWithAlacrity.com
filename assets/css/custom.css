@@ -583,6 +583,13 @@ background-blend-mode: multiply;
   margin-top: 30px;
 }
 
+.page__inner-wrap img {
+  border: 0px dashed #05A069 !important;
+  border-radius: 5px;
+  box-shadow: 0px 0px 0px #b6e7d6 !important;
+  margin: 10px;
+}
+
 .see-more-button{
   padding: 10px 10px 10px 10px;
   background-color: #46e7ae;
