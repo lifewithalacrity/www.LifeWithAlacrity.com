@@ -196,7 +196,11 @@ blockquote {
 .see-more-button:hover{
   background-color: #262626;
 }
-::
+::selection {
+  background-color: #ffeb3b; /* This is the color that appears when you highlight text */
+  color: #000; /* This is the text color when highlighted */
+}
+
 }
 body{
   background: url(/assets/images/background.png);
