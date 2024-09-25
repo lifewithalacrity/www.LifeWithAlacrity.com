@@ -196,6 +196,7 @@ blockquote {
 .see-more-button:hover{
   background-color: #262626;
 }
+::
 }
 body{
   background: url(/assets/images/background.png);
