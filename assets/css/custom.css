@@ -1181,6 +1181,9 @@ background-blend-mode: multiply;
         opacity: 1 !important;
         margin-left: 3em !important;
     }
+    .page__related {
+      width: calc(100% - 430px) !important;
+  }
     .page {
       float: right;
       width: calc(100% - 430px) !important;
@@ -1296,6 +1299,9 @@ blockquote{
       width: 100%;
       clear: both;
   }
+  .page__related {
+    margin-left: 100px !important;
+}
   .author__avatar img {
       max-width: 130px !important;
       border-radius: 50%;
