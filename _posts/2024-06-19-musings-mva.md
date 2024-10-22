@@ -73,7 +73,7 @@ However, our more notable work in creating an MVA came from our inclusion of cip
 
 ### The Gordian System
 
-<img src="/assets/images/projects/gordian-logo-white.png" width=350 style="float: right">
+<img src="/assets/images/gordian-logo-white.png" width=350 style="float: right">
 
 One of my most recent endeavors is Blockchain Commons' Gordian system[^10], which is a layered architecture for protecting digital assets and identity that has seen early successes with the protection of seeds with systems like SSKR[^sskr] and CSR[^csr] and that focuses on the Gordian Principles of independence, resilience, privacy, and openness.
 
