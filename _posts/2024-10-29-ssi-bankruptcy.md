@@ -35,3 +35,7 @@ These compromises have left us vulnerable, eroding SSI’s unique value proposit
 This is the real reason the SSI ecosystem may be faltering: _not due to market forces, but because we have failed to unequivocally commit to upholding the core values of decentralization and privacy and to resisting compromises that undermine human dignity_. By doing so, we have become indistinguishable from the very systems we set out to disrupt.
 
 The question is not simply whether SSI has ‘worked’ in the marketplace. It is, at its heart, whether we have remained true to its ethical foundation and core principles, as envisioned from the start.
+
+---
+
+_For another rebuttal to Riley Hughes' Medium article, please see [gabe's "The Greatly Exaggerated Demise of SSI: A Rebuttal to Premature Eulogies"](https://decentralgabe.xyz/the-greatly-exaggerated-demise-of-ssi-a-rebuttal-to-premature-eulogies/)._
