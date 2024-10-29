@@ -16,7 +16,7 @@ _This topic was presented at IIWXXXIX Fall 2024 on October 29, 2024._
 
 ---
 
-My name is Christopher Allen. In 2016, in advance of the ID2020 conference at the United Nations in New York, I wrote ["The Path to Self-Sovereign Identity"](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), the article that described the ten principles of Self-Sovereign Identity (SSI) and provided the name that defined our ecosystem. Nine years later, I challenge the SSI community to reflect on a difficult question, one that challenges the very foundation of Self-Sovereign Identity. Has our ecosystem strayed from those principles? Have we in the SSI community lost our moral compass?
+My name is Christopher Allen. In 2016, in advance of the ID2020 conference at the United Nations in New York, I wrote ["The Path to Self-Sovereign Identity"](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/), the article that described the ten precepts of Self-Sovereign Identity (SSI) and provided the name that defined our ecosystem. Nine years later, I challenge the SSI community to reflect on a difficult question, one that challenges the very foundation of SSI. Has our ecosystem strayed from our principles? Have we in the SSI community lost our moral compass?
 
 I speak not only in response to the argument [last year at IIW](https://rileyparkerhughes.medium.com/why-verifiable-credentials-arent-widely-adopted-why-trinsic-pivoted-aee946379e3b) that _“SSI didn’t work”_ but also to underscore a graver issue: that perhaps in our pursuit of mainstream adoption we’ve sacrificed the very principles that set SSI apart.
 
