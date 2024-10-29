@@ -1,5 +1,5 @@
 ---
-tagline: "In a world of surveillance and control, is SSI the bastion it was meant to be?"
+tagline: "Does the fault lie not in SSI, but in ourselves?"
 title: "Musings of a Trust Architect: Has our SSI Ecosystem Become Morally Bankrupt?"
 excerpt_separator: "<!--more-->"
 classes:
