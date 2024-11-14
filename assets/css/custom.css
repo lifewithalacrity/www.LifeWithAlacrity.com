@@ -1391,10 +1391,10 @@ blockquote{
     width: 65px !important;
   }
   .author__bio {
-    margin-top: 33px;
+    margin-top: 30px !important;
     margin-bottom: 20px;
-    margin-left: 50px;
-    width: 160%;
+    margin-left: 40px !important;
+    width: 160% !important;
 }
   .archive {
     float: right;
@@ -1428,16 +1428,19 @@ blockquote{
     display: flex !important;
   }
   .u-photo{
-    border: 0px solid #05A069 !important;
+    border: 2px solid #05A069 !important;
     width: 100px !important;
     margin-right: 20px;
   }
   .author__urls {
     display: flex !important;
     position: absolute !important;
-    margin-top: 65px !important;
+    margin-top: 120px !important;
 }
 .verified{
   display: none;
+}
+.page{
+  margin-top: 50px !important;
 }
 }
