@@ -1409,6 +1409,9 @@ blockquote{
 }
 }
 @media (min-width: 1025px) and (max-width: 1279px) {
+  .sidebar.sticky {
+    display: contents !important;
+}
   .h-card{
     display: flex !important;
   }
