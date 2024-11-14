@@ -27,7 +27,7 @@ However, they're not the full story.
 
 ### MVP Biases
 
-<img src="https://www.blockchaincommons.com/images/Survivorship.png" width=350 style="float:right">
+<img src="/assets/images/Survivorship.png" width=350 style="float:right">
 
 Unfortunately, current literature about Minimum Viable Products suffers from [Survivorship Bias](https://en.wikipedia.org/wiki/Survivorship_bias). We hear about the success of companies that used MVPs, but we don't know that their doing so actually led to success. In fact, the successes that we see might just be a false signal.
 
@@ -73,7 +73,7 @@ However, our more notable work in creating an MVA came from our inclusion of cip
 
 ### The Gordian System
 
-<img src="https://www.blockchaincommons.com/images/projects/gordian-logo-white.png" width=350 style="float: right">
+<img src="/assets/images/gordian-logo-white.png" width=350 style="float: right">
 
 One of my most recent endeavors is Blockchain Commons' Gordian system[^10], which is a layered architecture for protecting digital assets and identity that has seen early successes with the protection of seeds with systems like SSKR[^sskr] and CSR[^csr] and that focuses on the Gordian Principles of independence, resilience, privacy, and openness.
 
@@ -85,7 +85,7 @@ At the large-scale application level, the Gordian system achieves interoperabili
 
 <div style="background: #000">
 <center>
-  <img width="50%" src="https://developer.blockchaincommons.com/assets/images/appmap-black.png">
+  <img width="50%" src="/assets/images/appmap-black.png">
 </center>
 </div>
 

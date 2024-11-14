@@ -13,13 +13,13 @@ header:
   og_image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg
 ---
 
-![](https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam.jpg)
+![](/assets/images/amsterdam.jpg)
 
 _This article was originally published as an advance reading for [RWOT12 in Köln, Germany](https://www.weboftrust.info/events/#rwot-12-cologne-2023) on August 9, 2023. It has been slightly edited for this reprint._
 
 > _**ABSTRACT:** Self-sovereign identity represents an innovative new architecture for identity management. But, we must ensure that it avoids the pitfalls of previous identity systems. During World War II, two identity pioneers, the Dutch Jacobus L. Lentz and the French René Carmille, took different approaches toward the collection and recording of personally identifiable data. As a result, 75% of Dutch Jews fell victim to the Holocaust versus 23% of the Jews in France. Our foundational work on self-sovereign identity today could have similar repercussions down the road, so it’s imperative that we design this foundation responsibly with diligence and foresight, especially as the threat of significant regime change toward authoritarian governments looms ever larger across the world._
 
-<a href="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam-memorial.jpg"><img src="https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam-memorial.jpg" width=350 style="float: right"></a>
+<a href="/assets/images/amsterdam-memorial.jpg"><img src="/assets/images/amsterdam-memorial.jpg" width=350 style="float: right"></a>
 
 On January 26, 2020, on the 75th anniversary of the liberation of Auschwitz during World War II, Prime Minister Mark Rutte of the Netherlands offered a historic apology for how the country had failed its Jewish citizens during that War, which resulted in over 100,000 of them being deported and murdered by the Nazis. He acknowledged that one of the problems was the Netherlands' civil service, stating: "When state authority became a threat, our public institutions failed in their duty as guardians of justice and security. To be sure, within the government too there was resistance on an individual level. But too many Dutch officials simply did as they were told by the occupying forces."[^1]
 
@@ -33,7 +33,7 @@ These harsh lessons remain especially important for the new technologies of digi
 
 ## Impeccable Identity: Lentz's Tragic Legacy
 
-![](https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/amsterdam-building.jpg)
+![](/assets/images/amsterdam-building.jpg)
 
 The story of identity in the Netherlands during World War II is still writ on the landscape of Amsterdam today, at the National Holocaust Names Monument, where Prime Minister Rutte gave his famous speech in 2020, and a few blocks away at the intersection of Plantage Kerklaan and Plantage Middenlaan, where the municipal building that held the records of the region’s population once lay.
 
