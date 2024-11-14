@@ -1408,3 +1408,21 @@ blockquote{
   margin-left: 51px;
 }
 }
+@media (min-width: 1025px) and (max-width: 1279px) {
+  .h-card{
+    display: flex !important;
+  }
+  .u-photo{
+    border: 0px solid #05A069 !important;
+    width: 70px !important;
+    margin-right: 20px;
+  }
+  .author__urls {
+    display: flex !important;
+    position: absolute !important;
+    margin-top: 65px !important;
+}
+.verified{
+  display: none;
+}
+}
