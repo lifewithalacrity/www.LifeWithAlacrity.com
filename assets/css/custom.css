@@ -1377,13 +1377,25 @@ blockquote{
 }
 }
 @media (min-width: 950px) and (max-width: 1024px) {
+  .sidebar.sticky {
+    margin-left: 3em;
+    margin-right: -4em;
+    margin-top: -70px;
+    margin-bottom: 20px;
+  }
   .author__avatar img {
     max-width: 130px !important;
     border-radius: 50%;
     margin-top: 10px;
     margin-left: 40px !important;
-    width: 100px !important;
+    width: 65px !important;
   }
+  .author__bio {
+    margin-top: 33px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    width: 160%;
+}
   .archive {
     float: right;
     width: calc(100% - 400px);
@@ -1417,7 +1429,7 @@ blockquote{
   }
   .u-photo{
     border: 0px solid #05A069 !important;
-    width: 70px !important;
+    width: 100px !important;
     margin-right: 20px;
   }
   .author__urls {
