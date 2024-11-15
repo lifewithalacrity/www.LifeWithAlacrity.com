@@ -203,10 +203,10 @@ author_profile: true
         margin-bottom: 45px;
     }
     .author__bio {
-        margin-top: -100px;
+      margin-top: 30px;
         margin-bottom: 20px;
-        margin-left: 200px;
-        width: 100%;
+        margin-left: 50px;
+        width: 160%;
     }
     .sidebar.sticky {
         margin-left: 3em ;
@@ -226,8 +226,15 @@ author_profile: true
     margin-left: 21em;
     margin-top: 1em;
 }
-
+}
+@media (min-width: 1025px) and (max-width: 1279px) {
+  .sidebar {
+        margin-left: 2em !important;
     }
+    .page{
+      width: calc(64%) !important;
+    }
+}
 </style>
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
