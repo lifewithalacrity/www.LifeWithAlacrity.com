@@ -22,5 +22,8 @@ author_profile: true
 .btn--inverse{
   display: none;
 }
+.author__urls:after {
+    display: none;
+}
 }
 </style>
