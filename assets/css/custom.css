@@ -337,6 +337,10 @@ border-radius: 50%;
 margin-left: 45px;
 }
 
+.author__urls.is--visible {
+  display: block;
+  background: white !important;
+}
 .page__hero--overlay{
 background-color: #747474c7;
 background-size: cover;
