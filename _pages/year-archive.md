@@ -8,7 +8,8 @@ author_profile: true
 ---
 
 <style>
-  .author__urls-wrapper {
+@media (min-width: 950px) and (max-width: 1024px) {
+    .author__urls-wrapper {
     display: flex;
     margin-left: 2em;
     margin-top: 1em;
@@ -20,5 +21,6 @@ author_profile: true
 }
 .btn--inverse{
   display: none;
+}
 }
 </style>
