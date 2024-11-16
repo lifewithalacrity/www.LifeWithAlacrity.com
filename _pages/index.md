@@ -126,11 +126,11 @@ header:
   box-shadow: 10px 10px 20px #b6e7d6;
 }
 .definition{
-  background-color: rgb(212, 242, 255);
-  padding: 10px 20px 10px 20px;
-  border: 1px dashed #05A069;
-  box-shadow: 10px 10px 20px #b6e7d6;
-  border-radius: 5px;
+    background-color: #b6e7d6;
+    padding: 10px 20px 10px 20px;
+    border: 0px dashed #05A069;
+    box-shadow: 2px 2px 10px #b6e7d6;
+    border-radius: 5px;
 }
 .definition a{
   color: black !important;
@@ -151,9 +151,9 @@ header:
   background: linear-gradient(to right, #d3e8f6, #aeffd6); /* You can adjust the color stops as needed */
   padding: 20px 40px 20px 40px;
   border-radius: 5px;
-  box-shadow: 10px 10px 20px #b6e7d6 ;
+  box-shadow: 5px 5px 15px #b6e7d6 ;
   margin-bottom: 40px;
-  border: 1px dashed #05A069;
+  border: 0px dashed #05A069;
 }
 
 
@@ -177,16 +177,16 @@ z-index: -1;
 }
 
 .post-catalog_list {
-padding: 0.5rem 1.5rem 1rem;
-border-radius: 10px;
-background: rgb(212, 255, 241);
-border: 1px dashed #05A069;
-  box-shadow: 10px 10px 20px #b6e7d6;
+    padding: 0.5rem 1.5rem 1rem;
+    border-radius: 10px;
+    background: rgb(212, 255, 241);
+    border: 0px dashed #05A069;
+    box-shadow: 2px 2px 10px #b6e7d6;
 }
 
 .post-catalog_list + .post-catalog_list {
 margin-top: 1rem;
-  border: 1px dashed #05A069;
+  border: 0px dashed #05A069;
 }
 
 .post-catalog_list::marker {
@@ -200,8 +200,8 @@ font-size: 1.2rem;
   margin-top: 30px;
   background-color: rgb(212, 255, 241);
   padding: 10px 20px 10px 20px;
-  border: 1px dashed #49b9de;
-  box-shadow: 10px 10px 20px #b6e7d6;
+  border: 0px dashed #49b9de;
+  box-shadow: 2px 2px 10px #b6e7d6;
   border-radius: 5px;
 }
 .see-all_text a{
