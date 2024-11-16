@@ -27,7 +27,7 @@
 .definition {
   background-color: rgb(0 0 0) !important;
   padding: 10px 20px 10px 20px;
-  border: 0px dashed var(--content-header_dark) !important;
+  border: 1px solid var(--content-header_dark) !important;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
   border-radius: 5px;
 }
@@ -36,7 +36,7 @@
 }
 .author__urls.is--visible {
   display: block;
-  background: #000000 !important;
+  background: #000000;
 }
 .about_website {
   background: black !important;
@@ -76,7 +76,7 @@ blockquote {
   margin-top: 30px;
   background-color: rgb(0, 0, 0) !important;
   padding: 10px 20px 10px 20px;
-  border: 0px dashed var(--content-header_dark) !important;
+  border: 1px solid var(--content-header_dark) !important;
   border-radius: 5px;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
 }
@@ -354,7 +354,7 @@ margin-left: 45px;
 
 .author__urls.is--visible {
   display: block;
-  background: white !important;
+  background: white;
 }
 .page__hero--overlay{
 background-color: #747474c7;
