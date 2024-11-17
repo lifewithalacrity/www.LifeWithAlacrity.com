@@ -2,7 +2,7 @@
   --blockquote: #0a885b;
   --content-header: #05A069;
   --content-header_dark: #474747;
-  --blockquote_dark: #1c4f3d8;
+  --blockquote_dark: #1c4f3d;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -124,7 +124,7 @@ blockquote {
   color: #b0b0b0 !important;
 }
 .taxonomy__index a {
-  background-color: #000000 !important;
+  background-color: #1c4f3d !important;
   border: 0px dashed var(--content-header);
   border-radius: 3px;
   padding: 0px 10px 0px 10px;
