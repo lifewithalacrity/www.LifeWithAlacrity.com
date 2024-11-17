@@ -3,10 +3,16 @@ layout: default
 author_profile: true
 ---
 <style>
+  :root {
+  --blockquote: #0a885b;
+  --content-header: #05A069;
+  --content-header_dark: #474747;
+  --blockquote_dark: #1c4f3d8;
+}
   @media (prefers-color-scheme: dark) {
     blockquote {
   margin-top: 30px;
-  background-color: #0a885b !important;
+  background-color: var(--blockquote_dark) !important;
   margin: 10px auto;
   border: 0px dashed #05A069 !important;
   border-radius: 5px;
