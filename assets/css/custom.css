@@ -1,14 +1,25 @@
 :root {
+  --anchor-tag: #4CAFFF;
+  --anchor-tag_hover: #388dd3;
   --blockquote: #0a885b;
   --content-header: #05A069;
   --content-header_dark: #474747;
-  --blockquote_dark: #143429;
+  --blockquote_dark: #2E3B4E;
+  --blockquote_dark_color: #EDEDED;
+  --blockquote_dark_anchor: #4CAFFF;
+  --blockquote_dark_anchor_hover: #388dd3;
 }
 
 @media (prefers-color-scheme: dark) {
   body {
     background: black !important;
     color: #fff !important;
+  }
+  a{
+    color: var(--anchor-tag) !important;
+  }
+  a:hover{
+    color: var(--anchor-tag_hover) !important;
   }
   .page__inner-wrap h3 {
     display: block;
@@ -71,6 +82,12 @@ blockquote {
   border: 0px dashed var(--content-header_dark) !important;
   border-radius: 5px;
   box-shadow: 0px 0px 0px #b6e7d6 !important;
+}
+blockquote a {
+  color: var(--blockquote_dark_anchor) !important;
+}
+blockquote a:hover {
+  color: var(--blockquote_dark_anchor_hover) !important;
 }
 .page__inner-wrap h3 {
   display: block;
