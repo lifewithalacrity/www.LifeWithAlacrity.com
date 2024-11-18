@@ -1,6 +1,4 @@
 :root {
-  --anchor-tag: #4CAFFF;
-  --anchor-tag_hover: #388dd3;
   --blockquote: #0a885b;
   --content-header: #05A069;
   --content-header_dark: #474747;
@@ -14,12 +12,6 @@
   body {
     background: black !important;
     color: #fff !important;
-  }
-  a{
-    color: var(--anchor-tag) !important;
-  }
-  a:hover{
-    color: var(--anchor-tag_hover) !important;
   }
   .page__inner-wrap h3 {
     display: block;
