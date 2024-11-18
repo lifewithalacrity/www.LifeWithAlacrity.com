@@ -233,7 +233,9 @@ blockquote a:hover {
   background-color: #ffeb3b; /* This is the color that appears when you highlight text */
   color: #000; /* This is the text color when highlighted */
 }
-
+.page__footer {
+  background-color: #1b1a2a;
+}
 }
 body{
   background: url(/assets/images/background.png);
