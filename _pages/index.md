@@ -23,6 +23,11 @@ header:
 #   - 474640379149438976-BpZC6KhCMAAlywq.jpg
 ---
 <style>
+
+  :root {
+  --anchor-tag: #4CAFFF;
+  --anchor-tag_hover: #388dd3;
+}
 /* CSS code must be placed here to differentiate index page from other pages */
 .sidebar.sticky {
    display: none !important;
@@ -51,6 +56,14 @@ header:
     border-radius: 5px;
     box-shadow: 2px 2px 8px #dadada;
     width: 100% !important;
+}
+@media (prefers-color-scheme: dark) {
+  #main a{
+    color: var(--anchor-tag) !important;
+  }
+  #main a:hover{
+    color: var(--anchor-tag_hover) !important;
+  }
 }
 #main {
     margin-top: 35px !important;
