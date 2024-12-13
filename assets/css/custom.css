@@ -72,7 +72,7 @@
   background-color: rgb(0 0 0) !important;
   border: 0px dashed var(--content-header_dark) !important;
   border-radius: 3px;
-  padding: 0px 10px 0px 10px;
+  padding: 0px !important;
 }
 blockquote {
   margin-top: 30px;
