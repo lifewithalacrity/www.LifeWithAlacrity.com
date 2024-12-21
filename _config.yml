@@ -17,7 +17,7 @@ title: "Life With Alacrity"
 baseurl: /
 # email:
 subtitle: "Design Patterns for Digital Collaboration & Trust"
-logo: "/assets/images/apple-touch-icon1.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: "/assets/images/apple-touch-icon1.webp" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 
 description: "A blog on social software, collaboration, trust, security, privacy, and internet tools by Christopher Allen."
 twitter:
