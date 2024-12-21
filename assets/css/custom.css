@@ -935,13 +935,13 @@ font-size: 20px;
   .side-second-1 button{
     width: 130px !important;
     height: 50px;
-    background-color: #84c04e;
-    border: 1px solid #3b5326;
+    background-color: black;
+    border: 1px solid transparent;
     color: white;
     border-radius: 5px;
   }
   .side-second-1 button:hover{
-    background-color: #63ab24;
+    background-color: #1c1c1c;
   }
   .page__hero--overlay {
     background-color: green !important;
@@ -1039,13 +1039,13 @@ background-blend-mode: multiply;
 .side-second-1 button{
   width: 170px;
   height: 50px;
-  background-color: #84c04e;
-  border: 1px solid #3b5326;
+  background-color: black;
+  border: 1px solid transparent;
   color: white;
   border-radius: 5px;
 }
 .side-second-1 button:hover{
-  background-color: #63ab24;
+  background-color: #1c1c1c;
 }
  .side-2 ul{
   display: flex;
