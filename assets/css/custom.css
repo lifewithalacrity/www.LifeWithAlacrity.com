@@ -238,7 +238,7 @@ blockquote a:hover {
 }
 }
 body{
-  background: url(/assets/images/background.png);
+  background: url(/assets/images/background.webp);
  /* Full height */
 height: 100%;
 overflow-wrap: break-word;

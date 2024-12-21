@@ -63,7 +63,7 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  avatar : "/assets/images/1516163297842.jpeg"
+  avatar : "/assets/images/1516163297842.webp"
   bio    : "Blockchain & Decentralized Identity Architect — Internet Cryptography Pioneer — Co-author TLS Security Standard — Collaborative Tools & Patterns"
   links:
     - label: "Website"
@@ -140,7 +140,7 @@ defaults:
       share: true
       related: true
       header:
-        overlay_image: /assets/images/lwa.png
+        overlay_image: /assets/images/lwa.webp
         show_overlay_excerpt: false
   # _pages
   - scope:
@@ -151,7 +151,7 @@ defaults:
       author_profile: true
       search: false
       header:
-        overlay_image: /assets/images/lwa.png
+        overlay_image: /assets/images/lwa.webp
   # _tweet-md
   - scope:
       path: ""
@@ -161,7 +161,7 @@ defaults:
       author_profile: true
       search: false
       header:
-        overlay_image: /assets/images/lwa.png
+        overlay_image: /assets/images/lwa.webp
 
 category_archive:
   type: liquid
