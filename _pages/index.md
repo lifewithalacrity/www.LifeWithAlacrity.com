@@ -261,15 +261,14 @@ font-size: 1.2rem;
 }
 .recent-post__text-social-media{
   background-color: #121b37 !important;
-  color: white !important;
 }
 .post-catalog_list__social-media{
-  color: white !important;
-
+  background-color: #0e203d !important;
 }
 .see-all_text__social-media{
-  color: white !important;
+  background-color: #0e203d !important;
 }
+
 </style>
 <hr class="line-intro">
 
