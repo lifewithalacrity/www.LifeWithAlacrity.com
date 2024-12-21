@@ -22,7 +22,7 @@ classes:
 
 Increasingly, attorneys in the United States are asking courts to force the disclosure of private keys as part of discovery or other pre-trial motions, and increasingly courts are acceding to those demands. Though this is a relatively recent phenomenon, it's part of a larger problem of law enforcement seeking back doors to cryptography that goes back at least to the U.S. government's [failed introduction of the Clipper Chip](https://www.eff.org/deeplinks/2015/04/clipper-chips-birthday-looking-back-22-years-key-escrow-failures) in 1993.
 
-![](/images/posts/sink-clipper.jpg)
+![sink-clipper](/assets/images/sink-clipper.jpg)
 
 Unfortunately, today's attacks on private keys in the courtroom have been more successful, creating an existential threat to digital assets, data, and other information protected by digital keys. That danger arises from a fundamental disconnect between this practice and the realities of technologies that leverage public-key cryptography for security: private-key disclosure can cause irreparable harm, including the loss of funds and the distortion of digital identities.
 

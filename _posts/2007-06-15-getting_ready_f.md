@@ -27,7 +27,7 @@ Instead, the iPhone offers a desktop-class browser. There is no transcoding, nor
 
 Because of the iPhone's upcoming July 29th release, I decided to participate in this week's [Apple WWDC](http://developer.apple.com/wwdc/) conference for Macintosh developers. There a number of announcements about the iPhone were released, and a number of technical sessions on the iPhone and iPhone-related technologies were held. Together the iPhone demonstrations at the public keynote and other demonstrations throughout the WWDC offered some real promise for when the phone is released on June 29th.
 
-<a href="http://lifewithalacrity.blogs.com/.shared/image.html?/photos/uncategorized/2007/06/15/iphonesteve.jpg"><img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/iphonesteve.jpg" alt=""/></a>
+<img width="230px" style=" margin-right:15px" align="left"  src="{{ site.url }}{{ site.baseurl }}/assets/images/iphonesteve.jpg" alt="iphonesteve"/>
 
 The biggest announcement at the public [keynote](http://events.apple.com.edgesuite.net/d7625zs/event/) was that there will not be an SDK for building native iPhone apps; instead, the only way for third parties to get involved is to create web applications optimized for the iPhone. This came as a big disappointment to the majority of developers participating at WWDC. However, as someone who has been involved lately in creating AJAX/Web 2.0 apps, I was less unhappy.
 
