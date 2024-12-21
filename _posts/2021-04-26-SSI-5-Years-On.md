@@ -25,7 +25,7 @@ My article was very much written from atop the shoulders of giants. <a href="ht
 
 I feel like the principles were the most important element of my original article. They were intended as a draft that I thought would need more community input and evolve over time, but instead they resonated immediately. I have been able to talk about them with legislators and civil servants in Taiwan, Holland and Wyoming; they speak to all of those people about the need for human dignity and control of identity on the internet. The 10 principles of self-sovereign identity have become a part of our conversation.
 
-<figure><a href="/assets/images/ssi-principles-jolocom.jpeg"><img src="/assets/images/ssi-principles-jolocom.jpeg"></a><figcaption tabindex="0"><i>Icons by <a href="https://dribbble.com/shots/5103877-Jolocom-selected-Icons">Ira Nezhynska</a>, used courtesy a community contribution from <a href="https://jolocom.io/">Jolocom</a>.</i></figcaption></figure>
+<figure><img src="/assets/images/ssi-principles-jolocom.jpeg"><figcaption tabindex="0"><i>Icons by <a href="https://dribbble.com/shots/5103877-Jolocom-selected-Icons">Ira Nezhynska</a>, used courtesy a community contribution from <a href="https://jolocom.io/">Jolocom</a>.</i></figcaption></figure>
 
 There’s been a bit more resistance over the name of self-sovereign identity. There was always concern that it would get intellectually conflated with the <a href="https://www.splcenter.org/fighting-hate/extremist-files/ideology/sovereign-citizens-movement">sovereign citizen movement</a> in the United States, to which it has zero relation, but there was also concern whether it would cause unease with governments. Personally, I put the latter concern aside in May 2016 when I attended the ID2020 Summit at the United Nations and heard global ambassadors and leaders perfectly willing to use the new term.
 
@@ -35,7 +35,7 @@ Today, the language of self-sovereignty had spread far beyond its beginnings as 
 
 I think Google may actually best point to the success of the term: I remember back in 2016, people interested in my original article were told to just search for “self-sovereign” and they could find it at the top of the results, but now it’s a few pages back in the searches! That reflects progress in the field: The search results are now full of articles discussing self-sovereign identity and of companies offering solutions.
 
-![](/images/assets/ssi-interest.png)
+![ssi-interest](/assets/images/ssi-interest.png)
 
 I think these are the two most crucial successes to mark on this fifth anniversary: that we are all acknowledged to be people on the internet, deserving dignity and holding human rights and that the idea of self-sovereignty has become a part of the vocabulary. It speaks to a change in our view of personhood in the 21st century that I feel is crucial. But, of course, that’s been backed up by an astounding amount of technological innovation during the last five years as well.
 
@@ -57,7 +57,7 @@ I have always thought it was premature to tie DIDs too tightly to a methodology,
 
 I am also a little unsettled to see so much attention paid to Legally-Enabled Self Sovereign (LESS) Identity, and not nearly enough to Trust Minimized Identity, as I said in <a href="https://docs.google.com/presentation/d/1BbkBX-tUgifiS_VKcqCZYRTQAGF5pK-JEYQwmHYbMcI/edit">a talk</a> just before the pandemic. LESS Identity is focused on high-trust environments with real-world identity verification and is positioned for government acceptance; while Trust Minimized Identity is focused on defending human rights against powerful actors, and so has additional requirements for anonymity and is more likely to be built around peer-to-peer authentication.
 
-![](/images/assets/ssi-less-trust.jpg)
+![ssi-less-trust](/assets/images/ssi-less-trust.jpg)
 
 It’s somewhat understandable that LESS Identity has received the most attention because it’s what businesses are more likely to need, and it still satisfies crucial self-sovereign principles such as enabling user control and allowing for minimum disclosure. But Trust Minimized Identity was one of our major concerns when we first started talking about self-sovereign identity: Supporting the human rights of refugees, no matter where they are in the world, was one of our first and most crucial use cases, and LESS Identity won’t get us there.
 
