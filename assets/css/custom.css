@@ -1040,10 +1040,14 @@ background-blend-mode: multiply;
   width: 170px;
   height: 50px;
   background-color: black;
-  border: 1px solid transparent;
+  border: 1px solid white;
   color: white;
-  border-radius: 5px;
+  border-radius: 1px;
 }
+.page__footer-follow button a {
+  padding: 10px 45px;
+}
+
 .side-second-1 button:hover{
   background-color: #1c1c1c;
 }
@@ -1441,4 +1445,10 @@ blockquote{
   cursor: default;
   margin-left: 51px;
 }
+}
+
+@media screen and (max-width: 768px) {
+  .page__footer-follow button a {
+    padding: 10px 30px !important;
+  }
 }
