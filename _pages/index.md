@@ -264,15 +264,12 @@ font-size: 1.2rem;
   color: white !important;
 }
 .post-catalog_list__social-media{
-  background-color: #0e203d !important;
   color: white !important;
 
 }
 .see-all_text__social-media{
-  background-color: #0e203d !important;
   color: white !important;
 }
-
 </style>
 <hr class="line-intro">
 
