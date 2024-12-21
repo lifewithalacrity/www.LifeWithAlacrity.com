@@ -292,7 +292,7 @@ _Christopher is available for personal consulting engagements on decentralized d
 
 <div class="notice--info about_website introduction">{{ notice-3 | markdownify}}</div>
 
-### Most Recent Post
+## Most Recent Post
 
 {% for post in site.posts limit: 1 %}
 <h2>{{ post.date | date: "%Y-%m-%d" }}: <a href="{{ post.url }}">{{ post.title }}</a></h2>
