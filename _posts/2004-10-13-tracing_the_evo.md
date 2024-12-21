@@ -59,7 +59,7 @@ Here you see Licklider really speaking of more than just communication. He also 
 
 ### 1960s — Augmentation
 
-<a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/doug_engelbart_collage.jpg"><img width="250px" style=" margin-right:15px" align="right"  src="../assets/images/doug_engelbart_collage.jpg" alt="doug_engelbart_collage"/></a>
+<a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/doug_engelbart_collage.jpg"><img width="250px" style=" margin-right:15px" align="right"  src="{{site.url}}{{site.baseurl}}/assets/images/doug_engelbart_collage.jpg" alt="doug_engelbart_collage"/></a>
 
 One of the early ARPA research projects was at SRI, where [Doug Englebart](http://www.ibiblio.org/pioneers/englebart.html), inspired by Vannevar Bush's vision, set up a research lab that created an elaborate hypermedia system called NLS (oNLine System). This was the first successful implementation of hypertext (though that term was not invented until later), and it was here that the mouse was invented as well as the first on-screen video teleconference.
 
@@ -124,7 +124,7 @@ Meanwhile, the academic community was not happy with either the term 'office aut
 
 After the failure of an ACM conference on Office Automation, MIT's [Irene Greif](http://web.mit.edu/invent/iow/greif.html) and DEC's Paul Cashman coined the term CSCW for a workshop held in 1984, which was followed by the first CSCW conference in 1986. There is still an annual [CSCW Conference](http://www.acm.org/cscw2004/index.html), which this year is being held in Chicago on November 6-10th.
 
-<a href="https://www.lifewithalacrity.com/previous/photos/uncategorized/cc.gif"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/cc.gif" alt="cc"/></a>
+<a href="https://www.lifewithalacrity.com/previous/photos/uncategorized/cc.gif"><img width="230px" style=" margin-right:15px" align="right"  src="{{site.url}}{{site.baseurl}}/assets/images/cc.gif" alt="cc"/></a>
 
 The people initially involved with this conference came from either Human Computer Interaction (HCI) background or Information Systems (IS) background, thus the different definitions for the second 'C' in 'CSCW'; the HCI people preferred the small team focused 'cooperative', whereas the IS people chose the broader 'collaborative'. [Scott Schopieray](http://www.msu.edu/~schopie1/talk_rosewood_03-04-16.html) has a nice diagram about this on the right.
 
@@ -149,7 +149,7 @@ This term never really was adopted by anyone except the academic community, and 
 
 ### 1990's — Groupware (Part 2)
 
-<a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/grove_groupware.gif"><img width="230px" style=" margin-right:15px" align="right"  src="../assets/images/grove_groupware.gif" alt="grove_groupware"/></a>
+<a href="https://web.archive.org/web/20051124093032/http://lifewithalacrity.blogs.com/photos/uncategorized/grove_groupware.gif"><img width="230px" style=" margin-right:15px" align="right"  src="{{site.url}}{{site.baseurl}}/assets/images/grove_groupware.gif" alt="grove_groupware"/></a>
 
 Meanwhile, the term 'groupware' hit the mainstream in 1988, when Robert Johansen wrote the best-selling business book [Groupware: Computer Support for Business Teams](http://www.amazon.com/exec/obidos/ASIN/0029164915/skotos-20/104-8061732-%206194323). One unique contribution that Johansen's book offered was a distinction between time and place for different types of collaboration. See the diagram on the right for some detail.
 
@@ -173,7 +173,7 @@ One of the best ways I've found to see how words, terms, phrases, and memes spre
 
 The next couple of years of usage of the term social software appear to be largely associated with the nanotechnology community and those influenced by them, or by the diaspora of people who left Xanadu and AMIX when they were both closed by Autodesk. Given these references, my first guess was that the term originated within Xanadu/AMIX communities, as they had close connections with many of the people involved with nanotechnology.
 
-<img width="170px" style=" margin-right:15px" align="right"  src="../assets/images/drexler.jpg" alt="Drexler"/>
+<img width="170px" style=" margin-right:15px" align="right"  src="{{site.url}}{{site.baseurl}}/assets/images/drexler.jpg" alt="Drexler"/>
 
 However, after contacting some of my collegues that used to work for Xanadu or AMIX, they say the term probably came from K. Eric Drexler, founder of the [Foresight Institute](http://www.foresight.org/). Drexler is best known for coining the term [nanotechnology](http://en.wikipedia.org/wiki/Nanotechnology), and his interest in hypertext and group augmentation comes from his desire to make sure that we think critically about the technology before we develop it.
 
@@ -205,7 +205,7 @@ Drexler's term 'social software' didn't initially take off. There do not appear 
 
 ### 2000s — Evolution of Social Software
 
-<img width="180px" style=" margin-right:15px" align="right"  src="../assets/images/clayshirky.jpg" alt="Clayshirky"/>
+<img width="180px" style=" margin-right:15px" align="right"  src="{{site.url}}{{site.baseurl}}/assets/images/clayshirky.jpg" alt="Clayshirky"/>
 
 It isn't until late 2002 that the term 'social software' came into more common usage, probably due to the efforts of [Clay Shirky](http://www.shirky.com/) who organized a "Social Software Summit" in November of 2002. He recalls his first usage of the term to be from approximately April of 2002.
 

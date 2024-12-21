@@ -5,6 +5,7 @@ slug: "A Spectrum of Consent"
 redirect_from:
   - /2015/09/a-spectrum-of-consent.html
   - /2015/09/a-spectrum-of-consent/
+  - https://www.lifewithalacrity.com/2015/09/Surety%E2%80%99s%20work
 date:   2015-09-09 09:28-07 +0300
 # image:  spectrum.png
 tags:
