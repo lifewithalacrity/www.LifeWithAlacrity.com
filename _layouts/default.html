@@ -163,8 +163,9 @@
       img.removeAttribute("src"); // Remove the src attribute
     }
 
-    // Add the lazy class
-    img.classList.add("lazy");
+    // Add the lazy class without overwriting existing classes
+    const existingClass = img.getAttribute("class");
+    img.setAttribute("class", existingClass ? `${existingClass} lazy` : "lazy");
   });
 
   // Implement lazy loading
