@@ -1037,14 +1037,15 @@ background-blend-mode: multiply;
 }
 .side-second-1 button{
   width: 170px;
-  height: 50px;
+  height: 60px;
   background-color: black;
   border: 1px solid white;
   color: white;
   border-radius: 1px;
 }
 .page__footer-follow button a {
-  padding: 10px 45px;
+  padding: 0px 10px;
+  font-size: 24px;
 }
 
 .side-second-1 button:hover{
@@ -1450,4 +1451,7 @@ blockquote{
   .page__footer-follow button a {
     padding: 10px 30px !important;
   }
+  .site-logo img {
+    max-height: 5rem !important;
+}
 }
