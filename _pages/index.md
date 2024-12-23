@@ -28,6 +28,17 @@ header:
   --anchor-tag: #4CAFFF;
   --anchor-tag_hover: #388dd3;
 }
+@media (prefers-color-scheme: dark) {
+  .post-catalog_list__social-media{
+  background-color: #0e203d !important;
+}
+.recent-post__text-social-media{
+  background-color: #0e203d !important;
+}
+.see-all_text__social-media{
+  background-color: #0e203d !important;
+}
+}
 /* CSS code must be placed here to differentiate index page from other pages */
 .sidebar.sticky {
    display: none !important;
@@ -260,13 +271,14 @@ font-size: 1.2rem;
 }
 }
 .recent-post__text-social-media{
-  background-color: #121b37 !important;
+  background-color:rgb(255, 255, 255);
 }
 .post-catalog_list__social-media{
-  background-color: #0e203d !important;
+  background-color:rgb(255, 255, 255);
 }
 .see-all_text__social-media{
-  background-color: #0e203d !important;
+  background-color:rgb(255, 255, 255);
+  font-weight: bold;
 }
 
 </style>
