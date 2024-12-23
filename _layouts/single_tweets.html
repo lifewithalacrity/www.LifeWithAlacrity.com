@@ -286,8 +286,7 @@ blockquote {
         const currentSrc = img.getAttribute("src");
         if (currentSrc) {
             img.setAttribute("data-src", currentSrc); // Move src to data-src
-            img.setAttribute("src", "https://placehold.co/600x400"); // Set new placeholder src
-            img.classList.add("lazy-image"); // Add lazy-image class
+            img.classList.add("lazy"); // Add lazy-image class
         }
     });
 });
