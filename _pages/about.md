@@ -4,7 +4,7 @@ title: "About Christopher Allen"
 permalink: /about/
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
 header:
-  overlay_image: /assets/images/lwa.png
+  overlay_image: /assets/images/lwa.webp
   overlay_filter: rgba(0, 255, 0, 0.8) # same as adding an opacity of 0.5 to a black background  
   actions:
     - label: "Home Page"

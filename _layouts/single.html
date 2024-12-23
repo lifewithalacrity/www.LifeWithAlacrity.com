@@ -331,18 +331,3 @@ author_profile: true
  
   {% endif %}
 </div>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const images = document.querySelectorAll(".page__content img ");
-
-    images.forEach((img) => {
-        const currentSrc = img.getAttribute("src");
-        if (currentSrc) {
-            img.setAttribute("data-src", currentSrc); // Move src to data-src
-            img.classList.add("lazy"); // Add lazy-image class
-        }
-    });
-});
-
-</script>
