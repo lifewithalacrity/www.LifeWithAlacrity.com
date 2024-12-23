@@ -931,17 +931,25 @@ font-size: 20px;
     display: block;
     font-size: 8px;
   }
-  .side-second-1 button{
-    width: 130px !important;
-    height: 50px;
+  .side-second-1 {
+    width: 130px; /* Ensures a wide enough clickable area */
+    height: 50px; /* Ensures a tall enough clickable area */
     background-color: black;
-    border: 1px solid transparent;
+    border: 1px solid white;
     color: white;
-    border-radius: 5px;
+    border-radius: 5px; /* Slightly larger for better aesthetics */
+    font-size: 16px; /* Ensure text is readable */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
   }
-  .side-second-1 button:hover{
-    background-color: #1c1c1c;
+  
+  .side-second-1:focus, .side-second-1:hover {
+    background-color: white; /* Adds hover effect */
+    color: black; /* Changes text color */
   }
+  
   .page__hero--overlay {
     background-color: green !important;
     background-size: cover;
@@ -1035,21 +1043,29 @@ background-blend-mode: multiply;
 .side-second-2{
   margin-left: 30px;
 }
-.side-second-1 button{
-  width: 170px;
-  height: 50px;
+.side-second-1 {
+  width: 170px; /* Ensures a wide enough clickable area */
+  height: 50px; /* Ensures a tall enough clickable area */
   background-color: black;
   border: 1px solid white;
   color: white;
-  border-radius: 1px;
+  border-radius: 5px; /* Slightly larger for better aesthetics */
+  font-size: 16px; /* Ensure text is readable */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
 }
+
+.side-second-1:focus, .side-second-1:hover {
+  background-color: white; /* Adds hover effect */
+  color: black; /* Changes text color */
+}
+
 .page__footer-follow button a {
   padding: 10px 45px;
 }
 
-.side-second-1 button:hover{
-  background-color: #1c1c1c;
-}
  .side-2 ul{
   display: flex;
   flex-direction: column;
