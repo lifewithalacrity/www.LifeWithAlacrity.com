@@ -112,7 +112,7 @@ This phase safeguards both parties, providing a structured way to resolve disagr
 
 ## The Progressive Trust Life Cycle
 
-![progressivetrust](https://www.lifewithalacrity.com/assets/mermaid/progressivetrust.png)
+![progressivetrust]({{site.baseurl}}/assets/mermaid/progressivetrust.png)
 
 _Interactions are actually mirrored by both parties, but this diagram simplifies things in most places by focusing on party two._
 

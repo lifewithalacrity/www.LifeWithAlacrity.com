@@ -152,5 +152,24 @@
     
     
     <script src="https://analytics.ahrefs.com/analytics.js" data-key="8gUPOPSKdBwsZflp2hO4NA" defer="true"></script>
+    <script>
+      export function lazyLoadImages(selector, options = { threshold: 0.5 }) {
+  const images = document.querySelectorAll(`${selector}[data-src]`);
+
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const img = entry.target;
+        img.src = img.dataset.src;
+        observer.unobserve(img);
+      }
+    });
+  }, options);
+
+  images.forEach(image => {
+    observer.observe(image);
+  });
+}
+    </script>
   </body>
 </html>
