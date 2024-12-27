@@ -5,6 +5,7 @@ slug:  "Paying for Favors"
 redirect_from:
   - /2009/11/paying-for-favors.html
   - /2009/11/paying-for-favors/
+  - /ephemera/paying-for-favors/SocialMedia.biz
 date:   2009-11-22 00:59:46 -0700
 # image:  paying.jpg
 tags: 

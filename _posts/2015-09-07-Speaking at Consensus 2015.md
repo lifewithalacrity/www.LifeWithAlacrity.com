@@ -5,6 +5,7 @@ slug: "Speaking at Consensus 2015"
 redirect_from:
   - /2015/09/speaking-at-consensus-2015.html
   - /2015/09/speaking-at-consensus-2015/
+  - /2015/09/Surety%E2%80%99s%20work 
 date:   2015-09-06 23:54-07 +0300
 tags: 
   - Conference
