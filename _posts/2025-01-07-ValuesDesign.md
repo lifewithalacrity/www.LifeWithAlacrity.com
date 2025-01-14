@@ -10,6 +10,7 @@ tags:
   - Musings of a Trust Architect
 ---
 
+
   > **ABSTRACT:** By grounding technical decisions in ethical values, we can create compassionate digital architectures. This article examines how core human values such as dignity, autonomy, and human rights inform the design of trustworthy digital systems to enable progressive trust, safeguard privacy, promote individual choice, and build resilient systems resistant to coercion. 
 
 ![values-inform-design](/assets/values-design.svg)
