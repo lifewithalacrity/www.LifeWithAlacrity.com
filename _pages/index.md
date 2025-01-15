@@ -282,6 +282,8 @@ font-size: 1.2rem;
 }
 
 </style>
+
+{% include sidebar.html %}
 <hr class="line-intro">
 
   <!-- <img class="image-makeover-1" src="./assets/images/apple-touch-icon1.png" alt=""> -->
