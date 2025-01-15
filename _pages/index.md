@@ -4,7 +4,7 @@ title: Recent Posts
 classes:
   - wide
 permalink: /
-author_profile: false
+author_profile: true
 toc: false
 toc_label: "Unique Title"
 toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
@@ -283,7 +283,6 @@ font-size: 1.2rem;
 
 </style>
 
-{% include sidebar.html %}
 <hr class="line-intro">
 
   <!-- <img class="image-makeover-1" src="./assets/images/apple-touch-icon1.png" alt=""> -->
