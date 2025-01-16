@@ -96,14 +96,17 @@
   }
   .page .page__inner-wrap {
       float: left;
-      margin-top: -4em;
-      margin-left: 2rem;
+      margin-top: 0em;
+      margin-left: 4rem !important;
       margin-right: 0;
       width: 100%;
       clear: both;
   }
   .sidebar.sticky {
     margin-left: 0em !important;
+}
+.sidebar.sticky {
+  margin-right: -2em !important;
 }
 .btn--inverse {
   margin-left: -7rem !important;
@@ -115,6 +118,9 @@
   right: 30px;
   margin-top: 75px !important;
   background-color: #ffffff !important;
+}
+.author__avatar {
+  padding-left: 30px !important;
 }
   }
   
