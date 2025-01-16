@@ -15,7 +15,6 @@
   }
   /* CSS code must be placed here to differentiate index page from other pages */
   .sidebar.sticky {
-     display: none !important;
   }
   @media (min-width: 1025px) {
     .page {
