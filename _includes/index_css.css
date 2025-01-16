@@ -83,8 +83,8 @@
   }
   #main {
       clear: both;
-      margin-top: 120px !important;
-      margin-left: -7% !important;
+      margin-top: 0px !important;
+      margin-left: -9% !important;
       margin-right: 10%;
       padding-left: 0em;
       padding-right: 0em;
@@ -97,11 +97,25 @@
   .page .page__inner-wrap {
       float: left;
       margin-top: -4em;
-      margin-left: 4rem;
+      margin-left: 2rem;
       margin-right: 0;
       width: 100%;
       clear: both;
   }
+  .sidebar.sticky {
+    margin-left: 0em !important;
+}
+.btn--inverse {
+  margin-left: -7rem !important;
+}
+.author__content {
+  width: 570px !important;
+}
+.author__urls {
+  right: 30px;
+  margin-top: 75px !important;
+  background-color: #ffffff !important;
+}
   }
   
   /* Complete styling for the index page */
