@@ -266,10 +266,10 @@
     position: relative;
     float: inline-start;
     margin-inline: 0;
-    width: 75% !important;
+    width: 74% !important;
     clear: both;
-    margin-left: 15em !important;
-    margin-top: -13em !important;
+    margin-left: 12em !important;
+    margin-top: -20em !important;
     max-width: 1200px;
     margin: auto;
   }
@@ -285,3 +285,23 @@
     background-color:rgb(255, 255, 255);
     font-weight: bold;
   }
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .author__bio {
+        margin-left: 2em !important;
+    }
+    .author__avatar img {
+      max-width: 130px !important;
+      margin-left: 50px !important;
+  }
+  .btn--inverse {
+    margin-left: -4rem !important;
+}
+.page .page__inner-wrap {
+  float: left;
+  margin-top: 0em;
+  margin-left: 5rem !important;
+  margin-right: 0;
+  width: 100%;
+  clear: both;
+}
+}
