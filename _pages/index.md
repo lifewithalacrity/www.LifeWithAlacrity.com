@@ -19,7 +19,6 @@ header:
 {% include index_css.css %}
 </style>
 
-{% include sidebar.html %}
 <hr class="line-intro">
 
   <!-- <img class="image-makeover-1" src="./assets/images/apple-touch-icon1.png" alt=""> -->
