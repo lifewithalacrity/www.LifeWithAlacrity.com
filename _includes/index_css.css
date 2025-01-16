@@ -262,7 +262,19 @@
       padding-left: 3em !important;
       padding-right: 3em !important;
   }
+  .page .page__inner-wrap .page__content{
+    position: relative;
+    float: inline-start;
+    margin-inline: 0;
+    width: 75% !important;
+    clear: both;
+    margin-left: 15em !important;
+    margin-top: -13em !important;
+    max-width: 1200px;
+    margin: auto;
   }
+
+}
   .recent-post__text-social-media{
     background-color:rgb(255, 255, 255);
   }
