@@ -103,7 +103,7 @@ In the rapidly evolving tech landscape, guidance is the bridge between innovatio
 
 ## Entrepreneur, Advisor & Technologist
 
-* Principal Architect & Executive Directory at [Blockchain Commons](https://www.Blockstream.com)
+* Principal Architect & Executive Director at [Blockchain Commons](https://www.Blockstream.com)
 * Internet Cryptography Pioneer
 * Co-author IETF Transport Layer Security (TLS) Security Standard, W3C Decencentralized Identifier (DID) Standard.
 * Collaborative Tools & Patterns
