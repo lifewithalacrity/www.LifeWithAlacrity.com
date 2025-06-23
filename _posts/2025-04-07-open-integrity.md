@@ -1,5 +1,5 @@
 ---
-tagline: "Economic Agency is the Foundation for Human Rights"
+tagline: "Launching Open Integrity for Git"
 title: "Musings of a Trust Architect: Architecting Trust in Software Releases"
 excerpt_separator: "<!--more-->"
 classes:
