@@ -74,7 +74,7 @@ _(I learned the concept of Shared Language in 1990 from Michael Schrage's book [
 
 _**Another post about Shared Language:**_
 
-* [2014-06: Deep Context Shared Languages](/2009/09/creating-shared-language-and-shared-artiifacts.html)
+* [2014-06: Deep Context Shared Languages](ephemera/deep-context-shared-languages/)
 
 
 ### Comments
