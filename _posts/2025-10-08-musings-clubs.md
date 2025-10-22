@@ -10,6 +10,7 @@ tags:
   - Musings of a Trust Architect
 ---
 
+> **ABSTRACT:** Unencrypted data isn't safe. Centralized servers aren't reliable. Gordian Club offer an alternative: the autonomous cryptographic object (ACO). Self-contained objects protected by cryptography can be passed around with minimal possibility of surveillance or censorship. It's great for a number of use cases where infrastructure is unreliable, from work in politically unstable regions to disaster response.
 
 ___Imagine:___ A reporter maintains a list of sources and the information they provided for an article critical of the federal government. This is a requirement for fact-checking any serious news story or for later defending it in a court of law. But the federal government illegally seizes the list and jails the sources.
 
