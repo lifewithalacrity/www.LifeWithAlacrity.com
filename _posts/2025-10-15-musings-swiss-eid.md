@@ -10,6 +10,8 @@ tags:
   - Musings of a Trust Architect
 ---
 
+> **ABSTRACT:** How do you protect autonomy and democratic sovereignty in digital identity systems? This article suggests five foundations: protecting choice by design; building for an extended future; maintaining platform independence; requiring duties; and implementing institutional safeguards.
+
 On September 28, 2025, Switzerland adopted the use of "electronic proof of identity," or e-IDs, to be issued and administered by the Swiss government. 
 
 Use of the e-ID is meant to be voluntary and free of charge. However, there's still real concern about the use of e-ID in Switzerland. The vote passed with just 50.4% of the voters in agreement. A previous vote on the same subject failed in 2021. 
