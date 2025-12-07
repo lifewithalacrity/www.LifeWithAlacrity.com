@@ -2,6 +2,9 @@
 title: "Principal Authority: A New Perspective on Self-Sovereign Identity"
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
+permalink: /article/Principal-Authority/
+redirect_from:
+  - /article/principal-authority/
 categories:
   - article
 tags:
