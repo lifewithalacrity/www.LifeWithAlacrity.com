@@ -14,7 +14,7 @@ classes:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
 
-<img width="1024" src="/assets/images/Musings-Utah-SEDI.jpeg">
+<img width="1024" src="/assets/images/Utah-Flag.jpeg">
 
 Most of my identity advocacy work in the United States has been in Wyoming. They've been very open to the goals of self-sovereignty and as a result we've passed laws such as [private key protection](https://www.blockchaincommons.com/news/PrivateKeyWRDABills/) and we've defined digital identity as being controlled by an individual's [principal authority](https://www.blockchaincommons.com/articles/Principal-Authority/).
 
