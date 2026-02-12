@@ -24,7 +24,7 @@ I'm talking about Utah, whose State-Endorsed Digital Identity (SEDI) has been mo
 
 ## A Bill of Identity Rights
 
-<img style="float: right" width="350" src="/assets/images/Utah-Flag.jpeg‎">
+<img style="float: right" width="350" src="/assets/images/Utah-Flag.jpeg">
 
 The first thing that caught my eye in the SEDI update was a new Bill of Rights. It immediately presents the digital-identity user not just as a digital serf, but someone who can claim privileges.
 
