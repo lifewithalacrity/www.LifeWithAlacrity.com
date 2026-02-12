@@ -1,7 +1,6 @@
 ---
 tagline: "Great Identity Legislative in Utah SB 275 Draft -- It Needs Your Support!"
 title: "Musings of a Trust Architect: Progress toward a State-Endorsed Identity (SEDI) in Utah"
-author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 categories:
   - article
