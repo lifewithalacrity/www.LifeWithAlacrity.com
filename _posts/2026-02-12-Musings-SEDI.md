@@ -4,7 +4,7 @@ title: "Musings of a Trust Architect: Progress toward a State-Endorsed Identity 
 author: "Christopher Allen"
 excerpt_separator: "<!--more-->"
 categories:
-  - Musings
+  - article
 tags:
   - Musings of a Trust Architect
   - Self-Sovereign Identity
