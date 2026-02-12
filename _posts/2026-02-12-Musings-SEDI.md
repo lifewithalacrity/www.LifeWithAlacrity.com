@@ -14,7 +14,7 @@ classes:
 image: https://raw.githubusercontent.com/BlockchainCommons/www.blockchaincommons.com/master/images/posts/legislation.jpeg
 ---
 
-<img style="float: right" width="350" src="https://www.blockchaincommons.com/images/utah.jpg">
+<img width="1024" src="/assets/images/Musings-Utah-SEDI.jpeg">
 
 Most of my identity advocacy work in the United States has been in Wyoming. They've been very open to the goals of self-sovereignty and as a result we've passed laws such as [private key protection](https://www.blockchaincommons.com/news/PrivateKeyWRDABills/) and we've defined digital identity as being controlled by an individual's [principal authority](https://www.blockchaincommons.com/articles/Principal-Authority/).
 
@@ -23,6 +23,8 @@ So it's great to see another jurisdiction, which I have been less directly invol
 I'm talking about Utah, whose State-Endorsed Digital Identity (SEDI) has been moving in a great direction for a while.  The newest bill introduced for it, [S.B. 275, the "State-Endorsed Digital Identity Program Amendments"](https://le.utah.gov/~2026/bills/static/SB0275.html), which does all the heavy lifting of establishing SEDI, solidifies it as a privacy-first, decentralized design.
 
 ## A Bill of Identity Rights
+
+<img style="float: right" width="350" src="/assets/images/Utah-Flag.jpeg‎">
 
 The first thing that caught my eye in the SEDI update was a new Bill of Rights. It immediately presents the digital-identity user not just as a digital serf, but someone who can claim privileges.
 
