@@ -12,8 +12,6 @@ tags:
 
 In 2016, I chose the term "self-sovereign identity" to describe what identity systems should protect. But the community I helped to build has been [getting captured](/article/musings-gdc25/), as evidenced by [EU wallet regulations](/article/eidas/) and ISO standards that are consolidating around the same platform gatekeepers we set out to displace. I've been looking for the right word to describe the issues with what's happening to digital identity for a long time.
 
-<!--more-->
-
 "Privacy" doesn't name the problem any more because it [means something different](/article/the-four-kinds-of-privacy/) to every regulator in the room. "Decentralization" became a buzzword, but it no longer prevents coercion due to compromises. "Interoperability" has been similarly corrupted by EUDI wallets that claim the term while depending on Apple and Google attestation infrastructures.
 
 Martina Kolpondinos, who spent 15 months inside the Swiss federal eID team and is a co-editor on the WebVH spec, has just published a piece[^K2026] that may offer an answer by naming the pattern we keep running into: Technology Paternalism.
