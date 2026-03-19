@@ -61,6 +61,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-redirect-from
+  - jekyll-feed
 
 author:
   avatar : "/assets/images/1516163297842.webp"
