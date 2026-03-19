@@ -2,12 +2,13 @@
 tagline: "Martina Kolpondinos Takes on Coercive Patterns"
 title: "Dispatches of a Trust Architect: Fighting Technology Paternalism"
 excerpt_separator: "<!--more-->"
-classes:
-  - wide
 categories:
   - article
 tags:
   - Dispatches of a Trust Architect
+  - Self-Sovereign Identity
+classes:
+  - wide
 ---
 
 In 2016, I chose the term "self-sovereign identity" to describe what identity systems should protect. But the community I helped to build has been [getting captured](/article/musings-gdc25/), as evidenced by [EU wallet regulations](/article/eidas/) and ISO standards that are consolidating around the same platform gatekeepers we set out to displace. I've been looking for the right word to describe the issues with what's happening to digital identity for a long time.
