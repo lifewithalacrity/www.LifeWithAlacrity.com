@@ -38,7 +38,7 @@ Or, as I say in my community draft of [The Architecture of Autonomy](https://dri
 
 ## The pattern is older than AI
 
-This is where my own framing comes in, because the shape is not new. When I co-authored TLS 1.0, we already understood that technical protocols encode power relationships. The coalition that stopped Microsoft/Visa/Mastercard from owning the internet plugged that hole. Yet, in every decade since, we have closed one architecture that funneled rent and control toward a center — certificate authorities, platforms, identity systems — only to watch a larger one open in its place. As I wrote in my article, ["When Technical Standards Meet Geopolitical Reality"](/article/gdc25/):
+This is where my own framing comes in, because the shape is not new. When I co-authored TLS 1.0, we already understood that technical protocols encode power relationships. The coalition that stopped Microsoft/Visa/Mastercard from owning the internet plugged that hole. Yet, in every decade since, we have closed one architecture that funneled rent and control toward a center — certificate authorities, platforms, identity systems — only to watch a larger one open in its place. As I wrote in my article, ["When Technical Standards Meet Geopolitical Reality"](/article/musings-gdc25/):
 
 > “We build protocols for human autonomy and watched them become instruments of platform control.“
 
@@ -46,7 +46,7 @@ Permissioned AI is the biggest such hole yet. It is the inversion I have spent y
 
 <h2>The way out is the one that has always worked: Exit</h2>
 
-As I say in ["The Exodus Protocol"](/article/musings-exodus-protocol/):
+As I say in ["The Exodus Protocol"](/article/article/musings-exodus-protocol/):
 
 > “Without the ability to walk away, consent collapses into coercion.”
 
