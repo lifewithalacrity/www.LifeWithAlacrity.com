@@ -16,7 +16,7 @@ After three decades of building internet infrastructure, I’ve learned that the
 
 The immediate disruption was minor: the models were only days old, and Anthropic’s other models still run. What matters is what it proved: a government can reach in and switch off a frontier model for everyone, overnight. The off-switch exists, and now we know who controls it.
 
-For years I’ve been making a different argument, and building a name for the alternative: [Self-Sovereign Computing](/article/self-sovereign-computing/) and the design pattern I call [Exodus Protocols](/article/musings-exodus-protocol/). The Fable suspension is one more confirmation of why they matter.
+For years I’ve been making a different argument, and building a name for the alternative: [Self-Sovereign Computing](/article/self-sovereign-computing/) and the design pattern I call [Exodus Protocols](/article/musings-exodus.protocol/). The Fable suspension is one more confirmation of why they matter.
 
 I’m not the first to warn that frontier AI companies have become part of the problem. The sharpest version of that case belongs to [Ahmad Osman](https://www.linkedin.com/in/theahmadosman/), an AI researcher and [r/LocalLLaMA moderator](https://www.reddit.com/r/LocalLLaMA/) who recently wrote the essay ["Anthropic’s War on Opensource AI"](https://x.com/TheAhmadOsman/status/2065307070044234186). The Anthropic framing is his. He  wrote his article arguing a general pattern, not this specific event. The recent suspension isn’t even in it!
 
@@ -46,7 +46,7 @@ Permissioned AI is the biggest such hole yet. It is the inversion I have spent y
 
 <h2>The way out is the one that has always worked: Exit</h2>
 
-As I say in ["The Exodus Protocol"](/article/article/musings-exodus-protocol/):
+As I say in ["The Exodus Protocol"](/article/musings-exodus.protocol/):
 
 > “Without the ability to walk away, consent collapses into coercion.”
 
