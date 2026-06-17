@@ -1,7 +1,7 @@
 ---
 layout: single
-title:  "How a Use Case Has Become a Real-Life Example"
-slug:  "An Update on Amira"
+tagline:  "How a Use Case Has Become a Real-Life Example"
+title:  "An Update on Amira"
 categories:
   - article
 tags:
