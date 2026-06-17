@@ -94,7 +94,7 @@ See our videos <a href="https://www.youtube.com/watch?v=-vcLCFKQvik">Understandi
 - BCR-2024-006, *Envelope as a Universal Graph Substrate* — [https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2024-006-envelope-graph.md](https://github.com/BlockchainCommons/Research/blob/master/papers/bcr-2024-006-envelope-graph.md)
 - *Problems of Cryptographic Agility* — [/article/musings-agility/](/article/musings-agility/)
 - *Data Minimization & Selective Disclosure* — [/article/musings-data-minimization/](/article/musings-data-minimization/)
-- *Progressive Trust* — [/article/progressive-trust/](/article/musings-progressive-trust/)
+- *Progressive Trust* — [/article/musings-progressive-trust/](/article/musings-progressive-trust/)
 - *Progress Trust Life Cycle* — [/article/progressive-trust/](/article/progressive-trust/)
 - *Minimum Viable Architecture* — [/article/musings-mva/](/article/musings-mva/)
 - *When Technical Standards Meet Geopolitical Reality* — [/article/musings-gdc25/](/article/musings-gdc25/)
